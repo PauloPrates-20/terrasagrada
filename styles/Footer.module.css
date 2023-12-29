@@ -1,0 +1,35 @@
+.footer {
+  background: var(--bar-color);
+  text-align: center;
+  color: var(--text-color);
+  min-height: 5vh;
+  min-height: 5dvh;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer span {
+  color: var(--title-color);
+  font-weight: bold;
+}
+
+.footer span:not(.symbol) {
+  justify-self: center;
+  align-items: center;
+}
+
+.symbol {
+  font-size: 1.6em;
+  padding: 0 .3em;
+  vertical-align: middle;
+}
+
+.credits {
+  padding: .3em 0;
+  font-size: .8em;
+}
+
+.credits a {
+  color: var(--title-color);
+}

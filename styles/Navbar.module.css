@@ -1,0 +1,116 @@
+.main_header {
+  --menu-width: 280px;
+  position: fixed;
+  top: 0;
+  background: var(--bar-color);
+  width: 100%;
+  height: var(--hd-height);
+  font-size: 1.4em;
+  color: var(--text-color);
+  padding: .5em .8em;
+  z-index: 2;
+  flex: 0 0 var(--hd-height);
+}
+
+.logo {
+  position: absolute;
+  right: 0;
+}
+
+.logo a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 .8em;
+  text-decoration: none;
+  color: var(--text-color);
+}
+
+.logo a p {
+  margin-right: .5em;
+}
+
+.navbar {
+  position: absolute;
+  left: 0;
+  width: var(--menu-width);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+@media screen and (max-width: 480px) {
+  .navbar {
+    width: 100%;
+  }
+}
+
+.navbar .drop_toggle {
+  position: relative;
+  flex: 0 0 var(--hd-height);
+  cursor: pointer;
+}
+
+.navbar svg {
+  margin-top: 3px;
+  margin-left: .8em;
+  margin-bottom: 13px;
+}
+
+.dropdown {
+  flex: 0 0 100%;
+  padding: var(--v-padding) 0;
+  background: var(--bar-color);
+  max-height: 0;
+  opacity: 0;
+  visibility: hidden;
+  border-radius: 0 0 6px 0;
+  transition: max-height 0.25s ease-out, opacity 0.25s ease-out, visibility 0.25s;
+  z-index: 1;
+}
+
+.dropdown_2 {
+  flex: 0 0 100%;
+  padding: var(--v-padding) 0;
+  max-height: 0;
+  opacity: 0;
+  visibility: hidden;
+  transition: max-height 0.25s ease-out, opacity 0.25s ease-out, visibility 0.25s;
+  z-index: 1;
+}
+
+.unchecked {
+  display: none;
+}
+
+.checked {
+  max-height: 36rem;
+  visibility: visible;
+  transition: max-height 0.25s ease-out, opacity 0.25s ease-out, visibility 0.25s;
+  opacity: 1;
+}
+
+.dropdown a, .dropdown span{
+  display: block;
+  position: relative;
+  text-decoration: none;
+  font-size: .8em;
+  color: var(--text-color);
+  padding: .8em 1.2em;
+}
+
+.dropdown div {
+  padding: 0;
+  margin: 0;
+}
+
+.dropdown a:hover, .drop_toggle:not(#exclude):hover {
+  background-color: var(--bar-hov);
+}
+
+.drop_toggle {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
