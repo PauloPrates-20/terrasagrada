@@ -1,0 +1,59 @@
+.main_container h1 span {
+  color: var(--title-color);
+}
+
+.main_container h1 {
+  margin-bottom: 2em;
+}
+
+.page_container div {
+  margin-bottom: 2em;
+}
+
+.list_container {
+  display: flex;
+  flex-grow: 1;
+  width: 100%;
+  height: 500px;
+  justify-content: center;
+  align-items: center;
+}
+
+.list_container a {
+  text-decoration: none;
+  color: var(--text-color);
+  width: 20%;
+  height: 100%;
+  transition: width ease-in-out .3s;
+}
+
+.list_container a img {
+  width: 100%;
+  height: 90%;
+  object-fit: fill;
+}
+
+.list_container a:hover {
+  width: 40%;
+}
+
+@media screen and (max-width: 480px) {
+  .list_container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: auto;
+    width: 100%;
+    gap: 5em;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .list_container a:hover {
+    width: 20%;
+  }
+
+  .list_container a {
+    height: 100px;
+  }
+}

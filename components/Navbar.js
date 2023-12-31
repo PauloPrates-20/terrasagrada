@@ -13,7 +13,6 @@ export default function Navbar() {
   const [mainToggle, setmainToggle] = useState(toggle[1])
   const [listToggle, setlistToggle] = useState(toggle[1])
   const [toolToggle, settoolToggle] = useState(toggle[1])
-  const [wdToggle, setwdToggle] = useState(toggle[1])
 
   const navClick = () => {
     if (mainToggle == toggle[0]) {
@@ -42,15 +41,6 @@ export default function Navbar() {
     }
   }
 
-  const wdClick = () => {
-    if (wdToggle == toggle[0]) {
-      setwdToggle(toggle[1])
-    }
-    else {
-      setwdToggle(toggle[0])
-    }
-  }
-
   return (
     <header className={styles.main_header}>
       <nav className={styles.navbar}>
@@ -63,7 +53,6 @@ export default function Navbar() {
           </div>
           <div className={`${styles.dropdown_2} ${styles[listToggle]}`}>
             <Link href='/listas/consumiveis'>Consumíveis</Link>
-            <Link href='/listas/itensmundanos'>Itens Mundanos</Link>
             <Link href='/listas/itensmagicos'>Itens Mágicos</Link>
             <Link href='/listas/montarias'>Montarias</Link>
           </div>
@@ -73,13 +62,9 @@ export default function Navbar() {
           </div>
           <div className={`${styles.dropdown_2} ${styles[toolToggle]}`}>
             <Link href='/ferramentas/calculadorahp'>Calculadora de HP</Link>
-          </div>
-          <div onClick={wdClick} className={styles.drop_toggle}>
-            {wdToggle == toggle[1] ? <FaAngleDown /> : <FaAngleUp />}
-            <span>Mundo</span>
-          </div>
-          <div className={`${styles.dropdown_2} ${styles[wdToggle]}`}>
-            <Link href='/mundo/ambientacao'>Ambientação</Link>
+            <Link href='/ferramentas/conjurador'>Nível de Conjurador</Link>
+            <Link href='/ferramentas/grimorio'>Grimório do Mago</Link>
+            <Link href='/ferramentas/crafting'>Criação de Itens</Link>
           </div>
         </div>
       </nav>

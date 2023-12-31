@@ -26,10 +26,10 @@ body {
 }
 
 .main_container {
-  color: var(--title-color);
+  color: var(--text-color);
   min-height: 50vh;
-  margin-top: 20%;
-  margin-bottom: 10%;
+  margin-top: 15em;
+  margin-bottom: 10em;
   padding: 1em 1em;
   background-color: var(--bg-color);
   box-shadow: 0 0 30px 50px #0b0a13;
