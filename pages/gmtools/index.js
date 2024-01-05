@@ -1,7 +1,7 @@
 import { useRouter } from "next/router"
 import { useEffect } from "react";
 
-const useUser = () => ({user: 'admingm', loading: false})
+const useUser = () => ({user: null, loading: false})
 
 export default function GmTools() {
   const { user, loading } = useUser();

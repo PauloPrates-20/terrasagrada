@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "tier": "comum",
+    "item": "Burro",
+    "ref": "https://5e.tools/items.html#donkey_phb",
+    "value": "8 PO"
+  },
+  {
+    "id": 1,
+    "tier": "comum",
+    "item": "Mula",
+    "ref": "https://5e.tools/items.html#mule_phb",
+    "value": "8 PO"
+  },
+  {
+    "id": 2,
+    "tier": "comum",
+    "item": "Cavalo de Guerra",
+    "ref": "https://5e.tools/items.html#warhorse_phb",
+    "value": "400 PO"
+  },
+  {
+    "id": 3,
+    "tier": "comum",
+    "item": "Cavalo Pesado",
+    "ref": "https://5e.tools/items.html#draft%20horse_phb",
+    "value": "50 PO"
+  },
+  {
+    "id": 4,
+    "tier": "comum",
+    "item": "Mastim",
+    "ref": "https://5e.tools/items.html#mastiff_phb",
+    "value": "25 PO"
+  },
+  {
+    "id": 5,
+    "tier": "comum",
+    "item": "Pônei",
+    "ref": "https://5e.tools/items.html#pony_phb",
+    "value": "30 PO"
+  },
+  {
+    "id": 6,
+    "tier": "comum",
+    "item": "Cavalo de Corrida",
+    "ref": "https://5e.tools/items.html#riding%20horse_phb",
+    "value": "75 PO"
+  },
+  {
+    "id": 7,
+    "tier": "comum",
+    "item": "Cachorro de Trenó",
+    "ref": "https://5e.tools/items.html#sled%20dog_idrotf",
+    "value": "50 PO"
+  }
+]

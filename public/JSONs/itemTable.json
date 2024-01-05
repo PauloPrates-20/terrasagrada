@@ -1,0 +1,4498 @@
+[
+  {
+    "id": 0,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#dark%20shard%20amulet_xge",
+    "item": "Amuleto do Fragmento Negro",
+    "value": "100 PO",
+    "eng": "Dark Shard Amulet",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 1,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#clockwork%20amulet_xge",
+    "item": "Amuleto Mecânico",
+    "value": "500 PO",
+    "eng": "Clockwork Amulet",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 2,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#smoldering%20armor_xge",
+    "item": "Armadura Ardente",
+    "value": "20 PO + Armadura",
+    "eng": "Smoldering Armor",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 3,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#armor%20of%20gleaming_xge",
+    "item": "Armadura Brilhante",
+    "value": "20 PO + Armadura",
+    "eng": "Armor of Gleaming",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 4,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#cast-off%20armor_xge",
+    "item": "Armadura da Libertação",
+    "value": "50 PO + Armadura",
+    "eng": "Cast-off Armor",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 5,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#chest%20of%20preserving_wdmm",
+    "item": "Baú de Preservação",
+    "value": "20 PO",
+    "eng": "Chest of Preserving",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 6,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#veteran's%20cane_xge",
+    "item": "Bengala do Veterano",
+    "value": "20 PO",
+    "eng": "Veteran's Cane",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 7,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#breathing%20bubble_egw",
+    "item": "Bolha Respiratória",
+    "value": "500 PO",
+    "eng": "Breathing Bubble",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 8,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#heward's%20handy%20spice%20pouch_xge",
+    "item": "Bolsa Conveniente de Especiarias do Heward",
+    "value": "20 PO",
+    "eng": "Heward's Handy Spice Pouch",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 9,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#talking%20doll_xge",
+    "item": "Boneca Falante",
+    "value": "20 PO",
+    "eng": "Talking Doll",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 10,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#boots%20of%20false%20tracks_xge",
+    "item": "Botas de Pegadas Falsas",
+    "value": "100 PO",
+    "eng": "Boots of False Tracks",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 11,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#earring%20of%20message_crcotn",
+    "item": "Brinco de Mensagem",
+    "value": "500 PO",
+    "eng": "Earring of Message",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 12,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#pipe%20of%20remembrance_gos",
+    "item": "Cachimbo da Lembrança",
+    "value": "20 PO",
+    "eng": "Pipe of Remembrance",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 13,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#pipe%20of%20smoke%20monsters_xge",
+    "item": "Cachimbo dos Monstros de Fumaça",
+    "value": "20 PO",
+    "eng": "Pipe of Smoke Monsters",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 14,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#lock%20of%20trickery_xge",
+    "item": "Cadeado da Enganação",
+    "value": "20 PO",
+    "eng": "Lock of Trickery",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 15,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#staff%20of%20birdcalls_xge",
+    "item": "Cajado Canto dos Passáros",
+    "value": "20 PO",
+    "eng": "Staff of Birdcalls",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 16,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#staff%20of%20adornment_xge",
+    "item": "Cajado de Adereço",
+    "value": "20 PO",
+    "eng": "Staff of Adornment",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 17,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#staff%20of%20flowers_xge",
+    "item": "Cajado de Flores",
+    "value": "20 PO",
+    "eng": "Staff of Flowers",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 18,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#wyllow's%20staff%20of%20flowers_wdmm",
+    "item": "Cajado de Flores da Wyllow",
+    "value": "30 PO",
+    "eng": "Wyllow's Staff of Flowers",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 19,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#tankard%20of%20sobriety_xge",
+    "item": "Caneca da Sobriedade",
+    "value": "30 PO",
+    "eng": "Tankard of Sobriety",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 20,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#cloak%20of%20many%20fashions_xge",
+    "item": "Capa de Muitos Estilos",
+    "value": "30 PO",
+    "eng": "Cloak of Many Fashions",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 21,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#hat%20of%20wizardry_xge",
+    "item": "Chapéu do Mago",
+    "value": "100 PO",
+    "eng": "Hat of Wizardry",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 22,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#hat%20of%20vermin_xge",
+    "item": "Chapéu dos Vermes",
+    "value": "20 PO",
+    "eng": "Hat of Vermin",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 23,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#mystery%20key_xge",
+    "item": "Chave Misteriosa",
+    "value": "50 PO",
+    "eng": "Mystery Key",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 24,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#horn%20of%20silent%20alarm_xge",
+    "item": "Chifre do Alarme Silencioso",
+    "value": "50 PO",
+    "eng": "Horn of Silent Alarm",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 25,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#rope%20of%20mending_xge",
+    "item": "Corda do Reparo",
+    "value": "20 PO",
+    "eng": "Rope of Mending",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 26,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#thermal%20cube_idrotf",
+    "item": "Cubo Termal",
+    "value": "100 PO",
+    "eng": "Thermal Cube",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 27,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#charlatan's%20die_xge",
+    "item": "Dado de Charlatão",
+    "value": "20 PO",
+    "eng": "Charlatan's Die",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 28,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#dread%20helm_xge",
+    "item": "Elmo do Horror",
+    "value": "20 PO",
+    "eng": "Dread Helm",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 29,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#shield%20of%20expression_xge",
+    "item": "Escudo da Expressão",
+    "value": "20 PO",
+    "eng": "Shield of Expression",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 30,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#orb%20of%20direction_xge",
+    "item": "Esfera da Direção",
+    "value": "20 PO",
+    "eng": "Orb of Direction",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 31,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#orb%20of%20gonging_wdmm",
+    "item": "Esfera do Gongo",
+    "value": "20 PO",
+    "eng": "Orb of Gonging",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 32,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#orb%20of%20time_xge",
+    "item": "Esfera do Tempo",
+    "value": "20 PO",
+    "eng": "Orb of Time",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 33,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#moon-touched%20sword_xge",
+    "item": "Espada Lunar",
+    "value": "200 PO + Arma",
+    "eng": "Moon-Touched Sword",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 34,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#draconic%20longsword_toa",
+    "item": "Espada Longa Dracônica",
+    "value": "200 PO + Arma",
+    "eng": "Draconic Longsword",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 35,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#sekolahian%20worshiping%20statuette_gos",
+    "item": "Estatueta de Adoração Sekolahian",
+    "value": "20 PO",
+    "eng": "Sekolahian Worshiping Statuette",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 36,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#imbued%20wood%20focus_erlw",
+    "item": "Foco de Madeira Imbuído",
+    "value": "200 PO",
+    "eng": "Imbued Wood Focus",
+    "reforge": "",
+    "sint": "Sintonização"
+  },
+  {
+    "id": 37,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#spellshard_erlw",
+    "item": "Fragmento Mágico",
+    "value": "100 PO",
+    "eng": "Spellshard",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 38,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#bottle%20of%20boundless%20coffee_scc",
+    "item": "Garrafa de Café Ilimitado",
+    "value": "20 PO",
+    "eng": "Bottle of Boundless Coffee",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 39,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#enduring%20spellbook_xge",
+    "item": "Grimório Duradouro",
+    "value": "100 PO",
+    "eng": "Enduring Spellbook",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 40,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#instrument%20of%20scribing_xge",
+    "item": "Instrumento da Escrita",
+    "value": "100 PO + Instrumento",
+    "eng": "Instrument of Scribing",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 41,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#instrument%20of%20illusions_xge",
+    "item": "Instrumento de Ilusões",
+    "value": "100 PO + Instrumento",
+    "eng": "Instrument of Illusions",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 42,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#wand%20sheath_erlw",
+    "item": "Invólucro de Varinha",
+    "value": "50 PO",
+    "eng": "Wand Sheath",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 43,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#writing%20kit_tdcsr",
+    "item": "Kit de Escrita",
+    "value": "10 PO",
+    "eng": "Writing Kit",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 44,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#everbright%20lantern_erlw",
+    "item": "Lanterna de Brilho Contínuo",
+    "value": "150 PO",
+    "eng": "Everbright Lantern",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 45,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#lantern%20of%20tracking_idrotf",
+    "item": "Lanterna de Rastreamento",
+    "value": "150 PO",
+    "eng": "Lanter of Tracking",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 46,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#pole%20of%20angling_xge",
+    "item": "Mastro da Pescaria",
+    "value": "20 PO",
+    "eng": "Pole of Angling",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 47,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#prosthetic%20limb_tce",
+    "item": "Membro Prostético",
+    "value": "500 PO",
+    "eng": "Prosthetic Limb",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 48,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#coin%20of%20delving_egw",
+    "item": "Moeda de Sondagem",
+    "value": "20 PO",
+    "eng": "Coin of Delving",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 49,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#ersatz%20eye_xge",
+    "item": "Olho de Ersatz",
+    "value": "50 PO",
+    "eng": "Ersatz Eye",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 50,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#orb%20of%20shielding_erlw",
+    "item": "Orbe da Proteção",
+    "value": "200 PO",
+    "eng": "Orb of Shielding",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 51,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#echo%20stone_tdcsr",
+    "item": "Pedra Ecoante",
+    "value": "500 PO",
+    "eng": "Echo Stone",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 52,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#cleansing%20stone_erlw",
+    "item": "Pedra de Limpeza",
+    "value": "20 PO",
+    "eng": "Cleansing Stone",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 53,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#vox%20seeker_egw",
+    "item": "Perseguidor de Voz",
+    "value": "50 PO",
+    "eng": "Vox Seeker",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 54,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#masque%20charm_scc",
+    "item": "Pingente de Máscara",
+    "value": "50 PO",
+    "eng": "Masque Charm",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 55,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#armblade_erlw",
+    "item": "Prótese de Lâmina",
+    "value": "200 PO + Arma",
+    "eng": "Armblade",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 56,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#clothes%20of%20mending_xge",
+    "item": "Roupas Reparáveis",
+    "value": "20 PO",
+    "eng": "Clothes of Mending",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 57,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#ruby%20of%20the%20war%20mage_xge",
+    "item": "Rubi do Mago de Guerra",
+    "value": "50 PO",
+    "eng": "Ruby of the War Mage",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 58,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#illuminator's%20tattoo_tce",
+    "item": "Tatuagem do Iluminador",
+    "value": "50 PO",
+    "eng": "Illuminator's Tattoo",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 59,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#masquerade%20tattoo_tce",
+    "item": "Tatuagem do Disfarce",
+    "value": "200 PO",
+    "eng": "Masquerade Tattoo",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 60,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#moodmark%20paint_ggr",
+    "item": "Tinta de Marcas de Humor",
+    "value": "20 PO",
+    "eng": "Moodmark Paint",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 61,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#common%20glamerweave_erlw",
+    "item": "Traje Glamuroso Comum",
+    "value": "20 PO",
+    "eng": "Common Glamerweave",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 62,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#shiftweave_erlw",
+    "item": "Traje Mutável",
+    "value": "20 PO",
+    "eng": "Shiftweave",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 63,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#ear%20horn%20of%20hearing_xge",
+    "item": "Trombeta de Audição",
+    "value": "50 PO",
+    "eng": "Ear Horn of Hearing",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 64,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#wand%20of%20scowls_xge",
+    "item": "Varinha Carrancuda",
+    "value": "50 PO + Varinha",
+    "eng": "Wand of Scowls",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 65,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#wand%20of%20pyrotechnics_xge",
+    "item": "Varinha Pirotécnica",
+    "value": "50 PO + Varinha",
+    "eng": "Wand of Pyrotechnics",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 66,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#wand%20of%20conducting_xge",
+    "item": "Varinha de Regência",
+    "value": "50 PO + Varinha",
+    "eng": "Wand of Conducting",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 67,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#wand%20of%20smiles_xge",
+    "item": "Varinha Sorridente",
+    "value": "50 PO + Varinha",
+    "eng": "Wand of Smiles",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 68,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#candle%20of%20the%20deep_xge",
+    "item": "Vela das Profundezas",
+    "value": "20 PO",
+    "eng": "Candle of the Deep",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 69,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#quiver%20of%20ehlonna_dmg",
+    "item": "Aljava de Ehlonna",
+    "value": "2000 PO",
+    "eng": "Quiver of Ehlonna",
+    "reforge": "Artífice",
+    "sint": ""
+  },
+  {
+    "id": 70,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#%2b1%20amulet%20of%20the%20devout_tce",
+    "item": "Amuleto do Devoto +1",
+    "value": "2500 PO + Amuleto",
+    "eng": "Amulet of the Devout +1",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 71,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#amulet%20of%20the%20drunkard_egw",
+    "item": "Amuleto do Bêbado",
+    "value": "1000 PO",
+    "eng": "Amulet of Drunkard",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 72,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#ring%20of%20water%20walking_dmg",
+    "item": "Anel de Caminhada Aquática",
+    "value": "5 PO (Anel de Sinete)",
+    "eng": "Ring of Water Walking",
+    "reforge": "Artífice",
+    "sint": ""
+  },
+  {
+    "id": 73,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#ring%20of%20mind%20shielding_dmg",
+    "item": "Anel do Escudo Mental",
+    "value": "5 PO (Anel de Sinete)",
+    "eng": "Ring og Mind Shielding",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 74,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#ring%20of%20jumping_dmg",
+    "item": "Anel do Pulo",
+    "value": "5 PO (Anel de Sinete)",
+    "eng": "Ring of Jumping",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 75,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#%2b1%20weapon_dmg",
+    "item": "Arma +1",
+    "value": "1000 PO + Arma",
+    "eng": "Weapon +1",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 76,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#slumbering%20dragon's%20wrath%20weapon_ftd",
+    "item": "Arma da Ira do Dragão Adormecido",
+    "value": "1500 PO + Arma",
+    "eng": "Slumbering Dragon's Wrath Weapon",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 77,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#weapon%20of%20warning_dmg",
+    "item": "Arma de Alerta",
+    "value": "3000 PO + Arma",
+    "eng": "Weapon of Warning",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 78,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#adamantine%20armor_dmg",
+    "item": "Armadura de Adamantina",
+    "value": "1000 PO + Armadura",
+    "eng": "Adamantine Armor",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 79,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#serpent%20scale%20armor_cm",
+    "item": "Armadura de Escama de Serpente (Brunea)",
+    "value": "3000 PO + Armadura",
+    "eng": "Serpent Scale Armor",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 80,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#mithral%20armor_dmg",
+    "item": "Armadura de Mitral",
+    "value": "1000 PO + Armadura",
+    "eng": "Mithral Armor",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 81,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#mariner's%20armor_dmg",
+    "item": "Armadura de Marinheiro",
+    "value": "200 PO + Armadura",
+    "eng": "Mariner's Armor",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 82,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#javelin%20of%20lightning_dmg",
+    "item": "Azagaia de Relâmpago",
+    "value": "2000 PO + Arma",
+    "eng": "Javelin of Lightning",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 83,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#%2b1%20rod%20of%20the%20pact%20keeper_dmg",
+    "item": "Bastão Guardião de Pactos +1",
+    "value": "2500 PO + Bastão",
+    "eng": "Rod of the Pact Keeper +1",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 84,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#rod%20of%20mercurial%20form_tdcsr",
+    "item": "Bastão da Forma de Mercúrio",
+    "value": "1000 PO",
+    "eng": "Rod of Mercurial Form",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 85,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#bracers%20of%20archery_dmg",
+    "item": "Braçadeiras de Arquearia",
+    "value": "2000 PO + Traje Elegante",
+    "eng": "Bracers of Archery",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 86,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#bag%20of%20holding_dmg",
+    "item": "Bolsa de Recursos",
+    "value": "1 PC (Saco)",
+    "eng": "Bag of Holding",
+    "reforge": "Artífice",
+    "sint": ""
+  },
+  {
+    "id": 87,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#winged%20boots_dmg",
+    "item": "Botas Aladas",
+    "value": "15 PO (Traje Elegante) ",
+    "eng": "Winged Boots",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 88,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#boots%20of%20the%20vigilant_tdcsr",
+    "item": "Botas da Vigilância",
+    "value": "8000 PO",
+    "eng": "Boots of the Vigilance",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 89,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#boots%20of%20striding%20and%20springing_dmg",
+    "item": "Botas de Salto e Corrida",
+    "value": "1500 PO + Traje Elegante",
+    "eng": "Boots of Striding and Springing",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 90,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#boots%20of%20elvenkind_dmg",
+    "item": "Botas Élficas",
+    "value": "1500 PO + Traje Elegante",
+    "eng": "Boots of Elvenkind",
+    "reforge": "Artífice",
+    "sint": ""
+  },
+  {
+    "id": 91,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#boots%20of%20the%20winterlands_dmg",
+    "item": "Botas Invernais",
+    "value": "1000 PO + Traje Elegante",
+    "eng": "Boots of the Winterlands",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 92,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#brooch%20of%20living%20essence_egw",
+    "item": "Broche da Essência Viva",
+    "value": "1000 PO",
+    "eng": "Brooch of Living Essence",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 93,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#brooch%20of%20shielding_dmg",
+    "item": "Broche do Escudo",
+    "value": "1000 PO + Pedra Preciosa",
+    "eng": "Brooch of Shielding",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 94,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#staff%20of%20the%20python_dmg",
+    "item": "Cajado da Víbora",
+    "value": "3000 PO + Cajado",
+    "eng": "Staff of the Python",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 95,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#vanrak's%20mithral%20shirt_wdmm",
+    "item": "Camisa de Mitral de Vanrak",
+    "value": "1500 PO + Armadura",
+    "eng": "Vanrak's Mithral Shirt",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 96,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#emerald%20pen_ftd",
+    "item": "Caneta de Esmeralda",
+    "value": "500 PO",
+    "eng": "Emerald Pen",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 97,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#hat%20of%20disguise_dmg",
+    "item": "Chapéu do Disfarce",
+    "value": "1000 PO + Traje Elegante",
+    "eng": "Hat of Disguise",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 98,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#slippers%20of%20spider%20climbing_dmg",
+    "item": "Chinelos da Escalada de Aranha",
+    "value": "15 PO (Traje Elegante)",
+    "eng": "Slippers of Spider Climbing",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 99,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#%2b1%20dragonhide%20belt_ftd",
+    "item": "Cinto de Pele Dracônica +1",
+    "value": "2500 PO",
+    "eng": "Dragonhide Belt +1",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 100,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#necklace%20of%20adaptation_dmg",
+    "item": "Colar de Adaptação",
+    "value": "3000 PO + Traje Elegante",
+    "eng": "Necklace of Adaptation",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 101,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#rope%20of%20climbing_dmg",
+    "item": "Corda de Escalada",
+    "value": "10 PO (Corda de Seda)",
+    "eng": "Rope of Climbing",
+    "reforge": "Artífice",
+    "sint": ""
+  },
+  {
+    "id": 102,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#dragon%20thighbone%20club_skt",
+    "item": "Clava Fêmur de Dragão",
+    "value": "1500 PO + Arma",
+    "eng": "Dragon Thighbone Club",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 103,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#circlet%20of%20blasting_dmg",
+    "item": "Diadema da Explosão",
+    "value": "2000 PO",
+    "eng": "Circlet of Blasting",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 104,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#decanter%20of%20endless%20water_dmg",
+    "item": "Decantador de Água Infinita",
+    "value": "1000 PO",
+    "eng": "Decanter of Endless Water",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 105,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#helm%20of%20telepathy_dmg",
+    "item": "Elmo da Telepatia",
+    "value": "15 PO (Traje Elegante)",
+    "eng": "Helm of Telepathy",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 106,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#helm%20of%20comprehending%20languages_dmg",
+    "item": "Elmo de Compreensão de Idiomas",
+    "value": "3000 PO",
+    "eng": "Helm of Comprehending Languages",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 107,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#guardian%20emblem_tce",
+    "item": "Emblema do Guardião",
+    "value": "2500 PO",
+    "eng": "Guardian Emblem",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 108,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#witherbloom%20primer_scc",
+    "item": "Enciclopédia Murchaflor",
+    "value": "5000 PO",
+    "eng": "Witherbloom Primer",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 109,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#silverquill%20primer_scc",
+    "item": "Enciclopédia Platinoplena",
+    "value": "5000 PO",
+    "eng": "Silverquill Primer",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 110,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#prismari%20primer_scc",
+    "item": "Enciclopédia Prismari",
+    "value": "5000 PO",
+    "eng": "Prismari Primer",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 111,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#quandrix%20primer_scc",
+    "item": "Enciclopédia Quandrix",
+    "value": "5000 PO",
+    "eng": "Quandrix Primer",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 112,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#lorehold%20primer_scc",
+    "item": "Enciclopédia Sapioforte",
+    "value": "5000 PO",
+    "eng": "Lorehold Primer",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 113,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#%2b1%20shield%20(*)_dmg",
+    "item": "Escudo +1",
+    "value": "2000 PO + Escudo",
+    "eng": "Shield +1",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 114,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#sentinel%20shield_dmg",
+    "item": "Escudo Sentinela",
+    "value": "3000 po + Escudo",
+    "eng": "Sentinel Shield",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 115,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#dragon%20sensing%20longsword_pota",
+    "item": "Espada Sensora de Dragões",
+    "value": "1500 PO + Arma",
+    "eng": "Dragon Sensing Longsword",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 116,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#radiance_cm",
+    "item": "Esplendor",
+    "value": "2000 PO",
+    "eng": "Radiance",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 117,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#%2b1%20all-purpose%20tool_tce",
+    "item": "Ferramenta Multiuso +1",
+    "value": "2500 PO",
+    "eng": "All-Purpose Tool +1",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 118,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#pipes%20of%20haunting_dmg",
+    "item": "Flautas da Assombração",
+    "value": "2 PO (Flauta)",
+    "eng": "Pipes of Haunting",
+    "reforge": "Artífice",
+    "sint": ""
+  },
+  {
+    "id": 119,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#pipes%20of%20the%20sewers_dmg",
+    "item": "Flautas dos Esgotos",
+    "value": "2 PO (Flauta)",
+    "eng": "Pipes of the Sewer",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 120,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#slumbering%20dragon-touched%20focus_ftd",
+    "item": "Foco do Dragão Adormecido",
+    "value": "2500 PO",
+    "eng": "Slumbering Dragon-Touched Focus",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 121,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#%2b1%20moon%20sickle_tce",
+    "item": "Foice da Lua +1",
+    "value": "2500 PO + Arma",
+    "eng": "Moon Sickle +1",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 122,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#feywild%20shard_tce",
+    "item": "Fragmento Feérico",
+    "value": "2500 PO",
+    "eng": "Feywild Shard",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 123,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#%2b1%20bloodwell%20vial_tce",
+    "item": "Frasco Sanguíneo +1",
+    "value": "2500 PO",
+    "eng": "Bloodwell Vial +1",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 124,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#driftglobe_dmg",
+    "item": "Globo Brilhante",
+    "value": "2500 PO",
+    "eng": "Driftglobe",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 125,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#cracked%20driftglobe_cm",
+    "item": "Globo Brilhante Rachado",
+    "value": "1250 PO",
+    "eng": "Cracked Driftglobe",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 126,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#%2b1%20arcane%20grimoire_tce",
+    "item": "Grimório Arcano +1",
+    "value": "2500 PO",
+    "eng": "Arcane Grimoire +1",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 127,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#instrument%20of%20the%20bards%2c%20doss%20lute_dmg",
+    "item": "Instrumento de Bardo, Alaúde de Doss",
+    "value": "3000 PO + Alaúde",
+    "eng": "Instrument of the Bards, Doss Lute",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 128,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#instrument%20of%20the%20bards%2c%20fochlucan%20bandore_dmg",
+    "item": "Instrumento de Bardo, Bandolim de Fochlucan",
+    "value": "5000 PO + Alaúde",
+    "eng": "Instrument of the Bards, Flochlucan Bandore",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 129,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#instrument%20of%20the%20bards%2c%20mac-fuirmidh%20cittern_dmg",
+    "item": "Instrumento de Bardo, Citara de Mac-Fuirmidh",
+    "value": "8000 PO + Alaúde",
+    "eng": "Instrument of the Bards, Mac-Fuirmidh Cittern",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 130,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#alchemy%20jug_dmg",
+    "item": "Jarro de Alquímia",
+    "value": "2 PC (Jarro)",
+    "eng": "Alchemy Jug",
+    "reforge": "Artífice",
+    "sint": ""
+  },
+  {
+    "id": 131,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#blood%20spear_cos",
+    "item": "Lança de Sangue",
+    "value": "2000 PO + Arma",
+    "eng": "Blood Spear",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 132,
+    "tier": "incomum",
+    "ref": "https://5etools-mirror-1.github.io/items.html#blood%20spear_cos",
+    "item": "Lança de Sangue, Escolhido por Kavan",
+    "value": "4000 PO + Arma",
+    "eng": "Blood Spear, Choosen by Kavan",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 133,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#lantern%20of%20revealing_dmg",
+    "item": "Lanterna da Revelação",
+    "value": "5 PO (Lanterna Coberta)",
+    "eng": "Lantern of Revealing",
+    "reforge": "Artífice",
+    "sint": ""
+  },
+  {
+    "id": 134,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#wind%20fan_dmg",
+    "item": "Leque do vento",
+    "value": "1000 PO",
+    "eng": "Wind Fan",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 135,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#gloves%20of%20missile%20snaring_dmg",
+    "item": "Luvas de Apanhar Projéteis",
+    "value": "2000 PO + Traje Elegante",
+    "eng": "Gloves of Missile Snaring",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 136,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#gloves%20of%20swimming%20and%20climbing_dmg",
+    "item": "Luvas de Nado e Escalada",
+    "value": "1500 PO + Traje Elegante",
+    "eng": "Gloves of Swimming and Climbing",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 137,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#gloves%20of%20thievery_dmg",
+    "item": "Luvas do Ladrão",
+    "value": "2000 PO + Traje Elegante",
+    "eng": "Gloves of Thievery",
+    "reforge": "Artífice",
+    "sint": ""
+  },
+  {
+    "id": 138,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#gauntlets%20of%20ogre%20power_dmg",
+    "item": "Manoplas de Força do ogro",
+    "value": "8000 PO + Traje Elegante",
+    "eng": "Gauntlets of Ogre Power",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 139,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#nature's%20mantle_tce",
+    "item": "Manto da Natureza",
+    "value": "2500 PO",
+    "eng": "Nature's Mantle",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 140,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#cloak%20of%20the%20manta%20ray_dmg",
+    "item": "Manto de Arraia",
+    "value": "15 PO (Traje Elegante)",
+    "eng": "Cloak of the Manta Ray",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 141,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#cloak%20of%20protection_dmg",
+    "item": "Manto de Proteção",
+    "value": "3000 PO + Traje Elegante",
+    "eng": "Cloak of Protection",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 142,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#cap%20of%20water%20breathing_dmg",
+    "item": "Manto de Respiração Aquática",
+    "value": "15 PO (Traje Elegante)",
+    "eng": "Cap of Water Breathing",
+    "reforge": "Artífice",
+    "sint": ""
+  },
+  {
+    "id": 143,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#cloak%20of%20elvenkind_dmg",
+    "item": "Manto Élfico",
+    "value": "2000 PO + Traje Elegante",
+    "eng": "Cloak of Elvenkind",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 144,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#mask%20of%20the%20beast_toa",
+    "item": "Máscara da Besta",
+    "value": "1500 PO",
+    "eng": "Mask of the Beast",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 145,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#medallion%20of%20thoughts_dmg",
+    "item": "Medalhão dos Pensamentos",
+    "value": "10 PO (Pedra Preciosa)",
+    "eng": "Medallion of Thoughts",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 146,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#eyes%20of%20the%20eagle_dmg",
+    "item": "Olhos de Águia",
+    "value": "10 PO (Cristal)",
+    "eng": "Eyes of the Eagle",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 147,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#eyes%20of%20charming_dmg",
+    "item": "Olhos de Enfeitiçar",
+    "value": "10 PO (Cristal)",
+    "eng": "Eyes of Charming",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 148,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#eyes%20of%20minute%20seeing_dmg",
+    "item": "Olhos de Visão Minuciosa",
+    "value": "1500 PO",
+    "eng": "Eyes of Minute Seeing",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 149,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#goggles%20of%20night_dmg",
+    "item": "Óculos Noturnos",
+    "value": "100 PO (Lentes de Aumento)",
+    "eng": "Goggles of Night",
+    "reforge": "Artífice",
+    "sint": ""
+  },
+  {
+    "id": 150,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#slumbering%20scaled%20ornament_ftd",
+    "item": "Ornamento de Escamas Adormecido",
+    "value": "2500 PO",
+    "eng": "Slumbering Scaled Ornament",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 151,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#stone%20of%20good%20luck_dmg",
+    "item": "Pedra da Boa Sorte",
+    "value": "1500 PO",
+    "eng": "Stone of Good Luck",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 152,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#sending%20stones_dmg",
+    "item": "Pedras de Envio",
+    "value": "1 PC (Pedras)",
+    "eng": "Sending Stones",
+    "reforge": "Artífice",
+    "sint": ""
+  },
+  {
+    "id": 153,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#periapt%20of%20wound%20closure_dmg",
+    "item": "Periapto de Cicatrização",
+    "value": "2000 PO + Pedra Preciosa",
+    "eng": "Periapt of Wound Closure",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 154,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#periapt%20of%20health_dmg",
+    "item": "Periapto da Saúde",
+    "value": "2000 PO",
+    "eng": "Periapt of Health",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 155,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#pearl%20of%20power_dmg",
+    "item": "Pérola do Poder",
+    "value": "2000 PO",
+    "eng": "Pearl of Power",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 156,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#lightbringer_pabtso",
+    "item": "Portador da Luz",
+    "value": "1500 PO + Arma",
+    "eng": "Lightbringer",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 157,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#reszur_pota",
+    "item": "Raszur",
+    "value": "1000 PO + Arma",
+    "eng": "Reszur",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 158,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#saddle%20of%20the%20cavalier_dmg",
+    "item": "Sela do Cavaleiro",
+    "value": "2000 PO",
+    "eng": "Saddle of the Cavalier",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 159,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#insignia%20of%20claws_hotdq",
+    "item": "Símbolo de Garras",
+    "value": "1000 PO",
+    "eng": "Insignia of Claws",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 160,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#%2b1%20rhythm-maker's%20drum_tce",
+    "item": "Tambor Ritmista +1",
+    "value": "2500 PO",
+    "eng": "Rhythm-Maker's Drum +1",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 161,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#eldritch%20claw%20tattoo_tce",
+    "item": "Tatuagem da Garra Mística",
+    "value": "2500 PO",
+    "eng": "Eldritch Claw Tattoo",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 162,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#barrier%20tattoo%20(small)_tce",
+    "item": "Tatuagem de Barreira (Pequena)",
+    "value": "2000 PO",
+    "eng": "Barrier Tattoo (Small)",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 163,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#coiling%20grasp%20tattoo_tce",
+    "item": "tatuagem do Aperto Enrolante",
+    "value": "2000 PO",
+    "eng": "Coiling Grasp Tattoo",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 164,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#coiling%20grasp%20tattoo_tce",
+    "item": "Tiara da Perfeição Humana",
+    "value": "1000 PO",
+    "eng": "Circlet of Human Perfection",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 165,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#headband%20of%20intellect_dmg",
+    "item": "Tiara do Intelecto",
+    "value": "8000 PO + Traje Elegante",
+    "eng": "Headband of Intellect",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 166,
+    "tier": "incomum",
+    "ref": "href=https://5e.tools/items.html#wand%20of%20magic%20detection_dmg",
+    "item": "Varinha de Detecção Mágica",
+    "value": "10 PO (Varinha)",
+    "eng": "Wand of Magic Detection",
+    "reforge": "Artífice",
+    "sint": ""
+  },
+  {
+    "id": 167,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#wand%20of%20entangle_tftyp",
+    "item": "Varinha de Emaranhado",
+    "value": "2000 PO + Varinha",
+    "eng": "Wand of Entangle",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 168,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#wand%20of%20magic%20missiles_dmg",
+    "item": "Varinha de Mísseis Mágicos",
+    "value": "2000 PO + Varinha",
+    "eng": "Wand of Magic Missiles",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 169,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#charred%20wand%20of%20magic%20missiles_wdh",
+    "item": "Varinha de Mísseis Mágicos Carbonizada",
+    "value": "1000 PO",
+    "eng": "Charred Wand of Magic Missiles",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 170,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#wand%20of%20web_dmg",
+    "item": "Varinha de Teia",
+    "value": "2000 PO + Varinha",
+    "eng": "Wand of Web",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 171,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#%2b1%20wand%20of%20the%20war%20mage_dmg",
+    "item": "Varinha do Mago de Guerra +1",
+    "value": "2000 PO + Varinha",
+    "eng": "Wand of the War Mage +1",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 172,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#wand%20of%20secrets_dmg",
+    "item": "Varinha dos Segredos",
+    "value": "10 PO (Varinha)",
+    "eng": "Wand of Secrets",
+    "reforge": "Artífice",
+    "sint": ""
+  },
+  {
+    "id": 173,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#earworm_erlw",
+    "item": "Verme de Orelha",
+    "value": "2500 PO",
+    "eng": "Earworm",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 174,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#dagger%20of%20venom_dmg",
+    "item": "Adaga de Veneno",
+    "value": "2000 PO + Arma",
+    "eng": "Dagger of Venom",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 175,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#dragontooth%20dagger_rot",
+    "item": "Adaga Dente de Dragão",
+    "value": "1500 PO + Arma",
+    "eng": "Dragontooth Dagger",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 176,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#dimensional%20shackles_dmg",
+    "item": "Algemas Dimensionais",
+    "value": "1 PO (10x Ferro)",
+    "eng": "Dimensional Shackles",
+    "reforge": "Artífice",
+    "sint": ""
+  },
+  {
+    "id": 177,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#amulet%20of%20health_dmg",
+    "item": "Amuleto da Saúde",
+    "value": "8000 PO + (Pedra Preciosa)",
+    "eng": "Amulet of Health",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 178,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#%2b2%20amulet%20of%20the%20devout_tce",
+    "item": "Amuleto do Devot +2",
+    "value": "6000 PO",
+    "eng": "Amulet of The Devout +2",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 179,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#ring%20of%20feather%20falling_dmg",
+    "item": "Anel da Queda Suave",
+    "value": "2500 PO",
+    "eng": "Ring of Feather Falling",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 180,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#ring%20of%20x-ray%20vision_dmg",
+    "item": "Anel da Visão de Raio-X",
+    "value": "3000 PO",
+    "eng": "Ring of X-Ray Vision",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 181,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#ring%20of%20free%20action_dmg",
+    "item": "Anel de Ação Livre",
+    "value": "4000 PO + Anel de Sinete",
+    "eng": "Ring of Free Action",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 182,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#ring%20of%20spell%20storing_dmg",
+    "item": "Anel de Armazenar Magia",
+    "value": "10000 PO",
+    "eng": "Ring of Spell Storing",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 183,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#ring%20of%20animal%20influence_dmg",
+    "item": "Anel de Cativar Animais",
+    "value": "3000 PO",
+    "eng": "Ring of Animal Influence",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 184,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#ring%20of%20evasion_dmg",
+    "item": "Anel de Evasão",
+    "value": "3000 PO",
+    "eng": "Ring of Evasion",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 185,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#ring%20of%20protection_dmg",
+    "item": "Anel de Proteção",
+    "value": "3500 PO + Anel de Sinete",
+    "eng": "Ring of Protection",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 186,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#ring%20of%20resistance_dmg",
+    "item": "Anel de Resistência",
+    "value": "3000 PO",
+    "eng": "Ring of Resistance",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 187,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#ring%20of%20the%20ram_dmg",
+    "item": "Anel do Aríete",
+    "value": "5 PO (Anel de Sinete)",
+    "eng": "Ring of the Ram",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 188,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#dragon%20wing%20bow_ftd",
+    "item": "Arco Asa de Dragão",
+    "value": "3000 PO",
+    "eng": "Dragon Wing Bow",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 189,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#%2b2%20weapon_dmg",
+    "item": "Arma +2",
+    "value": "2000 PO + Arma",
+    "eng": "Weapon +2",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 190,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#stirring%20dragon's%20wrath%20weapon_ftd",
+    "item": "Arma da Ira do Dragão Inquieto",
+    "value": "4000 PO",
+    "eng": "Stirring Dragon's Wrath Weapon",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 191,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#vicious%20weapon_dmg",
+    "item": "Arma Viciosa",
+    "value": "1000 PO + Arma",
+    "eng": "Vicious Weapon",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 192,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#oceanic%20weapon_tdcsr",
+    "item": "Arma Oceânica",
+    "value": "3000 PO + Arma",
+    "eng": "Oceanic Weapon",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 193,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#%2b1%20armor_dmg",
+    "item": "Armadura +1",
+    "value": "5000 PO + Armadura",
+    "eng": "Armor +1",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 194,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#zephyr%20armor_bgg",
+    "item": "Armadura de Zephiro",
+    "value": "3000 PO + Armadura",
+    "eng": "Zephyr Armor",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 195,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#mithral%20%2b1%20armor_ai",
+    "item": "Armadura de Mitral +1",
+    "value": "6000 PO + Mitral",
+    "eng": "Mithral Armor +1",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 196,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#mizzium%20armor_ggr",
+    "item": "Armadura de Mizzium",
+    "value": "6000 PO + Armadura",
+    "eng": "Mizzium Armor",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 197,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#armor%20of%20resistance_dmg",
+    "item": "Armadura de Resistência",
+    "value": "5000 PO + Armadura",
+    "eng": "Armor of Resistance",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 198,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#astromancy%20archive_tce",
+    "item": "Arquivo de Astromância",
+    "value": "3000 PO",
+    "eng": "Astromancy Archive",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 199,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#atlas%20of%20endless%20horizons_tce",
+    "item": "Atlas dos Horizontes Infinitos",
+    "value": "3000 PO",
+    "eng": "Atlas of Endless Horizons",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 200,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#butcher's%20bib_egw",
+    "item": "Avental de Açougueiro",
+    "value": "7000 PO",
+    "eng": "Butcher's Bib",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 201,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#folding%20boat_dmg",
+    "item": "Barco Dobrável",
+    "value": "6000 PO",
+    "eng": "Folding Boat",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 202,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#rod%20of%20rulership_dmg",
+    "item": "Bastão da Obediência",
+    "value": "8000 PO",
+    "eng": "Rod of Rulership",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 203,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#tentacle%20rod_dmg",
+    "item": "Bastão do Tentáculo",
+    "value": "6000 PO",
+    "eng": "Tentacle Rod",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 204,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#%2b2%20rod%20of%20the%20pact%20keeper_dmg",
+    "item": "Bastão do Guardião de Pactos +2",
+    "value": "6000 PO",
+    "eng": "Rod of the Pact Keeper +2",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 205,
+    "tier": "raro",
+    "item": "Botas de Levitação",
+    "value": "15 PO (Traje Elegante)",
+    "eng": "Boots of Levitation",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 206,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#boots%20of%20speed_dmg",
+    "item": "Botas de Velocidade",
+    "value": "8000 PO + Traje Elegante",
+    "eng": "Boots of Speed",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 207,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#bracers%20of%20defense_dmg",
+    "item": "Braçadeiras de Defesa",
+    "value": "4000 PO + Traje Elegante",
+    "eng": "Bracers of Defense",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 208,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#brazier%20of%20commanding%20fire%20elementals_dmg",
+    "item": "Braseiro de Invocar Elementais de Fogo",
+    "value": "5000 PO",
+    "eng": "Brazier of Commanding Fire Elementals",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 209,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#staff%20of%20swarming%20insects_dmg",
+    "item": "Cajado do Enxame de Insetos",
+    "value": "5000 PO + Arma",
+    "eng": "Staff of Swarming Insects",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 210,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#staff%20of%20defense_pabtso",
+    "item": "Cajado da Defesa",
+    "value": "4000 PO + Arma",
+    "eng": "Staff of Defense",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 211,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#staff%20of%20the%20woodlands_dmg",
+    "item": "Cajado das Florestas",
+    "value": "8000 PO + Arma",
+    "eng": "Staff of the Woodlands",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 212,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#staff%20of%20healing_dmg",
+    "item": "Cajado da Cura",
+    "value": "10000 PO + Arma",
+    "eng": "Staff of Healing",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 213,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#staff%20of%20charming_dmg",
+    "item": "Cajado de Enfeitiçar",
+    "value": "6000 PO + Arma",
+    "eng": "Staff of Charming",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 214,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#staff%20of%20withering_dmg",
+    "item": "Cajado do Definhamento",
+    "value": "6000 PO + Arma",
+    "eng": "Staff of Withering",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 215,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#staff%20of%20the%20ivory%20claw_egw",
+    "item": "Cajado Garra de Marfim",
+    "value": "3500 PO + Arma",
+    "eng": "Staff of the Ivory Claw",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 216,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#cape%20of%20the%20mountebank_dmg",
+    "item": "Capa do Saltimbanco",
+    "value": "3000 PO",
+    "eng": "Cape of the Mountebank",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 217,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#coat%20of%20the%20crest_tdcsr",
+    "item": "Capa da Corte",
+    "value": "4000 PO",
+    "eng": "Coat of the Crest",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 218,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#horn%20of%20blasting_dmg",
+    "item": "Chifre Ensurdecedor",
+    "value": "10 PO (Bastão)",
+    "eng": "Horn of Blasting",
+    "reforge": "Artífice",
+    "sint": ""
+  },
+  {
+    "id": 219,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#lash%20of%20immolation_bgg",
+    "item": "Chicote da Imolação",
+    "value": "3000 PO",
+    "eng": "Lash of Immolation",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 220,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#inescapable%20lash_tdcsr",
+    "item": "Chicote Inescapável",
+    "value": "3000 PO",
+    "eng": "Inescapable Lash",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 221,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#%2b2%20dragonhide%20belt_ftd",
+    "item": "Cinto de Pele Dracônica +2",
+    "value": "6000 PO",
+    "eng": "Dragonhide Belt +2",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 222,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#belt%20of%20dwarvenkind_dmg",
+    "item": "Cinto dos Anões",
+    "value": "14000 PO",
+    "eng": "Belt of Dwarvenkind",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 223,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#belt%20of%20hill%20giant%20strength_dmg",
+    "item": "Cinturão do Gigante da Colina",
+    "value": "14000 PO + Corda de Cânhamo",
+    "eng": "Belt of Hill Giant Strength",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 224,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#planecaller's%20codex_tce",
+    "item": "Códice do Chamado Planar",
+    "value": "6000 PO",
+    "eng": "Planecaller's Codex",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 225,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#alchemical%20compendium_tce",
+    "item": "Compêndio Alquímico",
+    "value": "4000 PO",
+    "eng": "Alchemical Compendium",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 226,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#rope%20of%20entanglement_dmg",
+    "item": "Corda do Estrangulamento",
+    "value": "3000 PO",
+    "eng": "Rope of Entanglement",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 227,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#crown%20of%20the%20wrath%20bringer_bgg",
+    "item": "Coroa do Portador da Fúria",
+    "value": "6000 PO",
+    "eng": "Crown of the Wrath Bringer",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 228,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#glamoured%20studded%20leather_dmg",
+    "item": "Couro Batido Encantador",
+    "value": "4000 PO + Armadura",
+    "eng": "Glamoured Studded Leather",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 229,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#summer's%20dance_tdcsr",
+    "item": "Dança do Verão",
+    "value": "3000 PO",
+    "eng": "Summer's Dance",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 230,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#%2b2%20shield%20(*)_dmg",
+    "item": "Escudo +2",
+    "value": "4000 PO",
+    "eng": "Shield +2",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 231,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#arrow-catching%20shield_dmg",
+    "item": "Escudo Apanhador de Flechas",
+    "value": "4000 PO + Escudo",
+    "eng": "Arrow-Catching Shield",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 232,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#shield%20of%20missile%20attraction_dmg",
+    "item": "Escudo de Atração de Projéteis",
+    "value": "4000 PO + Escudo",
+    "eng": "Shield of Missile Attraction",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 233,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#battering%20shield_egw",
+    "item": "Escudo de Ataque",
+    "value": "6000 PO + Escudo",
+    "eng": "Battering Shield",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 234,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#sword%20of%20life%20stealing_dmg",
+    "item": "Espada Furtadora de Vidas",
+    "value": "3000 PO + Arma",
+    "eng": "Sword of Life Stealing",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 235,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#sword%20of%20wounding_dmg",
+    "item": "Espada do Sangramento",
+    "value": "3000 PO + Arma",
+    "eng": "Sword of Wounding",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 236,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#horseshoes%20of%20speed_dmg",
+    "item": "Ferraduras de Velocidade",
+    "value": "3000 PO",
+    "eng": "Horseshoes of Speed",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 237,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#%2b2%20all-purpose%20tool_tce",
+    "item": "Ferramenta Multiuso +2",
+    "value": "6000 PO",
+    "eng": "All-Purpose Tool +2",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 238,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#stirring%20dragon-touched%20focus_ftd",
+    "item": "Foco Dracônico Inquieto",
+    "value": "6000 PO",
+    "eng": "Stirring Dragon-Touched Focus",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 239,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#%2b2%20moon%20sickle_tce",
+    "item": "Foice da Lua +2",
+    "value": "6000 PO",
+    "eng": "Moon Sickle +2",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 240,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#astral%20shard_tce",
+    "item": "Fragmento Astral",
+    "value": "6000 PO",
+    "eng": "Astral Shard",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 241,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#elemental%20essence%20shard_tce",
+    "item": "Fragmento da Essência Elemental",
+    "value": "4000 PO",
+    "eng": "Elemental Essence Shard",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 242,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#outer%20essence%20shard_tce",
+    "item": "Fragmento de Essência Exterior",
+    "value": "6000 PO",
+    "eng": "Outer Essence Shard",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 243,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#shadowfell%20shard_tce",
+    "item": "Fragmento do Plano das Sombras",
+    "value": "6000 PO",
+    "eng": "Shadowfell Shard",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 244,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#far%20realm%20shard_tce",
+    "item": "Fragmento do Reino Distante",
+    "value": "4000 PO",
+    "eng": "Far Realm Shard",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 245,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#%2b2%20bloodwell%20vial_tce",
+    "item": "Frasco Sanguíneo +2",
+    "value": "6000 PO",
+    "eng": "Bloodwell Vial +2",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 246,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#bell%20branch_tce",
+    "item": "Galho de Sino",
+    "value": "2000 PO",
+    "eng": "Bell Branch",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 247,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#claw%20of%20the%20wyrm%20rune_skt",
+    "item": "Garra Rúnica do Dragão",
+    "value": "5000 PO",
+    "eng": "Claw of the Wyrm Rune",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 248,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#claws%20of%20the%20umber%20hulk_pota",
+    "item": "Garras de Umber Hulk",
+    "value": "5000 PO",
+    "eng": "Claws of the Umber Hulk",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 249,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#%2b2%20arcane%20grimoire_tce",
+    "item": "Grimório Arcano +2",
+    "value": "6000 PO",
+    "eng": "Arcane Grimoire +2",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 250,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#gem%20of%20seeing_dmg",
+    "item": "Gema da Visão",
+    "value": "100 PO (Lentes de Aumento)",
+    "eng": "Gem of Seeing",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 251,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#dragonguard_pabtso",
+    "item": "Proteção Dracônica",
+    "value": "8000 PO",
+    "eng": "Dragonguard",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 252,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#instrument%20of%20the%20bards%2c%20cli%20lyre_dmg",
+    "item": "Instrumento dos Bardos, Lira de Cli",
+    "value": "5000 PO + Lira",
+    "eng": "Instrument of the Bards, Cli Lyre",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 253,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#instrument%20of%20the%20bards%2c%20canaith%20mandolin_dmg",
+    "item": "Instrumento dos Bardos, Mandolim de Canaith",
+    "value": "10000 PO + Alaúde",
+    "eng": "Instrument of the Bards, Canaith Mandolim",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 254,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#magician's%20judge_tdcsr",
+    "item": "Julgamento do Mago",
+    "value": "5000 PO",
+    "eng": "Magician's Judge",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 255,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#crystal%20blade_ftd",
+    "item": "Lâmina de Cristal",
+    "value": "3000 PO + Arma",
+    "eng": "Crystal Blade",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 256,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#flamefriend%20lantern_tdcsr",
+    "item": "Lanterna da Chama Amiga",
+    "value": "6000 PO",
+    "eng": "Flamefriend Lantern",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 257,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#lyre%20of%20building_tce",
+    "item": "Lira da Construção",
+    "value": "5000 PO + Lira",
+    "eng": "Lyre of Building",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 258,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#acheron%20blade_egw",
+    "item": "Lâmina de Acheron",
+    "value": "3000 PO + Arma",
+    "eng": "Acheron Blade",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 259,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#libram%20of%20souls%20and%20flesh_tce",
+    "item": "Livro da Carne e das Almas",
+    "value": "3000 PO",
+    "eng": "Libram of Souls and Flesh",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 260,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#flame%20tongue_dmg",
+    "item": "Língua Flamejante",
+    "value": "4000 PO + Arma",
+    "eng": "Flame Tongue",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 261,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#mace%20of%20smiting_dmg",
+    "item": "Maça da Destruição",
+    "value": "2500 PO + Arma",
+    "eng": "Mace of Smiting",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 262,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#mace%20of%20disruption_dmg",
+    "item": "Maça da Importunação",
+    "value": "5000 PO + Arma",
+    "eng": "Mace of Disruption",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 263,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#mace%20of%20terror_dmg",
+    "item": "Maça do Terror",
+    "value": "6000 PO + Arma",
+    "eng": "Mace of Terror",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 264,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#woodcutter's%20axe_wbtw",
+    "item": "Machado de Lenhador",
+    "value": "2500 PO + Arma",
+    "eng": "Woodcutter's Axe",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 265,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#elven%20chain_dmg",
+    "item": "Malha Élfica",
+    "value": "4000 PO",
+    "eng": "Elven Chain",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 266,
+    "tier": "raro",
+    "item": "Manoplas da Fúria Flamejante",
+    "value": "4000 PO",
+    "eng": "Gauntlets of Flaming Fury",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 267,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#hell%20hound%20cloak_tftyp",
+    "item": "Manto do Cão Infernal",
+    "value": "6000 PO",
+    "eng": "Hell Hound Cloak",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 268,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#mantle%20of%20spell%20resistance_dmg",
+    "item": "Manto da Resistência à Magia",
+    "value": "7000 PO",
+    "eng": "Mantle of Spell Resistance",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 269,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#cloak%20of%20displacement_dmg",
+    "item": "Manto do Deslocamento",
+    "value": "6000 PO",
+    "eng": "Cloak of Displacement",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 270,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#cloak%20of%20the%20bat_dmg",
+    "item": "Manto do Morcego",
+    "value": "6000 PO + Traje Elegante",
+    "eng": "Cloak of the Bat",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 271,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#robe%20of%20eyes_dmg",
+    "item": "Manto dos Olhos",
+    "value": "8000 PO",
+    "eng": "Robe of Eyes",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 272,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#duplicitous%20manuscript_tce",
+    "item": "Manuscrito Dúbio",
+    "value": "2000 PO",
+    "eng": "Duplicitous Manuscript",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 273,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#corpse%20slayer_egw",
+    "item": "Matadora de Cadáver",
+    "value": "2500 PO + Arma",
+    "eng": "Corpse Slayer",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 274,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#giant%20slayer_dmg",
+    "item": "Matadora de Gigante",
+    "value": "2500 PO + Arma",
+    "eng": "Giant Slayer",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 275,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#dragon%20slayer_dmg",
+    "item": "Matadora de Dragão",
+    "value": "2500 PO + Arma",
+    "eng": "Dragon Slayer",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 276,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#stirring%20scaled%20ornament_ftd",
+    "item": "Ornamento de Escamas Inquietas",
+    "value": "6000 PO",
+    "eng": "Stirring Scaled Ornament",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 277,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#molten%20bronze%20skin_mot",
+    "item": "Pele de Bronze Fundido",
+    "value": "6000 PO + Armadura",
+    "eng": "Molten Bronze Skin",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 278,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#ioun%20stone%2c%20awareness_dmg",
+    "item": "Pedra Ioun, Consciência",
+    "value": "2500 PO",
+    "eng": "Ioun Stone, Awareness",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 279,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#ioun%20stone%2c%20protection_dmg",
+    "item": "Pedra Ioun, Proteção",
+    "value": "2500 PO",
+    "eng": "Ioun Stone, Protection",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 280,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#ioun%20stone%2c%20reserve_dmg",
+    "item": "Pedra Ioun, Reserva",
+    "value": "2500 PO",
+    "eng": "Ioun Stone, Reserve",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 281,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#ioun%20stone%2c%20sustenance_dmg",
+    "item": "Pedra Ioun, Sustento",
+    "value": "2500 PO",
+    "eng": "Ioun Stone, Sustenance",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 282,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#ventilating%20lungs_erlw",
+    "item": "Pulmões de Ventilação",
+    "value": "1 PO (2x Algibeiras)",
+    "eng": "Ventilating Lungs",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 283,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#heart%20weaver's%20primer_tce",
+    "item": "Primer do Coração do Tecelão",
+    "value": "2000 PO",
+    "eng": "Heart Weaver's Primer",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 284,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#concertina_rmbre",
+    "item": "Sanfona",
+    "value": "3500 PO",
+    "eng": "Concertina",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 285,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#reveler's%20concertina_tce",
+    "item": "Sanfona do Folião",
+    "value": "7000 PO",
+    "eng": "Reveler's Concertina",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 286,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#%2b2%20rhythm-maker's%20drum_tce",
+    "item": "Tambor Ritmista +2",
+    "value": "6000 PO",
+    "eng": "Rhythm-Maker's Drum +2",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 287,
+    "tier": "raro",
+    "item": "Tapa-Olho do Knave",
+    "value": "3000 PO",
+    "eng": "Knave's Eye Patch",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 288,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#barrier%20tattoo%20(medium)_tce",
+    "item": "Tatuagem de Barreira (Média)",
+    "value": "4000 PO",
+    "eng": "Barrier Tattoo (Medium)",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 289,
+    "tier": "raro",
+    "item": "Tatuagem do Plano das Sombras",
+    "value": "6000 PO",
+    "eng": "Shadowfell Brand Tattoo",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 290,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#fulminating%20treatise_tce",
+    "item": "Tratado Fulminante",
+    "value": "4000 PO",
+    "eng": "Fulminating Treatise",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 291,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#scissors%20of%20shadow%20snipping_wbtw",
+    "item": "Tesoura de Recortar Sombras",
+    "value": "3000 PO",
+    "eng": "Scissors of Shadow Snipping",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 292,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#devotee's%20censer_tce",
+    "item": "Turíbulo do Devoto",
+    "value": "3000 PO + Arma",
+    "eng": "Devotee's Censer",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 293,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#wand%20of%20paralysis_dmg",
+    "item": "Varinha da Paralisia",
+    "value": "10000 PO + Varinha",
+    "eng": "Wand of Paralisis",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 294,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#wand%20of%20wonder_dmg",
+    "item": "Varinha das Maravilhas",
+    "value": "5000 PO + Varinha",
+    "eng": "Wand of Wonder",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 295,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#wand%20of%20fireballs_dmg",
+    "item": "Varinha de Bolas de Fogo",
+    "value": "8000 PO + Varinha",
+    "eng": "Wand of Fireballs",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 296,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#wand%20of%20enemy%20detection_dmg",
+    "item": "Varinha de Detecção de Inimigos",
+    "value": "4000 PO + Wand",
+    "eng": "Wand of Enemy Detection",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 297,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#wand%20of%20fear_dmg",
+    "item": "Varinha do Medo",
+    "value": "5000 PO + Varinha",
+    "eng": "Wand of Fear",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 298,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#wand%20of%20lightning%20bolts_dmg",
+    "item": "Varinha de Relâmpagos",
+    "value": "8000 PO + Varinha",
+    "eng": "Wand of lightning Bolts",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 299,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#wand%20of%20binding_dmg",
+    "item": "Varinha do Vínculo",
+    "value": "5000 PO + Varinha",
+    "eng": "Wand of Binding",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 300,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#%2b2%20wand%20of%20the%20war%20mage_dmg",
+    "item": "Varinha do Mago de Guerra +2",
+    "value": "5000 PO",
+    "eng": "Wand of the War Mage +2",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 301,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#skysail_tdcsr",
+    "item": "Velejador Aéreo",
+    "value": "4000 PO",
+    "eng": "Skysail",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 302,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#protective%20verses_tce",
+    "item": "Versos de Proteção",
+    "value": "4000 PO",
+    "eng": "Protective Verses",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 303,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#%2b3%20amulet%20of%20the%20devout_tce",
+    "item": "Amuleto do Devoto +3",
+    "value": "11000 PO",
+    "eng": "Amulet of the Devout +3",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 304,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#sanctum%20amulet_bgg",
+    "item": "Amuleto do Santuário",
+    "value": "11000 PO",
+    "eng": "Sanctum Amulet",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 305,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#amulet%20of%20the%20planes_dmg",
+    "item": "Amuleto dos Plano",
+    "value": "10000 PO",
+    "eng": "Amulet of the Planes",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 306,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#ring%20of%20shooting%20stars_dmg",
+    "item": "Anel de Estrelas Cadentes",
+    "value": "10000 PO",
+    "eng": "Ring of Shooting Stars",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 307,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#ring%20of%20regeneration_dmg",
+    "item": "Anel de Regeneração",
+    "value": "8000 PO",
+    "eng": "Ring of Regeneration",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 308,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#ring%20of%20telekinesis_dmg",
+    "item": "Anel de Telecinésia",
+    "value": "5000 PO",
+    "eng": "Ring of Telekinesis",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 309,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#oathbow_dmg",
+    "item": "Arco do Juramento",
+    "value": "8000 PO",
+    "eng": "Oathbow",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 310,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#%2b3%20weapon_dmg",
+    "item": "Arma +3",
+    "value": "4000 PO + Arma",
+    "eng": "Weapon +3",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 311,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#wakened%20dragon's%20wrath%20weapon_ftd",
+    "item": "Arma da Ira do Dragão Despertado",
+    "value": "11000 PO",
+    "eng": "Wakened Dragon's Wrath Weapon",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 312,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#%2b2%20armor_dmg",
+    "item": "Armadura +2",
+    "value": "1000 PO + Armadura",
+    "eng": "Armor +2",
+    "reforge": "Sim",
+    "sint": ""
+  },
+  {
+    "id": 313,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#%2b2%20studded%20leather%20armor%20of%20acid%20resistance_tdcsr",
+    "item": "Armadura de Couro Batido da Resistência Ácida +2",
+    "value": "15000 PO",
+    "eng": "Studded Leather Armor of Acid Resistance +2",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 314,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#%2b2%20studded%20white%20dragon%20leather%20armor%20of%20cold%20resistance_tdcsr",
+    "item": "Armadura de Couro Batido da Resistência Gélida +2",
+    "value": "15000 PO",
+    "eng": "Studded Leather Armor of Cold Resistance +2",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 315,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#rod%20of%20alertness_dmg",
+    "item": "Bastão da Prontidão",
+    "value": "12000 PO",
+    "eng": "Rod of Alertness",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 316,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#rod%20of%20absorption_dmg",
+    "item": "Bastão de Absorção",
+    "value": "12000 PO",
+    "eng": "Rod of Absorption",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 317,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#%2b3%20rod%20of%20the%20pact%20keeper_dmg",
+    "item": "Bastão do Guardião de Pactos +3",
+    "value": "11000 PO",
+    "eng": "Rod of the Pact Keeper +3",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 318,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#crystal%20ball_dmg",
+    "item": "Bola de Cristal",
+    "value": "3000 PO",
+    "eng": "Crystal Ball",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 319,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#boots%20of%20haste_tdcsr",
+    "item": "Botas da Aceleração",
+    "value": "9000 PO",
+    "eng": "Boots of Haste",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 320,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#bracelet%20of%20rock%20magic_tftyp",
+    "item": "Bracelete da Magia Rochosa",
+    "value": "6000 PO",
+    "eng": "Bracelet of Rock Magic",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 321,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#arcane%20propulsion%20arm_erlw",
+    "item": "Braço de Propulsão Arcana",
+    "value": "4000 PO + 10x Ferro",
+    "eng": "Arcane Propulsion Arm",
+    "reforge": "Artífice",
+    "sint": "Sim"
+  },
+  {
+    "id": 322,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#sapphire%20buckler_ftd",
+    "item": "Broquel de Safira",
+    "value": "5000 PO + Escudo",
+    "eng": "Sapphire Buckler",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 323,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#dragon%20scale%20mail_dmg",
+    "item": "Brunea de Escamas de Dragão",
+    "value": "13000 PO + Armadura",
+    "eng": "Dragon Scale Mail",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 324,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#staff%20of%20striking_dmg",
+    "item": "Cajado de Ataque",
+    "value": "8000 PO + Arma",
+    "eng": "Staff of Striking",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 325,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#staff%20of%20fire_dmg",
+    "item": "Cajado de Fogo",
+    "value": "10000 PO + Arma",
+    "eng": "Staff of Fire",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 326,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#staff%20of%20frost_dmg",
+    "item": "Cajado de Gelo",
+    "value": "10000 PO + Arma",
+    "eng": "Staff of Frost",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 327,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#staff%20of%20thunder%20and%20lightning_dmg",
+    "item": "Cajado de Trovão e Relâmpago",
+    "value": "10000 PO + Arma",
+    "eng": "Staff of Thunder and Lightning",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 328,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#staff%20of%20fate_cm",
+    "item": "Cajado do Destino",
+    "value": "4500 PO + Arma",
+    "eng": "Staff of Fate",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 329,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#eldritch%20staff_wbtw",
+    "item": "Cajado Místico",
+    "value": "8000 PO + Arma",
+    "eng": "Eldritch Staff",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 330,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#staff%20of%20power_dmg",
+    "item": "Cajado do Poder",
+    "value": "16000 PO + Arma",
+    "eng": "Staff of Power",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 331,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#cauldron%20of%20rebirth_tce",
+    "item": "Caldeirão do Renascimento",
+    "value": "15000 PO",
+    "eng": "Cauldron of Rebirth",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 332,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#blast%20scepter_wdmm",
+    "item": "Cetro de Explosão",
+    "value": "7000 PO",
+    "eng": "Blast Scepter",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 333,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#war%20horn%20of%20valor_bgg",
+    "item": "Chifre de Guerra Valoroso",
+    "value": "8000 PO",
+    "eng": "War Horn of Valor",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 334,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#scimitar%20of%20speed_dmg",
+    "item": "Cimitarra da Velocidade",
+    "value": "10000 PO",
+    "eng": "Scimitar of Speed",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 335,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#%2b3%20dragonhide%20belt_ftd",
+    "item": "Cinto de Pele Dracônica +3",
+    "value": "11000 PO",
+    "eng": "Dragonhide Belt +3",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 336,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#belt%20of%20fire%20giant%20strength_dmg",
+    "item": "Cinturão de Força do Gigante de Fogo",
+    "value": "26000 PO",
+    "eng": "Belt of Fire Giant Strength",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 337,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#belt%20of%20frost%20giant%20strength_dmg",
+    "item": "Cinturão de Força do Gigante de Gelo",
+    "value": "20000 PO",
+    "eng": "Belt of Frost Giant Strength",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 338,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#belt%20of%20stone%20giant%20strength_dmg",
+    "item": "Cinturão de Força do Gigante de Pedra",
+    "value": "20000 PO",
+    "eng": "Belt of Stone Giant Strength",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 339,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#nimbus%20coronet_bgg",
+    "item": "Coroa de Nimbus",
+    "value": "13000 PO",
+    "eng": "Nimbus Coronet",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 340,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#crystalline%20chronicle_tce",
+    "item": "Crônica Cristalina",
+    "value": "10000 PO",
+    "eng": "Crystalline Chronicle",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 341,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#lucent%20destroyer_bgg",
+    "item": "Destruidor Lucente",
+    "value": "10000 PO",
+    "eng": "Lucent Destroyer",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 342,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#helm%20of%20brilliance_dmg",
+    "item": "Elmo Brilhante",
+    "value": "10000 PO",
+    "eng": "Helm of Brilliance",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 343,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#%2b3%20shield%20(*)_dmg",
+    "item": "Escudo +3",
+    "value": "8000 PO",
+    "eng": "Shield +3",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 344,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#animated%20shield_dmg",
+    "item": "Escudo Animado",
+    "value": "10000 PO + Escudo",
+    "eng": "Animated Shield",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 345,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#spellguard%20shield_dmg",
+    "item": "Escudo de Proteção à Magia",
+    "value": "10000 PO + Escudo",
+    "eng": "Spellguard Shield",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 346,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#dancing%20sword_dmg",
+    "item": "Espada Dançante",
+    "value": "8000 PO + Arma",
+    "eng": "Dancing Sword",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 347,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#battle%20standard%20of%20infernal%20power_bgdia",
+    "item": "Estandarte de Batalha do Poder Infernal",
+    "value": "8000 PO",
+    "eng": "Battle Standard of Infernal Power",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 348,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#%2b3%20all-purpose%20tool_tce",
+    "item": "Ferramenta Multiuso +3",
+    "value": "11000 PO",
+    "eng": "All-Purpose Tool +3",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 349,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#horseshoes%20of%20a%20zephyr_dmg",
+    "item": "Ferraduras de Zéfiro",
+    "value": "2000 PO",
+    "eng": "Horseshoes of a Zephyr",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 350,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#wakened%20dragon-touched%20focus_ftd",
+    "item": "Foco Dracônico Despertado",
+    "value": "11000 PO",
+    "eng": "Wakened Dragon-Touched Focus",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 351,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#%2b3%20moon%20sickle_tce",
+    "item": "Foice da Lua +3",
+    "value": "11000 PO",
+    "eng": "Moon Sickle +3",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 352,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#%2b3%20bloodwell%20vial_tce",
+    "item": "Frasco Sanguíneo +3",
+    "value": "11000 PO",
+    "eng": "Bloodwell Vial +3",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 353,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#%2b3%20arcane%20grimoire_tce",
+    "item": "Grimório Arcano +3",
+    "value": "11000 PO",
+    "eng": "Arcane Grimoire +3",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 354,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#instrument%20of%20the%20bards%2c%20anstruth%20harp_dmg",
+    "item": "Instrumento dos Bardos, Harpa de Anstruth",
+    "value": "8000 PO",
+    "eng": "Instrument of the Bards, Anstruth Harp",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 355,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#dwarven%20thrower_dmg",
+    "item": "Martelo Anão",
+    "value": "6000 PO + Arma",
+    "eng": "Dwarven Thrower",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 356,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#bloodaxe_egw",
+    "item": "Machado de Sangue",
+    "value": "5000 PO + Arma",
+    "eng": "Bloodaxe",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 357,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#cloak%20of%20arachnida_dmg",
+    "item": "Manto da Aranha",
+    "value": "8000 PO",
+    "eng": "Cloak of Arachnida",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 358,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#mistral%20mantle_bgg",
+    "item": "Manto Ministral",
+    "value": "9000 PO",
+    "eng": "Mistral Mantle",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 359,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#manual%20of%20quickness%20of%20action_dmg",
+    "item": "Manual da Rapidez de Movimentos",
+    "value": "20000 PO",
+    "eng": "Manual of Quickness of Action",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 360,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#manual%20of%20bodily%20health_dmg",
+    "item": "Manual da Saúde Corporal",
+    "value": "20000 PO",
+    "eng": "Manual of Bodily Health",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 361,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#manual%20of%20gainful%20exercise_dmg",
+    "item": "Manual do Exercício Vantajoso",
+    "value": "20000 PO",
+    "eng": "Manual of Gainful Exercise",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 362,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#manual%20of%20clay%20golems_dmg",
+    "item": "Manual dos Golens de Argila",
+    "value": "65000 PO",
+    "eng": "Manual of Clay Golems",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 363,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#manual%20of%20flesh%20golems_dmg",
+    "item": "Manual dos Golens de Carne",
+    "value": "50000 PO",
+    "eng": "Manual of Flesh Golems",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 364,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#manual%20of%20iron%20golems_dmg",
+    "item": "Manual dos Golens de Ferro",
+    "value": "100000 PO",
+    "eng": "Manual of Iron Golems",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 365,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#manual%20of%20stone%20golems_dmg",
+    "item": "Manual dos Golens de Pedra",
+    "value": "80000 PO",
+    "eng": "Manual of Stone Golens",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 366,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#frost%20brand_dmg",
+    "item": "Marca Gélida",
+    "value": "5000 PO + Arma",
+    "eng": "Frost Brand",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 367,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#wyrmreaver%20gauntlets_bgg",
+    "item": "Manoplas do Matador de Dragão",
+    "value": "10000 PO",
+    "eng": "Wyrmreaver Gauntlets",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 368,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#wakened%20scaled%20ornament_ftd",
+    "item": "Ornamento de Escamas Despertadas",
+    "value": "11000 PO",
+    "eng": "Wakend Scale Ornament",
+    "reforge": "Sim",
+    "sint": "Sim"
+  },
+  {
+    "id": 369,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#ioun%20stone%2c%20absorption_dmg",
+    "item": "Pedra Ioun, Absorção",
+    "value": "5000 PO",
+    "eng": "Ioun Stone, Absorption",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 370,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#ioun%20stone%2c%20agility_dmg",
+    "item": "Pedra Ioun, Agilidade",
+    "value": "5000 PO",
+    "eng": "Ioun Stone, Agility",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 371,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#ioun%20stone%2c%20strength_dmg",
+    "item": "Pedra Ioun, Força",
+    "value": "5000 PO",
+    "eng": "Ioun Stone, Strength",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 372,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#ioun%20stone%2c%20fortitude_dmg",
+    "item": "Pedra Ioun, Fortaleza",
+    "value": "5000 PO",
+    "eng": "Ioun Stone, Fortitude",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 373,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#ioun%20stone%2c%20intellect_dmg",
+    "item": "Pedra Ioun, Intelecto",
+    "value": "5000 PO",
+    "eng": "Ioun Stone, Intellect",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 374,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#ioun%20stone%2c%20insight_dmg",
+    "item": "Pedra Ioun, Intuição",
+    "value": "5000 PO",
+    "eng": "Ioun Stone, Insight",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 375,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#ioun%20stone%2c%20leadership_dmg",
+    "item": "Pedra Ioun, Liderança",
+    "value": "5000 PO",
+    "eng": "Ioun Stone, Leadership",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 376,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#nolzur's%20marvelous%20pigments_dmg",
+    "item": "Pigmentos Maravilhosos de Nolzur",
+    "value": "5000 PO",
+    "eng": "Nolzur's Marvelous Pigments",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 377,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#robe%20of%20stars_dmg",
+    "item": "Manto das Estrelas",
+    "value": "10000 PO",
+    "eng": "Robe of Stars",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 378,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#robe%20of%20scintillating%20colors_dmg",
+    "item": "Manto das Cores Cintilantes",
+    "value": "10000 PO",
+    "eng": "Robe of Scintillating Colors",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 379,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#%2b3%20rhythm-maker's%20drum_tce",
+    "item": "Tambor Ritmista +3",
+    "value": "11000 PO",
+    "eng": "Rhythm-Maker's Drum +3",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 380,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#absorbing%20tattoo_tce",
+    "item": "Tatuagem de Absorção",
+    "value": "10000 PO",
+    "eng": "Absorbing Tattoo",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 381,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#barrier%20tattoo%20(large)_tce",
+    "item": "Tatuagem de Barreira (Grande)",
+    "value": "7000 PO",
+    "eng": "Barrier Tattoo (large)",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 382,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#thunderbuss_bgg",
+    "item": "Thunderbuss",
+    "value": "13000 PO",
+    "eng": "Thunderbuss",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 383,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#tome%20of%20understanding_dmg",
+    "item": "Tomo da Compreensão",
+    "value": "20000 PO",
+    "eng": "Tome of Understanding",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 384,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#tome%20of%20leadership%20and%20influence_dmg",
+    "item": "Tomo da Liderança e Influência",
+    "value": "20000 PO",
+    "eng": "Tome of Leadership and Influence",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 385,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#tome%20of%20clear%20thought_dmg",
+    "item": "Tomo dos Pensamentos Claros",
+    "value": "20000 PO",
+    "eng": "Tome of Clear Thought",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 386,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#raven's%20slumber_tdcsr",
+    "item": "Topor do Corvo",
+    "value": "5000 PO",
+    "eng": "Raven's Slumber",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 387,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#%2b3%20wand%20of%20the%20war%20mage_dmg",
+    "item": "Varinha do Mago da Guerra +3",
+    "value": "10000 PO",
+    "eng": "Wand of the War Mage +3",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 388,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#agony%20(exalted)_tdcsr",
+    "item": "Agonia (Exaltada)",
+    "value": "30000 PO",
+    "eng": "Agony",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 389,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#longbow%20of%20the%20healing%20hearth_bgg",
+    "item": "Arco Longo do Coração Caridoso",
+    "value": "20000 PO",
+    "eng": "Longbow of the Healing Heart",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 390,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#ascendant%20dragon's%20wrath%20weapon_ftd",
+    "item": "Arma da Ira do Dragão Ascendente",
+    "value": "25000 PO",
+    "eng": "Ascendant Dragon's Wrath Weapon",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 391,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#armor%20of%20invulnerability_dmg",
+    "item": "Armadura da Invulnerabilidade",
+    "value": "25000 PO",
+    "eng": "Armor of Invulnerability",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 392,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#armor%20of%20the%20valiant%20soul_tdcsr",
+    "item": "Armadura da Alma Valorosa (Exaltada)",
+    "value": "30000 PO",
+    "eng": "Armor of Valiant Soul",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 393,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#%2b3%20armor_dmg",
+    "item": "Armadura +3",
+    "value": "20000 PO + Armadura",
+    "eng": "Armor +3",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 394,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#well%20of%20many%20worlds_dmg",
+    "item": "Bem de Muitos Mundos",
+    "value": "20000 PO",
+    "eng": "Well of Many Worlds",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 395,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#kiss%20of%20the%20changebringer%20(exalted)_tdcsr",
+    "item": "Beijo da Portadora da Mudança (Exaltado)",
+    "value": "30000 PO",
+    "eng": "Kiss of the Changebringer",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 396,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#crystal%20ball%20of%20mind%20reading_dmg",
+    "item": "Bola de Cristal da Leitura de Mentes",
+    "value": "20000 PO",
+    "eng": "Crystal Ball of Mind Reading",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 397,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#circlet%20of%20barbed%20vision%20(exalted)_tdcsr",
+    "item": "Bracelete da Visão Farpada (Exaltado)",
+    "value": "30000 PO",
+    "eng": "Circlet of Barbed Vision",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 398,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#crystal%20ball%20of%20telepathy_dmg",
+    "item": "Bola de Cristal da Telepatia",
+    "value": "22000 PO",
+    "eng": "Crystal Ball of Telepathy",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 399,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#cloak%20of%20invisibility_dmg",
+    "item": "Capa da Invisibilidade",
+    "value": "25000 PO",
+    "eng": "Cloak of Invisibility",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 400,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#staff%20of%20the%20magi_dmg",
+    "item": "Cajado dos Magos",
+    "value": "30000 PO",
+    "eng": "Staff of the Magi",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 401,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#windvane_pota",
+    "item": "Cata-Vento",
+    "value": "25000 PO",
+    "eng": "Windvane",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 402,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#rod%20of%20resurrection_dmg",
+    "item": "Cetro de Ressureição",
+    "value": "22000 PO",
+    "eng": "Rod of Ressurection",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 403,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#korolnor%20scepter_skt",
+    "item": "Cetro Korolnor",
+    "value": "20000 PO",
+    "eng": "Korolnor Scepter",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 404,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#infiltrator's%20key%20(exalted)_egw",
+    "item": "Chave do Infiltrador (Exaltada)",
+    "value": "25000 PO",
+    "eng": "Infiltrator's Key (Exalted)",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 405,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#belt%20of%20cloud%20giant%20strength_dmg",
+    "item": "Cinturão da Força dos Gigantes das Nuvens",
+    "value": "35000 PO",
+    "eng": "Belt of Cloud Giant Strength",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 406,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#belt%20of%20storm%20giant%20strength_dmg",
+    "item": "Cinturão da Força do Gigante da Tempestade",
+    "value": "40000 PO",
+    "eng": "Belt of Storm Giant Strength",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 407,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#fane-eater_bgdia",
+    "item": "Comedora de Campos",
+    "value": "25000 PO",
+    "eng": "Fane-Eater",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 408,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#belashyrra's%20beholder%20crown_erlw",
+    "item": "Coroa do Beholder de Belashyrra",
+    "value": "25000 PO",
+    "eng": "Belashyrra's Beholder Crown",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 409,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#lost%20crown%20of%20besilmer_pota",
+    "item": "Coroa Perdida de Besilmer",
+    "value": "20000 PO",
+    "eng": "Lost Crown of Besilmer",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 410,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#wreath%20of%20the%20prism%20(exalted)_egw",
+    "item": "Guirlanda do Prisma (Exaltada)",
+    "value": "42000 PO",
+    "eng": "Wreath of the Prism (Exalted)",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 411,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#efreeti%20chain_dmg",
+    "item": "Corrente de Efreeti",
+    "value": "25000 PO",
+    "eng": "Efreeti Chain",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 412,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#condemner%20(exalted)_tdcsr",
+    "item": "Condenador (Exaltado)",
+    "value": "30000 PO",
+    "eng": "Condemner",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 413,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#defender_dmg",
+    "item": "Defensora",
+    "value": "25000 PO + Arma",
+    "eng": "Defender",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 414,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#scarab%20of%20protection_dmg",
+    "item": "Escaravelho de Proteção",
+    "value": "20000 PO",
+    "eng": "Scarab of Protection",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 415,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#shield%20of%20the%20blazing%20dreadnought_bgg",
+    "item": "Escudo do Encouraçado Ardente",
+    "value": "18000 PO",
+    "eng": "Shield of Blazing Dreadnought",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 416,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#vorpal%20sword_dmg",
+    "item": "Espada Vorpal",
+    "value": "25000 PO",
+    "eng": "Vorpal Sword",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 417,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#fenthras%20(exalted)_tdcsr",
+    "item": "Fenthras (Exaltada)",
+    "value": "30000 PO",
+    "eng": "Fenthras",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 418,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#ascendant%20dragon-touched%20focus_ftd",
+    "item": "Foco Dracônico Ascendente",
+    "value": "25000 PO",
+    "eng": "Ascendant Dragon-Touched Focus",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 419,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#mythcarver%20(exalted)_tdcsr",
+    "item": "Entalhadora de Mitos (Exaltada)",
+    "value": "30000 PO",
+    "eng": "Mythcarver",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 420,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#wraps%20of%20dyamak%20(exalted)_tdcsr",
+    "item": "Envoltórios de Dyamak (Exaltado)",
+    "value": "30000 PO",
+    "eng": "Wraps of Dyamak",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 421,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#iron%20flask_dmg",
+    "item": "Frasco de Ferro",
+    "value": "20000 PO",
+    "eng": "Iron Flask",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 422,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#reaper's%20scream_bgg",
+    "item": "Grito do Ceifador",
+    "value": "10000 PO",
+    "eng": "Reaper's Scream",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 423,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#instrument%20of%20the%20bards%2c%20ollamh%20harp_dmg",
+    "item": "Instrumento dos Bardos, Harpa de Ollamh",
+    "value": "20000 PO",
+    "eng": "Instrument of the Bards, Ollamh Harp",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 424,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#gloves%20of%20soul%20catching_cm",
+    "item": "Luva Apanhadora de Almas",
+    "value": "30000 PO",
+    "eng": "Gloves of Soul Catching",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 425,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#robe%20of%20the%20archmagi_dmg",
+    "item": "Manto do Arquimago",
+    "value": "25000 PO",
+    "eng": "Robe of the Archmage",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 426,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#pyremaul%20(exalted)_tdcsr",
+    "item": "Malho Incandescente (Exaltado)",
+    "value": "30000 PO",
+    "eng": "Pyremaul",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 427,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#hammer%20of%20thunderbolts_dmg",
+    "item": "Martelo de Raios",
+    "value": "20000 PO",
+    "eng": "Hammer of Thunderbolts",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 428,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#blue%20dragon%20mask_rotos",
+    "item": "Mascara do Dragão Azul",
+    "value": "22000 PO",
+    "eng": "Blue Dragon Mask",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 429,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#white%20dragon%20mask_rotos",
+    "item": "Mascara do Dragão Branco",
+    "value": "25000 PO",
+    "eng": "White Dragon Mask",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 430,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#black%20dragon%20mask_hotdq",
+    "item": "Mascara do Dragão Negro",
+    "value": "22000 PO",
+    "eng": "Black Dragon Mask",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 431,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#green%20dragon%20mask_rotos",
+    "item": "Mascara do Dragão Verde",
+    "value": "22000 PO",
+    "eng": "Green Dragon Mask",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 432,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#star%20razor_tdcsr",
+    "item": "Navalha Estelar",
+    "value": "30000 PO",
+    "eng": "Star Razor",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 433,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#ascendant%20scaled%20ornament_ftd",
+    "item": "Ornamento de Escamas Ascendente",
+    "value": "25000 PO",
+    "eng": "Ascendant Scale Ornament",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 434,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#stonebreaker's%20breastplate_bgg",
+    "item": "Peitoral do Quebra-Rocha",
+    "value": "24000 PO",
+    "eng": "Stonebreaker's Breastplate",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 435,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#spire%20of%20conflux%20(exalted)_tdcsr",
+    "item": "Pináculo do Confluxo (Exaltado)",
+    "value": "30000 PO",
+    "eng": "Spire of Conflux",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 436,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#nether%20scroll%20of%20azumar_cm",
+    "item": "Pergaminho Etéreo de Azumar",
+    "value": "30000 PO",
+    "eng": "Nether Scroll of Azumar",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 437,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#nightfall%20pearl_egw",
+    "item": "Pérola do Anoitecer",
+    "value": "20000 PO",
+    "eng": "Nightfall Pearl",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 438,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#obsidian%20flint%20dragon%20plate_bgdia",
+    "item": "Placas do Dragão Obsidiano",
+    "value": "20000 PO",
+    "eng": "Obsidian Flint Dragon Plate",
+    "reforge": "",
+    "sint": ""
+  },
+  {
+    "id": 439,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#plate%20of%20the%20dawnmartyr%20(exalted)_tdcsr",
+    "item": "Placas do Mártir da Alvorada (Exaltada)",
+    "value": "30000 PO",
+    "eng": "Plate of the Dawnmartyr",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 440,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#deathwalker's%20ward_tdcsr",
+    "item": "Proteção do Caminhante da Morte",
+    "value": "30000 PO",
+    "eng": "Deathwalker's Ward",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 441,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#cabal's%20ruin%20(exalted)_tdcsr",
+    "item": "Ruína da Cabala (Exaltada)",
+    "value": "30000 PO",
+    "eng": "Cabal's Ruin",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 442,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#titanstone%20knuckles%20(exalted)_tdcsr",
+    "item": "Soqueiras do Titã de Pedra (Exaltada)",
+    "value": "40000 PO",
+    "eng": "Titanstone Knucles",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 443,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#stormgirdle%20(exalted)_egw",
+    "item": "Stormgirdle (Exaltado)",
+    "value": "45000 PO",
+    "eng": "Stormgirdle",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 444,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#whisper%20(exalted)_tdcsr",
+    "item": "Sussurro (Exaltado)",
+    "value": "30000 PO",
+    "eng": "Whisper",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 445,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#blood%20fury%20tattoo_tce",
+    "item": "Tatuagem da Fúria por Sangue",
+    "value": "25000 PO",
+    "eng": "Blood Fury Tattoo",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 446,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#honor's%20last%20stand_tdcsr",
+    "item": "Ultima Resistência de Honor",
+    "value": "30000 PO",
+    "eng": "Honor's Last Stand",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 447,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#verminshroud%20(exalted)_egw",
+    "item": "Verminshroud (Exaltado)",
+    "value": "40000 PO",
+    "eng": "Verminshroud (Exalted)",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 448,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#holy%20avenger_dmg",
+    "item": "Vingadora Sagrada",
+    "value": "25000 PO",
+    "eng": "Holy Avenger",
+    "reforge": "",
+    "sint": "Sim"
+  },
+  {
+    "id": 449,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#danoth's%20visor%20(exalted)_egw",
+    "item": "Visor de Danoth (Exaltado)",
+    "value": "40000 PO",
+    "eng": "Danoth's Visor (Exalted)",
+    "reforge": "",
+    "sint": "Sim"
+  }
+]

@@ -1,0 +1,39 @@
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: .5em;
+  border: solid 1px var(--title-color);
+  width: 150px;
+  height: 150px;
+  font-size: 1.2em;
+  transition: height .3s ease-in-out, width .3s ease-in-out;
+}
+
+.card svg {
+  font-size: 2em;
+}
+
+.card:hover {
+  width: 175px;
+  height: 175px;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 480px) {
+  .card {
+    width: 100px;
+    height: 100px;
+    font-size: 1em;
+  }
+
+  .card svg {
+    font-size: 2em;
+  }
+
+  .card:hover {
+    width: 125px;
+    height: 125px;
+  }
+}

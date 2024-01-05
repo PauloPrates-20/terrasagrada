@@ -27,7 +27,7 @@ body {
 
 .main_container {
   color: var(--text-color);
-  min-height: 50vh;
+  min-height: 120dvh;
   margin-top: 15em;
   margin-bottom: 10em;
   padding: 1em 1em;

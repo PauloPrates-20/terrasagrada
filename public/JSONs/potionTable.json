@@ -1,0 +1,317 @@
+[
+  {
+    "id": 0,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#spell%20scroll%20(cantrip)_dmg",
+    "item": "Pergaminho de Magia (Truque)",
+    "value": "50 PO"
+  },
+  {
+    "id": 1,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#feather%20token_erlw",
+    "item": "Insígnia de Pena",
+    "value": "100 PO"
+  },
+  {
+    "id": 2,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#alchemist's%20fire%20(flask)_phb",
+    "item": "Fogo Alquímico",
+    "value": "50 PO"
+  },
+  {
+    "id": 3,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#potion%20of%20climbing_dmg",
+    "item": "Poção de Escalar",
+    "value": "30 PO"
+  },
+  {
+    "id": 4,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#potion%20of%20healing_dmg",
+    "item": "Poção de Cura",
+    "value": "50 PO"
+  },
+  {
+    "id": 5,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#walloping%20ammunition_xge",
+    "item": "Munição Colossal",
+    "value": "3 PO (peça)"
+  },
+  {
+    "id": 6,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#spell%20scroll%20(1st%20level)_dmg",
+    "item": "Pergaminho de Magia (Nível 1)",
+    "value": "100 PO"
+  },
+  {
+    "id": 7,
+    "tier": "comum",
+    "ref": "https://5e.tools/items.html#perfume%20of%20bewitching_xge",
+    "item": "Perfume do Encantamento",
+    "value": "100 PO"
+  },
+  {
+    "id": 8,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#conch%20of%20safe%20rest_ttp",
+    "item": "Concha do Descanso",
+    "value": "300 PO"
+  },
+  {
+    "id": 9,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#potion%20of%20animal%20friendship_dmg",
+    "item": "Poção de Amizade Animal",
+    "value": "75 PO"
+  },
+  {
+    "id": 10,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#potion%20of%20poison_dmg",
+    "item": "Poção de Envenenamento",
+    "value": "100 PO"
+  },
+  {
+    "id": 11,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#potion%20of%20resistance_dmg",
+    "item": "Poção de Resistência",
+    "value": "100 PO"
+  },
+  {
+    "id": 12,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#potion%20of%20fire%20breath_dmg",
+    "item": "Poção do Sopro de Fogo",
+    "value": "100 PO"
+  },
+  {
+    "id": 13,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#spell%20scroll%20(2nd%20level)_dmg",
+    "item": "Pergaminho de Magia (Nível 2)",
+    "value": "250 PO"
+  },
+  {
+    "id": 14,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#potion%20of%20growth_dmg",
+    "item": "Poção de Aumentar",
+    "value": "200 PO"
+  },
+  {
+    "id": 15,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#potion%20of%20greater%20healing_dmg",
+    "item": "Poção de Cura Maior",
+    "value": "150 PO"
+  },
+  {
+    "id": 16,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#spell%20scroll%20(3rd%20level)_dmg",
+    "item": "Pergaminho de Magia (Nível 3)",
+    "value": "350 PO"
+  },
+  {
+    "id": 17,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#oil%20of%20slipperiness_dmg",
+    "item": "Óleo Escorregadio",
+    "value": "300 PO"
+  },
+  {
+    "id": 18,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#%2b1%20ammunition_dmg",
+    "item": "Munição +1",
+    "value": "10 PO (peça)"
+  },
+  {
+    "id": 19,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#potion%20of%20water%20breathing_dmg",
+    "item": "Poção de Respirar na Água",
+    "value": "50 PO"
+  },
+  {
+    "id": 20,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#philter%20of%20love_dmg",
+    "item": "Filtro do Amor",
+    "value": "100 PO"
+  },
+  {
+    "id": 21,
+    "tier": "incomum",
+    "ref": "https://5e.tools/items.html#elemental%20gem_dmg",
+    "item": "Gema Elemental",
+    "value": "900 PO"
+  },
+  {
+    "id": 22,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#%2b2%20ammunition_dmg",
+    "item": "Munição +2",
+    "value": "25 PO (peça)"
+  },
+  {
+    "id": 23,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#elixir%20of%20health_dmg",
+    "item": "Elixir da Saúde",
+    "value": "300 PO"
+  },
+  {
+    "id": 24,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#potion%20of%20diminution_dmg",
+    "item": "Poção de Encolher",
+    "value": "100 PO"
+  },
+  {
+    "id": 25,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#potion%20of%20mind%20reading_dmg",
+    "item": "Poção de Ler Mentes",
+    "value": "150 PO"
+  },
+  {
+    "id": 26,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#potion%20of%20invulnerability_dmg",
+    "item": "Poção de Invulnerabilidade",
+    "value": "1600 PO"
+  },
+  {
+    "id": 27,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#scroll%20of%20protection_dmg",
+    "item": "Pergaminho de Proteção",
+    "value": "300 PO"
+  },
+  {
+    "id": 28,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#potion%20of%20vitality_dmg",
+    "item": "Poção de Vitalidade",
+    "value": "300 PO"
+  },
+  {
+    "id": 29,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#potion%20of%20gaseous%20form_dmg",
+    "item": "Poção de Forma Gasosa",
+    "value": "400 PO"
+  },
+  {
+    "id": 30,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#spell%20scroll%20(4th%20level)_dmg",
+    "item": "Pergaminho de Magia (Nível 4)",
+    "value": "450 PO"
+  },
+  {
+    "id": 31,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#potion%20of%20clairvoyance_dmg",
+    "item": "Poção de Clarividência",
+    "value": "400 PO"
+  },
+  {
+    "id": 32,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#spell%20scroll%20(5th%20level)_dmg",
+    "item": "Pergaminho de Magia (Nível 5)",
+    "value": "800 PO"
+  },
+  {
+    "id": 33,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#potion%20of%20heroism_dmg",
+    "item": "Poção do Heroísmo",
+    "value": "400 PO"
+  },
+  {
+    "id": 34,
+    "tier": "raro",
+    "ref": "https://5e.tools/items.html#potion%20of%20superior%20healing_dmg",
+    "item": "Poção de Cura Superior",
+    "value": "500 PO"
+  },
+  {
+    "id": 35,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#spell%20scroll%20(6th%20level)_dmg",
+    "item": "Pergaminho de Magia (Nível 6)",
+    "value": "1200 PO"
+  },
+  {
+    "id": 36,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#potion%20of%20supreme%20healing_dmg",
+    "item": "Poção de Cura Suprema",
+    "value": "1500 PO"
+  },
+  {
+    "id": 37,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#potion%20of%20invisibility_dmg",
+    "item": "Poção de Invisibilidade",
+    "value": "300 PO"
+  },
+  {
+    "id": 38,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#%2b3%20ammunition_dmg",
+    "item": "Munição +3",
+    "value": "40 PO (peça)"
+  },
+  {
+    "id": 39,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#spell%20scroll%20(7th%20level)_dmg",
+    "item": "Pergaminho de Mágia (Nível 7)",
+    "value": "1800 PO"
+  },
+  {
+    "id": 40,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#potion%20of%20speed_dmg",
+    "item": "Poção de Velocidade",
+    "value": "1000 PO"
+  },
+  {
+    "id": 41,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#potion%20of%20flying_dmg",
+    "item": "Poção de Vôo",
+    "value": "1000 PO"
+  },
+  {
+    "id": 42,
+    "tier": "muRaro",
+    "ref": "https://5e.tools/items.html#arrow%20of%20slaying%20(*)_dmg",
+    "item": "Flecha Assassina",
+    "value": "600 PO (peça)"
+  },
+  {
+    "id": 43,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#spell%20scroll%20(8th%20level)_dmg",
+    "item": "Pergaminho de Mágia (Nível 8)",
+    "value": "5000 PO"
+  },
+  {
+    "id": 44,
+    "tier": "lendario",
+    "ref": "https://5e.tools/items.html#spell%20scroll%20(9th%20level)_dmg",
+    "item": "Pergaminho de Magia (Nível 9)",
+    "value": "10000 PO"
+  }
+]
