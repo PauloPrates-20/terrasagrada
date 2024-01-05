@@ -64,7 +64,7 @@ export default function Navbar() {
             <Link href='/ferramentas/calculadorahp'>Calculadora de HP</Link>
             <Link href='/ferramentas/conjurador'>Nível de Conjurador</Link>
             <Link href='/ferramentas/grimorio'>Grimório do Mago</Link>
-            <Link href='/ferramentas/crafting'>Criação de Itens</Link>
+            <Link href='/ferramentas/crafting'>Calculadora do Artesão</Link>
           </div>
         </div>
       </nav>
