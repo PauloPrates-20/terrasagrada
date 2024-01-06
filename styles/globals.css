@@ -4,6 +4,12 @@
   --text-color: #ebcda9;
   --title-color: #d6a659;
   --bar-hov: #5575c77f;
+  --comum: #fff;
+  --incomum: #16cf05;
+  --raro: #4494fd;
+  --muRaro: #a555db;
+  --lendario: #ff7b00;
+  --gold: #ffbb33;
 }
 
 :root {

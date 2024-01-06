@@ -16,9 +16,7 @@ export default function Mounts({ data }) {
   return (
     <main className={styles.main_container}>
       <h1>Lista de Montarias</h1>
-      <div className={`${styles.comum} ${styles.table_container}`}>
-        <MinorTable content={data} tier='comum' />
-      </div>
+      <MinorTable content={data} tier='comum' type='horse' />
     </main>
   )
 }
