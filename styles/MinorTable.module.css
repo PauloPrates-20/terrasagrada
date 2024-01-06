@@ -1,0 +1,18 @@
+.itemTable, .tableHead th, .tableBody td {
+  border: solid 1px var(--title-color);
+  border-collapse: collapse;
+  padding: .5em;
+}
+
+.itemTable a {
+  text-decoration: none;
+  color: var(--text-color)
+}
+
+.itemTable th {
+  color: #ffbb33;
+}
+
+.tableBody tr td:nth-child(2) {
+  color: #ffbb33;
+}

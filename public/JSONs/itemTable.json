@@ -2052,6 +2052,7 @@
   {
     "id": 205,
     "tier": "raro",
+    "ref": "https://5e.tools/items.html#boots%20of%20levitation_dmg",
     "item": "Botas de Levitação",
     "value": "15 PO (Traje Elegante)",
     "eng": "Boots of Levitation",
@@ -2661,6 +2662,7 @@
   {
     "id": 266,
     "tier": "raro",
+    "ref": "https://5e.tools/items.html#gauntlets%20of%20flaming%20fury_bgdia",
     "item": "Manoplas da Fúria Flamejante",
     "value": "4000 PO",
     "eng": "Gauntlets of Flaming Fury",
@@ -2870,6 +2872,7 @@
   {
     "id": 287,
     "tier": "raro",
+    "ref": "https://5e.tools/items.html#knave's%20eye%20patch_wdh",
     "item": "Tapa-Olho do Knave",
     "value": "3000 PO",
     "eng": "Knave's Eye Patch",
@@ -2889,6 +2892,7 @@
   {
     "id": 289,
     "tier": "raro",
+    "ref": "https://5e.tools/items.html#shadowfell%20brand%20tattoo_tce",
     "item": "Tatuagem do Plano das Sombras",
     "value": "6000 PO",
     "eng": "Shadowfell Brand Tattoo",

@@ -8,7 +8,7 @@
   width: 150px;
   height: 150px;
   font-size: 1.2em;
-  transition: height .3s ease-in-out, width .3s ease-in-out;
+  transition: height .3s ease-in-out, width .3s ease-in-out, font-size .3s ease-in-out;
 }
 
 .card svg {
@@ -16,6 +16,7 @@
 }
 
 .card:hover {
+  font-size: 1.4em;
   width: 175px;
   height: 175px;
   cursor: pointer;
@@ -33,6 +34,7 @@
   }
 
   .card:hover {
+    font-size: 1.2em;
     width: 125px;
     height: 125px;
   }
