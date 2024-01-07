@@ -4,15 +4,18 @@ import MinorTable from '@/components/MinorTable'
 
 import styles from '@/styles/ListPage.module.css'
 
-export async function getStaticProps() {
-  const data = await getData('Montarias', 'comum')
+// test data
+const data = [{id: 0, item: 'teste', tier: 'teste', url: 'www.google.com', value: 'teste'}]
 
-  return {
-    props: { data }
-  }
-}
+// export async function getStaticProps() {
+//   const data = await getData('Montarias', 'comum')
 
-export default function Mounts({ data }) {
+//   return {
+//     props: { data }
+//   }
+// }
+
+export default function Mounts() {
   return (
     <main className={styles.main_container}>
       <h1>Lista de Montarias</h1>

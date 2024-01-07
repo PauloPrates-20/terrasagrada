@@ -3,26 +3,36 @@ import MinorTable from "@/components/MinorTable"
 
 import styles from '@/styles/ListPage.module.css'
 
-export async function getStaticProps() {
-  const tiers = ['comum', 'incomum', 'raro', 'muRaro', 'lendario']
-  const commonData = await getData('Consumiveis', tiers[0])
-  const uncommonData = await getData('Consumiveis', tiers[1])
-  const rareData = await getData('Consumiveis', tiers[2])
-  const veryRareData = await getData('Consumiveis', tiers[3])
-  const legendaryData = await getData('Consumiveis', tiers[4])
+// test data
 
-  return {
-    props: {
-      commonData,
-      uncommonData,
-      rareData,
-      veryRareData,
-      legendaryData
-    }
-  }
-}
+const data = [{id: 0, item: 'teste', tier: 'teste', url: 'www.google.com', value: 'teste'}]
 
-export default function Consumables({ commonData, uncommonData, rareData, veryRareData, legendaryData }) {
+const commonData = data
+const uncommonData = data
+const rareData = data
+const veryRareData = data
+const legendaryData = data
+
+// export async function getStaticProps() {
+//   const tiers = ['comum', 'incomum', 'raro', 'muRaro', 'lendario']
+//   const commonData = await getData('Consumiveis', tiers[0])
+//   const uncommonData = await getData('Consumiveis', tiers[1])
+//   const rareData = await getData('Consumiveis', tiers[2])
+//   const veryRareData = await getData('Consumiveis', tiers[3])
+//   const legendaryData = await getData('Consumiveis', tiers[4])
+
+//   return {
+//     props: {
+//       commonData,
+//       uncommonData,
+//       rareData,
+//       veryRareData,
+//       legendaryData
+//     }
+//   }
+// }
+
+export default function Consumables() {
   return (
     <main className={styles.main_container}>
       <h1>Lista de Consumíveis</h1>

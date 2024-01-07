@@ -1,6 +1,6 @@
 .main_header {
   --menu-width: 280px;
-  position: fixed;
+  position: relative;
   top: 0;
   background: var(--bar-color);
   width: 100%;
