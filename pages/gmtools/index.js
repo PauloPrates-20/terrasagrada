@@ -14,12 +14,12 @@ export default function GmTools() {
   }, [user, loading])
 
   return (
-    <main>
+    <div>
       {!user ? (
         <h1>Redirecionando...</h1>
       ) : (
         <h1>Ferramentas de Mestre</h1>
       )}
-    </main>
+    </div>
   )
 }

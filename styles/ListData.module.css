@@ -1,0 +1,54 @@
+.comum p:not(.gold) {
+  color: var(--comum);
+}
+
+.incomum p:not(.gold) {
+  color: var(--incomum);
+}
+
+.raro p:not(.gold) {
+  color: var(--raro);
+}
+
+.muRaro p:not(.gold) {
+  color: var(--muRaro);
+}
+
+.lendario p:not(.gold) {
+  color: var(--lendario);
+}
+
+.gold {
+  text-align: end;
+  color: var(--gold);
+}
+
+.list_item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: .2em .5em;
+  font-size: 1.1em;
+}
+
+.list_item:hover {
+  cursor: pointer;
+  box-shadow: 0 0 24px 8px var(--bar-hov) inset;
+}
+
+.list_item p:not(.gold) {
+  text-align: start;
+}
+
+.icon {
+  font-size: 1.5em;
+  color: var(--title-color);
+  vertical-align: middle;
+  padding-right: .3em;
+}
+
+@media screen and (max-width: 480px) {
+  .list_item {
+    font-size: .8em;
+  }
+}

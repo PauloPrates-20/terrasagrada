@@ -1,7 +1,7 @@
 export default function Crafting() {
   return (
-    <main>
+    <div>
       <h1>Página de Crafting</h1>
-    </main>
+    </div>
   )
 }

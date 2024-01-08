@@ -1,47 +1,57 @@
 import { getData } from "@/lib/getDbData"
-import MinorTable from "@/components/MinorTable"
 
-import styles from '@/styles/ListPage.module.css'
+import ListPage from "@/components/ListPage"
 
 // test data
 
-const data = [{id: 0, item: 'teste', reforge: 'teste', sint: 'teste', tier: 'teste', url: 'www.google.com', value: 'teste', english: 'teste'}]
-const commonData = data
-const uncommonData = data
-const rareData = data
-const veryRareData = data
-const legendaryData = data
+// const data = [{id: 0, item: 'teste', reforge: 'teste', sint: 'teste', tier: 'teste', url: 'https://www.google.com', value: 'teste', english: 'teste'},
+// ]
+// const commonData = data
+// const uncommonData = data
+// const rareData = data
+// const veryRareData = data
+// const legendaryData = [
+//   {id: 0, item: 'teste', reforge: 'teste', sint: 'teste', tier: 'teste', url: 'www.google.com', value: 'teste', english: 'teste'},
+//   {id: 1, item: 'teste', reforge: 'teste', sint: 'teste', tier: 'lendario', url: 'www.google.com', value: '50000 PO', english: 'teste'}
+// ]
 
-// export async function getStaticProps() {
-//   const tiers = ['comum', 'incomum', 'raro', 'muRaro', 'lendario']
-//   const commonData = await getData('ItensMagicos', tiers[0])
-//   const uncommonData = await getData('ItensMagicos', tiers[1])
-//   const rareData = await getData('ItensMagicos', tiers[2])
-//   const veryRareData = await getData('ItensMagicos', tiers[3])
-//   const legendaryData = await getData('ItensMagicos', tiers[4])
+// const dataSet = [
+//   {id: 0, docData: commonData, tier: 'comum'},
+//   {id: 1, docData: uncommonData, tier: 'incomum'},
+//   {id: 2, docData: rareData, tier: 'raro'},
+//   {id: 3, docData: veryRareData, tier: 'muRaro'},
+//   {id: 4, docData: legendaryData, tier: 'lendario'}
+// ]
 
-//   return {
-//     props: {
-//       commonData,
-//       uncommonData,
-//       rareData,
-//       veryRareData,
-//       legendaryData
-//     }
-//   }
-// }
+// real data
 
-export default function MagicItems() {
+export async function getStaticProps() {
+  const tiers = ['comum', 'incomum', 'raro', 'muRaro', 'lendario']
+  const commonData = await getData('ItensMagicos', tiers[0])
+  const uncommonData = await getData('ItensMagicos', tiers[1])
+  const rareData = await getData('ItensMagicos', tiers[2])
+  const veryRareData = await getData('ItensMagicos', tiers[3])
+  const legendaryData = await getData('ItensMagicos', tiers[4])
+
+  const dataSet = [
+    { id: 0, docData: commonData, tier: 'comum' },
+    { id: 1, docData: uncommonData, tier: 'incomum' },
+    { id: 2, docData: rareData, tier: 'raro' },
+    { id: 3, docData: veryRareData, tier: 'muRaro' },
+    { id: 4, docData: legendaryData, tier: 'lendario' }
+  ]
+
+  return {
+    props: {
+      dataSet
+    }
+  }
+}
+
+export default function MagicItems({ dataSet }) {
   return (
-    <main className={styles.main_container}>
-      <h1>Lista de Itens Mágicos</h1>
-      <div className={styles.table_container}>
-        <MinorTable content={commonData} tier='comum' type='magic' />
-        <MinorTable content={uncommonData} tier='incomum' type='magic' />
-        <MinorTable content={rareData} tier='raro' type='magic' />
-        <MinorTable content={veryRareData} tier='muRaro' type='magic' />
-        <MinorTable content={legendaryData} tier='lendario' type='magic' />
-      </div>
-    </main>
+    <>
+      <ListPage data={dataSet} title='Itens Mágicos' type='magic' />
+    </>
   )
 }

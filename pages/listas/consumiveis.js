@@ -1,17 +1,23 @@
+import ListPage from "@/components/ListPage"
 import { getData } from "@/lib/getDbData"
-import MinorTable from "@/components/MinorTable"
-
-import styles from '@/styles/ListPage.module.css'
 
 // test data
 
-const data = [{id: 0, item: 'teste', tier: 'teste', url: 'www.google.com', value: 'teste'}]
+const data = [{ id: 0, item: 'teste', tier: 'teste', url: 'www.google.com', value: 'teste' }]
 
 const commonData = data
 const uncommonData = data
 const rareData = data
 const veryRareData = data
 const legendaryData = data
+
+const dataSet = [
+  { id: 0, docData: commonData, tier: 'comum' },
+  { id: 1, docData: uncommonData, tier: 'incomum' },
+  { id: 2, docData: rareData, tier: 'raro' },
+  { id: 3, docData: veryRareData, tier: 'muRaro' },
+  { id: 4, docData: legendaryData, tier: 'lendario' }
+]
 
 // export async function getStaticProps() {
 //   const tiers = ['comum', 'incomum', 'raro', 'muRaro', 'lendario']
@@ -34,15 +40,8 @@ const legendaryData = data
 
 export default function Consumables() {
   return (
-    <main className={styles.main_container}>
-      <h1>Lista de Consumíveis</h1>
-      <div className={styles.table_container}>
-        <MinorTable content={commonData} tier='comum' type='potion' />
-        <MinorTable content={uncommonData} tier='incomum' type='potion' />
-        <MinorTable content={rareData} tier='raro' type='potion' />
-        <MinorTable content={veryRareData} tier='muRaro' type='potion' />
-        <MinorTable content={legendaryData} tier='lendario' type='potion' />
-      </div>
-    </main>
+    <>
+      <ListPage data={dataSet} type='potion' title='Consumíveis' />
+    </>
   )
 }

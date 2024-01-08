@@ -23,42 +23,28 @@
   font-size: 1.4em;
 }
 
-.itemTable, .itemTable tr {
-  width: 100%;
-}
-
 .main_container button:hover {
   background-color: #222;
   cursor: pointer;
 }
 
-.itemTable, .tableHead th, .tableBody td {
-  border: solid 1px var(--title-color);
-  border-collapse: collapse;
-  padding: .5em;
-}
-
-.itemTable th {
-  color: var(--gold);
-}
-
-.comum, .comum a, .comum td:not(.gold) {
+.comum {
   color: var(--comum);
 }
 
-.incomum, .incomum a, .incomum td:not(.gold) {
+.incomum {
   color: var(--incomum);
 }
 
-.raro, .raro a, .raro td:not(.gold) {
+.raro {
   color: var(--raro);
 }
 
-.muRaro, .muRaro a, .muRaro td:not(.gold) {
+.muRaro {
   color: var(--muRaro);
 }
 
-.lendario, .lendario a, .lendario td:not(.gold) {
+.lendario {
   color: var(--lendario);
 }
 
@@ -66,13 +52,8 @@
   color: var(--gold);
 }
 
-.collapsed {
+.list_container {
   width: 100%;
-  max-height: 0;
   overflow: hidden;
-}
-
-.expanded {
-  width: 100%;
-  max-height: fit-content;
+  transition: height .3s ease-in;
 }

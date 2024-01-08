@@ -20,6 +20,7 @@
   width: 175px;
   height: 175px;
   cursor: pointer;
+  box-shadow: 0 0 36px 12px var(--bar-hov) inset;
 }
 
 @media screen and (max-width: 480px) {

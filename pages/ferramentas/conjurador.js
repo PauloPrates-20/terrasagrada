@@ -1,7 +1,7 @@
 export default function Caster() {
   return (
-    <main>
+    <div>
       <h1>Página de Caster</h1>
-    </main>
+    </div>
   )
 }

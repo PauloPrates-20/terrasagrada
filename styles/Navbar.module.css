@@ -106,7 +106,7 @@
 }
 
 .dropdown a:hover, .drop_toggle:not(#exclude):hover {
-  background-color: var(--bar-hov);
+  box-shadow: 0 0 24px 8px var(--bar-hov) inset;
 }
 
 .drop_toggle {

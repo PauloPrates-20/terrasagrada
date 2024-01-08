@@ -3,7 +3,7 @@
   --bar-color: rgba(11,10,19,0.5);
   --text-color: #ebcda9;
   --title-color: #d6a659;
-  --bar-hov: #5575c77f;
+  --bar-hov: #4406067f;
   --comum: #fff;
   --incomum: #16cf05;
   --raro: #4494fd;
@@ -27,8 +27,9 @@
 
 body {
   background-color: var(--bg-color);
-  background: url('/images/bg.jpg');
+  background-image: url('/images/bg.jpg');
   background-size: cover;
+  background-attachment: fixed;
 }
 
 .main_container {

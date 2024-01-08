@@ -39,7 +39,7 @@ export default function Home() {
   }
 
   return (
-    <main className={styles.page_container}>
+    <div className={styles.page_container}>
       <div className={styles.main_container}>
         <h1>Bem Vindo à <span>Terra Sagrada!</span></h1>
         <p>
@@ -68,6 +68,6 @@ export default function Home() {
           </div>
         </div>
       </div>
-    </main>
+    </div>
   )
 }
