@@ -1,4 +1,4 @@
-import {GiHearts, GiSparkles, GiSwordSmithing, GiBookCover} from 'react-icons/gi'
+import {GiHearts, GiSparkles, GiAnvilImpact, GiBookCover} from 'react-icons/gi'
 
 import Link from "next/link"
 import ListCard from "./ListCard"
@@ -13,7 +13,7 @@ export default function Ferramentas({ clickHandler }) {
         <ListCard icon={<GiSparkles />} text='Nível de Conjurador' clickHandler={clickHandler} />
       </Link>
       <Link href='/ferramentas/crafting'>
-        <ListCard icon={<GiSwordSmithing />} text='Calculadora do Artesão' clickHandler={clickHandler} />
+        <ListCard icon={<GiAnvilImpact />} text='Calculadora do Artesão' clickHandler={clickHandler} />
       </Link>
       <Link href='/ferramentas/grimorio'>
         <ListCard icon={<GiBookCover />} text='Grimório do Mago' clickHandler={clickHandler} />

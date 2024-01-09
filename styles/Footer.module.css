@@ -14,6 +14,11 @@
   font-weight: bold;
 }
 
+.footer a {
+  text-decoration: none;
+  color: var(--title-color);
+}
+
 .footer span:not(.symbol) {
   justify-self: center;
   align-items: center;

@@ -9,8 +9,10 @@ export default function Footer() {
     <footer className={styles.footer}>
       <h3>
         O site oficial do servidor <span>Terra Sagrada</span> no
+        <a target='_blank' href="https://discord.gg/nTqkZtZFGE">
           <span> Discord</span>
           <span className={styles.symbol}><FaDiscord /></span>
+        </a>
       </h3>
       <div className={styles.minor}>
         <p>
