@@ -55,5 +55,12 @@
 .list_container {
   width: 100%;
   overflow: hidden;
-  transition: height .3s ease-in;
+}
+
+.collapsed {
+  max-height: 0;
+}
+
+.expanded {
+  max-height: fit-content;
 }

@@ -28,7 +28,7 @@
   justify-content: space-between;
   align-items: center;
   padding: .2em .5em;
-  font-size: 1.1em;
+  font-size: .9em;
 }
 
 .list_item:hover {
@@ -38,6 +38,10 @@
 
 .list_item p:not(.gold) {
   text-align: start;
+}
+
+.text {
+  width: 60%;
 }
 
 .icon {
