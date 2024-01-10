@@ -1,0 +1,21 @@
+.slot_frame {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: .1em;
+  gap: .5em;
+}
+
+.slot_card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: solid 1px var(--title-color);
+  padding: .3em .3em;
+  border-radius: 5px;
+}
+
+.card_header {
+  border-bottom: solid 1px var(--title-color);
+}
