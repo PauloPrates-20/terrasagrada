@@ -4,16 +4,29 @@ import FormSelect from '@/components/FormSelect'
 import FormInput from '@/components/FormInput'
 
 import styles from '@/styles/HpCalculator.module.css'
+import MultiClasse from '@/components/MultiClasse'
 
-function calcOut(dice, lvl, con, dragon, dwarf, feat) {
+function calcOut(dice, lvl, con, dragon, dwarf, feat, multDice, multLvl) {
   let out = 0
   let firstHp = (dice + con + dragon + dwarf + feat)
   let nextHp = ((dice / 2 + 1) + con + dragon + feat + dwarf)
-  if (lvl == 1) {
+  let multOneHp = 0
+  if (multDice.one != 0) {
+    multOneHp = ((multDice.one / 2) + 1 + con + dragon + dwarf + feat) * multLvl.one
+  }
+  let multTwoHp = 0
+  if (multDice.two != 0) {
+    multTwoHp = ((multDice.two / 2) + 1 + con + dragon + dwarf + feat) * multLvl.two
+  }
+  let multThreeHp = 0
+  if (multDice.three != 0) {
+    multThreeHp = ((multDice.three / 2) + 1 + con + dragon + dwarf + feat) * multLvl.three
+  }
+  if (lvl == 1 && multDice.one == 0) {
     out = firstHp
   }
   else {
-    out = firstHp + (nextHp * (lvl - 1))
+    out = firstHp + (nextHp * (lvl - 1)) + multOneHp + multTwoHp + multThreeHp
   }
 
   return [out, firstHp, nextHp]
@@ -52,7 +65,10 @@ export default function HpCalculator() {
     patrulheiro: 10
   }
 
-  const [playerClass, setPlayerClass] = useState('Artifice')
+  const [playerClass, setPlayerClass] = useState('artifice')
+  const [multClass, setMultClass] = useState({ one: 'none', two: 'none', three: 'none' })
+  const [multLvl, setMultLvl] = useState({ one: 1, two: 1, three: 1 })
+  const [multDice, setMultDice] = useState({ one: 0, two: 0, three: 0 })
   const [dice, setDice] = useState(8)
   const [lvl, setLvl] = useState(1)
   const [con, setCon] = useState(10)
@@ -63,35 +79,90 @@ export default function HpCalculator() {
   const [out, setOut] = useState(0)
   const [first, setFirst] = useState(0)
   const [next, setNext] = useState(0)
+  const [sorcerer, setSorcerer] = useState(false)
 
   let results = []
 
   const changeClass = (value) => {
     setPlayerClass(value);
     setDice(dices[value])
-    if (value != 'feiticeiro') {
-      toggleDragon(0)
+  }
+  const changeMultClass = (value, id) => {
+    switch (id) {
+      case 'multOne':
+        if (value == 'none') {
+          setMultClass({ one: value, two: value, three: value })
+          setMultDice({ one: 0, two: 0, three: 0 })
+        }
+        else {
+          setMultClass(state => ({ ...state, one: value }))
+          setMultDice(state => ({ ...state, one: dices[value] }))
+        }
+        break;
+
+      case 'multTwo':
+        if (value == 'none') {
+          setMultClass(state => ({ ...state, two: value, three: value }))
+          setMultDice(state => ({ ...state, two: 0, three: 0 }))
+        }
+        else {
+          setMultClass(state => ({ ...state, two: value }))
+          setMultDice(state => ({ ...state, two: dices[value] }))
+        }
+        break;
+
+      case 'multThree':
+        if (value == 'none') {
+          setMultClass(state => ({ ...state, three: value }))
+          setMultDice(state => ({ ...state, three: 0 }))
+        }
+        else {
+          setMultClass(state => ({ ...state, three: value }))
+          setMultDice(state => ({ ...state, three: dices[value] }))
+        }
+        break;
     }
   }
+
+  const changeMultLvl = (value, id) => {
+    switch (id) {
+      case 'multLvl1':
+        setMultLvl(state => ({...state, one: value * 1}))
+        break;
+      
+      case 'multLvl2':
+        setMultLvl(state => ({...state, two: value * 1}))
+        break;
+
+      case 'multLvl3':
+        setMultLvl(state => ({...state, three: value * 1}))
+        break;
+    }
+  }
+
   const changeLvl = (value) => {
     setLvl(value * 1)
   }
+
   const changeCon = (value) => {
     setCon(value * 1)
     setConMod(Math.floor((value * 1 - 10) / 2))
   }
+
   const toggleDragon = (value) => {
     setDragon(value * 1)
   }
+
   const toggleDwarf = (value) => {
     setDwarf(value * 1)
   }
+
   const toggleFeat = (value) => {
     setFeat(value * 1)
   }
 
   useEffect(() => {
-    results = calcOut(dice, lvl, conMod, dragon, dwarf, feat)
+    results = calcOut(dice, lvl, conMod, dragon, dwarf, feat, multDice, multLvl)
     setOut(results[0])
     setFirst(results[1])
     setNext(results[2])
@@ -101,8 +172,20 @@ export default function HpCalculator() {
     con,
     dragon,
     dwarf,
-    feat
+    feat,
+    multClass,
+    multLvl
   ])
+
+  useEffect (() => {
+    if (multClass.one == 'feiticeiro' || multClass.two == 'feiticeiro' || multClass.three == 'feiticeiro' || playerClass == 'feiticeiro') {
+      setSorcerer(true)
+    }
+    else {
+      setSorcerer(false)
+      setDragon(false)
+    }
+  }, [multClass, playerClass])
 
   return (
     <div className={styles.page_frame}>
@@ -116,12 +199,31 @@ export default function HpCalculator() {
                 <FormSelect content={playerClasses} text='Classe: ' inputId='PlayerClass' eventHandler={changeClass} />
                 <FormInput type='number' inputId='lvl' text='Nível: ' min={1} max={20} len={2} defVal={1} eventHandler={changeLvl} />
               </div>
+              <h3>Multiclasse</h3>
+              <div className={styles.mult}>
+                <div className={styles.stats}>
+                  <MultiClasse content={playerClasses} text='Multiclasse #1: ' inputId='multOne' eventHandler={changeMultClass} />
+                  <FormInput type='number' inputId='multLvl1' text='Nível: ' min={1} max={20} len={2} defVal={1} eventHandler={changeMultLvl} />
+                </div>
+                {multClass.one != 'none' && (
+                  <div className={styles.stats}>
+                    <MultiClasse content={playerClasses} text='Multiclasse #2: ' inputId='multTwo' eventHandler={changeMultClass} />
+                    <FormInput type='number' inputId='multLvl2' text='Nível: ' min={1} max={20} len={2} defVal={1} eventHandler={changeMultLvl} />
+                  </div>
+                )}
+                {multClass.two != 'none' && (
+                  <div className={styles.stats}>
+                    <MultiClasse content={playerClasses} text='Multiclasse #3: ' inputId='multThree' eventHandler={changeMultClass} />
+                    <FormInput type='number' inputId='multLvl3' text='Nível: ' min={1} max={20} len={2} defVal={1} eventHandler={changeMultLvl} />
+                  </div>
+                )}
+              </div>
               <div className={styles.const}>
                 <p>Constituição</p>
                 <p className={styles.modifier}>
                   {conMod}
                 </p>
-                <FormInput className={styles.con_value} type='number' inputId='con' defVal={10} min={0} max={30} len={2} eventHandler={changeCon} />
+                <FormInput type='number' inputId='con' defVal={10} min={0} max={30} len={2} eventHandler={changeCon} />
               </div>
             </div>
           </div>
@@ -129,7 +231,7 @@ export default function HpCalculator() {
             <h3>Características</h3>
             <FormInput type='checkbox' text='Anão da Colina? ' inputId='dwarf' eventHandler={toggleDwarf} defVal={1} />
             <FormInput type='checkbox' text='Talento Robusto? ' inputId='feat' eventHandler={toggleFeat} defVal={2} />
-            {playerClass == 'feiticeiro' && (
+            {sorcerer && (
               <FormInput type='checkbox' text='Feiticeiro Dracônico? ' inputId='dragon' eventHandler={toggleDragon} defVal={1} />
             )}
           </div>

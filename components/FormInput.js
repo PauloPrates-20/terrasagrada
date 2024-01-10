@@ -1,7 +1,7 @@
 export default function FormInput({ inputId, type, text, defVal, min, max, size, eventHandler }) {
   const handleChange = (e) => {
     if(e.target.type == 'number') {
-      eventHandler(e.target.value)
+      eventHandler(e.target.value, e.target.id)
     }
     else {
       e.target.checked ? eventHandler(e.target.value) : eventHandler(0)
