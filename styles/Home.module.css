@@ -28,7 +28,7 @@
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  transition: visibility .7s linear, opacity .7s linear, height .7s ease-in-out;
+  transition: all .7s ease-in-out;
 }
 
 .link_content {

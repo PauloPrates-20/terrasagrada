@@ -1,0 +1,124 @@
+.page_frame {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: solid 1px var(--title-color);
+  width: 90%;
+  border-radius: 10px;
+  padding: 2em 0;
+}
+
+.page_frame h1 {
+  margin-bottom: 1em;
+  color: var(--title-color);
+}
+
+.calculator_frame {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5em;
+}
+
+.player_info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.stats_frame {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.stats_frame h3 {
+  padding-bottom: .5em;
+  color: var(--title-color);
+}
+
+.stats {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+  margin-bottom: 1em;
+}
+
+.const {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  border: solid 1px var(--title-color);
+  width: fit-content;
+  padding: .3em 1em;
+  border-radius: 12px;
+}
+
+.const p:first-child {
+  color: var(--title-color);
+}
+
+.modifier {
+  font-size: 1.4em;
+  padding: 1em 0;
+}
+
+.feats {
+  margin-top: 1em;
+}
+
+.feats h3 {
+  margin-bottom: .5em;
+  color: var(--title-color)
+}
+
+.output {
+  color: var(--title-color);
+}
+
+.output span {
+  color: var(--text-color);
+}
+
+.stats_layer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (min-width: 768px) {
+  .calculator_frame {
+    flex-direction: row;
+    font-size: 1.4em;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .player_info {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4em 0;
+    gap: 1em;
+  }
+
+  .stats {
+    flex-direction: column;
+  }
+
+  .stats_layer {
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+  }
+}
