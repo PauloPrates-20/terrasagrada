@@ -180,18 +180,22 @@ function getLevel(levels) {
     switch (levels[property].tipo) {
       case 'half':
         casterLevel += Math.floor(levels[property].nivel / 2)
+        level += levels[property].nivel
         break;
       case 'sub':
         casterLevel += Math.floor(levels[property].nivel / 3)
+        level += levels[property].nivel
         break;
       case 'full':
         casterLevel += levels[property].nivel
+        level += levels[property].nivel
         break;
       case 'short':
         warlock = levels[property].nivel
     }
-    level += levels[property].nivel
   }
+
+  // casterLevel = Math.min(20, casterLevel)
 
   return [level, casterLevel, warlock]
 }
@@ -244,7 +248,7 @@ export default function Caster() {
         setTable(subTable)
       }
     }
-  }, [totalLevel])
+  }, [totalLevel, warlock])
 
   useEffect(() => {
     setSpells([
