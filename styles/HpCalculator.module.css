@@ -107,7 +107,7 @@
 @media screen and (min-width: 720px) {
   .calculator_frame {
     flex-direction: row;
-    font-size: 1em;
+    font-size: 1.2em;
     justify-content: space-between;
     align-items: center;
   }

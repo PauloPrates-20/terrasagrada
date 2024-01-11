@@ -195,7 +195,7 @@ function getLevel(levels) {
     }
   }
 
-  // casterLevel = Math.min(20, casterLevel)
+  casterLevel = Math.min(20, casterLevel)
 
   return [level, casterLevel, warlock]
 }
