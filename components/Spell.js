@@ -17,8 +17,7 @@ export default function Spell({ spellId, lvlId, schoolId, schools, mage, sendDat
 
   useEffect(() => {
     let half = 1
-    if(mage == details.school)
-    {
+    if (mage == details.school) {
       half = 2
     }
     if (details.school != 'none') {
@@ -67,9 +66,15 @@ export default function Spell({ spellId, lvlId, schoolId, schools, mage, sendDat
             </select>
           </div>
         </div>
-        <div className={styles.outputs}>
-          <p>Custo: <span>{details.price} PO</span></p>
-          <p>Tempo: <span>{details.time} {details.time == 1 ? 'Hora' : 'Horas'}</span></p>
+        <div className={styles.output_frame}>
+          <div className={styles.output}>
+            <p>Custo: </p>
+            <p className={styles.detail}>{details.price} PO</p>
+          </div>
+          <div className={styles.output}>
+            <p>Tempo: </p>
+            <p className={styles.detail}>{details.time} {details.time == 1 ? 'Hora' : 'Horas'}</p>
+          </div>
         </div>
       </div>
     </div>

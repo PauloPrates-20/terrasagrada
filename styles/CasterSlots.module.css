@@ -1,5 +1,7 @@
 .slot_frame {
   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   padding: .1em;

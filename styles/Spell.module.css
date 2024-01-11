@@ -48,7 +48,27 @@
 .label {
   width: 60px;
 }
+.output_frame {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+}
 
-.outputs span {
+.output {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.detail {
   color: #fff;
+}
+
+@media screen and (min-width: 720px) {
+  .output {
+    flex-direction: row;
+    gap: .3em;
+  }
 }
