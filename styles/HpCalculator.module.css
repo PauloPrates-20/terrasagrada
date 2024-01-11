@@ -1,5 +1,5 @@
 .page_frame {
-  margin: 0 auto;
+  margin: 3em auto;
   display: flex;
   flex-direction: column;
   justify-content: center;

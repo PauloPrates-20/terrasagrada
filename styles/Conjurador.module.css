@@ -1,10 +1,11 @@
 .frame {
   display: flex;
-  flex-direction: column;
+  flex-direction: column-reverse;
   justify-content: center;
   align-items: center;
   border: solid 1px var(--title-color);
   border-radius: 16px;
+  margin: 3em auto;
 }
 
 .frame h2 {

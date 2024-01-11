@@ -4,174 +4,6 @@ import styles from '@/styles/Conjurador.module.css'
 import CasterSlots from '@/components/CasterSlots'
 import CasterList from '@/components/CasterList'
 
-const slots = [
-  { nivel: '1st', qtd: 0 },
-  { nivel: '2nd', qtd: 0 },
-  { nivel: '3rd', qtd: 0 },
-  { nivel: '4th', qtd: 0 },
-  { nivel: '5th', qtd: 0 },
-  { nivel: '6th', qtd: 0 },
-  { nivel: '7th', qtd: 0 },
-  { nivel: '8th', qtd: 0 },
-  { nivel: '9th', qtd: 0 }
-]
-
-const warlockSlots = [
-  { nivel: '1st', qtd: 0 },
-  { nivel: '2nd', qtd: 0 },
-  { nivel: '3rd', qtd: 0 },
-  { nivel: '4th', qtd: 0 },
-  { nivel: '5th', qtd: 0 }
-]
-
-const casterClasses = [
-  { value: 'artifice', nome: 'Artífice', tipo: 'half' },
-  { value: 'bardo', nome: 'Bardo', tipo: 'full' },
-  { value: 'clerigo', nome: 'Clérigo', tipo: 'full' },
-  { value: 'druida', nome: 'Druida', tipo: 'full' },
-  { value: 'feiticeiro', nome: 'Feiticeiro', tipo: 'full' },
-  { value: 'mago', nome: 'Mago', tipo: 'full' },
-  { value: 'paladino', nome: 'Paladino', tipo: 'half' },
-  { value: 'patrulheiro', nome: 'Patrulheiro', tipo: 'half' },
-  { value: 'cavMist', nome: 'Cavaleiro Místico', tipo: 'sub' },
-  { value: 'trapArc', nome: 'Trapaceiro Arcano', tipo: 'sub' },
-  { value: 'bruxo', nome: 'Bruxo', tipo: 'short' }
-]
-
-const casterProperty = {
-  artifice: { tipo: 'half', nivel: 0 },
-  bardo: { tipo: 'full', nivel: 0 },
-  clerigo: { tipo: 'full', nivel: 0 },
-  druida: { tipo: 'full', nivel: 0 },
-  feiticeiro: { tipo: 'full', nivel: 0 },
-  mago: { tipo: 'full', nivel: 0 },
-  paladino: { tipo: 'half', nivel: 0 },
-  patrulheiro: { tipo: 'half', nivel: 0 },
-  cavMist: { tipo: 'sub', nivel: 0 },
-  trapArc: { tipo: 'sub', nivel: 0 },
-  bruxo: { tipo: 'short', nivel: 0 }
-}
-
-const subTable = [
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 2, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 3, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 3, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 3, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 2, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 2, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 2, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 2, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 2, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 2, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 1, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 1, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 }
-]
-
-const halfTable = [
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 2, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 3, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 3, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 2, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 2, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 2, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 2, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 1, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 1, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 2, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 2, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 1, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 1, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 0, setimo: 0, oitavo: 0, nono: 0 }
-]
-
-const artificeTable = [
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 2, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 2, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 3, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 3, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 2, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 2, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 2, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 2, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 1, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 1, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 2, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 2, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 1, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 1, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 0, setimo: 0, oitavo: 0, nono: 0 }
-]
-
-const warlockTable = [
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 0 },
-  { primeiro: 1, segundo: 0, terceiro: 0, quarto: 0, quinto: 0 },
-  { primeiro: 2, segundo: 0, terceiro: 0, quarto: 0, quinto: 0 },
-  { primeiro: 0, segundo: 2, terceiro: 0, quarto: 0, quinto: 0 },
-  { primeiro: 0, segundo: 2, terceiro: 0, quarto: 0, quinto: 0 },
-  { primeiro: 0, segundo: 0, terceiro: 2, quarto: 0, quinto: 0 },
-  { primeiro: 0, segundo: 0, terceiro: 2, quarto: 0, quinto: 0 },
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 2, quinto: 0 },
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 2, quinto: 0 },
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 2 },
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 2 },
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 2 },
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 3 },
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 3 },
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 3 },
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 3 },
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 3 },
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 4 },
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 4 },
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 4 },
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 4 }
-]
-
-const fullTable = [
-  { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 2, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 3, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 2, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 2, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 1, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 2, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 1, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 1, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 1, setimo: 0, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 1, setimo: 1, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 1, setimo: 1, oitavo: 0, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 1, setimo: 1, oitavo: 1, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 1, setimo: 1, oitavo: 1, nono: 0 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 1, setimo: 1, oitavo: 1, nono: 1 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 3, sexto: 1, setimo: 1, oitavo: 1, nono: 1 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 3, sexto: 2, setimo: 1, oitavo: 1, nono: 1 },
-  { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 3, sexto: 2, setimo: 2, oitavo: 1, nono: 1 }
-]
-
 function getLevel(levels) {
   let level = 0
   let casterLevel = 0
@@ -201,6 +33,174 @@ function getLevel(levels) {
 }
 
 export default function Caster() {
+  const slots = [
+    { nivel: '1st', qtd: 0 },
+    { nivel: '2nd', qtd: 0 },
+    { nivel: '3rd', qtd: 0 },
+    { nivel: '4th', qtd: 0 },
+    { nivel: '5th', qtd: 0 },
+    { nivel: '6th', qtd: 0 },
+    { nivel: '7th', qtd: 0 },
+    { nivel: '8th', qtd: 0 },
+    { nivel: '9th', qtd: 0 }
+  ]
+  
+  const warlockSlots = [
+    { nivel: '1st', qtd: 0 },
+    { nivel: '2nd', qtd: 0 },
+    { nivel: '3rd', qtd: 0 },
+    { nivel: '4th', qtd: 0 },
+    { nivel: '5th', qtd: 0 }
+  ]
+  
+  const casterClasses = [
+    { value: 'artifice', nome: 'Artífice', tipo: 'half' },
+    { value: 'bardo', nome: 'Bardo', tipo: 'full' },
+    { value: 'clerigo', nome: 'Clérigo', tipo: 'full' },
+    { value: 'druida', nome: 'Druida', tipo: 'full' },
+    { value: 'feiticeiro', nome: 'Feiticeiro', tipo: 'full' },
+    { value: 'mago', nome: 'Mago', tipo: 'full' },
+    { value: 'paladino', nome: 'Paladino', tipo: 'half' },
+    { value: 'patrulheiro', nome: 'Patrulheiro', tipo: 'half' },
+    { value: 'cavMist', nome: 'Cavaleiro Místico', tipo: 'sub' },
+    { value: 'trapArc', nome: 'Trapaceiro Arcano', tipo: 'sub' },
+    { value: 'bruxo', nome: 'Bruxo', tipo: 'short' }
+  ]
+  
+  const casterProperty = {
+    artifice: { tipo: 'half', nivel: 0 },
+    bardo: { tipo: 'full', nivel: 0 },
+    clerigo: { tipo: 'full', nivel: 0 },
+    druida: { tipo: 'full', nivel: 0 },
+    feiticeiro: { tipo: 'full', nivel: 0 },
+    mago: { tipo: 'full', nivel: 0 },
+    paladino: { tipo: 'half', nivel: 0 },
+    patrulheiro: { tipo: 'half', nivel: 0 },
+    cavMist: { tipo: 'sub', nivel: 0 },
+    trapArc: { tipo: 'sub', nivel: 0 },
+    bruxo: { tipo: 'short', nivel: 0 }
+  }
+  
+  const subTable = [
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 2, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 3, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 3, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 3, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 2, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 2, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 2, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 2, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 2, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 2, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 1, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 1, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 }
+  ]
+  
+  const halfTable = [
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 2, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 3, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 3, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 2, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 2, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 2, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 2, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 1, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 1, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 2, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 2, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 1, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 1, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 0, setimo: 0, oitavo: 0, nono: 0 }
+  ]
+  
+  const artificeTable = [
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 2, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 2, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 3, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 3, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 2, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 2, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 2, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 2, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 1, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 1, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 2, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 2, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 1, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 1, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 0, setimo: 0, oitavo: 0, nono: 0 }
+  ]
+  
+  const warlockTable = [
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 0 },
+    { primeiro: 1, segundo: 0, terceiro: 0, quarto: 0, quinto: 0 },
+    { primeiro: 2, segundo: 0, terceiro: 0, quarto: 0, quinto: 0 },
+    { primeiro: 0, segundo: 2, terceiro: 0, quarto: 0, quinto: 0 },
+    { primeiro: 0, segundo: 2, terceiro: 0, quarto: 0, quinto: 0 },
+    { primeiro: 0, segundo: 0, terceiro: 2, quarto: 0, quinto: 0 },
+    { primeiro: 0, segundo: 0, terceiro: 2, quarto: 0, quinto: 0 },
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 2, quinto: 0 },
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 2, quinto: 0 },
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 2 },
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 2 },
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 2 },
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 3 },
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 3 },
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 3 },
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 3 },
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 3 },
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 4 },
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 4 },
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 4 },
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 4 }
+  ]
+  
+  const fullTable = [
+    { primeiro: 0, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 2, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 3, segundo: 0, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 2, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 0, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 2, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 0, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 1, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 2, quinto: 0, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 1, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 0, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 1, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 1, setimo: 0, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 1, setimo: 1, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 1, setimo: 1, oitavo: 0, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 1, setimo: 1, oitavo: 1, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 1, setimo: 1, oitavo: 1, nono: 0 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 2, sexto: 1, setimo: 1, oitavo: 1, nono: 1 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 3, sexto: 1, setimo: 1, oitavo: 1, nono: 1 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 3, sexto: 2, setimo: 1, oitavo: 1, nono: 1 },
+    { primeiro: 4, segundo: 3, terceiro: 3, quarto: 3, quinto: 3, sexto: 2, setimo: 2, oitavo: 1, nono: 1 }
+  ]
+
   const [classLvl, setClassLvl] = useState(casterProperty)
   const [casterLvl, setCasterLvl] = useState(0)
   const [totalLevel, setTotalLevel] = useState(0)

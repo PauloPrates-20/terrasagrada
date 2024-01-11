@@ -4,24 +4,6 @@ import styles from '@/styles/Crafting.module.css'
 import FormSelect from '@/components/FormSelect'
 import FormInput from '@/components/FormInput'
 
-const tiers = [
-  { nome: 'Iniciante', value: 25 },
-  { nome: 'Cobre', value: 50 },
-  { nome: 'Prata', value: 100 },
-  { nome: 'Ouro', value: 250 },
-  { nome: 'Platina', value: 500 },
-  { nome: 'Cobalto', value: 1000 },
-  { nome: 'Adamante', value: 2500 }
-]
-
-const raridade = [
-  { nome: 'Comum', value: 0.65 },
-  { nome: 'Incomum', value: 0.7 },
-  { nome: 'Raro', value: 0.75 },
-  { nome: 'Muito Raro', value: 0.8 },
-  { nome: 'Lendário', value: 0.85 },
-]
-
 function calcPrice(price, tax) {
   let total = Math.ceil(price * tax)
   return total
@@ -33,6 +15,24 @@ function calcTime(price, ve) {
 }
 
 export default function Crafting() {
+  const tiers = [
+    { nome: 'Iniciante', value: 25 },
+    { nome: 'Cobre', value: 50 },
+    { nome: 'Prata', value: 100 },
+    { nome: 'Ouro', value: 250 },
+    { nome: 'Platina', value: 500 },
+    { nome: 'Cobalto', value: 1000 },
+    { nome: 'Adamante', value: 2500 }
+  ]
+  
+  const raridade = [
+    { nome: 'Comum', value: 0.65 },
+    { nome: 'Incomum', value: 0.7 },
+    { nome: 'Raro', value: 0.75 },
+    { nome: 'Muito Raro', value: 0.8 },
+    { nome: 'Lendário', value: 0.85 },
+  ]
+
   const [ve, setVe] = useState(25)
   const [tax, setTax] = useState(0.65)
   const [price, setPrice] = useState(0)

@@ -1,4 +1,6 @@
 .main_container {
+  display: flex;
+  flex-direction: column-reverse;
   width: 100%;
   justify-content: center;
   align-items: center;
@@ -15,6 +17,7 @@
 
 .half_screen h1 {
   margin-bottom: 1em;
+  color: var(--title-color);
 }
 
 .list_container {
@@ -45,7 +48,7 @@
 .detail {
   min-height: fit-content;
   position: relative;
-  margin: 1em auto;
+  margin-bottom: 1em;
   border: solid 1px var(--title-color);
   width: 90%;
   display: flex;
@@ -102,6 +105,7 @@
 
 @media screen and (min-width: 768px) {
   .main_container {
+    margin: 3em auto;
     display: flex;
     flex-direction: row;
     align-items: flex-start;

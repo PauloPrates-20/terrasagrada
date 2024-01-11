@@ -34,7 +34,7 @@ body {
 
 .main_container {
   color: var(--text-color);
-  min-height: 120dvh;
+  min-height: fit-content;
   margin-top: 15em;
   margin-bottom: 10em;
   padding: 1em 1em;

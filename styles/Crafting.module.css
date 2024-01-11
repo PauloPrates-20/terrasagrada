@@ -6,6 +6,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin: 3em auto;
 }
 
 .frame h1, .frame h2, .frame h3 {
@@ -23,7 +24,7 @@
 }
 
 .output_frame span {
-  color: #ece3d9;
+  color: #fff;
 }
 
 @media screen and (min-width: 720px) {

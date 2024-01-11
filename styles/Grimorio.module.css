@@ -1,0 +1,56 @@
+.frame {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  border: solid 1px var(--title-color);
+  border-radius: 12px;
+  min-height: 400px;
+  padding: 1.5em 0;
+  margin-top: 3em;
+}
+
+.frame h1, .frame h2, .frame h3 {
+  color: var(--title-color);
+}
+
+.spell_header {
+  margin-top: 2em;
+  margin-bottom: 1em;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.spell_header h3 {
+  align-self: flex-start;
+  padding-right: 1em;
+}
+
+.symbol {
+  border: none;
+  background-color: transparent;
+  color: var(--title-color);
+  font-size: 1.5em;
+  padding-right: .5em;
+}
+
+.symbol:hover {
+  cursor: pointer;
+}
+
+.symbol:active {
+  color: var(--text-color);
+}
+
+.mago {
+  margin: 1em 0;
+}
+
+@media screen and (min-width: 720px) {
+  .frame {
+    width: 50%;
+    margin: 3em auto;
+  }
+}
