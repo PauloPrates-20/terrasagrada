@@ -1,4 +1,4 @@
-import { GiBookCover, GiCauldron, GiGems, GiHearts, GiHorseHead, GiHamburgerMenu, GiSwordSmithing, GiSparkles, GiGearHammer } from 'react-icons/gi'
+import { GiHamburgerMenu, GiGearHammer } from 'react-icons/gi'
 
 import Link from 'next/link'
 import { useState } from 'react'
