@@ -6,17 +6,17 @@ import FormInput from '@/components/FormInput'
 import styles from '@/styles/HpCalculator.module.css'
 import MultiClasse from '@/components/MultiClasse'
 
-function calcOut(dice, lvl, con, dragon, dwarf, feat, multDice, multLvl) {
+function calcOut(dice, lvl, con, dragon, dwarf, feat, multDice, multLvl, multClass, classe) {
   let out = 0
-  let firstHp = (dice + con + dragon + dwarf + feat)
-  let nextHp = ((dice / 2 + 1) + con + dragon + feat + dwarf)
+  let firstHp = (dice + con + dwarf + feat)
+  let nextHp = ((dice / 2 + 1) + con  + feat + dwarf)
   let multOneHp = 0
   if (multDice.one != 0) {
-    multOneHp = ((multDice.one / 2) + 1 + con + dragon + dwarf + feat) * multLvl.one
+    multOneHp = ((multDice.one / 2) + 1 + con + dwarf + feat) * multLvl.one
   }
   let multTwoHp = 0
   if (multDice.two != 0) {
-    multTwoHp = ((multDice.two / 2) + 1 + con + dragon + dwarf + feat) * multLvl.two
+    multTwoHp = ((multDice.two / 2) + 1 + con + dwarf + feat) * multLvl.two
   }
   let multThreeHp = 0
   if (multDice.three != 0) {
@@ -28,6 +28,19 @@ function calcOut(dice, lvl, con, dragon, dwarf, feat, multDice, multLvl) {
   else {
     out = firstHp + (nextHp * (lvl - 1)) + multOneHp + multTwoHp + multThreeHp
   }
+  if (classe == 'feiticeiro') {
+    dragon *= lvl
+  }
+  else if (multClass.one == 'feiticeiro') {
+    dragon *= multLvl.one
+  }
+  else if (multClass.two == 'feiticeiro') {
+    dragon *= multLvl.two
+  }
+  else if (multClass.three == 'feiticeiro') {
+    dragon *= multLvl.three
+  }
+  out += dragon
 
   return [out, firstHp, nextHp]
 }
@@ -162,7 +175,7 @@ export default function HpCalculator() {
   }
 
   useEffect(() => {
-    results = calcOut(dice, lvl, conMod, dragon, dwarf, feat, multDice, multLvl)
+    results = calcOut(dice, lvl, conMod, dragon, dwarf, feat, multDice, multLvl, multClass, playerClass)
     setOut(results[0])
     setFirst(results[1])
     setNext(results[2])
