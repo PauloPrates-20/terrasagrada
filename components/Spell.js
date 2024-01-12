@@ -4,6 +4,8 @@ import styles from '@/styles/Spell.module.css'
 
 export default function Spell({ spellId, lvlId, schoolId, schools, mage, sendData }) {
   const [details, setDetails] = useState({ school: 'none', price: 0, nivel: 1, time: 0 })
+  const [price, setPrice] = useState(0)
+  const [time, setTime] = useState(0)
 
   const handleChange = (e) => {
     switch (e.target.id) {
@@ -16,15 +18,21 @@ export default function Spell({ spellId, lvlId, schoolId, schools, mage, sendDat
   }
 
   useEffect(() => {
-    let half = 1
-    if (mage == details.school) {
-      half = 2
-    }
     if (details.school != 'none') {
-      setDetails(details => ({ ...details, price: 50 * details.nivel / half, time: 2 * details.nivel / half }))
+      setDetails(details => ({ ...details, price: 50 * details.nivel, time: 2 * details.nivel }))
+      if (mage == details.school) {
+        setPrice(50 * details.nivel / 2)
+        setTime(2 * details.nivel / 2)
+      }
+      else {
+        setPrice(50 * details.nivel)
+        setTime(2 * details.nivel)
+      }
     }
     else {
       setDetails(details => ({ ...details, price: 0, time: 0 }))
+      setPrice(0)
+      setTime(0)
     }
   }, [details.nivel, details.school, mage])
 
@@ -69,11 +77,13 @@ export default function Spell({ spellId, lvlId, schoolId, schools, mage, sendDat
         <div className={styles.output_frame}>
           <div className={styles.output}>
             <p>Custo: </p>
-            <p className={styles.detail}>{details.price} PO</p>
+            <p className={styles.detail}>{price} PO</p>
           </div>
           <div className={styles.output}>
             <p>Tempo: </p>
-            <p className={styles.detail}>{details.time} {details.time == 1 ? 'Hora' : 'Horas'}</p>
+            <p className={styles.detail}>
+              {time} {time == 1 ? 'Hora' : 'Horas'}
+            </p>
           </div>
         </div>
       </div>

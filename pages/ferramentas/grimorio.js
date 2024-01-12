@@ -6,12 +6,18 @@ import styles from '@/styles/Grimorio.module.css'
 import FormSelect from '@/components/FormSelect'
 import Spell from '@/components/Spell'
 
-function calcSpell(spells) {
+function calcSpell(spells, mage) {
   let hours = 0
   let price = 0
   spells.forEach((spell) => {
-    hours += spell.time
-    price += spell.price
+    if(mage == spell.school) {
+      hours += spell.time / 2
+      price += spell.price / 2
+    }
+    else {
+      hours += spell.time
+      price += spell.price
+    }
   })
   return {cost: price, time: hours}
 }
@@ -74,10 +80,10 @@ export default function Grimorio() {
   }, [count])
 
   useEffect(() => {
-    let calculation = calcSpell(spells)
+    let calculation = calcSpell(spells, mage)
     setTotalCost(calculation.cost)
     setTotalTime(calculation.time)
-  }, [spells])
+  }, [spells, mage])
 
   return (
     <div className={styles.frame}>
