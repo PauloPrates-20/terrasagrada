@@ -1,0 +1,394 @@
+[
+  {
+    "id": "0",
+    "item": "Adaga",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#dagger_phb",
+    "value": "2 PO"
+  },
+  {
+    "id": "1",
+    "item": "Azagaia",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#javelin_phb",
+    "value": "1 PO"
+  },
+  {
+    "id": "2",
+    "item": "Bordão",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#quarterstaff_phb",
+    "value": "1 PO"
+  },
+  {
+    "id": "3",
+    "item": "Clava grande",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#greatclub_phb",
+    "value": "1 PO"
+  },
+  {
+    "id": "4",
+    "item": "Foice Curta",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#sickle_phb",
+    "value": "1 PO"
+  },
+  {
+    "id": "5",
+    "item": "Lança",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#spear_phb",
+    "value": "1 PO"
+  },
+  {
+    "id": "6",
+    "item": "Maça",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#mace_phb",
+    "value": "5 PO"
+  },
+  {
+    "id": "7",
+    "item": "Machadinha",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#handaxe_phb",
+    "value": "5 PO"
+  },
+  {
+    "id": "8",
+    "item": "Martelo Leve",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#light%20hammer_phb",
+    "value": "2 PO"
+  },
+  {
+    "id": "9",
+    "item": "Porrete",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#club_phb",
+    "value": "1 PO"
+  },
+  {
+    "id": "10",
+    "item": "Alabarda",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#halberd_phb",
+    "value": "20 PO"
+  },
+  {
+    "id": "11",
+    "item": "Cimitarra",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#scimitar_phb",
+    "value": "25 PO"
+  },
+  {
+    "id": "12",
+    "item": "Cimitarra de Dois Gumes",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#double-bladed%20scimitar_erlw",
+    "value": "100 PO"
+  },
+  {
+    "id": "13",
+    "item": "Chicote",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#whip_phb",
+    "value": "2 PO"
+  },
+  {
+    "id": "14",
+    "item": "Espada Curta",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#shortsword_phb",
+    "value": "10 PO"
+  },
+  {
+    "id": "15",
+    "item": "Espada Grande",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#greatsword_phb",
+    "value": "50 PO"
+  },
+  {
+    "id": "16",
+    "item": "Espada Longa",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#longsword_phb",
+    "value": "15 PO"
+  },
+  {
+    "id": "17",
+    "item": "Glaive",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#glaive_phb",
+    "value": "20 PO"
+  },
+  {
+    "id": "18",
+    "item": "Lança de Gancho",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#hooked%20shortspear_oota",
+    "value": "100 PO"
+  },
+  {
+    "id": "19",
+    "item": "Lança de Montaria",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#lance_phb",
+    "value": "10 PO"
+  },
+  {
+    "id": "20",
+    "item": "Maça Estrela",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#morningstar_phb",
+    "value": "15 PO"
+  },
+  {
+    "id": "21",
+    "item": "Machado Grande",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#greataxe_phb",
+    "value": "30 PO"
+  },
+  {
+    "id": "22",
+    "item": "Machado de Batalha",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#battleaxe_phb",
+    "value": "10 PO"
+  },
+  {
+    "id": "23",
+    "item": "Malho",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#maul_phb",
+    "value": "10 PO"
+  },
+  {
+    "id": "24",
+    "item": "Mangual",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#flail_phb",
+    "value": "10 PO"
+  },
+  {
+    "id": "25",
+    "item": "Martelo de Guerra",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#warhammer_phb",
+    "value": "15 PO"
+  },
+  {
+    "id": "26",
+    "item": "Picareta de Guerra",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#war%20pick_phb",
+    "value": "5 PO"
+  },
+  {
+    "id": "27",
+    "item": "Rapieira",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#rapier_phb",
+    "value": "25 PO"
+  },
+  {
+    "id": "28",
+    "item": "Tridente",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#trident_phb",
+    "value": "5 PO"
+  },
+  {
+    "id": "29",
+    "item": "Arco Curto",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#shortbow_phb",
+    "value": "25 PO"
+  },
+  {
+    "id": "30",
+    "item": "Besta Leve",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#light%20crossbow_phb",
+    "value": "25 PO"
+  },
+  {
+    "id": "31",
+    "item": "Besta Leve Repetidora",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#light%20repeating%20crossbow_oota",
+    "value": "50 PO"
+  },
+  {
+    "id": "32",
+    "item": "Dardo",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#dart_phb",
+    "value": "1 PO"
+  },
+  {
+    "id": "33",
+    "item": "Funda",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#sling_phb",
+    "value": "1 PO"
+  },
+  {
+    "id": "34",
+    "item": "Arco Longo",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#longbow_phb",
+    "value": "50 PO"
+  },
+  {
+    "id": "35",
+    "item": "Arco Longo Superdimensionado",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#oversized%20longbow_wdh",
+    "value": "600 PO"
+  },
+  {
+    "id": "36",
+    "item": "Besta de Mão",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#hand%20crossbow_phb",
+    "value": "75 PO"
+  },
+  {
+    "id": "37",
+    "item": "Besta Pesada",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#heavy%20crossbow_phb",
+    "value": "50 PO"
+  },
+  {
+    "id": "38",
+    "item": "Mosquete",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#musket_dmg",
+    "value": "500 PO"
+  },
+  {
+    "id": "39",
+    "item": "Pistola",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#pistol_dmg",
+    "value": "250 PO"
+  },
+  {
+    "id": "40",
+    "item": "Rede",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#net_phb",
+    "value": "1 PO"
+  },
+  {
+    "id": "41",
+    "item": "Zarabatana",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#blowgun_phb",
+    "value": "10 PO"
+  },
+  {
+    "id": "42",
+    "item": "Armadura Acolchoada",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#padded%20armor_phb",
+    "value": "5 PO"
+  },
+  {
+    "id": "43",
+    "item": "Armadura de Couro",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#leather%20armor_phb",
+    "value": "10 PO"
+  },
+  {
+    "id": "44",
+    "item": "Armadura de Couro Batido",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#studded%20leather%20armor_phb",
+    "value": "45 PO"
+  },
+  {
+    "id": "45",
+    "item": "Gibão de Peles",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#hide%20armor_phb",
+    "value": "10 PO"
+  },
+  {
+    "id": "46",
+    "item": "Camisão de Malha",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#chain%20shirt_phb",
+    "value": "50 PO"
+  },
+  {
+    "id": "47",
+    "item": "Brunea",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#scale%20mail_phb",
+    "value": "50 PO"
+  },
+  {
+    "id": "48",
+    "item": "Armadura de Espinhos",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#spiked%20armor_scag",
+    "value": "75 PO"
+  },
+  {
+    "id": "49",
+    "item": "Peitoral",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#breastplate_phb",
+    "value": "400 PO"
+  },
+  {
+    "id": "50",
+    "item": "Meia Armadura",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#half%20plate%20armor_phb",
+    "value": "750 PO"
+  },
+  {
+    "id": "51",
+    "item": "Cota de Anéis",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#ring%20mail_phb",
+    "value": "30 PO"
+  },
+  {
+    "id": "52",
+    "item": "Cota de Malha",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#chain%20mail_phb",
+    "value": "75 PO"
+  },
+  {
+    "id": "53",
+    "item": "Cota de Talas",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#splint%20armor_phb",
+    "value": "200 PO"
+  },
+  {
+    "id": "54",
+    "item": "Armadura de Placas",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#plate%20armor_phb",
+    "value": "1500 PO"
+  },
+  {
+    "id": "55",
+    "item": "Escudo",
+    "tier": "comum",
+    "url": "https://5e.tools/items.html#shield_phb",
+    "value": "10 PO"
+  }
+]

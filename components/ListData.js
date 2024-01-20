@@ -1,11 +1,12 @@
-import { GiPotionBall, GiSaddle, GiRuneStone } from 'react-icons/gi'
+import { GiPotionBall, GiSaddle, GiRuneStone, GiTwoHandedSword } from 'react-icons/gi'
 
 import styles from '@/styles/ListData.module.css'
 
 const typeIcon = {
   magic: <GiRuneStone />,
   potion: <GiPotionBall />,
-  horse: <GiSaddle />
+  horse: <GiSaddle />,
+  mundane: <GiTwoHandedSword />
 }
 
 export default function TableData({ content, tier, type, clickHandler }) {
