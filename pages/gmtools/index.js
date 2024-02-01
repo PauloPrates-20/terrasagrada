@@ -1,6 +1,7 @@
 import { firebaseDb } from "@/lib/firestoreConfig"
 import { doc, setDoc } from 'firebase/firestore/lite'
 import { useRouter } from "next/navigation"
+import { useEffect } from "react"
 import { getAllData, getData } from '@/lib/getDbData'
 
 // import databaseData from
@@ -31,7 +32,9 @@ function dataJSON(data) {
 export default function GmTools() {
   const router = useRouter()
 
-  router.push('/')
+  useEffect(() => {
+    router.push('/')
+  }, [])
   // send data to database
 
   // const sendData = () => {
