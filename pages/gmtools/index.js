@@ -1,24 +1,14 @@
 import { firebaseDb } from "@/lib/firestoreConfig"
 import { doc, setDoc } from 'firebase/firestore/lite'
-import { getData } from '@/lib/getDbData'
+import { useRouter } from 'next/router'
+import { getAllData, getData } from '@/lib/getDbData'
+
+// import databaseData from
 
 // retrieve data from database
 
 async function queryFirestore() {
-  const tiers = ['comum', 'incomum', 'raro', 'muRaro', 'lendario']
-  const commonData = await getData('ItensMagicos', tiers[0])
-  const uncommonData = await getData('ItensMagicos', tiers[1])
-  const rareData = await getData('ItensMagicos', tiers[2])
-  const veryRareData = await getData('ItensMagicos', tiers[3])
-  const legendaryData = await getData('ItensMagicos', tiers[4])
-
-  const queryResult = [
-    {id: 0, content: commonData, tier: tiers[0]},
-    {id: 1, content: uncommonData, tier: tiers[1]},
-    {id: 2, content: rareData, tier: tiers[2]},
-    {id: 3, content: veryRareData, tier: tiers[3]},
-    {id: 4, content: legendaryData, tier: tiers[4]}
-  ]
+  const queryResult = getAllData('ItensMagicos')
 
   return queryResult
 }
@@ -39,12 +29,15 @@ function dataJSON(data) {
 }
 
 export default function GmTools() {
+  const router = useRouter()
+
+  router.push('/')
   // send data to database
 
   // const sendData = () => {
   //   let data = {}
   //   let path = ''
-  //   mundanos.forEach((obj) => {
+  //   databaseData.forEach((obj) => {
   //     data = {
   //       id: obj.id,
   //       item: obj.item,
@@ -52,7 +45,7 @@ export default function GmTools() {
   //       url: obj.url,
   //       value: obj.value
   //     }
-  //     path = doc(firebaseDb,`Mundane/${'item' + obj.id}`)
+  //     path = doc(firebaseDb,`ItensMagicos/${'item' + obj.id}`)
   //     setDoc(path, data)
   //       .then(() => {
   //         console.log('Objeto gravado com sucesso!')
