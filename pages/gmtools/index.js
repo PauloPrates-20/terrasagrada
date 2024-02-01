@@ -74,7 +74,6 @@ export default function GmTools() {
 
   return (
     <div>
-      <button onClick={retrieveData}>Retrieve data</button>
     </div>
   )
 }
