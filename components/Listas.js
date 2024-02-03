@@ -1,4 +1,4 @@
-import {GiCauldron, GiGems, GiHorseHead, GiCrossedSwords} from 'react-icons/gi'
+import {GiCauldron, GiGems, GiHorseHead, GiCrossedSwords, GiMightySpanner} from 'react-icons/gi'
 import Link from "next/link"
 import ListCard from "./ListCard"
 
@@ -16,6 +16,9 @@ export default function Listas({ clickHandler }) {
       </Link>
       <Link href='/listas/mundanos'>
         <ListCard icon={<GiCrossedSwords />} text='Itens Mundanos' clickHandler={clickHandler} />
+      </Link>
+      <Link href='/listas/artifice'>
+        <ListCard icon={<GiMightySpanner />} text='Infusões de Artífice' clickHandler={clickHandler} />
       </Link>
     </>
   )

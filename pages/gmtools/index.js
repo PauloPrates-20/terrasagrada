@@ -4,7 +4,7 @@ import { useRouter } from "next/navigation"
 import { useEffect } from "react"
 import { getAllData, getData } from '@/lib/getDbData'
 
-// import databaseData from
+import databaseData from '@/public/jsons/artifice.json'
 
 // retrieve data from database
 
@@ -20,7 +20,7 @@ function dataJSON(data) {
   const dataObject = JSON.stringify(data)
   // console.log(dataObject)
 
-  const dataString = "data:text/json;charset=utf-8," + encodeURIComponent(dataObject) 
+  const dataString = "data:text/json;charset=utf-8," + encodeURIComponent(dataObject)
 
   const downloadLink = document.createElement('a')
   downloadLink.setAttribute('href', dataString)
@@ -30,11 +30,14 @@ function dataJSON(data) {
 }
 
 export default function GmTools() {
+  // redirect
+
   const router = useRouter()
 
   useEffect(() => {
     router.push('/')
   }, [])
+
   // send data to database
 
   // const sendData = () => {
@@ -46,9 +49,10 @@ export default function GmTools() {
   //       item: obj.item,
   //       tier: obj.tier,
   //       url: obj.url,
-  //       value: obj.value
+  //       value: obj.value,
+  //       sint: obj.sint,
   //     }
-  //     path = doc(firebaseDb,`ItensMagicos/${'item' + obj.id}`)
+  //     path = doc(firebaseDb, `Artifice/${'item' + obj.id}`)
   //     setDoc(path, data)
   //       .then(() => {
   //         console.log('Objeto gravado com sucesso!')

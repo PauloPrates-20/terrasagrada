@@ -1,0 +1,410 @@
+[
+  {
+    "id": "0",
+    "item": "Bolsa de Recursos",
+    "tier": "incomum",
+    "sint": "",
+    "value": "1 PO (Saco)",
+    "url": "https://5e.tools/items.html#bag%20of%20holding_dmg"
+  },
+  {
+    "id": "1",
+    "item": "Corda de Escalada",
+    "tier": "incomum",
+    "sint": "",
+    "value": "10 PO (Corda de Seda)",
+    "url": "https://5e.tools/items.html#rope%20of%20climbing_dmg"
+  },
+  {
+    "id": "2",
+    "item": "Jarro de Alquímia",
+    "tier": "incomum",
+    "sint": "",
+    "value": "1 PO (Jarro)",
+    "url": "https://5e.tools/items.html#alchemy%20jug_dmg"
+  },
+  {
+    "id": "3",
+    "item": "Manto de Respiração Aquática",
+    "tier": "incomum",
+    "sint": "",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#cap%20of%20water%20breathing_dmg"
+  },
+  {
+    "id": "4",
+    "item": "Óculos Noturnos",
+    "tier": "incomum",
+    "sint": "",
+    "value": "100 PO (Lentes de Aumento)",
+    "url": "https://5e.tools/items.html#goggles%20of%20night_dmg"
+  },
+  {
+    "id": "5",
+    "item": "Pedras de Envio",
+    "tier": "incomum",
+    "sint": "",
+    "value": "1 PO (Pedras)",
+    "url": "https://5e.tools/items.html#sending%20stone_ai"
+  },
+  {
+    "id": "6",
+    "item": "Varinha de Detecção Mágica",
+    "tier": "incomum",
+    "sint": "",
+    "value": "10 PO (Varinha)",
+    "url": "https://5e.tools/items.html#wand%20of%20magic%20detection_dmg"
+  },
+  {
+    "id": "7",
+    "item": "Varinha dos Segredos",
+    "tier": "incomum",
+    "sint": "",
+    "value": "10 PO (Varinha)",
+    "url": "https://5e.tools/items.html#wand%20of%20secrets_dmg"
+  },
+  {
+    "id": "8",
+    "item": "Anel de Caminhada Aquática",
+    "tier": "raro",
+    "sint": "",
+    "value": "5 PO (Anel de Sinete)",
+    "url": "https://5e.tools/items.html#ring%20of%20water%20walking_dmg"
+  },
+  {
+    "id": "9",
+    "item": "Botas Élficas",
+    "tier": "raro",
+    "sint": "",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#boots%20of%20elvenkind_dmg"
+  },
+  {
+    "id": "10",
+    "item": "Flautas da Assombração",
+    "tier": "raro",
+    "sint": "",
+    "value": "2 PO (Flauta)",
+    "url": "https://5e.tools/items.html#pipes%20of%20haunting_dmg"
+  },
+  {
+    "id": "11",
+    "item": "Manto de Arraia",
+    "tier": "raro",
+    "sint": "",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#cloak%20of%20the%20manta%20ray_dmg"
+  },
+  {
+    "id": "12",
+    "item": "Manto Élfico",
+    "tier": "raro",
+    "sint": "Sim",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#cloak%20of%20elvenkind_dmg"
+  },
+  {
+    "id": "13",
+    "item": "Lanterna da Revelação",
+    "tier": "raro",
+    "sint": "",
+    "value": "5 PO (Lanterna Coberta)",
+    "url": "https://5e.tools/items.html#lantern%20of%20revealing_dmg"
+  },
+  {
+    "id": "14",
+    "item": "Luvas do Ladrão",
+    "tier": "raro",
+    "sint": "",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#eyes%20of%20charming_dmg"
+  },
+  {
+    "id": "15",
+    "item": "Olhos de Enfeitiçar",
+    "tier": "raro",
+    "sint": "Sim",
+    "value": "10 PO (Cristal)",
+    "url": "https://5e.tools/items.html#eyes%20of%20charming_dmg"
+  },
+  {
+    "id": "16",
+    "item": "Aljava de Ehlonna",
+    "tier": "muRaro",
+    "sint": "",
+    "value": "1 PO (Aljava)",
+    "url": "https://5e.tools/items.html#quiver%20of%20ehlonna_dmg"
+  },
+  {
+    "id": "17",
+    "item": "Anel do Escudo Mental",
+    "tier": "muRaro",
+    "sint": "Sim",
+    "value": "5 PO (Anel de Sinete)",
+    "url": "https://5e.tools/items.html#ring%20of%20mind%20shielding_dmg"
+  },
+  {
+    "id": "18",
+    "item": "Anel do Pulo",
+    "tier": "muRaro",
+    "sint": "Sim",
+    "value": "5 PO (Anel de Sinete)",
+    "url": "https://5e.tools/items.html#ring%20of%20jumping_dmg"
+  },
+  {
+    "id": "19",
+    "item": "Botas Aladas",
+    "tier": "muRaro",
+    "sint": "Sim",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#winged%20boots_dmg"
+  },
+  {
+    "id": "20",
+    "item": "Botas de Salto e Corrida",
+    "tier": "muRaro",
+    "sint": "Sim",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#boots%20of%20striding%20and%20springing_dmg"
+  },
+  {
+    "id": "21",
+    "item": "Botas Invernais",
+    "tier": "muRaro",
+    "sint": "Sim",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#boots%20of%20the%20winterlands_dmg"
+  },
+  {
+    "id": "22",
+    "item": "Braçadeiras de Arquearia",
+    "tier": "muRaro",
+    "sint": "Sim",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#bracers%20of%20archery_dmg"
+  },
+  {
+    "id": "23",
+    "item": "Broche do Escudo",
+    "tier": "muRaro",
+    "sint": "Sim",
+    "value": "10 PO (Pedras Preciosas)",
+    "url": "https://5e.tools/items.html#brooch%20of%20shielding_dmg"
+  },
+  {
+    "id": "24",
+    "item": "Colar de Adaptação",
+    "tier": "muRaro",
+    "sint": "Sim",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#necklace%20of%20adaptation_dmg"
+  },
+  {
+    "id": "25",
+    "item": "Chapéu do Disface",
+    "tier": "muRaro",
+    "sint": "Sim",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#hat%20of%20disguise_dmg"
+  },
+  {
+    "id": "26",
+    "item": "Chinelos da Escalada Aranha",
+    "tier": "muRaro",
+    "sint": "Sim",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#slippers%20of%20spider%20climbing_dmg"
+  },
+  {
+    "id": "27",
+    "item": "Elmo da Telepatia",
+    "tier": "muRaro",
+    "sint": "Sim",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#helm%20of%20telepathy_dmg"
+  },
+  {
+    "id": "28",
+    "item": "Flautas dos Esgotos",
+    "tier": "muRaro",
+    "sint": "Sim",
+    "value": "2 PO (Flauta)",
+    "url": "https://5e.tools/items.html#pipes%20of%20the%20sewers_dmg"
+  },
+  {
+    "id": "29",
+    "item": "Luvas de Apanhar Projéteis",
+    "tier": "muRaro",
+    "sint": "Sim",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#gloves%20of%20missile%20snaring_dmg"
+  },
+  {
+    "id": "30",
+    "item": "Luvas de Nado e Escalada",
+    "tier": "muRaro",
+    "sint": "Sim",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#gloves%20of%20swimming%20and%20climbing_dmg"
+  },
+  {
+    "id": "31",
+    "item": "Manoplas de Força do Ogro",
+    "tier": "muRaro",
+    "sint": "Sim",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#gauntlets%20of%20ogre%20power_dmg"
+  },
+  {
+    "id": "32",
+    "item": "Manto de Proteção",
+    "tier": "muRaro",
+    "sint": "Sim",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#cloak%20of%20protection_dmg"
+  },
+  {
+    "id": "33",
+    "item": "Medalhão dos Pensamentos",
+    "tier": "muRaro",
+    "sint": "Sim",
+    "value": "10 PO (Pedras Preciosas)",
+    "url": "https://5e.tools/items.html#medallion%20of%20thoughts_dmg"
+  },
+  {
+    "id": "34",
+    "item": "Olhos de Águia",
+    "tier": "muRaro",
+    "sint": "Sim",
+    "value": "10 PO (Cristal)",
+    "url": "https://5e.tools/items.html#eyes%20of%20the%20eagle_dmg"
+  },
+  {
+    "id": "35",
+    "item": "Periapto de Cicatrização",
+    "tier": "muRaro",
+    "sint": "Sim",
+    "value": "10 PO (Pedras Preciosas)",
+    "url": "https://5e.tools/items.html#periapt%20of%20wound%20closure_dmg"
+  },
+  {
+    "id": "36",
+    "item": "Pulmões de Ventilação",
+    "tier": "muRaro",
+    "sint": "Sim",
+    "value": "1 PO (2x Algibeiras)",
+    "url": "https://5e.tools/items.html#ventilating%20lungs_erlw"
+  },
+  {
+    "id": "37",
+    "item": "Tiara do Intelecto",
+    "tier": "muRaro",
+    "sint": "Sim",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#headband%20of%20intellect_dmg"
+  },
+  {
+    "id": "38",
+    "item": "Algemas Dimensionais",
+    "tier": "lendario",
+    "sint": "",
+    "value": "1 PO (10x Ferro)",
+    "url": "https://5e.tools/items.html#dimensional%20shackles_dmg"
+  },
+  {
+    "id": "39",
+    "item": "Amuleto da Saúde",
+    "tier": "lendario",
+    "sint": "Sim",
+    "value": "10 PO (Pedras Preciosas)",
+    "url": "https://5e.tools/items.html#amulet%20of%20health_dmg"
+  },
+  {
+    "id": "40",
+    "item": "Anel de Ação Livre",
+    "tier": "lendario",
+    "sint": "Sim",
+    "value": "5 PO (Anel de Sinete)",
+    "url": "https://5e.tools/items.html#ring%20of%20free%20action_dmg"
+  },
+  {
+    "id": "41",
+    "item": "Anel de Proteção",
+    "tier": "lendario",
+    "sint": "Sim",
+    "value": "5 PO (Anel de Sinete)",
+    "url": "https://5e.tools/items.html#ring%20of%20protection_dmg"
+  },
+  {
+    "id": "42",
+    "item": "Anel do Aríete",
+    "tier": "lendario",
+    "sint": "Sim",
+    "value": "5 PO (Anel de Sinete)",
+    "url": "https://5e.tools/items.html#ring%20of%20the%20ram_dmg"
+  },
+  {
+    "id": "43",
+    "item": "Botas de Levitação",
+    "tier": "lendario",
+    "sint": "Sim",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#boots%20of%20levitation_dmg"
+  },
+  {
+    "id": "44",
+    "item": "Botas de Velocidade",
+    "tier": "lendario",
+    "sint": "Sim",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#boots%20of%20speed_dmg"
+  },
+  {
+    "id": "45",
+    "item": "Braçadeiras de Defesa",
+    "tier": "lendario",
+    "sint": "Sim",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#bracers%20of%20defense_dmg"
+  },
+  {
+    "id": "46",
+    "item": "Braço de Propulsão Arcana",
+    "tier": "lendario",
+    "sint": "Sim",
+    "value": "1 PO (10x Ferro)",
+    "url": "https://5e.tools/items.html#arcane%20propulsion%20arm_erlw"
+  },
+  {
+    "id": "47",
+    "item": "Chifre Ensurdecedor",
+    "tier": "lendario",
+    "sint": "",
+    "value": "10 PO (Bastão)",
+    "url": "https://5e.tools/items.html#horn%20of%20blasting_dmg"
+  },
+  {
+    "id": "48",
+    "item": "Cinturão do Gigante da Colina",
+    "tier": "lendario",
+    "sint": "Sim",
+    "value": "1 PO (Corda de Cânhamo)",
+    "url": "https://5e.tools/items.html#belt%20of%20hill%20giant%20strength_dmg"
+  },
+  {
+    "id": "49",
+    "item": "Gema da Visão",
+    "tier": "lendario",
+    "sint": "Sim",
+    "value": "100 PO (Lentes de Aumento)",
+    "url": "https://5e.tools/items.html#gem%20of%20seeing_dmg"
+  },
+  {
+    "id": "50",
+    "item": "Manto do Morcego",
+    "tier": "lendario",
+    "sint": "Sim",
+    "value": "15 PO (Traje Elegante)",
+    "url": "https://5e.tools/items.html#cloak%20of%20the%20bat_dmg"
+  }
+]

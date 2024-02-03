@@ -77,6 +77,14 @@
   gap: .2em;
 }
 
+.detail .second_block {
+  margin-bottom: 1em;
+}
+
+.detail .third_block {
+  margin-bottom: 1em;
+}
+
 .detail a {
   align-self: center;
   color: var(--text-color);
@@ -142,6 +150,6 @@
 
   .detail a {
     position: absolute;
-    bottom: 2.5%;
+    bottom: 0;
   }
 }

@@ -13,13 +13,34 @@ const tierList = {
   lendario: 'Lendário'
 }
 
+const tierNecessario = {
+  comum: 'Iniciante',
+  incomum: 'Cobre',
+  raro: 'Prata',
+  muRaro: 'Ouro',
+  lendario: 'Platina'
+}
+
+const nivelNecessario = {
+  comum: '',
+  incomum: '2',
+  raro: '6',
+  muRaro: '10',
+  lendario: '14'
+}
+
 const itemTypes = {
   potion: 'Consumível',
   magic: 'Item Mágico',
-  horse: 'Montaria'
+  horse: 'Montaria',
+  artifice: 'Infusão de Artifice'
 }
 
 export default function ListPage({ data, title, type }) {
+  let tabelaDeRequisitos = tierNecessario
+  if(type == 'artifice') {
+    tabelaDeRequisitos = nivelNecessario
+  }
   const fstItem = data[0].docData[0]
 
   const [details, setDetails] = useState({
@@ -29,10 +50,12 @@ export default function ListPage({ data, title, type }) {
     reforja: fstItem.reforge,
     sintoniza: fstItem.sint,
     link: fstItem.url,
-    raridade: tierList[fstItem.tier]
+    raridade: tierList[fstItem.tier],
+    requisito: tabelaDeRequisitos[fstItem.tier],
+    obs: fstItem.obs
   })
 
-  const itemDetails = (object) => {
+  const changeItemDetails = (object) => {
     setDetails({
       item: object.item,
       value: object.value,
@@ -40,7 +63,9 @@ export default function ListPage({ data, title, type }) {
       reforja: object.reforge,
       sintoniza: object.sint,
       link: object.url,
-      raridade: tierList[object.tier]
+      raridade: tierList[object.tier],
+      requisito: tabelaDeRequisitos[object.tier],
+      obs: object.obs
     })
   }
 
@@ -50,7 +75,7 @@ export default function ListPage({ data, title, type }) {
         <h1>{title}</h1>
         <div className={styles.list_container}>
           {data.map((content) => (
-            <ContentList key={content.id} content={content.docData} tier={content.tier} type={type} clickHandler={itemDetails} />
+            <ContentList key={content.id} content={content.docData} tier={content.tier} type={type} clickHandler={changeItemDetails} />
           ))}
         </div>
       </div>
@@ -63,6 +88,17 @@ export default function ListPage({ data, title, type }) {
           </div>
           <p className={styles.gold}>{details.value}</p>
         </div>
+        <div className={styles.third_block}>
+          {type == 'artifice' ? (
+            <>
+              <p>Nível de Artífice Necessário: {details.requisito}</p>
+            </>
+          ) : (
+            <>
+              <p>Tier Necessário: {details.requisito}</p>
+            </>
+          )}
+        </div>
         <div className={styles.second_block}>
           {details.reforja && (
             <>
@@ -74,6 +110,11 @@ export default function ListPage({ data, title, type }) {
             <>
               <p>Sintonização</p>
               <p className={styles.spacer}>{details.sintoniza}</p>
+            </>
+          )}
+          {details.obs && (
+            <>
+              <p>*{details.obs}</p>
             </>
           )}
         </div>
