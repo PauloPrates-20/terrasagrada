@@ -9,7 +9,7 @@ import MultiClasse from '@/components/MultiClasse'
 function calcOut(dice, lvl, con, dragon, dwarf, feat, multDice, multLvl, multClass, classe) {
   let out = 0
   let firstHp = (dice + con + dwarf + feat)
-  let nextHp = ((dice / 2 + 1) + con  + feat + dwarf)
+  let nextHp = ((dice / 2 + 1) + con + feat + dwarf)
   let multOneHp = 0
   if (multDice.one != 0) {
     multOneHp = ((multDice.one / 2) + 1 + con + dwarf + feat) * multLvl.one
@@ -140,15 +140,15 @@ export default function HpCalculator() {
   const changeMultLvl = (value, id) => {
     switch (id) {
       case 'multLvl1':
-        setMultLvl(state => ({...state, one: value * 1}))
+        setMultLvl(state => ({ ...state, one: value * 1 }))
         break;
-      
+
       case 'multLvl2':
-        setMultLvl(state => ({...state, two: value * 1}))
+        setMultLvl(state => ({ ...state, two: value * 1 }))
         break;
 
       case 'multLvl3':
-        setMultLvl(state => ({...state, three: value * 1}))
+        setMultLvl(state => ({ ...state, three: value * 1 }))
         break;
     }
   }
@@ -190,7 +190,7 @@ export default function HpCalculator() {
     multLvl
   ])
 
-  useEffect (() => {
+  useEffect(() => {
     if (multClass.one == 'feiticeiro' || multClass.two == 'feiticeiro' || multClass.three == 'feiticeiro' || playerClass == 'feiticeiro') {
       setSorcerer(true)
     }
