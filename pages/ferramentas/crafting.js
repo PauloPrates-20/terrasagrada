@@ -11,13 +11,13 @@ function calcTime(price, ve) {
 
 export default function Crafting() {
   const tiers = [
-    { nome: 'Iniciante', value: 25 },
-    { nome: 'Cobre', value: 50 },
-    { nome: 'Prata', value: 100 },
-    { nome: 'Ouro', value: 250 },
-    { nome: 'Platina', value: 500 },
-    { nome: 'Cobalto', value: 1000 },
-    { nome: 'Adamante', value: 2500 }
+    { nome: 'Iniciante', value: 15 },
+    { nome: 'Cobre', value: 30 },
+    { nome: 'Prata', value: 75 },
+    { nome: 'Ouro', value: 175 },
+    { nome: 'Platina', value: 350 },
+    { nome: 'Cobalto', value: 750 },
+    { nome: 'Adamante', value: 1500 }
   ]
   
   const raridade = [
