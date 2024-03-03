@@ -1,6 +1,5 @@
 import { useState } from "react";
 
-import Link from "next/link";
 import Image from 'next/image'
 
 import { FaBars, FaAngleDown, FaAngleUp } from 'react-icons/fa'
@@ -46,30 +45,30 @@ export default function Navbar() {
       <nav className={styles.navbar}>
         <FaBars onClick={navClick} className={styles.drop_toggle} id={styles.exclude} />
         <div className={`${styles.dropdown} ${styles[mainToggle]}`}>
-          <Link href='/'>Home</Link>
+          <a href='/'>Home</a>
           <div onClick={listClick} className={styles.drop_toggle}>
             {listToggle == toggle[1] ? <FaAngleDown /> : <FaAngleUp />}
             <span>Listas</span>
           </div>
           <div className={`${styles.dropdown_2} ${styles[listToggle]}`}>
-            <Link href='/listas/consumiveis'>Consumíveis</Link>
-            <Link href='/listas/itensmagicos'>Itens Mágicos</Link>
-            <Link href='/listas/montarias'>Montarias</Link>
+            <a href='/listas/consumiveis'>Consumíveis</a>
+            <a href='/listas/itensmagicos'>Itens Mágicos</a>
+            <a href='/listas/montarias'>Montarias</a>
           </div>
           <div onClick={toolClick} className={styles.drop_toggle}>
             {toolToggle == toggle[1] ? <FaAngleDown /> : <FaAngleUp />}
             <span>Ferramentas</span>
           </div>
           <div className={`${styles.dropdown_2} ${styles[toolToggle]}`}>
-            <Link href='/ferramentas/calculadorahp'>Calculadora de HP</Link>
-            <Link href='/ferramentas/conjurador'>Nível de Conjurador</Link>
-            <Link href='/ferramentas/grimorio'>Grimório do Mago</Link>
-            <Link href='/ferramentas/crafting'>Calculadora do Artesão</Link>
+            <a href='/ferramentas/calculadorahp'>Calculadora de HP</a>
+            <a href='/ferramentas/conjurador'>Nível de Conjurador</a>
+            <a href='/ferramentas/grimorio'>Grimório do Mago</a>
+            <a href='/ferramentas/crafting'>Calculadora do Artesão</a>
           </div>
         </div>
       </nav>
       <div className={styles.logo}>
-        <Link href='/'>
+        <a href='/'>
           <p>Terra Sagrada</p>
           <Image
             src={'/images/d20.png'}
@@ -77,7 +76,7 @@ export default function Navbar() {
             height={30}
             alt=''
           />
-        </Link>
+        </a>
       </div>
     </header>
   )
