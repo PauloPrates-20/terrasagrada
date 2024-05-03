@@ -14,18 +14,18 @@ export default function Crafting() {
     { nome: 'Iniciante', value: 15 },
     { nome: 'Cobre', value: 30 },
     { nome: 'Prata', value: 75 },
-    { nome: 'Ouro', value: 175 },
-    { nome: 'Platina', value: 350 },
-    { nome: 'Cobalto', value: 750 },
-    { nome: 'Adamante', value: 1500 }
+    { nome: 'Ouro', value: 120 },
+    { nome: 'Platina', value: 200 },
+    { nome: 'Cobalto', value: 500 },
+    { nome: 'Adamante', value: 750 }
   ]
   
   const raridade = [
     { nome: 'Comum', value: 10 },
     { nome: 'Incomum', value: 12 },
-    { nome: 'Raro', value: 14 },
-    { nome: 'Muito Raro', value: 16 },
-    { nome: 'Lendário', value: 18 },
+    { nome: 'Raro', value: 16 },
+    { nome: 'Muito Raro', value: 20 },
+    { nome: 'Lendário', value: 22 },
   ]
 
   const [ve, setVe] = useState(25)
