@@ -73,7 +73,7 @@ export default function HpCalculator() {
     guerreiro: 10,
     ladino: 8,
     mago: 6,
-    monde: 8,
+    monge: 8,
     paladino: 10,
     patrulheiro: 10
   }
@@ -98,7 +98,7 @@ export default function HpCalculator() {
 
   const changeClass = (value) => {
     setPlayerClass(value);
-    setDice(dices[value])
+    setDice(dices[value]);
   }
   const changeMultClass = (value, id) => {
     switch (id) {
