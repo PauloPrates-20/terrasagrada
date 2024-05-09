@@ -29,7 +29,7 @@ function addDays(date, days) {
 
 let date = new Date()
 let day = date.getDate()
-let month = date.getMonth()
+let month = (date.getMonth() + 1)
 let year = date.getFullYear()
 
 export default function Crafting() {
@@ -181,7 +181,7 @@ export default function Crafting() {
         'Raridade: ' + raridade + '\n' +
         'Ferramentas Utilizada: ' + tool + '\n' +
         'Data de Início: ' + day + '/' + month + '/' + year + ' ' + hour + '\n' +
-        'Data de Término: ' + finalDate.getDate() + '/' + finalDate.getMonth() + '/' + finalDate.getFullYear() + ' ' + hour +'\n'
+        'Data de Término: ' + finalDate.getDate() + '/' + (finalDate.getMonth() + 1) + '/' + finalDate.getFullYear() + ' ' + hour +'\n'
       )
 
       setCopy(false)
@@ -239,7 +239,7 @@ export default function Crafting() {
             <span>{hour}</span>
           )}</p>
           <p>Data de Término: {finalDate && (
-            <span>{`${finalDate.getDate()}/${finalDate.getMonth()}/${finalDate.getFullYear()}`}</span>
+            <span>{`${finalDate.getDate()}/${finalDate.getMonth() + 1}/${finalDate.getFullYear()}`}</span>
           )} {hour && (
             <span>{hour}</span>
           )}</p>
