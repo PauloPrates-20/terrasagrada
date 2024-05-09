@@ -4,7 +4,7 @@ export default function FormInput({ inputId, type, text, defVal, min, max, size,
       eventHandler(e.target.value, e.target.id)
     }
     else {
-      e.target.checked ? eventHandler(e.target.value) : eventHandler(0)
+      e.target.checked ? eventHandler(e.target.value) : eventHandler(false)
     }
   }
 

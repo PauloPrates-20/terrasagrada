@@ -34,6 +34,7 @@ export default function Crafting() {
   const [time, setTime] = useState(0)
   const [cd, setCd] = useState(10)
   const [consumivel, setConsumivel] = useState(0)
+  const [artifice, setArtifice] = useState(false)
 
   const changeVe = (value) => {
     setVe(value * 1)
@@ -51,6 +52,10 @@ export default function Crafting() {
     setConsumivel(value * 1)
   }
 
+  const toggleArtifice = (value) => {
+    setArtifice(value)
+  }
+
   useEffect(() => {
     if(consumivel != 0) {
       setTotal(price / consumivel)
@@ -61,7 +66,11 @@ export default function Crafting() {
   }, [consumivel, price])
 
   useEffect(() => {
-    setTime(calcTime(total, ve))
+    artifice ? setTotal(price / 2) : setTotal(price)
+  }, [artifice, price])
+
+  useEffect(() => {
+    artifice ? setTime(Math.ceil(calcTime(total, ve) / 4)) :setTime(calcTime(total, ve))
   }, [total, ve])
 
   return (
@@ -75,6 +84,7 @@ export default function Crafting() {
             <FormSelect content={raridade} text='Raridade do Item: ' inputId='rarity' eventHandler={changeCd} />
             <FormInput inputId='price' text='Valor do Item: ' type='number' min={0} max={100000} defVal={0} eventHandler={changePrice} />
             <FormInput inputId='consumivel' text='Consumível? ' type='checkbox' defVal={2} eventHandler={toggleConsumivel} />
+            <FormInput inputId='artifice10' text='Artífice Nv. 10? ' type='checkbox' defVal={true} eventHandler={toggleArtifice} />
           </div>
         </div>
         <div className={styles.output_frame}>
