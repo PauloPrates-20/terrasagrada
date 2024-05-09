@@ -35,6 +35,7 @@ export default function Crafting() {
   const [cd, setCd] = useState(10)
   const [consumivel, setConsumivel] = useState(0)
   const [artifice, setArtifice] = useState(false)
+  const [mensagem, setMensagem] = useState("")
 
   const changeVe = (value) => {
     setVe(value * 1)
@@ -58,7 +59,7 @@ export default function Crafting() {
 
   useEffect(() => {
     if(consumivel != 0) {
-      setTotal(price / consumivel)
+      setTotal(Math.ceil(price / consumivel))
     }
     else {
       setTotal(price)
@@ -66,7 +67,7 @@ export default function Crafting() {
   }, [consumivel, price])
 
   useEffect(() => {
-    artifice ? setTotal(price / 2) : setTotal(price)
+    artifice ? setTotal(Math.ceil(price / 2)) : setTotal(price)
   }, [artifice, price])
 
   useEffect(() => {
