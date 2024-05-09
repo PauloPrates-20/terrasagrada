@@ -30,11 +30,14 @@ export default function Crafting() {
 
   const [ve, setVe] = useState(25)
   const [price, setPrice] = useState(0)
+  const [priceAnterior, setPriceAnterior] = useState(0);
+  const [priceNovo, setPriceNovo] = useState(0);
   const [total, setTotal] = useState(0)
   const [time, setTime] = useState(0)
   const [cd, setCd] = useState(10)
   const [consumivel, setConsumivel] = useState(0)
   const [artifice, setArtifice] = useState(false)
+  const [upgrade, setUpgrade] = useState(false)
   const [mensagem, setMensagem] = useState("")
 
   const changeVe = (value) => {
@@ -43,6 +46,14 @@ export default function Crafting() {
 
   const changePrice = (value) => {
     setPrice(Math.ceil(value * 0.8))
+  }
+
+  const changePriceAnterior = (value) => {
+    setPriceAnterior(value * 1)
+  }
+
+  const changePriceNovo = (value) => {
+    setPriceNovo(value * 1)
   }
 
   const changeCd = (value) => {
@@ -56,6 +67,14 @@ export default function Crafting() {
   const toggleArtifice = (value) => {
     setArtifice(value)
   }
+
+  const toggleUpgrade = (value) => {
+    setUpgrade(value)
+  }
+
+  useEffect(() => {
+    priceNovo > priceAnterior && setPrice(Math.ceil((priceNovo - priceAnterior) * 0.8))
+  }, [priceAnterior, priceNovo])
 
   useEffect(() => {
     if(consumivel != 0) {
@@ -83,9 +102,17 @@ export default function Crafting() {
           <div className={styles.inputs}>
             <FormSelect content={tiers} text='Tier do Artesão: ' inputId='selectTier' eventHandler={changeVe} />
             <FormSelect content={raridade} text='Raridade do Item: ' inputId='rarity' eventHandler={changeCd} />
-            <FormInput inputId='price' text='Valor do Item: ' type='number' min={0} max={100000} defVal={0} eventHandler={changePrice} />
+            {upgrade ? (
+              <div>
+                <FormInput inputId='priceAnterior' text='Valor do item base: ' type='number' min={0} max={100000} defVal={0} eventHandler={changePriceAnterior} />
+                <FormInput inputId='priceNovo' text='Valor do upgrade: ' type='number' min={0} max={100000} defVal={0} eventHandler={changePriceNovo} />
+              </div>
+            ) : (
+              <FormInput inputId='price' text='Valor do Item: ' type='number' min={0} max={100000} defVal={0} eventHandler={changePrice} />
+            )}
             <FormInput inputId='consumivel' text='Consumível? ' type='checkbox' defVal={2} eventHandler={toggleConsumivel} />
             <FormInput inputId='artifice10' text='Artífice Nv. 10? ' type='checkbox' defVal={true} eventHandler={toggleArtifice} />
+            <FormInput inputId='upgrade' text='Upgrade? ' type='checkbox' defVal={true} eventHandler={toggleUpgrade} />
           </div>
         </div>
         <div className={styles.output_frame}>
