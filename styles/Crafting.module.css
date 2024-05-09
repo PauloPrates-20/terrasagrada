@@ -27,6 +27,24 @@
   color: #fff;
 }
 
+.button {
+  align-self: center;
+  color: var(--text-color);
+  text-decoration: none;
+  padding: .5em .8em;
+  font-size: 1.2em;
+  background-color: #333;
+  width: fit-content;
+  border: solid 1px var(--title-color);
+  border-radius: 10px;
+  margin: .8em 0;
+}
+
+.button:hover {
+  cursor: pointer;
+  box-shadow: 0 0 24px 8px var(--bar-hov) inset;
+}
+
 @media screen and (min-width: 720px) {
   .frame {
     margin: 0 auto;
