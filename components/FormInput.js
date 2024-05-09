@@ -3,11 +3,8 @@ export default function FormInput({ inputId, type, text, defVal, min, max, size,
     if(e.target.type == 'number') {
       eventHandler(e.target.value, e.target.id)
     }
-    else if (e.target.type == 'chkbox') {
-      e.target.checked ? eventHandler(e.target.value) : eventHandler(false)
-    }
     else {
-      eventHandler(e.target.value);
+      e.target.checked ? eventHandler(e.target.value) : eventHandler(false)
     }
   }
 
