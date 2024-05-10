@@ -196,7 +196,7 @@ export default function Crafting() {
   }, [mensagem])
 
   return (
-    <div>
+    <div className={styles.container}>
       <div className={styles.frame}>
         <h1>Calculadora do artesão</h1>
         <div className={styles.data_frame}>
