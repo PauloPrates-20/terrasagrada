@@ -142,17 +142,17 @@ export default function Crafting() {
   }, [priceAnterior, priceNovo])
 
   useEffect(() => {
-    if(consumivel != 0) {
-      setTotal(Math.ceil(price / consumivel))
+    let desconto = 1
+    if(consumivel || artifice) {
+      desconto = 2
+      if(consumivel && artifice) {
+        desconto = 4
+      }
     }
-    else {
-      setTotal(price)
-    }
-  }, [consumivel, price])
+    
+    setTotal(Math.ceil(price / desconto))
 
-  useEffect(() => {
-    artifice ? setTotal(Math.ceil(price / 2)) : setTotal(price)
-  }, [artifice, price])
+  }, [consumivel, price, artifice])
 
   useEffect(() => {
     artifice ? setTime(Math.ceil(calcTime(total, ve) / 4)) :setTime(calcTime(total, ve))
@@ -180,6 +180,7 @@ export default function Crafting() {
         'Cria: ' + item + '\n' +
         'Raridade: ' + raridade + '\n' +
         'Ferramentas Utilizada: ' + tool + '\n' +
+        'Custo de Fabricação: ' + total + '\n' +
         'Data de Início: ' + day + '/' + month + '/' + year + ' ' + hour + '\n' +
         'Data de Término: ' + finalDate.getDate() + '/' + (finalDate.getMonth() + 1) + '/' + finalDate.getFullYear() + ' ' + hour +'\n'
       )
@@ -234,7 +235,7 @@ export default function Crafting() {
           <p>Cria: {item}</p>
           <p>Raridade: {raridade}</p>
           <p>Ferramentas Utilizadas: {tool}</p>
-          <p>Custo de Fabricação: {price}</p>
+          <p>Custo de Fabricação: {total}</p>
           <p>Data de Início: {`${day}/${month}/${year}`} {hour && (
             <span>{hour}</span>
           )}</p>
