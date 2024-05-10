@@ -182,7 +182,9 @@ export default function Crafting() {
         'Ferramentas Utilizada: ' + tool + '\n' +
         'Custo de Fabricação: ' + total + '\n' +
         'Data de Início: ' + day + '/' + month + '/' + year + ' ' + hour + '\n' +
-        'Data de Término: ' + finalDate.getDate() + '/' + (finalDate.getMonth() + 1) + '/' + finalDate.getFullYear() + ' ' + hour +'\n'
+        'Data de Término: ' + finalDate.getDate() + '/' + (finalDate.getMonth() + 1) + '/' + finalDate.getFullYear() + ' ' + hour +'\n' +
+        'Teste de Arcanismo: ' + '\n' +
+        'Teste com ferramenta: '
       )
 
       setCopy(false)
@@ -244,6 +246,8 @@ export default function Crafting() {
           )} {hour && (
             <span>{hour}</span>
           )}</p>
+          <p>Teste de Arcanismo: </p>
+          <p>Teste com Ferramenta: </p>
           <button onClick={copyMessage} className={styles.button}>Copiar</button>
         </div>
       </div>
