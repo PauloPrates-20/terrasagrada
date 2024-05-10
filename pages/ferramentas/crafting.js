@@ -48,7 +48,7 @@ export default function Crafting() {
     {nome: 'Ferramentas de Sapateiro', value: 'Ferramentas de Sapateiro',},
     {nome: 'Ferramentas de Vidreiro', value: 'Ferramentas de Vidreiro',},
     {nome: 'Suprimentos de Alquimista', value: 'Suprimentos de Alquimista',},
-    {nome: 'Suprimentos de Cervejeito', value: 'Suprimentos de Cervejeito',},
+    {nome: 'Suprimentos de Cervejeiro', value: 'Suprimentos de Cervejeito',},
     {nome: 'Suprimentos de Caligrafia', value: 'Suprimentos de Caligrafia',},
     {nome: 'Utensílios de Cozinheiro', value: 'Utensílios de Cozinheiro',}
   ]
