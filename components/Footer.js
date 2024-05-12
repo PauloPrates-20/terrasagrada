@@ -16,7 +16,7 @@ export default function Footer() {
       </h3>
       <div className={styles.minor}>
         <p>
-          Rev 3.5.1 2024
+          Rev 3.6 2024
         </p>
         <div className={styles.credits}>
           <p className={styles.minor}>
