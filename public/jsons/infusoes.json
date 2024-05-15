@@ -1,0 +1,563 @@
+[
+    {
+        "id": 0,
+        "nome": {
+            "portugues": "Bolsa de Recursos",
+            "original": "Bag of Holding"
+        },
+        "valor": 1,
+        "reqSintonizacao": "",
+        "nivel": 2,
+        "material": "(Sack)"
+    },
+    {
+        "id": 1,
+        "nome": {
+            "portugues": "Corda de Escalada",
+            "original": "Rope of Climbing"
+        },
+        "valor": 10,
+        "reqSintonizacao": "",
+        "nivel": 2,
+        "material": "(Silk Rope)"
+    },
+    {
+        "id": 2,
+        "nome": {
+            "portugues": "Jarro de Alquimia",
+            "original": "Alchemy Jug"
+        },
+        "valor": 2,
+        "reqSintonizacao": "",
+        "nivel": 2,
+        "material": "(Jug)"
+    },
+    {
+        "id": 3,
+        "nome": {
+            "portugues": "Manto de Respiração Aquática",
+            "original": "Cap of Water Breathing"
+        },
+        "valor": 15,
+        "reqSintonizacao": "",
+        "nivel": 2,
+        "material": "(Fine Clothes)"
+    },
+    {
+        "id": 4,
+        "nome": {
+            "portugues": "Óculos Noturnos",
+            "original": "Goggles of Night"
+        },
+        "valor": 100,
+        "reqSintonizacao": "",
+        "nivel": 2,
+        "material": "(Magnifying Glass)"
+    },
+    {
+        "id": 5,
+        "nome": {
+            "portugues": "Pedras de Envio",
+            "original": "Sending Stones"
+        },
+        "valor": 1,
+        "reqSintonizacao": "",
+        "nivel": 2,
+        "material": "(Stones)"
+    },
+    {
+        "id": 6,
+        "nome": {
+            "portugues": "Varinha de Detecção Mágica",
+            "original": "Wand of Magic Detection"
+        },
+        "valor": 10,
+        "reqSintonizacao": "",
+        "nivel": 2,
+        "material": "(Wand)"
+    },
+    {
+        "id": 7,
+        "nome": {
+            "portugues": "Varinha dos Segredos",
+            "original": "Wand of Secrets"
+        },
+        "valor": 10,
+        "reqSintonizacao": "",
+        "nivel": 2,
+        "material": "(Wand)"
+    },
+    {
+        "id": 8,
+        "nome": {
+            "portugues": "Anel de Caminhada Aquática",
+            "original": "Ring of Water Walking"
+        },
+        "valor": 5,
+        "reqSintonizacao": "",
+        "nivel": 6,
+        "material": "(Signet Ring)"
+    },
+    {
+        "id": 9,
+        "nome": {
+            "portugues": "Botas Élficas",
+            "original": "Boots of Elvenkind"
+        },
+        "valor": 15,
+        "reqSintonizacao": "",
+        "nivel": 6,
+        "material": "(Fine Clothes)"
+    },
+    {
+        "id": 10,
+        "nome": {
+            "portugues": "Flautas da Assombração",
+            "original": "Pipes of Haunting"
+        },
+        "valor": 2,
+        "reqSintonizacao": "",
+        "nivel": 6,
+        "material": "(Flute)"
+    },
+    {
+        "id": 11,
+        "nome": {
+            "portugues": "Manto de Arraia",
+            "original": "Cloak of the Manta Ray"
+        },
+        "valor": 15,
+        "reqSintonizacao": "",
+        "nivel": 6,
+        "material": "(Fine Clothes)"
+    },
+    {
+        "id": 12,
+        "nome": {
+            "portugues": "Manto Élfico",
+            "original": "Cloack of Elvenkind"
+        },
+        "valor": 15,
+        "reqSintonizacao": "Sim",
+        "nivel": 6,
+        "material": "(Fine Clothes)"
+    },
+    {
+        "id": 13,
+        "nome": {
+            "portugues": "Lanterna da Revelação",
+            "original": "Lantern of Revealing"
+        },
+        "valor": 5,
+        "reqSintonizacao": "",
+        "nivel": 6,
+        "material": "(Hooded Lantern)"
+    },
+    {
+        "id": 14,
+        "nome": {
+            "portugues": "Luvas do Ladrão",
+            "original": "Gloves of Thievery"
+        },
+        "valor": 15,
+        "reqSintonizacao": "",
+        "nivel": 6,
+        "material": "(Fine Clothes)"
+    },
+    {
+        "id": 15,
+        "nome": {
+            "portugues": "Olhos de Enfeitiçar",
+            "original": "Eyes of Charming"
+        },
+        "valor": 10,
+        "reqSintonizacao": "Sim",
+        "nivel": 6,
+        "material": "(Crystal)"
+    },
+    {
+        "id": 16,
+        "nome": {
+            "portugues": "Aljava de Ehlonna",
+            "original": "Quiver of Ehlonna"
+        },
+        "valor": 1,
+        "reqSintonizacao": "",
+        "nivel": 10,
+        "material": "(Quiver)"
+    },
+    {
+        "id": 17,
+        "nome": {
+            "portugues": "Anel do Escudo Mental",
+            "original": "Ring of Mind Shielding"
+        },
+        "valor": 5,
+        "reqSintonizacao": "Sim",
+        "nivel": 10,
+        "material": "(Signet Ring)"
+    },
+    {
+        "id": 18,
+        "nome": {
+            "portugues": "Anel do Pulo",
+            "original": "Ring of Jumping"
+        },
+        "valor": 5,
+        "reqSintonizacao": "Sim",
+        "nivel": 10,
+        "material": "(Signet Ring)"
+    },
+    {
+        "id": 19,
+        "nome": {
+            "portugues": "Botas Aladas",
+            "original": "Winged Boots"
+        },
+        "valor": 15,
+        "reqSintonizacao": "Sim",
+        "nivel": 10,
+        "material": "(Fine Clothes)"
+    },
+    {
+        "id": 20,
+        "nome": {
+            "portugues": "Botas de Salto e Corrida",
+            "original": "Boots of Striding and Springing"
+        },
+        "valor": 15,
+        "reqSintonizacao": "Sim",
+        "nivel": 10,
+        "material": "(Fine Clothes)"
+    },
+    {
+        "id": 21,
+        "nome": {
+            "portugues": "Botas Invernais",
+            "original": "Boots of the Winterlands"
+        },
+        "valor": 15,
+        "reqSintonizacao": "Sim",
+        "nivel": 10,
+        "material": "(Fine Clothes)"
+    },
+    {
+        "id": 22,
+        "nome": {
+            "portugues": "Braçadeiras de Arquearia",
+            "original": "Bracers of Archery"
+        },
+        "valor": 15,
+        "reqSintonizacao": "Sim",
+        "nivel": 10,
+        "material": "(Fine Clothes)"
+    },
+    {
+        "id": 23,
+        "nome": {
+            "portugues": "Broche do Escudo",
+            "original": "Brooch of Shielding"
+        },
+        "valor": 10,
+        "reqSintonizacao": "Sim",
+        "nivel": 10,
+        "material": "(Gemstones)"
+    },
+    {
+        "id": 24,
+        "nome": {
+            "portugues": "Colar de Adaptação*",
+            "original": "Necklace of Adaptation*"
+        },
+        "valor": 15,
+        "reqSintonizacao": "Sim",
+        "nivel": 10,
+        "material": "(Fine Clothes)"
+    },
+    {
+        "id": 25,
+        "nome": {
+            "portugues": "Chapéu do Disfarce",
+            "original": "Hat of Disguise"
+        },
+        "valor": 15,
+        "reqSintonizacao": "Sim",
+        "nivel": 10,
+        "material": "(Fine Clothes)"
+    },
+    {
+        "id": 26,
+        "nome": {
+            "portugues": "Chinelos da Escalada Aranha",
+            "original": "Slippers of Spider Climbing"
+        },
+        "valor": 15,
+        "reqSintonizacao": "Sim",
+        "nivel": 10,
+        "material": "(Fine Clothes)"
+    },
+    {
+        "id": 27,
+        "nome": {
+            "portugues": "Elmo da Telepatia",
+            "original": "Helm of Telepathy"
+        },
+        "valor": 15,
+        "reqSintonizacao": "Sim",
+        "nivel": 10,
+        "material": "(Fine Clothes)"
+    },
+    {
+        "id": 28,
+        "nome": {
+            "portugues": "Flautas dos Esgotos",
+            "original": "Pipes of the Sewer"
+        },
+        "valor": 2,
+        "reqSintonizacao": "Sim",
+        "nivel": 10,
+        "material": "(Flute)"
+    },
+    {
+        "id": 29,
+        "nome": {
+            "portugues": "Luvas de Apanhar Projéteis",
+            "original": "Gloves of Missile Snaring"
+        },
+        "valor": 15,
+        "reqSintonizacao": "Sim",
+        "nivel": 10,
+        "material": "(Fine Clothes)"
+    },
+    {
+        "id": 30,
+        "nome": {
+            "portugues": "Luvas de Nado e Escalada",
+            "original": "Gloves of Swimming and Climbing"
+        },
+        "valor": 15,
+        "reqSintonizacao": "Sim",
+        "nivel": 10,
+        "material": "(Fine Clothes)"
+    },
+    {
+        "id": 31,
+        "nome": {
+            "portugues": "Manoplas de Força do Ogro",
+            "original": "Gauntlets of Ogre Power"
+        },
+        "valor": 15,
+        "reqSintonizacao": "Sim",
+        "nivel": 10,
+        "material": "(Fine Clothes)"
+    },
+    {
+        "id": 32,
+        "nome": {
+            "portugues": "Manto de Proteção",
+            "original": "Cloak of Protection"
+        },
+        "valor": 15,
+        "reqSintonizacao": "Sim",
+        "nivel": 10,
+        "material": "(Fine Clothes)"
+    },
+    {
+        "id": 33,
+        "nome": {
+            "portugues": "Medalhão dos Pensamentos",
+            "original": "Medallion of Thoughts"
+        },
+        "valor": 10,
+        "reqSintonizacao": "Sim",
+        "nivel": 10,
+        "material": "(Gemstones)"
+    },
+    {
+        "id": 34,
+        "nome": {
+            "portugues": "Olhos de Águia",
+            "original": "Eyes of the Eagle"
+        },
+        "valor": 10,
+        "reqSintonizacao": "Sim",
+        "nivel": 10,
+        "material": "(Crystal)"
+    },
+    {
+        "id": 35,
+        "nome": {
+            "portugues": "Periapto de Cicatrização",
+            "original": "Periapt of Wound Closure"
+        },
+        "valor": 10,
+        "reqSintonizacao": "Sim",
+        "nivel": 10,
+        "material": "(Gemstones)"
+    },
+    {
+        "id": 36,
+        "nome": {
+            "portugues": "Pulmões de Ventilação",
+            "original": "Ventilating Lungs"
+        },
+        "valor": 1,
+        "reqSintonizacao": "Sim",
+        "nivel": 10,
+        "material": "(Pouch x2)"
+    },
+    {
+        "id": 37,
+        "nome": {
+            "portugues": "Tiara do Intelecto",
+            "original": "Headband of Intellect"
+        },
+        "valor": 15,
+        "reqSintonizacao": "Sim",
+        "nivel": 10,
+        "material": "(Fine Clothes)"
+    },
+    {
+        "id": 38,
+        "nome": {
+            "portugues": "Algemas Dimensionais",
+            "original": "Dimensional Shackles"
+        },
+        "valor": 1,
+        "reqSintonizacao": "",
+        "nivel": 14,
+        "material": "(Iron x10)"
+    },
+    {
+        "id": 39,
+        "nome": {
+            "portugues": "Amuleto da Saúde",
+            "original": "Amulet of Health"
+        },
+        "valor": 10,
+        "reqSintonizacao": "Sim",
+        "nivel": 14,
+        "material": "(Gemstones)"
+    },
+    {
+        "id": 40,
+        "nome": {
+            "portugues": "Anel de Ação Livre",
+            "original": "Ring of Free Action"
+        },
+        "valor": 5,
+        "reqSintonizacao": "Sim",
+        "nivel": 14,
+        "material": "(Signet Ring)"
+    },
+    {
+        "id": 41,
+        "nome": {
+            "portugues": "Anel de Proteção",
+            "original": "Ring of Protection"
+        },
+        "valor": 5,
+        "reqSintonizacao": "Sim",
+        "nivel": 14,
+        "material": "(Signet Ring)"
+    },
+    {
+        "id": 42,
+        "nome": {
+            "portugues": "Anel do Aríete",
+            "original": "Ring of the Ram"
+        },
+        "valor": 5,
+        "reqSintonizacao": "Sim",
+        "nivel": 14,
+        "material": "(Signet Ring)"
+    },
+    {
+        "id": 43,
+        "nome": {
+            "portugues": "Botas de Levitação",
+            "original": "Boots of Levitation"
+        },
+        "valor": 15,
+        "reqSintonizacao": "Sim",
+        "nivel": 14,
+        "material": "(Fine Clothes)"
+    },
+    {
+        "id": 44,
+        "nome": {
+            "portugues": "Botas de Velocidade",
+            "original": "Boots of Speed"
+        },
+        "valor": 15,
+        "reqSintonizacao": "Sim",
+        "nivel": 14,
+        "material": "(Fine Clothes)"
+    },
+    {
+        "id": 45,
+        "nome": {
+            "portugues": "Braçadeiras de Defesa",
+            "original": "Bracers of Defense"
+        },
+        "valor": 15,
+        "reqSintonizacao": "Sim",
+        "nivel": 14,
+        "material": "(Fine Clothes)"
+    },
+    {
+        "id": 46,
+        "nome": {
+            "portugues": "Braço de Propulsão Arcana",
+            "original": "Arcane Propulsion Arm"
+        },
+        "valor": 1,
+        "reqSintonizacao": "Sim",
+        "nivel": 14,
+        "material": "(Iron x10)"
+    },
+    {
+        "id": 47,
+        "nome": {
+            "portugues": "Chifre Ensurdecedor",
+            "original": "Horn of Blasting"
+        },
+        "valor": 10,
+        "reqSintonizacao": "",
+        "nivel": 14,
+        "material": "(Rod)"
+    },
+    {
+        "id": 48,
+        "nome": {
+            "portugues": "Cinturão do Gigante da Colina",
+            "original": "Belt of Hill Giant Strength"
+        },
+        "valor": 1,
+        "reqSintonizacao": "Sim",
+        "nivel": 14,
+        "material": "(Hempen Rope)"
+    },
+    {
+        "id": 49,
+        "nome": {
+            "portugues": "Gema da Visão",
+            "original": "Gem of Seeing"
+        },
+        "valor": 100,
+        "reqSintonizacao": "Sim",
+        "nivel": 14,
+        "material": "(Magnifying Glass)"
+    },
+    {
+        "id": 50,
+        "nome": {
+            "portugues": "Manto do Morcego",
+            "original": "Cloak of the Bat"
+        },
+        "valor": 15,
+        "reqSintonizacao": "Sim",
+        "nivel": 14,
+        "material": "(Fine Clothes)"
+    }
+]
