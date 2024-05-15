@@ -1,7 +1,7 @@
 // import { firebaseDb } from "@/lib/firestoreConfig"
 // import { doc, setDoc } from 'firebase/firestore/lite'
-// import { useRouter } from "next/navigation"
-// import { useEffect } from "react"
+import { useRouter } from "next/navigation"
+import { useEffect } from "react"
 // import { getAllData, getData } from '@/lib/getDbData'
 
 // import databaseData from '@/public/jsons/artifice.json'
