@@ -1,33 +1,33 @@
-import { firebaseDb } from "@/lib/firestoreConfig"
-import { doc, setDoc } from 'firebase/firestore/lite'
-import { useRouter } from "next/navigation"
-import { useEffect } from "react"
-import { getAllData, getData } from '@/lib/getDbData'
+// import { firebaseDb } from "@/lib/firestoreConfig"
+// import { doc, setDoc } from 'firebase/firestore/lite'
+// import { useRouter } from "next/navigation"
+// import { useEffect } from "react"
+// import { getAllData, getData } from '@/lib/getDbData'
 
-import databaseData from '@/public/jsons/artifice.json'
+// import databaseData from '@/public/jsons/artifice.json'
 
 // retrieve data from database
 
-async function queryFirestore() {
-  const queryResult = getAllData('ItensMagicos')
+// async function queryFirestore() {
+//   const queryResult = getAllData('ItensMagicos')
 
-  return queryResult
-}
+//   return queryResult
+// }
 
 // convert data do json
 
-function dataJSON(data) {
-  const dataObject = JSON.stringify(data)
-  // console.log(dataObject)
+// function dataJSON(data) {
+//   const dataObject = JSON.stringify(data)
+//   // console.log(dataObject)
 
-  const dataString = "data:text/json;charset=utf-8," + encodeURIComponent(dataObject)
+//   const dataString = "data:text/json;charset=utf-8," + encodeURIComponent(dataObject)
 
-  const downloadLink = document.createElement('a')
-  downloadLink.setAttribute('href', dataString)
-  downloadLink.setAttribute('download', 'itensmagicos.json')
-  downloadLink.click()
-  downloadLink.remove()
-}
+//   const downloadLink = document.createElement('a')
+//   downloadLink.setAttribute('href', dataString)
+//   downloadLink.setAttribute('download', 'itensmagicos.json')
+//   downloadLink.click()
+//   downloadLink.remove()
+// }
 
 export default function GmTools() {
   // redirect
