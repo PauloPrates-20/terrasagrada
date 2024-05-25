@@ -7,11 +7,11 @@ const tierList = {
   comum: 'Comum',
   incomum: 'Incomum',
   raro: 'Raro',
-  muRaro: 'Muito Raro',
+  muito_raro: 'Muito Raro',
   lendario: 'Lendário'
 }
 
-export default function ContentList({ content, tier, type, clickHandler }) {
+export default function ContentList({ content, raridade, type, tipoItem, clickHandler }) {
   const [coll, setColl] = useState('collapsed')
 
   const handleClick = () => {
@@ -20,14 +20,14 @@ export default function ContentList({ content, tier, type, clickHandler }) {
 
   return (
     <div className={styles.main_container}>
-      <button onClick={handleClick} className={`${styles[tier]}`}>
-        {type == 'horse' ? 'Animais Terrestres' : tierList[tier]}
+      <button onClick={handleClick} className={`${styles[raridade]}`}>
+        {type == 'horse' ? 'Animais Terrestres' : type == 'itensMundanos' ? tipoItem :  tierList[raridade]}
         {coll == 'expanded' ? <FaCaretUp /> : <FaCaretDown />}
       </button>
       <div className={`${styles.list_container} ${styles[coll]}`}>
         <ul>
           {content.map((doc) => (
-            <ListData key={doc.id} content={doc} tier={tier} type={type} clickHandler={clickHandler} />
+            <ListData key={doc.id} content={doc} raridade={raridade} type={type} clickHandler={clickHandler} />
           ))}
         </ul>
       </div>

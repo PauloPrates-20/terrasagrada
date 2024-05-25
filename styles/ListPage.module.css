@@ -64,6 +64,11 @@
   margin: .5em 0;
 }
 
+.detail h3 {
+  color: var(--title-color);
+  margin: .5em 0;
+}
+
 .detail .first_block {
   display: flex;
   justify-content: space-between;
@@ -133,6 +138,10 @@
     margin: 0 auto;
     width: 50%;
     height: 85%;
+    min-height: auto;
+    height: auto;
+    font-size: 1.4em;
+    position: relative;
   }
 
   .list_container {
@@ -143,13 +152,7 @@
     padding-bottom: .5em;
   }
 
-  .detail {
-    min-height: fit-content;
-    font-size: 1.4em;
-  }
-
   .detail a {
-    position: absolute;
-    bottom: 0;
+    position: relative;
   }
 }

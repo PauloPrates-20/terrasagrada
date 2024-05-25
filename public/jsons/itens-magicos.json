@@ -1,0 +1,5114 @@
+[
+  {
+    "id": 0,
+    "nome": {
+      "portugues": "Amuleto do Fragmento Negro",
+      "original": "Dark Shard Amulet"
+    },
+    "valor": 100,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#dark%20shard%20amulet_xge"
+  },
+  {
+    "id": 1,
+    "nome": {
+      "portugues": "Amuleto Mecânico",
+      "original": "Clockwork Amulet"
+    },
+    "valor": 500,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#clockwork%20amulet_xge"
+  },
+  {
+    "id": 2,
+    "nome": {
+      "portugues": "Armadura Ardente",
+      "original": "Smoldering Armor"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#smoldering%20armor_xge"
+  },
+  {
+    "id": 3,
+    "nome": {
+      "portugues": "Armadura Brilhante",
+      "original": "Armor of Gleaming"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#armor%20of%20gleaming_xge"
+  },
+  {
+    "id": 4,
+    "nome": {
+      "portugues": "Armadura da Libertação",
+      "original": "Cast-off Armor"
+    },
+    "valor": 50,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#cast-off%20armor_xge"
+  },
+  {
+    "id": 5,
+    "nome": {
+      "portugues": "Baú de Preservação",
+      "original": "Chest of Preserving"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#chest%20of%20preserving_wdmm"
+  },
+  {
+    "id": 6,
+    "nome": {
+      "portugues": "Bengala do Veterano",
+      "original": "Veteran's Cane"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#veteran's%20cane_xge"
+  },
+  {
+    "id": 7,
+    "nome": {
+      "portugues": "Bolha Respiratória",
+      "original": "Breathing Bubble"
+    },
+    "valor": 500,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#breathing%20bubble_egw"
+  },
+  {
+    "id": 8,
+    "nome": {
+      "portugues": "Bolsa Conveniente de Especiarias do Heward",
+      "original": "Heward Handy Spice Pouch"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#heward's%20handy%20spice%20pouch_xge"
+  },
+  {
+    "id": 9,
+    "nome": {
+      "portugues": "Boneca Falante",
+      "original": "Talking Doll"
+    },
+    "valor": 20,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#talking%20doll_xge"
+  },
+  {
+    "id": 10,
+    "nome": {
+      "portugues": "Botas de Pegadas Falsas",
+      "original": "Boots of False Tracks"
+    },
+    "valor": 100,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#boots%20of%20false%20tracks_xge"
+  },
+  {
+    "id": 11,
+    "nome": {
+      "portugues": "Brinco de Mensagem",
+      "original": "Earring of Message"
+    },
+    "valor": 500,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#earring%20of%20message_crcotn"
+  },
+  {
+    "id": 12,
+    "nome": {
+      "portugues": "Cachimbo da Lembrança",
+      "original": "Pipe of Remembrance"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#pipe%20of%20remembrance_gos"
+  },
+  {
+    "id": 13,
+    "nome": {
+      "portugues": "Cachimbo dos Monstros de Fumaça",
+      "original": "Pipe of Smoke Monsters"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#pipe%20of%20smoke%20monsters_xge"
+  },
+  {
+    "id": 14,
+    "nome": {
+      "portugues": "Cadeado da Enganação",
+      "original": "Lock of Trickery"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#lock%20of%20trickery_xge"
+  },
+  {
+    "id": 15,
+    "nome": {
+      "portugues": "Cajado Canto dos Passáros",
+      "original": "Staff of Birdcalls"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#staff%20of%20birdcalls_xge"
+  },
+  {
+    "id": 16,
+    "nome": {
+      "portugues": "Cajado de Adereço",
+      "original": "Staff of Adornment"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#staff%20of%20adornment_xge"
+  },
+  {
+    "id": 17,
+    "nome": {
+      "portugues": "Cajado de Flores",
+      "original": "Staff of Flowers"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#staff%20of%20flowers_xge"
+  },
+  {
+    "id": 18,
+    "nome": {
+      "portugues": "Cajado de Flores da Wyllow",
+      "original": "Wyllow's Staff of Flowers"
+    },
+    "valor": 30,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#wyllow's%20staff%20of%20flowers_wdmm"
+  },
+  {
+    "id": 19,
+    "nome": {
+      "portugues": "Caneca da Sobriedade",
+      "original": "Tankard of Sobriety"
+    },
+    "valor": 30,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#tankard%20of%20sobriety_xge"
+  },
+  {
+    "id": 20,
+    "nome": {
+      "portugues": "Capa de Muitos Estilos",
+      "original": "Cloack of Many Fashions"
+    },
+    "valor": 30,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#cloak%20of%20many%20fashions_xge"
+  },
+  {
+    "id": 21,
+    "nome": {
+      "portugues": "Chapéu do Mago",
+      "original": "Hat of Wizardry"
+    },
+    "valor": 100,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#hat%20of%20wizardry_xge"
+  },
+  {
+    "id": 22,
+    "nome": {
+      "portugues": "Chapéu dos Vermes",
+      "original": "Hat of Vermin"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#hat%20of%20vermin_xge"
+  },
+  {
+    "id": 23,
+    "nome": {
+      "portugues": "Chave Misteriosa",
+      "original": "Mistery Key"
+    },
+    "valor": 50,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#mystery%20key_xge"
+  },
+  {
+    "id": 24,
+    "nome": {
+      "portugues": "Chifre do Alarme Silencioso",
+      "original": "Horn of Silent Alarm"
+    },
+    "valor": 50,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#horn%20of%20silent%20alarm_xge"
+  },
+  {
+    "id": 25,
+    "nome": {
+      "portugues": "Corda do Reparo",
+      "original": "Rope of Mending"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#rope%20of%20mending_xge"
+  },
+  {
+    "id": 26,
+    "nome": {
+      "portugues": "Cubo Termal",
+      "original": "Thermal Cube"
+    },
+    "valor": 100,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#thermal%20cube_idrotf"
+  },
+  {
+    "id": 27,
+    "nome": {
+      "portugues": "Dado de Charlatão",
+      "original": "Charlatan's Die"
+    },
+    "valor": 20,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#charlatan's%20die_xge"
+  },
+  {
+    "id": 28,
+    "nome": {
+      "portugues": "Elmo do Horror",
+      "original": "Dread Helm"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#dread%20helm_xge"
+  },
+  {
+    "id": 29,
+    "nome": {
+      "portugues": "Escudo da Expressão",
+      "original": "Shield of Expression"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#shield%20of%20expression_xge"
+  },
+  {
+    "id": 30,
+    "nome": {
+      "portugues": "Esfera da Direção",
+      "original": "Orb of Direction"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#orb%20of%20direction_xge"
+  },
+  {
+    "id": 31,
+    "nome": {
+      "portugues": "Esfera do Gongo",
+      "original": "Orb of Gonging"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#orb%20of%20gonging_wdmm"
+  },
+  {
+    "id": 32,
+    "nome": {
+      "portugues": "Esfera do Tempo",
+      "original": "Orb of Time"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#orb%20of%20time_xge"
+  },
+  {
+    "id": 33,
+    "nome": {
+      "portugues": "Espada Lunar",
+      "original": "Moon-Touched Sword"
+    },
+    "valor": 200,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#moon-touched%20sword_xge"
+  },
+  {
+    "id": 34,
+    "nome": {
+      "portugues": "Espada Longa Dracônica",
+      "original": "Draconic Longsword"
+    },
+    "valor": 200,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#draconic%20longsword_toa"
+  },
+  {
+    "id": 35,
+    "nome": {
+      "portugues": "Estatueta de Adoração Sekolahian",
+      "original": "Ekolahian Worshiping Statuette"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#sekolahian%20worshiping%20statuette_gos"
+  },
+  {
+    "id": 36,
+    "nome": {
+      "portugues": "Foco de Madeira Imbuído",
+      "original": "Imbued Wood Focus"
+    },
+    "valor": 200,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#imbued%20wood%20focus_erlw"
+  },
+  {
+    "id": 37,
+    "nome": {
+      "portugues": "Fragmento Mágico",
+      "original": "Spellshard"
+    },
+    "valor": 100,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#spellshard_erlw"
+  },
+  {
+    "id": 38,
+    "nome": {
+      "portugues": "Garrafa de Café Ilimitado",
+      "original": "Bottle of Boundless Coffee"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#bottle%20of%20boundless%20coffee_scc"
+  },
+  {
+    "id": 39,
+    "nome": {
+      "portugues": "Grimório Duradouro",
+      "original": "Enduring Spellbook"
+    },
+    "valor": 100,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#enduring%20spellbook_xge"
+  },
+  {
+    "id": 40,
+    "nome": {
+      "portugues": "Instrumento da Escrita",
+      "original": "Instrument of Scribing"
+    },
+    "valor": 100,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#instrument%20of%20scribing_xge"
+  },
+  {
+    "id": 41,
+    "nome": {
+      "portugues": "Instrumento de Ilusões",
+      "original": "Instrument of Ilusions"
+    },
+    "valor": 100,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#instrument%20of%20illusions_xge"
+  },
+  {
+    "id": 42,
+    "nome": {
+      "portugues": "Invólucro de Varinha",
+      "original": "Wand Sheath"
+    },
+    "valor": 50,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#wand%20sheath_erlw"
+  },
+  {
+    "id": 43,
+    "nome": {
+      "portugues": "Kit de Escrita",
+      "original": "Writing kit"
+    },
+    "valor": 10,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#writing%20kit_tdcsr"
+  },
+  {
+    "id": 44,
+    "nome": {
+      "portugues": "Lanterna de Brilho Contínuo",
+      "original": "Everbright Lantern"
+    },
+    "valor": 150,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#everbright%20lantern_erlw"
+  },
+  {
+    "id": 45,
+    "nome": {
+      "portugues": "Lanterna de Rastreamento",
+      "original": "Lantern of Tracking"
+    },
+    "valor": 150,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#lantern%20of%20tracking_idrotf"
+  },
+  {
+    "id": 46,
+    "nome": {
+      "portugues": "Mastro da Pescaria",
+      "original": "Pole of Angling"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#pole%20of%20angling_xge"
+  },
+  {
+    "id": 47,
+    "nome": {
+      "portugues": "Membro Protético",
+      "original": "Prosthetic Limb"
+    },
+    "valor": 500,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#prosthetic%20limb_tce"
+  },
+  {
+    "id": 48,
+    "nome": {
+      "portugues": "Moeda de Sondagem",
+      "original": "Coin of Delving"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#coin%20of%20delving_egw"
+  },
+  {
+    "id": 49,
+    "nome": {
+      "portugues": "Olho de Ersatz",
+      "original": "Ersatz Eye"
+    },
+    "valor": 50,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#ersatz%20eye_xge"
+  },
+  {
+    "id": 50,
+    "nome": {
+      "portugues": "Orbe da Proteção",
+      "original": "Orb of Shielding"
+    },
+    "valor": 200,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#orb%20of%20shielding_erlw"
+  },
+  {
+    "id": 51,
+    "nome": {
+      "portugues": "Pedra Ecoante",
+      "original": "Echo Stone"
+    },
+    "valor": 500,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#echo%20stone_tdcsr"
+  },
+  {
+    "id": 52,
+    "nome": {
+      "portugues": "Pedra de Limpeza",
+      "original": "Cleansing Stone"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#cleansing%20stone_erlw"
+  },
+  {
+    "id": 53,
+    "nome": {
+      "portugues": "Perseguidor de Voz",
+      "original": "Vox Seeker"
+    },
+    "valor": 50,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#vox%20seeker_egw"
+  },
+  {
+    "id": 54,
+    "nome": {
+      "portugues": "Pingente de Máscara",
+      "original": "Masque Charm"
+    },
+    "valor": 50,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#masque%20charm_scc"
+  },
+  {
+    "id": 55,
+    "nome": {
+      "portugues": "Prótese de Lâmina",
+      "original": "Armblade"
+    },
+    "valor": 200,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#armblade_erlw"
+  },
+  {
+    "id": 56,
+    "nome": {
+      "portugues": "Roupas Reparáveis",
+      "original": "Clothes of Mending"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#clothes%20of%20mending_xge"
+  },
+  {
+    "id": 57,
+    "nome": {
+      "portugues": "Rubi do Mago de Guerra",
+      "original": "Ruby of the War Mage"
+    },
+    "valor": 50,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#ruby%20of%20the%20war%20mage_xge"
+  },
+  {
+    "id": 58,
+    "nome": {
+      "portugues": "Tatuagem do Iluminador",
+      "original": "Illuminator's Tattoo"
+    },
+    "valor": 50,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#illuminator's%20tattoo_tce"
+  },
+  {
+    "id": 59,
+    "nome": {
+      "portugues": "Tatuagem do Disfarce",
+      "original": "Masquerade Tattoo"
+    },
+    "valor": 200,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#masquerade%20tattoo_tce"
+  },
+  {
+    "id": 60,
+    "nome": {
+      "portugues": "Tinta de Marcas de Humor",
+      "original": "Moodmark Paint"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#moodmark%20paint_ggr"
+  },
+  {
+    "id": 61,
+    "nome": {
+      "portugues": "Traje Glamuroso Comum",
+      "original": "Common Glamerweave"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#common%20glamerweave_erlw"
+  },
+  {
+    "id": 62,
+    "nome": {
+      "portugues": "Traje Mutável",
+      "original": "Shiftweave"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#shiftweave_erlw"
+  },
+  {
+    "id": 63,
+    "nome": {
+      "portugues": "Trombeta de Audição",
+      "original": "Ear Horn of Hearing"
+    },
+    "valor": 50,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#ear%20horn%20of%20hearing_xge"
+  },
+  {
+    "id": 64,
+    "nome": {
+      "portugues": "Varinha Carrancuda",
+      "original": "Wand os Scowls"
+    },
+    "valor": 50,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#wand%20of%20scowls_xge"
+  },
+  {
+    "id": 65,
+    "nome": {
+      "portugues": "Varinha Pirotécnica",
+      "original": "Wand of Pyrotechnics"
+    },
+    "valor": 50,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#wand%20of%20pyrotechnics_xge"
+  },
+  {
+    "id": 66,
+    "nome": {
+      "portugues": "Varinha de Regência",
+      "original": "Wand of Conducting"
+    },
+    "valor": 50,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#wand%20of%20conducting_xge"
+  },
+  {
+    "id": 67,
+    "nome": {
+      "portugues": "Varinha Sorridente",
+      "original": "Wand of Smiles"
+    },
+    "valor": 50,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#wand%20of%20smiles_xge"
+  },
+  {
+    "id": 68,
+    "nome": {
+      "portugues": "Vela das Profundezas",
+      "original": "Candle of the Deep"
+    },
+    "valor": 20,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Comum",
+    "url": "https://5e.tools/items.html#candle%20of%20the%20deep_xge"
+  },
+  {
+    "id": 69,
+    "nome": {
+      "portugues": "Aljava de Ehlonna",
+      "original": "Quiver of Ehlonna"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#quiver%20of%20ehlonna_dmg"
+  },
+  {
+    "id": 70,
+    "nome": {
+      "portugues": "Amuleto do Devoto +1",
+      "original": "+1 Amulet of the Devout"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#%2b1%20amulet%20of%20the%20devout_tce"
+  },
+  {
+    "id": 71,
+    "nome": {
+      "portugues": "Amuleto do Bêbado",
+      "original": "Amulet of Drunkard"
+    },
+    "valor": 1000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#amulet%20of%20the%20drunkard_egw"
+  },
+  {
+    "id": 72,
+    "nome": {
+      "portugues": "Arma +1",
+      "original": "+1 Weapon"
+    },
+    "valor": 1000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#%2b1%20weapon_dmg"
+  },
+  {
+    "id": 73,
+    "nome": {
+      "portugues": "Arma da Ira do Dragão Adormecido",
+      "original": "Slumbering Dragon's Wrath Weapon"
+    },
+    "valor": 1500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#slumbering%20dragon's%20wrath%20weapon_ftd"
+  },
+  {
+    "id": 74,
+    "nome": {
+      "portugues": "Arma de Alerta",
+      "original": "Weapon of Warning"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#weapon%20of%20warning_dmg"
+  },
+  {
+    "id": 75,
+    "nome": {
+      "portugues": "Armadura de Adamante",
+      "original": "Adamantine Armor"
+    },
+    "valor": 1000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#adamantine%20armor_dmg"
+  },
+  {
+    "id": 76,
+    "nome": {
+      "portugues": "Armadura de Escama de Serpente (Brunea)",
+      "original": "Serpent Scale Armor"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#serpent%20scale%20armor_cm"
+  },
+  {
+    "id": 77,
+    "nome": {
+      "portugues": "Armadura de Mitral",
+      "original": "Mithral Armor"
+    },
+    "valor": 1000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#mithral%20armor_dmg"
+  },
+  {
+    "id": 78,
+    "nome": {
+      "portugues": "Armadura de Marinheiro",
+      "original": "Mariner's Armor"
+    },
+    "valor": 200,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#mariner's%20armor_dmg"
+  },
+  {
+    "id": 79,
+    "nome": {
+      "portugues": "Ataduras da Destreza Desarmada +1",
+      "original": "+1 Wraps of Unarmed Prowess"
+    },
+    "valor": 1000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#%2b1%20wraps%20of%20unarmed%20prowess_bmt"
+  },
+  {
+    "id": 80,
+    "nome": {
+      "portugues": "Azagaia de Relâmpago",
+      "original": "Javelin of Lightning"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#javelin%20of%20lightning_dmg"
+  },
+  {
+    "id": 81,
+    "nome": {
+      "portugues": "Bastão do Guardião de Pactos +1",
+      "original": "+1 Rod of the Pact Keeper"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#%2b1%20rod%20of%20the%20pact%20keeper_dmg"
+  },
+  {
+    "id": 82,
+    "nome": {
+      "portugues": "Bastão da Forma de Mercúrio",
+      "original": "Rod of Mercurial Form"
+    },
+    "valor": 1000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#rod%20of%20mercurial%20form_tdcsr"
+  },
+  {
+    "id": 83,
+    "nome": {
+      "portugues": "Braçadeiras de Arquearia",
+      "original": "Bracers of Archery"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#bracers%20of%20archery_dmg"
+  },
+  {
+    "id": 84,
+    "nome": {
+      "portugues": "Botas da Vigilância",
+      "original": "Boots of the Vigilance"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#boots%20of%20the%20vigilant_tdcsr"
+  },
+  {
+    "id": 85,
+    "nome": {
+      "portugues": "Botas de Salto e Corrida",
+      "original": "Boots of Striding and Springing"
+    },
+    "valor": 1500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#boots%20of%20striding%20and%20springing_dmg"
+  },
+  {
+    "id": 86,
+    "nome": {
+      "portugues": "Botas Élficas",
+      "original": "Boots of Elvenkind"
+    },
+    "valor": 1500,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#boots%20of%20elvenkind_dmg"
+  },
+  {
+    "id": 87,
+    "nome": {
+      "portugues": "Botas Invernais",
+      "original": "Boots of the Winterlands"
+    },
+    "valor": 1000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#boots%20of%20the%20winterlands_dmg"
+  },
+  {
+    "id": 88,
+    "nome": {
+      "portugues": "Broche da Essência Viva",
+      "original": "Broch of Living Essence"
+    },
+    "valor": 1000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#brooch%20of%20living%20essence_egw"
+  },
+  {
+    "id": 89,
+    "nome": {
+      "portugues": "Broche do Escudo",
+      "original": "Brooch of Shielding"
+    },
+    "valor": 1000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#brooch%20of%20shielding_dmg"
+  },
+  {
+    "id": 90,
+    "nome": {
+      "portugues": "Cajado da Víbora",
+      "original": "Staff of the Python"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#staff%20of%20the%20python_dmg"
+  },
+  {
+    "id": 91,
+    "nome": {
+      "portugues": "Camisa de Mitral de Vanrak",
+      "original": "Vanrak's Mithral Shirt"
+    },
+    "valor": 1500,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#vanrak's%20mithral%20shirt_wdmm"
+  },
+  {
+    "id": 92,
+    "nome": {
+      "portugues": "Caneta Esmeralda",
+      "original": "Emerald Pen"
+    },
+    "valor": 500,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#emerald%20pen_ftd"
+  },
+  {
+    "id": 93,
+    "nome": {
+      "portugues": "Chapéu do Disfarce",
+      "original": "Hat of Disguise"
+    },
+    "valor": 1000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#hat%20of%20disguise_dmg"
+  },
+  {
+    "id": 94,
+    "nome": {
+      "portugues": "Cinto de Pele Dracônica +1",
+      "original": "+1 Dragonhide Belt"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#%2b1%20dragonhide%20belt_ftd"
+  },
+  {
+    "id": 95,
+    "nome": {
+      "portugues": "Colar de Adaptação",
+      "original": "Necklace of Adaptation"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#necklace%20of%20adaptation_dmg"
+  },
+  {
+    "id": 96,
+    "nome": {
+      "portugues": "Clava Fêmur de Dragão",
+      "original": "Dragon Thighbone Club"
+    },
+    "valor": 1500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#dragon%20thighbone%20club_skt"
+  },
+  {
+    "id": 97,
+    "nome": {
+      "portugues": "Diadema da Explosão",
+      "original": "Circlet of Blasting"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#circlet%20of%20blasting_dmg"
+  },
+  {
+    "id": 98,
+    "nome": {
+      "portugues": "Decantador de Água Infinita",
+      "original": "Decanter of Endless Water"
+    },
+    "valor": 1000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#decanter%20of%20endless%20water_dmg"
+  },
+  {
+    "id": 99,
+    "nome": {
+      "portugues": "Elmo de Compreensão de Idiomas",
+      "original": "Helm of Comprehending Languages"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#helm%20of%20comprehending%20languages_dmg"
+  },
+  {
+    "id": 100,
+    "nome": {
+      "portugues": "Emblema do Guardião",
+      "original": "Guardian Emblem"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#guardian%20emblem_tce"
+  },
+  {
+    "id": 101,
+    "nome": {
+      "portugues": "Enciclopédia Murchaflor",
+      "original": "Witherbloom Primer"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#witherbloom%20primer_scc"
+  },
+  {
+    "id": 102,
+    "nome": {
+      "portugues": "Enciclopédia Platinopena",
+      "original": "Silverquill Primer"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#silverquill%20primer_scc"
+  },
+  {
+    "id": 103,
+    "nome": {
+      "portugues": "Enciclopédia Prismari",
+      "original": "Prismari Primer"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#prismari%20primer_scc"
+  },
+  {
+    "id": 104,
+    "nome": {
+      "portugues": "Enciclopédia Quandrix",
+      "original": "Quandrix Primer"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#quandrix%20primer_scc"
+  },
+  {
+    "id": 105,
+    "nome": {
+      "portugues": "Enciclopédia Sapioforte",
+      "original": "Lorehold Primer"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#lorehold%20primer_scc"
+  },
+  {
+    "id": 106,
+    "nome": {
+      "portugues": "Escudo +1",
+      "original": "+1 Shield"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#%2b1%20shield%20(*)_dmg"
+  },
+  {
+    "id": 107,
+    "nome": {
+      "portugues": "Escudo Sentinela",
+      "original": "Sentinel Shield"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#sentinel%20shield_dmg"
+  },
+  {
+    "id": 108,
+    "nome": {
+      "portugues": "Espada Sensora de Dragões",
+      "original": "Dragon Sensing Longsword"
+    },
+    "valor": 1500,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#dragon%20sensing%20longsword_pota"
+  },
+  {
+    "id": 109,
+    "nome": {
+      "portugues": "Esplendor",
+      "original": "Radiance"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#radiance_cm"
+  },
+  {
+    "id": 110,
+    "nome": {
+      "portugues": "Ferramenta Multiuso +1",
+      "original": "+1 All-Purpose Tool"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#%2b1%20all-purpose%20tool_tce"
+  },
+  {
+    "id": 111,
+    "nome": {
+      "portugues": "Foco do Dragão Adormecido",
+      "original": "Slumbering Dragon-Touched Focus"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#slumbering%20dragon-touched%20focus_ftd"
+  },
+  {
+    "id": 112,
+    "nome": {
+      "portugues": "Foice da Lua +1",
+      "original": "+1 Moon Sickle"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#%2b1%20moon%20sickle_tce"
+  },
+  {
+    "id": 113,
+    "nome": {
+      "portugues": "Fragmento Feérico",
+      "original": "Feywild Shard"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#feywild%20shard_tce"
+  },
+  {
+    "id": 114,
+    "nome": {
+      "portugues": "Frasco Sanguíneo +1",
+      "original": "+1 Bloodwell Vial"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#%2b1%20bloodwell%20vial_tce"
+  },
+  {
+    "id": 115,
+    "nome": {
+      "portugues": "Globo Brilhante",
+      "original": "Driftglobe"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#driftglobe_dmg"
+  },
+  {
+    "id": 116,
+    "nome": {
+      "portugues": "Globo Brilhante Rachado",
+      "original": "Cracked Driftglobe"
+    },
+    "valor": 1250,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#cracked%20driftglobe_cm"
+  },
+  {
+    "id": 117,
+    "nome": {
+      "portugues": "Grimório Arcano +1",
+      "original": "+1 Arcane Grimoire"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#%2b1%20arcane%20grimoire_tce"
+  },
+  {
+    "id": 118,
+    "nome": {
+      "portugues": "Instrumento de Bardo, Alaúde de Doss",
+      "original": "Instrument of the Bards, Doss Lute"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#instrument%20of%20the%20bards%2c%20doss%20lute_dmg"
+  },
+  {
+    "id": 119,
+    "nome": {
+      "portugues": "Instrumento de Bardo, Bandolim de Fochlucan",
+      "original": "Instrument of the Bards, Fochlucan Bandore"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#instrument%20of%20the%20bards%2c%20fochlucan%20bandore_dmg"
+  },
+  {
+    "id": 120,
+    "nome": {
+      "portugues": "Instrumento de Bardo, Citara de Mac-Fuirmidh",
+      "original": "Instrument of the Bards, Mac-Fuirmidh Cittern"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#instrument%20of%20the%20bards%2c%20mac-fuirmidh%20cittern_dmg"
+  },
+  {
+    "id": 121,
+    "nome": {
+      "portugues": "Lança de Sangue",
+      "original": "Blood Spear"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#blood%20spear_cos"
+  },
+  {
+    "id": 122,
+    "nome": {
+      "portugues": "Lança de Sangue, Escolhido por Kavan",
+      "original": "Blood Spear, chosen by Kavan"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5etools-mirror-1.github.io/items.html#blood%20spear_cos"
+  },
+  {
+    "id": 123,
+    "nome": {
+      "portugues": "Leque do Vento",
+      "original": "Wind Fan"
+    },
+    "valor": 1000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#wind%20fan_dmg"
+  },
+  {
+    "id": 124,
+    "nome": {
+      "portugues": "Luvas de Apanhar Projéteis",
+      "original": "Gloves of Missile Snaring"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#gloves%20of%20missile%20snaring_dmg"
+  },
+  {
+    "id": 125,
+    "nome": {
+      "portugues": "Luvas de Nado e Escalada",
+      "original": "Gloves of Swimming and Climbing"
+    },
+    "valor": 1500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#gloves%20of%20swimming%20and%20climbing_dmg"
+  },
+  {
+    "id": 126,
+    "nome": {
+      "portugues": "Luvas do Ladrão",
+      "original": "Gloves of Thievery"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#gloves%20of%20thievery_dmg"
+  },
+  {
+    "id": 127,
+    "nome": {
+      "portugues": "Manoplas de Força do Ogro",
+      "original": "Gauntlets of Ogre Power"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#gauntlets%20of%20ogre%20power_dmg"
+  },
+  {
+    "id": 128,
+    "nome": {
+      "portugues": "Manto da Natureza",
+      "original": "Nature Mantle"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#nature's%20mantle_tce"
+  },
+  {
+    "id": 129,
+    "nome": {
+      "portugues": "Manto de Proteção",
+      "original": "Cloak of Protection"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#cloak%20of%20protection_dmg"
+  },
+  {
+    "id": 130,
+    "nome": {
+      "portugues": "Manto Élfico",
+      "original": "Cloack of Elvenkind"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#cloak%20of%20elvenkind_dmg"
+  },
+  {
+    "id": 131,
+    "nome": {
+      "portugues": "Máscara da Besta",
+      "original": "Mask of the Beast"
+    },
+    "valor": 1500,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#mask%20of%20the%20beast_toa"
+  },
+  {
+    "id": 132,
+    "nome": {
+      "portugues": "Olhos de Visão Minuciosa",
+      "original": "Eyes of Minute Seeing"
+    },
+    "valor": 1500,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#eyes%20of%20minute%20seeing_dmg"
+  },
+  {
+    "id": 133,
+    "nome": {
+      "portugues": "Verme de Orelha",
+      "original": "Earworm"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#earworm_erlw"
+  },
+  {
+    "id": 134,
+    "nome": {
+      "portugues": "Ornamento de Escamas Adormecido",
+      "original": "Slumbering Scaled Ornament"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#slumbering%20scaled%20ornament_ftd"
+  },
+  {
+    "id": 135,
+    "nome": {
+      "portugues": "Pedra da Boa Sorte",
+      "original": "Stone of Good Luck"
+    },
+    "valor": 1500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#stone%20of%20good%20luck_dmg"
+  },
+  {
+    "id": 136,
+    "nome": {
+      "portugues": "Periapto de Cicatrização",
+      "original": "Periapt of Wound Closure"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#periapt%20of%20wound%20closure_dmg"
+  },
+  {
+    "id": 137,
+    "nome": {
+      "portugues": "Periapto da Saúde",
+      "original": "Periapt of Health"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#periapt%20of%20health_dmg"
+  },
+  {
+    "id": 138,
+    "nome": {
+      "portugues": "Pérola do Poder",
+      "original": "Pearl of Power"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#pearl%20of%20power_dmg"
+  },
+  {
+    "id": 139,
+    "nome": {
+      "portugues": "Portador da Luz",
+      "original": "Lightbringer"
+    },
+    "valor": 1500,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#lightbringer_pabtso"
+  },
+  {
+    "id": 140,
+    "nome": {
+      "portugues": "Raszur",
+      "original": "Reszur"
+    },
+    "valor": 1000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#reszur_pota"
+  },
+  {
+    "id": 141,
+    "nome": {
+      "portugues": "Sela do Cavaleiro",
+      "original": "Saddle of the Cavalier"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#saddle%20of%20the%20cavalier_dmg"
+  },
+  {
+    "id": 142,
+    "nome": {
+      "portugues": "Símbolo de Garras",
+      "original": "Insignia of Claws"
+    },
+    "valor": 1000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#insignia%20of%20claws_hotdq"
+  },
+  {
+    "id": 143,
+    "nome": {
+      "portugues": "Tambor Ritmista +1",
+      "original": "+1 Rhythm-Maker's Drum"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#%2b1%20rhythm-maker's%20drum_tce"
+  },
+  {
+    "id": 144,
+    "nome": {
+      "portugues": "Tatuagem da Garra Mística",
+      "original": "Eldritch Claw Tattoo"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#eldritch%20claw%20tattoo_tce"
+  },
+  {
+    "id": 145,
+    "nome": {
+      "portugues": "Tatuagem de Barreira (Pequena)",
+      "original": "Barrier Tattoo (Small)"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#barrier%20tattoo%20(small)_tce"
+  },
+  {
+    "id": 146,
+    "nome": {
+      "portugues": "Tatuagem do Aperto Enrolante",
+      "original": "Coiling Grasp Tatto"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#coiling%20grasp%20tattoo_tce"
+  },
+  {
+    "id": 147,
+    "nome": {
+      "portugues": "Tiara da Perfeição Humana",
+      "original": "Circlet of Human Perfection"
+    },
+    "valor": 1000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#coiling%20grasp%20tattoo_tce"
+  },
+  {
+    "id": 148,
+    "nome": {
+      "portugues": "Tiara do Intelecto",
+      "original": "Headband of Intellect"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#headband%20of%20intellect_dmg"
+  },
+  {
+    "id": 149,
+    "nome": {
+      "portugues": "Varinha de Emaranhado",
+      "original": "Wand of Entangle"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#wand%20of%20entangle_tftyp"
+  },
+  {
+    "id": 150,
+    "nome": {
+      "portugues": "Varinha de Mísseis Mágicos",
+      "original": "Wand of Magic Missiles"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#wand%20of%20magic%20missiles_dmg"
+  },
+  {
+    "id": 151,
+    "nome": {
+      "portugues": "Varinha de Mísseis Mágicos Carbonizada",
+      "original": "Charred Wand of Magic Missiles"
+    },
+    "valor": 1000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#charred%20wand%20of%20magic%20missiles_wdh"
+  },
+  {
+    "id": 152,
+    "nome": {
+      "portugues": "Varinha de Teia",
+      "original": "Wand of Web"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#wand%20of%20web_dmg"
+  },
+  {
+    "id": 153,
+    "nome": {
+      "portugues": "Varinha do Mago de Guerra +1",
+      "original": "+1 Wand of the War Mage"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#%2b1%20wand%20of%20the%20war%20mage_dmg"
+  },
+  {
+    "id": 154,
+    "nome": {
+      "portugues": "Fragata do Ar",
+      "original": "Skyship"
+    },
+    "valor": 100000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Incomum",
+    "url": "https://5e.tools/items.html#skyship_tdcsr"
+  },
+  {
+    "id": 155,
+    "nome": {
+      "portugues": "Adaga de Veneno",
+      "original": "Dagger of Venom"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#dagger%20of%20venom_dmg"
+  },
+  {
+    "id": 156,
+    "nome": {
+      "portugues": "Adaga Dente de Dragão",
+      "original": "Dragontooth Dagger"
+    },
+    "valor": 1500,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#dragontooth%20dagger_rot"
+  },
+  {
+    "id": 157,
+    "nome": {
+      "portugues": "Amuleto da Saúde",
+      "original": "Amulet of Health"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#amulet%20of%20health_dmg"
+  },
+  {
+    "id": 158,
+    "nome": {
+      "portugues": "Amuleto do Devoto +2",
+      "original": "+2 Amulet of the Devout"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#%2b2%20amulet%20of%20the%20devout_tce"
+  },
+  {
+    "id": 159,
+    "nome": {
+      "portugues": "Anel da Queda Suave",
+      "original": "Ring of Feather Falling"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#ring%20of%20feather%20falling_dmg"
+  },
+  {
+    "id": 160,
+    "nome": {
+      "portugues": "Anel da Visão de Raio-X",
+      "original": "Ring of X-Ray Vision"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#ring%20of%20x-ray%20vision_dmg"
+  },
+  {
+    "id": 161,
+    "nome": {
+      "portugues": "Anel de Ação Livre",
+      "original": "Ring of Free Action"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#ring%20of%20free%20action_dmg"
+  },
+  {
+    "id": 162,
+    "nome": {
+      "portugues": "Anel de Armazenar Magia",
+      "original": "Ring of Spell Storing"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#ring%20of%20spell%20storing_dmg"
+  },
+  {
+    "id": 163,
+    "nome": {
+      "portugues": "Anel de Cativar Animais",
+      "original": "Ring of Animal Influence"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#ring%20of%20animal%20influence_dmg"
+  },
+  {
+    "id": 164,
+    "nome": {
+      "portugues": "Anel de Evasão",
+      "original": "Ring of Evasion"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#ring%20of%20evasion_dmg"
+  },
+  {
+    "id": 165,
+    "nome": {
+      "portugues": "Anel de Proteção",
+      "original": "Ring of Protection"
+    },
+    "valor": 3500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#ring%20of%20protection_dmg"
+  },
+  {
+    "id": 166,
+    "nome": {
+      "portugues": "Anel de Resistência",
+      "original": "Ring of Resistance"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#ring%20of%20resistance_dmg"
+  },
+  {
+    "id": 167,
+    "nome": {
+      "portugues": "Arco Asa de Dragão",
+      "original": "Dragon Wing Bow"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#dragon%20wing%20bow_ftd"
+  },
+  {
+    "id": 168,
+    "nome": {
+      "portugues": "Arma +2",
+      "original": "+2 Weapon"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#%2b2%20weapon_dmg"
+  },
+  {
+    "id": 169,
+    "nome": {
+      "portugues": "Arma da Ira do Dragão Inquieto",
+      "original": "Stirring Dragon's Wrath Weapon"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#stirring%20dragon's%20wrath%20weapon_ftd"
+  },
+  {
+    "id": 170,
+    "nome": {
+      "portugues": "Arma Viciosa",
+      "original": "Vicious Weapon"
+    },
+    "valor": 1000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#vicious%20weapon_dmg"
+  },
+  {
+    "id": 171,
+    "nome": {
+      "portugues": "Arma Oceânica",
+      "original": "Oceanic Weapon"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#oceanic%20weapon_tdcsr"
+  },
+  {
+    "id": 172,
+    "nome": {
+      "portugues": "Armadura +1",
+      "original": "+1 Armor"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#%2b1%20armor_dmg"
+  },
+  {
+    "id": 173,
+    "nome": {
+      "portugues": "Armadura de Zephiro",
+      "original": "Zephyr Armor"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#zephyr%20armor_bgg"
+  },
+  {
+    "id": 174,
+    "nome": {
+      "portugues": "Armadura de Mitral +1",
+      "original": "+1 Mithral Armor"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#mithral%20%2b1%20armor_ai"
+  },
+  {
+    "id": 175,
+    "nome": {
+      "portugues": "Armadura de Mizzium",
+      "original": "Mizzium Armor"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#mizzium%20armor_ggr"
+  },
+  {
+    "id": 176,
+    "nome": {
+      "portugues": "Armadura de Resistência",
+      "original": "Armor of Resistance"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#armor%20of%20resistance_dmg"
+  },
+  {
+    "id": 177,
+    "nome": {
+      "portugues": "Ataduras da Destreza Desarmada +2",
+      "original": "+2 Wraps of Unarmed Prowess"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#%2b2%20wraps%20of%20unarmed%20prowess_bmt"
+  },
+  {
+    "id": 178,
+    "nome": {
+      "portugues": "Arquivo de Astromância",
+      "original": "Astromancy Archive"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#astromancy%20archive_tce"
+  },
+  {
+    "id": 179,
+    "nome": {
+      "portugues": "Atlas dos Horizontes Infinitos",
+      "original": "Atlas of Endless Horizons"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#atlas%20of%20endless%20horizons_tce"
+  },
+  {
+    "id": 180,
+    "nome": {
+      "portugues": "Avental de Açougueiro",
+      "original": "Butcher's Bib"
+    },
+    "valor": 7000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#butcher's%20bib_egw"
+  },
+  {
+    "id": 181,
+    "nome": {
+      "portugues": "Barco Dobrável",
+      "original": "Folding Boat"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#folding%20boat_dmg"
+  },
+  {
+    "id": 182,
+    "nome": {
+      "portugues": "Bastão da Obediência",
+      "original": "Rod of Rulership"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#rod%20of%20rulership_dmg"
+  },
+  {
+    "id": 183,
+    "nome": {
+      "portugues": "Bastão do Tentáculo",
+      "original": "Tentacle Rod"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#tentacle%20rod_dmg"
+  },
+  {
+    "id": 184,
+    "nome": {
+      "portugues": "Bastão do Guardião de Pactos +2",
+      "original": "+2 Rod of the Pact Keeper"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#%2b2%20rod%20of%20the%20pact%20keeper_dmg"
+  },
+  {
+    "id": 185,
+    "nome": {
+      "portugues": "Botas de Velocidade",
+      "original": "Boots of Speed"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#boots%20of%20speed_dmg"
+  },
+  {
+    "id": 186,
+    "nome": {
+      "portugues": "Braçadeiras de Defesa",
+      "original": "Bracers of Defense"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#bracers%20of%20defense_dmg"
+  },
+  {
+    "id": 187,
+    "nome": {
+      "portugues": "Braseiro de Invocar Elementais do Fogo",
+      "original": "Brazier of Commanding Fire Elementals"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#brazier%20of%20commanding%20fire%20elementals_dmg"
+  },
+  {
+    "id": 188,
+    "nome": {
+      "portugues": "Cajado do Enxame de Insetos",
+      "original": "Staff of Swarming Insects"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#staff%20of%20swarming%20insects_dmg"
+  },
+  {
+    "id": 189,
+    "nome": {
+      "portugues": "Cajado da Defesa",
+      "original": "Staff of Defense"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#staff%20of%20defense_pabtso"
+  },
+  {
+    "id": 190,
+    "nome": {
+      "portugues": "Cajado das Florestas",
+      "original": "Staff of the Woodlands"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#staff%20of%20the%20woodlands_dmg"
+  },
+  {
+    "id": 191,
+    "nome": {
+      "portugues": "Cajado da Cura",
+      "original": "Staff of Healing"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#staff%20of%20healing_dmg"
+  },
+  {
+    "id": 192,
+    "nome": {
+      "portugues": "Cajado de Enfeitiçar",
+      "original": "Staff of Charming"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#staff%20of%20charming_dmg"
+  },
+  {
+    "id": 193,
+    "nome": {
+      "portugues": "Cajado do Definhamento",
+      "original": "Staff of Withering"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#staff%20of%20withering_dmg"
+  },
+  {
+    "id": 194,
+    "nome": {
+      "portugues": "Cajado Garra de Marfim",
+      "original": "Staff of the Ivory Claw"
+    },
+    "valor": 3500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#staff%20of%20the%20ivory%20claw_egw"
+  },
+  {
+    "id": 195,
+    "nome": {
+      "portugues": "Capa do Saltimbanco",
+      "original": "Cape of the Mountebank"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#cape%20of%20the%20mountebank_dmg"
+  },
+  {
+    "id": 196,
+    "nome": {
+      "portugues": "Capa da Corte",
+      "original": "Coat of the Crest"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#coat%20of%20the%20crest_tdcsr"
+  },
+  {
+    "id": 197,
+    "nome": {
+      "portugues": "Chicote da Imolação",
+      "original": "Lash of immolation"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#lash%20of%20immolation_bgg"
+  },
+  {
+    "id": 198,
+    "nome": {
+      "portugues": "Chicote Inescapável",
+      "original": "Inescapable Lash"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#inescapable%20lash_tdcsr"
+  },
+  {
+    "id": 199,
+    "nome": {
+      "portugues": "Cinto de Pele Dracônica +2",
+      "original": "+2 Dragonhide Belt"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#%2b2%20dragonhide%20belt_ftd"
+  },
+  {
+    "id": 200,
+    "nome": {
+      "portugues": "Cinto dos Anões",
+      "original": "Belt of Dwarvenkind"
+    },
+    "valor": 14000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#belt%20of%20dwarvenkind_dmg"
+  },
+  {
+    "id": 201,
+    "nome": {
+      "portugues": "Cinturão do Gigante da Colina",
+      "original": "Belt of Hill Giant Strength"
+    },
+    "valor": 14000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#belt%20of%20hill%20giant%20strength_dmg"
+  },
+  {
+    "id": 202,
+    "nome": {
+      "portugues": "Códice do Chamado Planar",
+      "original": "Planecaller's Codex"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#planecaller's%20codex_tce"
+  },
+  {
+    "id": 203,
+    "nome": {
+      "portugues": "Compêndio Alquímico",
+      "original": "Alchemical Compendium"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#alchemical%20compendium_tce"
+  },
+  {
+    "id": 204,
+    "nome": {
+      "portugues": "Corda do Estrangulamento",
+      "original": "Rope of Entanglement"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#rope%20of%20entanglement_dmg"
+  },
+  {
+    "id": 205,
+    "nome": {
+      "portugues": "Coroa do Portador da Fúria",
+      "original": "Crown of the Wrath Bringer"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#crown%20of%20the%20wrath%20bringer_bgg"
+  },
+  {
+    "id": 206,
+    "nome": {
+      "portugues": "Couro Batido Encantador",
+      "original": "Glamoured Studded Leather"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#glamoured%20studded%20leather_dmg"
+  },
+  {
+    "id": 207,
+    "nome": {
+      "portugues": "Dança do Verão",
+      "original": "Summer's dance"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#summer's%20dance_tdcsr"
+  },
+  {
+    "id": 208,
+    "nome": {
+      "portugues": "Escudo +2",
+      "original": "+2 Shield"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#%2b2%20shield%20(*)_dmg"
+  },
+  {
+    "id": 209,
+    "nome": {
+      "portugues": "Escudo Apanhador de Flechas",
+      "original": "Arrow-Catching Shield"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#arrow-catching%20shield_dmg"
+  },
+  {
+    "id": 210,
+    "nome": {
+      "portugues": "Escudo de Atração de Projéteis",
+      "original": "Shield of Missile Attraction"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#shield%20of%20missile%20attraction_dmg"
+  },
+  {
+    "id": 211,
+    "nome": {
+      "portugues": "Escudo de Ataque",
+      "original": "Battering Shield"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#battering%20shield_egw"
+  },
+  {
+    "id": 212,
+    "nome": {
+      "portugues": "Espada Furtadora de Vidas",
+      "original": "Sword of Life Stealing"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#sword%20of%20life%20stealing_dmg"
+  },
+  {
+    "id": 213,
+    "nome": {
+      "portugues": "Espada do Sangramento",
+      "original": "Sword of Wounding"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#sword%20of%20wounding_dmg"
+  },
+  {
+    "id": 214,
+    "nome": {
+      "portugues": "Ferraduras de Velocidade",
+      "original": "Horseshoes of Speed"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#horseshoes%20of%20speed_dmg"
+  },
+  {
+    "id": 215,
+    "nome": {
+      "portugues": "Ferramenta Multiuso +2",
+      "original": "+2 All-Purpose Tool"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#%2b2%20all-purpose%20tool_tce"
+  },
+  {
+    "id": 216,
+    "nome": {
+      "portugues": "Foco Dracônico Inquieto",
+      "original": "Stirring Dragon-Touched Focus"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#stirring%20dragon-touched%20focus_ftd"
+  },
+  {
+    "id": 217,
+    "nome": {
+      "portugues": "Foice da Lua +2",
+      "original": "+2 Moon Sickle"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#%2b2%20moon%20sickle_tce"
+  },
+  {
+    "id": 218,
+    "nome": {
+      "portugues": "Fragmento Astral",
+      "original": "Astral Shard"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#astral%20shard_tce"
+  },
+  {
+    "id": 219,
+    "nome": {
+      "portugues": "Fragmento da Essência Elemental",
+      "original": "Elemental Essence Shard"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#elemental%20essence%20shard_tce"
+  },
+  {
+    "id": 220,
+    "nome": {
+      "portugues": "Fragmento de Essência Exterior",
+      "original": "Outer Essence Shard"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#outer%20essence%20shard_tce"
+  },
+  {
+    "id": 221,
+    "nome": {
+      "portugues": "Fragmento do Plano das Sombras",
+      "original": "Shadowfell Shard"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#shadowfell%20shard_tce"
+  },
+  {
+    "id": 222,
+    "nome": {
+      "portugues": "Fragmento do Reino Distante",
+      "original": "Far Realm Shard"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#far%20realm%20shard_tce"
+  },
+  {
+    "id": 223,
+    "nome": {
+      "portugues": "Frasco Sanguíneo +2",
+      "original": "+2 Bloodwell Vial"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#%2b2%20bloodwell%20vial_tce"
+  },
+  {
+    "id": 224,
+    "nome": {
+      "portugues": "Galho de Sino",
+      "original": "Bell Branch"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#bell%20branch_tce"
+  },
+  {
+    "id": 225,
+    "nome": {
+      "portugues": "Garra Rúnica do Dragão",
+      "original": "Claw of the Wyrm Rune"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#claw%20of%20the%20wyrm%20rune_skt"
+  },
+  {
+    "id": 226,
+    "nome": {
+      "portugues": "Garras de Umber Hulk",
+      "original": "Claws of the Umber Hulk"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#claws%20of%20the%20umber%20hulk_pota"
+  },
+  {
+    "id": 227,
+    "nome": {
+      "portugues": "Grimório Arcano +2",
+      "original": "+2 Arcane Grimoire"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#%2b2%20arcane%20grimoire_tce"
+  },
+  {
+    "id": 228,
+    "nome": {
+      "portugues": "Proteção Dracônica",
+      "original": "Dragonguard"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#dragonguard_pabtso"
+  },
+  {
+    "id": 229,
+    "nome": {
+      "portugues": "Instrumento dos Bardos, Lira de Cli",
+      "original": "Instrument of the Bards, Cli Lyre"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#instrument%20of%20the%20bards%2c%20cli%20lyre_dmg"
+  },
+  {
+    "id": 230,
+    "nome": {
+      "portugues": "Instrumento dos Bardos, Mandolim de Canaith",
+      "original": "Instrument of the Bards, Canaith Mandolin"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#instrument%20of%20the%20bards%2c%20canaith%20mandolin_dmg"
+  },
+  {
+    "id": 231,
+    "nome": {
+      "portugues": "Julgamento do Mago",
+      "original": "Magician's Judge"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#magician's%20judge_tdcsr"
+  },
+  {
+    "id": 232,
+    "nome": {
+      "portugues": "Lâmina de Cristal",
+      "original": "Crystal Blade"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#crystal%20blade_ftd"
+  },
+  {
+    "id": 233,
+    "nome": {
+      "portugues": "Lanterna da Chama Amiga",
+      "original": "Flamefriend Lantern"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#flamefriend%20lantern_tdcsr"
+  },
+  {
+    "id": 234,
+    "nome": {
+      "portugues": "Lira da Construção",
+      "original": "Lyre of Building"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#lyre%20of%20building_tce"
+  },
+  {
+    "id": 235,
+    "nome": {
+      "portugues": "Lâmina de Acheron",
+      "original": "Acheron Blade"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#acheron%20blade_egw"
+  },
+  {
+    "id": 236,
+    "nome": {
+      "portugues": "Livro da Carne e das Almas",
+      "original": "Libram of Souls and Flesh"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#libram%20of%20souls%20and%20flesh_tce"
+  },
+  {
+    "id": 237,
+    "nome": {
+      "portugues": "Língua Flamejante",
+      "original": "Flame Tongue"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#flame%20tongue_dmg"
+  },
+  {
+    "id": 238,
+    "nome": {
+      "portugues": "Maça da Destruição",
+      "original": "Mace of Smiting"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#mace%20of%20smiting_dmg"
+  },
+  {
+    "id": 239,
+    "nome": {
+      "portugues": "Maça da Importunação",
+      "original": "Mace of Disruption"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#mace%20of%20disruption_dmg"
+  },
+  {
+    "id": 240,
+    "nome": {
+      "portugues": "Maça do Terror",
+      "original": "Mace of Terror"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#mace%20of%20terror_dmg"
+  },
+  {
+    "id": 241,
+    "nome": {
+      "portugues": "Machado de Lenhador",
+      "original": "Woodcutter's Axe"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#woodcutter's%20axe_wbtw"
+  },
+  {
+    "id": 242,
+    "nome": {
+      "portugues": "Malha Élfica",
+      "original": "Elven Chain"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#elven%20chain_dmg"
+  },
+  {
+    "id": 243,
+    "nome": {
+      "portugues": "Manoplas da Fúria Flamejante",
+      "original": "Gauntlets of Flaming Fury"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#gauntlets%20of%20flaming%20fury_bgdia"
+  },
+  {
+    "id": 244,
+    "nome": {
+      "portugues": "Manto do Cão Infernal",
+      "original": "Hell Hound Cloak"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#hell%20hound%20cloak_tftyp"
+  },
+  {
+    "id": 245,
+    "nome": {
+      "portugues": "Manto de Resistência à Magia",
+      "original": "Mantle of Spell Resistance"
+    },
+    "valor": 7000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#mantle%20of%20spell%20resistance_dmg"
+  },
+  {
+    "id": 246,
+    "nome": {
+      "portugues": "Manto do Deslocamento",
+      "original": "Cloak of Displacement"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#cloak%20of%20displacement_dmg"
+  },
+  {
+    "id": 247,
+    "nome": {
+      "portugues": "Manto do Morcego",
+      "original": "Cloak of the Bat"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#cloak%20of%20the%20bat_dmg"
+  },
+  {
+    "id": 248,
+    "nome": {
+      "portugues": "Manto dos Olhos",
+      "original": "Robe of Eyes"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#robe%20of%20eyes_dmg"
+  },
+  {
+    "id": 249,
+    "nome": {
+      "portugues": "Manuscrito Dúbio",
+      "original": "Duplicitous Manuscript"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#duplicitous%20manuscript_tce"
+  },
+  {
+    "id": 250,
+    "nome": {
+      "portugues": "Matadora de Cadáver",
+      "original": "Corpse Slayer"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#corpse%20slayer_egw"
+  },
+  {
+    "id": 251,
+    "nome": {
+      "portugues": "Matadora de Gigante",
+      "original": "Giant Slayer"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#giant%20slayer_dmg"
+  },
+  {
+    "id": 252,
+    "nome": {
+      "portugues": "Matadora de Dragão",
+      "original": "Dragon Slayer"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#dragon%20slayer_dmg"
+  },
+  {
+    "id": 253,
+    "nome": {
+      "portugues": "Ornamento de Escamas Inquietas",
+      "original": "Stirring Scaled Ornament"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#stirring%20scaled%20ornament_ftd"
+  },
+  {
+    "id": 254,
+    "nome": {
+      "portugues": "Pele de Bronze Fundido",
+      "original": "Molten Bronze Skin"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#molten%20bronze%20skin_mot"
+  },
+  {
+    "id": 255,
+    "nome": {
+      "portugues": "Pedra Ioun, Consciência",
+      "original": "Ioun Stone, Awareness"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#ioun%20stone%2c%20awareness_dmg"
+  },
+  {
+    "id": 256,
+    "nome": {
+      "portugues": "Pedra Ioun, Proteção",
+      "original": "Ioun Stone, Protection"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#ioun%20stone%2c%20protection_dmg"
+  },
+  {
+    "id": 257,
+    "nome": {
+      "portugues": "Pedra Ioun, Reserva",
+      "original": "Ioun Stone, Reserve"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#ioun%20stone%2c%20reserve_dmg"
+  },
+  {
+    "id": 258,
+    "nome": {
+      "portugues": "Pedra Ioun, Sustento",
+      "original": "Ioun Stone, Sustenance"
+    },
+    "valor": 2500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#ioun%20stone%2c%20sustenance_dmg"
+  },
+  {
+    "id": 259,
+    "nome": {
+      "portugues": "Primer do Coração do Tecelão",
+      "original": "Heart Weaver's Primer"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#heart%20weaver's%20primer_tce"
+  },
+  {
+    "id": 260,
+    "nome": {
+      "portugues": "Sanfona",
+      "original": "Concertina"
+    },
+    "valor": 3500,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#concertina_rmbre"
+  },
+  {
+    "id": 261,
+    "nome": {
+      "portugues": "Sanfona do Folião",
+      "original": "Reveler's Concertina"
+    },
+    "valor": 7000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#reveler's%20concertina_tce"
+  },
+  {
+    "id": 262,
+    "nome": {
+      "portugues": "Tambor Ritmista +2",
+      "original": "+2 Rhythm-Maker's Drum"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#%2b2%20rhythm-maker's%20drum_tce"
+  },
+  {
+    "id": 263,
+    "nome": {
+      "portugues": "Tapa-olho do Knave",
+      "original": "Knave's Eye Patch"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#knave's%20eye%20patch_wdh"
+  },
+  {
+    "id": 264,
+    "nome": {
+      "portugues": "Tatuagem de Barreira (Média)",
+      "original": "Barrier Tattoo (Medium)"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#barrier%20tattoo%20(medium)_tce"
+  },
+  {
+    "id": 265,
+    "nome": {
+      "portugues": "Tatuagem do Plano das Sombras",
+      "original": "Shadowfell Brand Tattoo"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#shadowfell%20brand%20tattoo_tce"
+  },
+  {
+    "id": 266,
+    "nome": {
+      "portugues": "Tratado Fulminante",
+      "original": "Fulminating Treatise"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#fulminating%20treatise_tce"
+  },
+  {
+    "id": 267,
+    "nome": {
+      "portugues": "Tesoura de Recortar Sombras",
+      "original": "Scissors of Shadow Snipping"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#scissors%20of%20shadow%20snipping_wbtw"
+  },
+  {
+    "id": 268,
+    "nome": {
+      "portugues": "Turíbulo do Devoto",
+      "original": "Devotee's Censer"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#devotee's%20censer_tce"
+  },
+  {
+    "id": 269,
+    "nome": {
+      "portugues": "Varinha da Paralisia",
+      "original": "Wand of Paralisis"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#wand%20of%20paralysis_dmg"
+  },
+  {
+    "id": 270,
+    "nome": {
+      "portugues": "Varinha das Maravilhas",
+      "original": "Wand of Wonder"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#wand%20of%20wonder_dmg"
+  },
+  {
+    "id": 271,
+    "nome": {
+      "portugues": "Varinha de Bolas de Fogo",
+      "original": "Wand of Fireballs"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#wand%20of%20fireballs_dmg"
+  },
+  {
+    "id": 272,
+    "nome": {
+      "portugues": "Varinha de Detecção de Inimigos",
+      "original": "Wand of Enemy Detection"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#wand%20of%20enemy%20detection_dmg"
+  },
+  {
+    "id": 273,
+    "nome": {
+      "portugues": "Varinha do Medo",
+      "original": "Wand of Fear"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#wand%20of%20fear_dmg"
+  },
+  {
+    "id": 274,
+    "nome": {
+      "portugues": "Varinha de Relâmpagos",
+      "original": "Wand of Lightning Bolts"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#wand%20of%20lightning%20bolts_dmg"
+  },
+  {
+    "id": 275,
+    "nome": {
+      "portugues": "Varinha do Vínculo",
+      "original": "Wand of Binding"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#wand%20of%20binding_dmg"
+  },
+  {
+    "id": 276,
+    "nome": {
+      "portugues": "Varinha do Mago de Guerra +2",
+      "original": "+2 Wand of The War Mage"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#%2b2%20wand%20of%20the%20war%20mage_dmg"
+  },
+  {
+    "id": 277,
+    "nome": {
+      "portugues": "Velejador Aéreo",
+      "original": "Skysail"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#skysail_tdcsr"
+  },
+  {
+    "id": 278,
+    "nome": {
+      "portugues": "Versos de Proteção",
+      "original": "Protective Verses"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Raro",
+    "url": "https://5e.tools/items.html#protective%20verses_tce"
+  },
+  {
+    "id": 279,
+    "nome": {
+      "portugues": "Amuleto do Devoto +3",
+      "original": "+3 Amulet of the Devout"
+    },
+    "valor": 11000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#%2b3%20amulet%20of%20the%20devout_tce"
+  },
+  {
+    "id": 280,
+    "nome": {
+      "portugues": "Amuleto do Santuário",
+      "original": "Sanctum Amulet"
+    },
+    "valor": 11000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#sanctum%20amulet_bgg"
+  },
+  {
+    "id": 281,
+    "nome": {
+      "portugues": "Amuleto dos Planos",
+      "original": "Amulet of The Planes"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#amulet%20of%20the%20planes_dmg"
+  },
+  {
+    "id": 282,
+    "nome": {
+      "portugues": "Anel de Estrelas Cadentes",
+      "original": "Ring of Shooting Stars"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#ring%20of%20shooting%20stars_dmg"
+  },
+  {
+    "id": 283,
+    "nome": {
+      "portugues": "Anel de Regeneração",
+      "original": "Ring of Regeneration"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#ring%20of%20regeneration_dmg"
+  },
+  {
+    "id": 284,
+    "nome": {
+      "portugues": "Anel de Telecinésia",
+      "original": "Ring of Telekinesis"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#ring%20of%20telekinesis_dmg"
+  },
+  {
+    "id": 285,
+    "nome": {
+      "portugues": "Arco do Juramento",
+      "original": "Oathbow"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#oathbow_dmg"
+  },
+  {
+    "id": 286,
+    "nome": {
+      "portugues": "Arma +3",
+      "original": "+3 Weapon"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#%2b3%20weapon_dmg"
+  },
+  {
+    "id": 287,
+    "nome": {
+      "portugues": "Arma da Ira do Dragão Despertado",
+      "original": "Wakened Dragon's Wrath Weapon"
+    },
+    "valor": 11000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#wakened%20dragon's%20wrath%20weapon_ftd"
+  },
+  {
+    "id": 288,
+    "nome": {
+      "portugues": "Armadura +2",
+      "original": "+2 Armor"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "",
+    "reqReforja": "Sim",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#%2b2%20armor_dmg"
+  },
+  {
+    "id": 289,
+    "nome": {
+      "portugues": "Armadura de Couro Batido da Resistência Ácida",
+      "original": "+2 Studded Leather armor of acid resistance"
+    },
+    "valor": 15000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#%2b2%20studded%20leather%20armor%20of%20acid%20resistance_tdcsr"
+  },
+  {
+    "id": 290,
+    "nome": {
+      "portugues": "Armadura de Couro Batido da Resistência Gélida",
+      "original": "+2 Studded Leather armor of Cold resistance"
+    },
+    "valor": 15000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#%2b2%20studded%20white%20dragon%20leather%20armor%20of%20cold%20resistance_tdcsr"
+  },
+  {
+    "id": 291,
+    "nome": {
+      "portugues": "Ataduras da Destreza Desarmada +3",
+      "original": "+3 Wraps of Unarmed Prowess"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#%2b3%20wraps%20of%20unarmed%20prowess_bmt"
+  },
+  {
+    "id": 292,
+    "nome": {
+      "portugues": "Bastão da Prontidão",
+      "original": "Rod of Alertness"
+    },
+    "valor": 12000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#rod%20of%20alertness_dmg"
+  },
+  {
+    "id": 293,
+    "nome": {
+      "portugues": "Bastão de Absorção",
+      "original": "Rod of Absorption"
+    },
+    "valor": 12000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#rod%20of%20absorption_dmg"
+  },
+  {
+    "id": 294,
+    "nome": {
+      "portugues": "Bastão do Guardião de Pactos +3",
+      "original": "+3 Rod of The Pact Keeper"
+    },
+    "valor": 11000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#%2b3%20rod%20of%20the%20pact%20keeper_dmg"
+  },
+  {
+    "id": 295,
+    "nome": {
+      "portugues": "Bola de Cristal",
+      "original": "Crystal Ball"
+    },
+    "valor": 3000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#crystal%20ball_dmg"
+  },
+  {
+    "id": 296,
+    "nome": {
+      "portugues": "Botas da Aceleração",
+      "original": "Boots of Haste"
+    },
+    "valor": 9000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#boots%20of%20haste_tdcsr"
+  },
+  {
+    "id": 297,
+    "nome": {
+      "portugues": "Bracelete da Magia Rochosa",
+      "original": "Bracelet of Rock Magic"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#bracelet%20of%20rock%20magic_tftyp"
+  },
+  {
+    "id": 298,
+    "nome": {
+      "portugues": "Braço de Propulsão Arcana",
+      "original": "Arcane Propulsion Arm"
+    },
+    "valor": 4000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#arcane%20propulsion%20arm_erlw"
+  },
+  {
+    "id": 299,
+    "nome": {
+      "portugues": "Broquel de Safira",
+      "original": "Sapphire Buckler"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#sapphire%20buckler_ftd"
+  },
+  {
+    "id": 300,
+    "nome": {
+      "portugues": "Brunea de Escamas de Dragão",
+      "original": "Dragon Scale Mail"
+    },
+    "valor": 13000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#dragon%20scale%20mail_dmg"
+  },
+  {
+    "id": 301,
+    "nome": {
+      "portugues": "Cajado de Ataque",
+      "original": "Staff of Striking"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#staff%20of%20striking_dmg"
+  },
+  {
+    "id": 302,
+    "nome": {
+      "portugues": "Cajado de Fogo",
+      "original": "Staff of Fire"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#staff%20of%20fire_dmg"
+  },
+  {
+    "id": 303,
+    "nome": {
+      "portugues": "Cajado de Gelo",
+      "original": "Staff of Frost"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#staff%20of%20frost_dmg"
+  },
+  {
+    "id": 304,
+    "nome": {
+      "portugues": "Cajado de Trovão e Relâmpago",
+      "original": "Staff of Thunder and Lightning"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#staff%20of%20thunder%20and%20lightning_dmg"
+  },
+  {
+    "id": 305,
+    "nome": {
+      "portugues": "Cajado do Destino",
+      "original": "Staff of Fate"
+    },
+    "valor": 4500,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#staff%20of%20fate_cm"
+  },
+  {
+    "id": 306,
+    "nome": {
+      "portugues": "Cajado Místico",
+      "original": "Eldritch Staff"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#eldritch%20staff_wbtw"
+  },
+  {
+    "id": 307,
+    "nome": {
+      "portugues": "Cajado do Poder",
+      "original": "Staff of Power"
+    },
+    "valor": 16000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#staff%20of%20power_dmg"
+  },
+  {
+    "id": 308,
+    "nome": {
+      "portugues": "Caldeirão do Renascimento",
+      "original": "Cauldron of Rebirth"
+    },
+    "valor": 15000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#cauldron%20of%20rebirth_tce"
+  },
+  {
+    "id": 309,
+    "nome": {
+      "portugues": "Cetro de Explosão",
+      "original": "Blast Scepter"
+    },
+    "valor": 7000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#blast%20scepter_wdmm"
+  },
+  {
+    "id": 310,
+    "nome": {
+      "portugues": "Chifre de Guerra Valoroso",
+      "original": "War Horn of Valor"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#war%20horn%20of%20valor_bgg"
+  },
+  {
+    "id": 311,
+    "nome": {
+      "portugues": "Cimitarra da Velocidade",
+      "original": "Scimitar of Speed"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#scimitar%20of%20speed_dmg"
+  },
+  {
+    "id": 312,
+    "nome": {
+      "portugues": "Cinto de Pele Dracônica +3",
+      "original": "+3 Dragonhide Belt"
+    },
+    "valor": 11000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#%2b3%20dragonhide%20belt_ftd"
+  },
+  {
+    "id": 313,
+    "nome": {
+      "portugues": "Cinturão de Força do Gigante de Fogo",
+      "original": "Belt of Fire Giant Strength"
+    },
+    "valor": 26000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#belt%20of%20fire%20giant%20strength_dmg"
+  },
+  {
+    "id": 314,
+    "nome": {
+      "portugues": "Cinturão de Força do Gigante de Gelo",
+      "original": "Belt of Frost Giant Strength"
+    },
+    "valor": 20000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#belt%20of%20frost%20giant%20strength_dmg"
+  },
+  {
+    "id": 315,
+    "nome": {
+      "portugues": "Cinturão de Força do Gigante de Pedra",
+      "original": "Belt of Frost Giant Strength"
+    },
+    "valor": 20000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#belt%20of%20stone%20giant%20strength_dmg"
+  },
+  {
+    "id": 316,
+    "nome": {
+      "portugues": "Coroa de Nimbus",
+      "original": "Nimbus Coronet"
+    },
+    "valor": 13000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#nimbus%20coronet_bgg"
+  },
+  {
+    "id": 317,
+    "nome": {
+      "portugues": "Crônica Cristalina",
+      "original": "Crystalline Chronicle"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#crystalline%20chronicle_tce"
+  },
+  {
+    "id": 318,
+    "nome": {
+      "portugues": "Destruidor Lucente",
+      "original": "Lucent Destroyer"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#lucent%20destroyer_bgg"
+  },
+  {
+    "id": 319,
+    "nome": {
+      "portugues": "Elmo Brilhante",
+      "original": "Helm of Brilliance"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#helm%20of%20brilliance_dmg"
+  },
+  {
+    "id": 320,
+    "nome": {
+      "portugues": "Escudo +3",
+      "original": "+3 Shield"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#%2b3%20shield%20(*)_dmg"
+  },
+  {
+    "id": 321,
+    "nome": {
+      "portugues": "Escudo Animado",
+      "original": "Animated Shield"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#animated%20shield_dmg"
+  },
+  {
+    "id": 322,
+    "nome": {
+      "portugues": "Escudo de Proteção à Magia",
+      "original": "Spellguard Shield"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#spellguard%20shield_dmg"
+  },
+  {
+    "id": 323,
+    "nome": {
+      "portugues": "Espada Dançante",
+      "original": "Dancing Sword"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#dancing%20sword_dmg"
+  },
+  {
+    "id": 324,
+    "nome": {
+      "portugues": "Estandarte de Batalha do Poder Infernal",
+      "original": "Battle Standard of Infernal Power"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#battle%20standard%20of%20infernal%20power_bgdia"
+  },
+  {
+    "id": 325,
+    "nome": {
+      "portugues": "Ferramenta Multiuso +3",
+      "original": "+3 All-Purpose Tool"
+    },
+    "valor": 11000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#%2b3%20all-purpose%20tool_tce"
+  },
+  {
+    "id": 326,
+    "nome": {
+      "portugues": "Ferraduras de Zéfiro",
+      "original": "Horseshoes of Zephyr"
+    },
+    "valor": 2000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#horseshoes%20of%20a%20zephyr_dmg"
+  },
+  {
+    "id": 327,
+    "nome": {
+      "portugues": "Foco Dracônico Despertado",
+      "original": "Wakened Dragon-Touched Focus"
+    },
+    "valor": 11000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#wakened%20dragon-touched%20focus_ftd"
+  },
+  {
+    "id": 328,
+    "nome": {
+      "portugues": "Foice da Lua +3",
+      "original": "+3 Moon Sickle"
+    },
+    "valor": 11000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#%2b3%20moon%20sickle_tce"
+  },
+  {
+    "id": 329,
+    "nome": {
+      "portugues": "Frasco Sanguíneo +3",
+      "original": "+3 Bloodwell Vial"
+    },
+    "valor": 11000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#%2b3%20bloodwell%20vial_tce"
+  },
+  {
+    "id": 330,
+    "nome": {
+      "portugues": "Grimório Arcano +3",
+      "original": "+3 Arcane Grimoire"
+    },
+    "valor": 11000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#%2b3%20arcane%20grimoire_tce"
+  },
+  {
+    "id": 331,
+    "nome": {
+      "portugues": "Instrumento dos Bardos, Harpa de Anstruth",
+      "original": "Instrument of the Bards, Anstruth Harp"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#instrument%20of%20the%20bards%2c%20anstruth%20harp_dmg"
+  },
+  {
+    "id": 332,
+    "nome": {
+      "portugues": "Martelo Anão",
+      "original": "Dwarven Thrower"
+    },
+    "valor": 6000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#dwarven%20thrower_dmg"
+  },
+  {
+    "id": 333,
+    "nome": {
+      "portugues": "Machado de Sangue",
+      "original": "Bloodaxe"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#bloodaxe_egw"
+  },
+  {
+    "id": 334,
+    "nome": {
+      "portugues": "Manto da Aranha",
+      "original": "Cloak of Arachnida"
+    },
+    "valor": 8000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#cloak%20of%20arachnida_dmg"
+  },
+  {
+    "id": 335,
+    "nome": {
+      "portugues": "Manto Minstral",
+      "original": "Minstral Mantle"
+    },
+    "valor": 9000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#mistral%20mantle_bgg"
+  },
+  {
+    "id": 336,
+    "nome": {
+      "portugues": "Manual da Rapidez de Movimentos",
+      "original": "Manual of Quickness of Action"
+    },
+    "valor": 20000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#manual%20of%20quickness%20of%20action_dmg"
+  },
+  {
+    "id": 337,
+    "nome": {
+      "portugues": "Manual da Saúde Corporal",
+      "original": "Manual of Bodily Health"
+    },
+    "valor": 20000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#manual%20of%20bodily%20health_dmg"
+  },
+  {
+    "id": 338,
+    "nome": {
+      "portugues": "Manual do Exercício Vantajoso",
+      "original": "Manual of Gainful Exercise"
+    },
+    "valor": 20000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#manual%20of%20gainful%20exercise_dmg"
+  },
+  {
+    "id": 339,
+    "nome": {
+      "portugues": "Manual dos Golens de Argila",
+      "original": "Manual of Clay Golems"
+    },
+    "valor": 65000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#manual%20of%20clay%20golems_dmg"
+  },
+  {
+    "id": 340,
+    "nome": {
+      "portugues": "Manual dos Golens de Carne",
+      "original": "Manual of Flesh Golems"
+    },
+    "valor": 50000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#manual%20of%20flesh%20golems_dmg"
+  },
+  {
+    "id": 341,
+    "nome": {
+      "portugues": "Manual dos Golens de Ferro",
+      "original": "Manual of Iron Golems"
+    },
+    "valor": 100000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#manual%20of%20iron%20golems_dmg"
+  },
+  {
+    "id": 342,
+    "nome": {
+      "portugues": "Manual dos Golens de Pedra",
+      "original": "Manual of Stone Golems"
+    },
+    "valor": 80000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#manual%20of%20stone%20golems_dmg"
+  },
+  {
+    "id": 343,
+    "nome": {
+      "portugues": "Marca Gélida",
+      "original": "Frost Brand"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#frost%20brand_dmg"
+  },
+  {
+    "id": 344,
+    "nome": {
+      "portugues": "Manoplas do Matador de Dragões",
+      "original": "Wyrmreaver Gauntlets"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#wyrmreaver%20gauntlets_bgg"
+  },
+  {
+    "id": 345,
+    "nome": {
+      "portugues": "Ornamento de Escamas Despertadas",
+      "original": "Wakened Scaled Ornament"
+    },
+    "valor": 11000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "Sim",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#wakened%20scaled%20ornament_ftd"
+  },
+  {
+    "id": 346,
+    "nome": {
+      "portugues": "Pedra Ioun, Absorção",
+      "original": "Ioun Stone, Absorption"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#ioun%20stone%2c%20absorption_dmg"
+  },
+  {
+    "id": 347,
+    "nome": {
+      "portugues": "Pedra Ioun, Agilidade",
+      "original": "Ioun Stone, Agility"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#ioun%20stone%2c%20agility_dmg"
+  },
+  {
+    "id": 348,
+    "nome": {
+      "portugues": "Pedra Ioun, Força",
+      "original": "Ioun Stone, Strength"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#ioun%20stone%2c%20strength_dmg"
+  },
+  {
+    "id": 349,
+    "nome": {
+      "portugues": "Pedra Ioun, Fortaleza",
+      "original": "Ioun Stone, Fortitude"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#ioun%20stone%2c%20fortitude_dmg"
+  },
+  {
+    "id": 350,
+    "nome": {
+      "portugues": "Pedra Ioun, Intelecto",
+      "original": "Ioun Stone, Intellect"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#ioun%20stone%2c%20intellect_dmg"
+  },
+  {
+    "id": 351,
+    "nome": {
+      "portugues": "Pedra Ioun, Intuição",
+      "original": "Ioun Stone, Insight"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#ioun%20stone%2c%20insight_dmg"
+  },
+  {
+    "id": 352,
+    "nome": {
+      "portugues": "Pedra Ioun, Liderança",
+      "original": "Ioun Stone, Leadership"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#ioun%20stone%2c%20leadership_dmg"
+  },
+  {
+    "id": 353,
+    "nome": {
+      "portugues": "Pigmentos Maravilhosos de Nolzur",
+      "original": "Nolzur's Marvelous Pigments"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#nolzur's%20marvelous%20pigments_dmg"
+  },
+  {
+    "id": 354,
+    "nome": {
+      "portugues": "Manto das Estrelas",
+      "original": "Robe of Stars"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#robe%20of%20stars_dmg"
+  },
+  {
+    "id": 355,
+    "nome": {
+      "portugues": "Manto de Cores Cintilantes",
+      "original": "Robe of Scintillating Colors"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#robe%20of%20scintillating%20colors_dmg"
+  },
+  {
+    "id": 356,
+    "nome": {
+      "portugues": "Tambor Ritmista +3",
+      "original": "+3 Rhythm-Maker's Drum"
+    },
+    "valor": 11000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#%2b3%20rhythm-maker's%20drum_tce"
+  },
+  {
+    "id": 357,
+    "nome": {
+      "portugues": "Tatuagem de Absorção",
+      "original": "Absorbing Tattoo"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#absorbing%20tattoo_tce"
+  },
+  {
+    "id": 358,
+    "nome": {
+      "portugues": "Tatuagem de Barreira (Grande)",
+      "original": "Barrier Tattoo (Large)"
+    },
+    "valor": 7000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#barrier%20tattoo%20(large)_tce"
+  },
+  {
+    "id": 359,
+    "nome": {
+      "portugues": "Thunderbuss",
+      "original": "Thunderbuss"
+    },
+    "valor": 13000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#thunderbuss_bgg"
+  },
+  {
+    "id": 360,
+    "nome": {
+      "portugues": "Tomo da Compreensão",
+      "original": "Tome of Understanding"
+    },
+    "valor": 20000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#tome%20of%20understanding_dmg"
+  },
+  {
+    "id": 361,
+    "nome": {
+      "portugues": "Tomo da Liderança e Influência",
+      "original": "Tome of Leadership and Influence"
+    },
+    "valor": 20000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#tome%20of%20leadership%20and%20influence_dmg"
+  },
+  {
+    "id": 362,
+    "nome": {
+      "portugues": "Tomo dos Pensamentos Claros",
+      "original": "Tome of Clear Thoughts"
+    },
+    "valor": 20000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#tome%20of%20clear%20thought_dmg"
+  },
+  {
+    "id": 363,
+    "nome": {
+      "portugues": "Topor do Corvo",
+      "original": "Raven Slumber"
+    },
+    "valor": 5000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#raven's%20slumber_tdcsr"
+  },
+  {
+    "id": 364,
+    "nome": {
+      "portugues": "Varinha do Mago de Guerra +3",
+      "original": "+3 Wand of The War Mage"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Muito Raro",
+    "url": "https://5e.tools/items.html#%2b3%20wand%20of%20the%20war%20mage_dmg"
+  },
+  {
+    "id": 365,
+    "nome": {
+      "portugues": "Agonia (Exaltada)",
+      "original": "Agony"
+    },
+    "valor": 30000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#agony%20(exalted)_tdcsr"
+  },
+  {
+    "id": 366,
+    "nome": {
+      "portugues": "Arco Longo do Coração Caridoso",
+      "original": "Longbow of the Healing Hearth"
+    },
+    "valor": 20000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#longbow%20of%20the%20healing%20hearth_bgg"
+  },
+  {
+    "id": 367,
+    "nome": {
+      "portugues": "Armadura da Invulnerabilidade",
+      "original": "Armor of Invulnerability"
+    },
+    "valor": 25000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#armor%20of%20invulnerability_dmg"
+  },
+  {
+    "id": 368,
+    "nome": {
+      "portugues": "Armadura da Alma Valorosa (Exaltada)",
+      "original": "Armor of Valiant Soul"
+    },
+    "valor": 30000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#armor%20of%20the%20valiant%20soul_tdcsr"
+  },
+  {
+    "id": 369,
+    "nome": {
+      "portugues": "Armadura +3",
+      "original": "+3 Armor"
+    },
+    "valor": 20000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#%2b3%20armor_dmg"
+  },
+  {
+    "id": 370,
+    "nome": {
+      "portugues": "Bem de Muitos Mundos",
+      "original": "Well of Many Worlds"
+    },
+    "valor": 20000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#well%20of%20many%20worlds_dmg"
+  },
+  {
+    "id": 371,
+    "nome": {
+      "portugues": "Beijo da Portadora da Mudança (Exaltada)",
+      "original": "Kiss of the Changebringer"
+    },
+    "valor": 30000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#kiss%20of%20the%20changebringer%20(exalted)_tdcsr"
+  },
+  {
+    "id": 372,
+    "nome": {
+      "portugues": "Bola de Cristal da Leitura de Mentes",
+      "original": "Crystal Ball of Mind Reading"
+    },
+    "valor": 20000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#crystal%20ball%20of%20mind%20reading_dmg"
+  },
+  {
+    "id": 373,
+    "nome": {
+      "portugues": "Bracelete da Visão Farpada (Exaltado)",
+      "original": "Circlet of Barbed Vision"
+    },
+    "valor": 30000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#circlet%20of%20barbed%20vision%20(exalted)_tdcsr"
+  },
+  {
+    "id": 374,
+    "nome": {
+      "portugues": "Bola de Cristal da Telepatia",
+      "original": "Crystal Ball of Telepathy"
+    },
+    "valor": 22000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#crystal%20ball%20of%20telepathy_dmg"
+  },
+  {
+    "id": 375,
+    "nome": {
+      "portugues": "Capa da Invisibilidade",
+      "original": "Cloak of Invisibility"
+    },
+    "valor": 25000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#cloak%20of%20invisibility_dmg"
+  },
+  {
+    "id": 376,
+    "nome": {
+      "portugues": "Cajado dos Magos",
+      "original": "Staff of The Magi"
+    },
+    "valor": 30000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#staff%20of%20the%20magi_dmg"
+  },
+  {
+    "id": 377,
+    "nome": {
+      "portugues": "Cata-Vento",
+      "original": "Windvane"
+    },
+    "valor": 25000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#windvane_pota"
+  },
+  {
+    "id": 378,
+    "nome": {
+      "portugues": "Cetro de Ressurreição",
+      "original": "Rod of Resurrection"
+    },
+    "valor": 22000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#rod%20of%20resurrection_dmg"
+  },
+  {
+    "id": 379,
+    "nome": {
+      "portugues": "Cetro Korolnor",
+      "original": "Korolnor Scepter"
+    },
+    "valor": 20000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#korolnor%20scepter_skt"
+  },
+  {
+    "id": 380,
+    "nome": {
+      "portugues": "Chave do Infiltrador (Exaltada)",
+      "original": "Infiltrator's Key (Exalted)"
+    },
+    "valor": 25000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#infiltrator's%20key%20(exalted)_egw"
+  },
+  {
+    "id": 381,
+    "nome": {
+      "portugues": "Cinturão da Força do Gigante das Nuvens",
+      "original": "Belt of Cloud Giant Strength"
+    },
+    "valor": 35000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#belt%20of%20cloud%20giant%20strength_dmg"
+  },
+  {
+    "id": 382,
+    "nome": {
+      "portugues": "Cinturão da Força do Gigante da Tempestade",
+      "original": "Belt of Storm Giant Strength"
+    },
+    "valor": 40000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#belt%20of%20storm%20giant%20strength_dmg"
+  },
+  {
+    "id": 383,
+    "nome": {
+      "portugues": "Coroa do Beholder de Belashyrra",
+      "original": "Belashyrra's Beholder Crown"
+    },
+    "valor": 25000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#belashyrra's%20beholder%20crown_erlw"
+  },
+  {
+    "id": 384,
+    "nome": {
+      "portugues": "Coroa Perdida de Besilmer",
+      "original": "Lost Crown of Besilmer"
+    },
+    "valor": 20000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#lost%20crown%20of%20besilmer_pota"
+  },
+  {
+    "id": 385,
+    "nome": {
+      "portugues": "Guirlanda do Prisma (Exaltada)",
+      "original": "Wreath of The Prism (Exalted)"
+    },
+    "valor": 42000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#wreath%20of%20the%20prism%20(exalted)_egw"
+  },
+  {
+    "id": 386,
+    "nome": {
+      "portugues": "Corrente de Efreeti",
+      "original": "Efreeti Chain"
+    },
+    "valor": 25000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#efreeti%20chain_dmg"
+  },
+  {
+    "id": 387,
+    "nome": {
+      "portugues": "Condenador (Exaltado)",
+      "original": "Condemner"
+    },
+    "valor": 30000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#condemner%20(exalted)_tdcsr"
+  },
+  {
+    "id": 388,
+    "nome": {
+      "portugues": "Defensora",
+      "original": "Defender"
+    },
+    "valor": 25000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#defender_dmg"
+  },
+  {
+    "id": 389,
+    "nome": {
+      "portugues": "Escaravelho de Proteção",
+      "original": "Scarab of Protection"
+    },
+    "valor": 20000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#scarab%20of%20protection_dmg"
+  },
+  {
+    "id": 390,
+    "nome": {
+      "portugues": "Escudo do Encouraçado Ardente",
+      "original": "Shield of Blazing Dreadnought"
+    },
+    "valor": 18000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#shield%20of%20the%20blazing%20dreadnought_bgg"
+  },
+  {
+    "id": 391,
+    "nome": {
+      "portugues": "Espada Vorpal",
+      "original": "Vorpal Sword"
+    },
+    "valor": 25000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#vorpal%20sword_dmg"
+  },
+  {
+    "id": 392,
+    "nome": {
+      "portugues": "Fenthras (Exaltada)",
+      "original": "Fenthras"
+    },
+    "valor": 30000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#fenthras%20(exalted)_tdcsr"
+  },
+  {
+    "id": 393,
+    "nome": {
+      "portugues": "Foco Dracônico Ascendente",
+      "original": "Ascendent Dragon-Touched Focus"
+    },
+    "valor": 25000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#ascendant%20dragon-touched%20focus_ftd"
+  },
+  {
+    "id": 394,
+    "nome": {
+      "portugues": "Entalhadora de Mitos (Exaltada)",
+      "original": "Mythcarver"
+    },
+    "valor": 30000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#mythcarver%20(exalted)_tdcsr"
+  },
+  {
+    "id": 395,
+    "nome": {
+      "portugues": "Envoltórios de Dyamak (Exaltado)",
+      "original": "Wraps of Dyamak"
+    },
+    "valor": 30000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#wraps%20of%20dyamak%20(exalted)_tdcsr"
+  },
+  {
+    "id": 396,
+    "nome": {
+      "portugues": "Frasco de Ferro",
+      "original": "Iron Flask"
+    },
+    "valor": 20000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#iron%20flask_dmg"
+  },
+  {
+    "id": 397,
+    "nome": {
+      "portugues": "Grito do Ceifador",
+      "original": "Reaper's Scream"
+    },
+    "valor": 10000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#reaper's%20scream_bgg"
+  },
+  {
+    "id": 398,
+    "nome": {
+      "portugues": "Arma da Ira do Dragão Ascendente",
+      "original": "Ascendant Dragon's Wrath Weapon"
+    },
+    "valor": 25000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#ascendant%20dragon's%20wrath%20weapon_ftd"
+  },
+  {
+    "id": 399,
+    "nome": {
+      "portugues": "Instrumento dos Bardos, Harpa de Ollamh",
+      "original": "Instrument of the Bards, Ollamh Harp"
+    },
+    "valor": 20000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#instrument%20of%20the%20bards%2c%20ollamh%20harp_dmg"
+  },
+  {
+    "id": 400,
+    "nome": {
+      "portugues": "Luva Apanhadora de Almas",
+      "original": "Gloves of Soul Catching"
+    },
+    "valor": 30000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#gloves%20of%20soul%20catching_cm"
+  },
+  {
+    "id": 401,
+    "nome": {
+      "portugues": "Manto do Arquimago",
+      "original": "Robe of the Archmage"
+    },
+    "valor": 25000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#robe%20of%20the%20archmagi_dmg"
+  },
+  {
+    "id": 402,
+    "nome": {
+      "portugues": "Soqueiras do Titã de Pedra (Exaltada)",
+      "original": "Titanstone Knuckles"
+    },
+    "valor": 40000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#titanstone%20knuckles%20(exalted)_tdcsr"
+  },
+  {
+    "id": 403,
+    "nome": {
+      "portugues": "Malho Incandescente (Exaltado)",
+      "original": "Piremaul"
+    },
+    "valor": 30000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#pyremaul%20(exalted)_tdcsr"
+  },
+  {
+    "id": 404,
+    "nome": {
+      "portugues": "Martelo de Raios",
+      "original": "Hammer of Thunderbolts"
+    },
+    "valor": 20000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#hammer%20of%20thunderbolts_dmg"
+  },
+  {
+    "id": 405,
+    "nome": {
+      "portugues": "Mascara do Dragão Azul",
+      "original": "Blue Dragon Mask"
+    },
+    "valor": 22000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#blue%20dragon%20mask_rotos"
+  },
+  {
+    "id": 406,
+    "nome": {
+      "portugues": "Mascara do Dragão Branco",
+      "original": "White Dragon Mask"
+    },
+    "valor": 25000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#white%20dragon%20mask_rotos"
+  },
+  {
+    "id": 407,
+    "nome": {
+      "portugues": "Mascara do Dragão Negro",
+      "original": "Black Dragon Mask"
+    },
+    "valor": 22000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#black%20dragon%20mask_hotdq"
+  },
+  {
+    "id": 408,
+    "nome": {
+      "portugues": "Mascara do Dragão Verde",
+      "original": "Green Dragon Mask"
+    },
+    "valor": 22000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#green%20dragon%20mask_rotos"
+  },
+  {
+    "id": 409,
+    "nome": {
+      "portugues": "Navalha Estelar",
+      "original": "Star Razor"
+    },
+    "valor": 30000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#star%20razor_tdcsr"
+  },
+  {
+    "id": 410,
+    "nome": {
+      "portugues": "Ornamento de Escamas Ascendente",
+      "original": "Ascendant Scaled Ornament"
+    },
+    "valor": 25000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#ascendant%20scaled%20ornament_ftd"
+  },
+  {
+    "id": 411,
+    "nome": {
+      "portugues": "Peitoral do Quebra-Rocha",
+      "original": "Stonebreaker's Breastplate"
+    },
+    "valor": 24000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#stonebreaker's%20breastplate_bgg"
+  },
+  {
+    "id": 412,
+    "nome": {
+      "portugues": "Pináculo do Confluxo (Exaltado)",
+      "original": "Spire of Conflux"
+    },
+    "valor": 30000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#spire%20of%20conflux%20(exalted)_tdcsr"
+  },
+  {
+    "id": 413,
+    "nome": {
+      "portugues": "Pergaminho Etéreo de Azumar",
+      "original": "Nether Scroll of Azumar"
+    },
+    "valor": 30000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#nether%20scroll%20of%20azumar_cm"
+  },
+  {
+    "id": 414,
+    "nome": {
+      "portugues": "Pérola do Anoitecer",
+      "original": "Nightfall Pearl"
+    },
+    "valor": 20000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#nightfall%20pearl_egw"
+  },
+  {
+    "id": 415,
+    "nome": {
+      "portugues": "Placas do Dragão Obsidiano",
+      "original": "Obsidian Flint Dragon Plate"
+    },
+    "valor": 20000,
+    "reqSintonizacao": "",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#obsidian%20flint%20dragon%20plate_bgdia"
+  },
+  {
+    "id": 416,
+    "nome": {
+      "portugues": "Placas do Mártir da Alvorada (Exaltada)",
+      "original": "Plate of the Dawnmartyr"
+    },
+    "valor": 30000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#plate%20of%20the%20dawnmartyr%20(exalted)_tdcsr"
+  },
+  {
+    "id": 417,
+    "nome": {
+      "portugues": "Proteção do Caminhante da Morte",
+      "original": "Deathwalker's Ward"
+    },
+    "valor": 30000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#deathwalker's%20ward_tdcsr"
+  },
+  {
+    "id": 418,
+    "nome": {
+      "portugues": "Ruína da Cabala (Exaltada)",
+      "original": "Cabal's Ruin"
+    },
+    "valor": 30000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#cabal's%20ruin%20(exalted)_tdcsr"
+  },
+  {
+    "id": 419,
+    "nome": {
+      "portugues": "Stormgirdle (Exaltado)",
+      "original": "Stormgirdle (Exalted)"
+    },
+    "valor": 45000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#stormgirdle%20(exalted)_egw"
+  },
+  {
+    "id": 420,
+    "nome": {
+      "portugues": "Sussurro (Exaltada)",
+      "original": "Whisper"
+    },
+    "valor": 30000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#whisper%20(exalted)_tdcsr"
+  },
+  {
+    "id": 421,
+    "nome": {
+      "portugues": "Tatuagem da Fúria por Sangue",
+      "original": "Blood Fury Tattoo"
+    },
+    "valor": 25000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#blood%20fury%20tattoo_tce"
+  },
+  {
+    "id": 422,
+    "nome": {
+      "portugues": "Ultima Resistência de Honor",
+      "original": "Honor's Last Stand"
+    },
+    "valor": 30000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#honor's%20last%20stand_tdcsr"
+  },
+  {
+    "id": 423,
+    "nome": {
+      "portugues": "Verminshroud (Exaltado)",
+      "original": "Verminshroud (Exalted)"
+    },
+    "valor": 40000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#verminshroud%20(exalted)_egw"
+  },
+  {
+    "id": 424,
+    "nome": {
+      "portugues": "Vingadora Sagrada",
+      "original": "Holy Avenger"
+    },
+    "valor": 25000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#holy%20avenger_dmg"
+  },
+  {
+    "id": 425,
+    "nome": {
+      "portugues": "Visor de Danoth (Exaltado)",
+      "original": "Danoth's Visor (Exalted)"
+    },
+    "valor": 40000,
+    "reqSintonizacao": "Sim",
+    "reqReforja": "",
+    "raridade": "Lendário",
+    "url": "https://5e.tools/items.html#danoth's%20visor%20(exalted)_egw"
+  }
+]

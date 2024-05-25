@@ -20,19 +20,19 @@ import { getData } from "@/lib/getDbData"
 // ]
 
 export async function getStaticProps() {
-  const tiers = ['comum', 'incomum', 'raro', 'muRaro', 'lendario']
-  const commonData = await getData('Consumiveis', tiers[0])
-  const uncommonData = await getData('Consumiveis', tiers[1])
-  const rareData = await getData('Consumiveis', tiers[2])
-  const veryRareData = await getData('Consumiveis', tiers[3])
-  const legendaryData = await getData('Consumiveis', tiers[4])
+  const raridades = ['Comum', 'Incomum', 'Raro', 'Muito Raro', 'Lendário']
 
+  const commonData = await getData('consumiveis', raridades[0])
+  const uncommonData = await getData('consumiveis', raridades[1])
+  const rareData = await getData('consumiveis', raridades[2])
+  const veryRareData = await getData('consumiveis', raridades[3])
+  const legendaryData = await getData('consumiveis', raridades[4])
   const dataSet = [
-    { id: 0, docData: commonData, tier: 'comum' },
-    { id: 1, docData: uncommonData, tier: 'incomum' },
-    { id: 2, docData: rareData, tier: 'raro' },
-    { id: 3, docData: veryRareData, tier: 'muRaro' },
-    { id: 4, docData: legendaryData, tier: 'lendario' }
+    { id: 0, docData: commonData, raridade: 'Comum' },
+    { id: 1, docData: uncommonData, raridade: 'Incomum' },
+    { id: 2, docData: rareData, raridade: 'Raro' },
+    { id: 3, docData: veryRareData, raridade: 'Muito Raro' },
+    { id: 4, docData: legendaryData, raridade: 'Lendário' }
   ]
 
   return {
@@ -45,7 +45,7 @@ export async function getStaticProps() {
 export default function Consumables({ dataSet }) {
   return (
     <>
-      <ListPage data={dataSet} type='potion' title='Consumíveis' />
+      <ListPage data={dataSet} type='consumiveis' title='Consumíveis' />
     </>
   )
 }

@@ -3,17 +3,19 @@ import { getData } from '@/lib/getDbData'
 import ListPage from '@/components/ListPage'
 
 export async function getStaticProps() {
-  const tiers = ['comum', 'incomum', 'raro', 'muRaro', 'lendario']
-  const uncommonData = await getData('Artifice', tiers[1])
-  const rareData = await getData('Artifice', tiers[2])
-  const veryRareData = await getData('Artifice', tiers[3])
-  const legendaryData = await getData('Artifice', tiers[4])
+  const raridades = ['Comum', 'Incomum', 'Raro', 'Muito Raro', 'Lendário'];
+  const niveis = [2, 6, 10, 14];
+
+  const uncommonData = await getData('infusoesArtifice', niveis[0])
+  const rareData = await getData('infusoesArtifice', niveis[1])
+  const veryRareData = await getData('infusoesArtifice', niveis[2])
+  const legendaryData = await getData('infusoesArtifice', niveis[3])
 
   const dataSet = [
-    { id: 0, docData: uncommonData, tier: 'incomum' },
-    { id: 1, docData: rareData, tier: 'raro' },
-    { id: 2, docData: veryRareData, tier: 'muRaro' },
-    { id: 3, docData: legendaryData, tier: 'lendario' }
+    { id: 0, docData: uncommonData, raridade: 'Incomum' },
+    { id: 1, docData: rareData, raridade: 'Raro' },
+    { id: 2, docData: veryRareData, raridade: 'Muito Raro' },
+    { id: 3, docData: legendaryData, raridade: 'Lendário' }
   ]
 
   return {
@@ -26,7 +28,7 @@ export async function getStaticProps() {
 export default function Artifice({ dataSet }) {
   return (
     <>
-      <ListPage data={dataSet} title='Infusões de Artífice' type='artifice' />
+      <ListPage data={dataSet} title='Infusões de Artífice' type='infusoes' />
     </>
   )
 }
