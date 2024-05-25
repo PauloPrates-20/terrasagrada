@@ -10,7 +10,7 @@
   color: var(--raro);
 }
 
-.muRaro p:not(.gold) {
+.muito_raro p:not(.gold) {
   color: var(--muRaro);
 }
 

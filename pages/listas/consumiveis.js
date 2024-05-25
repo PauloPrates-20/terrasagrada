@@ -45,7 +45,7 @@ export async function getStaticProps() {
 export default function Consumables({ dataSet }) {
   return (
     <>
-      <ListPage data={dataSet} type='potion' title='Consumíveis' />
+      <ListPage data={dataSet} type='consumiveis' title='Consumíveis' />
     </>
   )
 }

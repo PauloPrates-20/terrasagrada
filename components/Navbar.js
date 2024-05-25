@@ -53,7 +53,8 @@ export default function Navbar() {
           <div className={`${styles.dropdown_2} ${styles[listToggle]}`}>
             <a href='/listas/consumiveis'>Consumíveis</a>
             <a href='/listas/itensmagicos'>Itens Mágicos</a>
-            <a href='/listas/montarias'>Montarias</a>
+            <a href='/listas/mundanos'>Itens Mundanos</a>
+            <a href='/listas/artifice'>Infusões de Artífice</a>
           </div>
           <div onClick={toolClick} className={styles.drop_toggle}>
             {toolToggle == toggle[1] ? <FaAngleDown /> : <FaAngleUp />}
@@ -62,8 +63,8 @@ export default function Navbar() {
           <div className={`${styles.dropdown_2} ${styles[toolToggle]}`}>
             <a href='/ferramentas/calculadorahp'>Calculadora de HP</a>
             <a href='/ferramentas/conjurador'>Nível de Conjurador</a>
-            <a href='/ferramentas/grimorio'>Grimório do Mago</a>
             <a href='/ferramentas/crafting'>Calculadora do Artesão</a>
+            <a href='/ferramentas/grimorio'>Grimório do Mago</a>
           </div>
         </div>
       </nav>
