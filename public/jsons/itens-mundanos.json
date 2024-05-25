@@ -196,7 +196,7 @@
         "url": "https://5e.tools/items.html#club_phb"
     },
     {
-        "id": 30,
+        "id": 10,
         "nome": "Arco Curto",
         "tipo": [
             "simples",
@@ -216,7 +216,7 @@
         "url": "https://5e.tools/items.html#shortbow_phb"
     },
     {
-        "id": 31,
+        "id": 11,
         "nome": "Besta Leve",
         "tipo": [
             "simples",
@@ -237,7 +237,7 @@
         "url": "https://5e.tools/items.html#light%20crossbow_phb"
     },
     {
-        "id": 32,
+        "id": 12,
         "nome": "Besta Leve Repetidora",
         "tipo": [
             "simples",
@@ -258,7 +258,7 @@
         "url": "https://5e.tools/items.html#light%20repeating%20crossbow_oota"
     },
     {
-        "id": 33,
+        "id": 13,
         "nome": "Dardo",
         "tipo": [
             "simples",
@@ -278,7 +278,7 @@
         "url": "https://5e.tools/items.html#dart_phb"
     },
     {
-        "id": 34,
+        "id": 14,
         "nome": "Funda",
         "tipo": [
             "simples",
@@ -297,7 +297,7 @@
         "url": "https://5e.tools/items.html#sling_phb"
     },
     {
-        "id": 10,
+        "id": 15,
         "nome": "Alabarda",
         "tipo": [
             "marcial",
@@ -318,7 +318,7 @@
         "url": "https://5e.tools/items.html#halberd_phb"
     },
     {
-        "id": 11,
+        "id": 16,
         "nome": "Cimitarra",
         "tipo": [
             "marcial",
@@ -338,7 +338,7 @@
         "url": "https://5e.tools/items.html#scimitar_phb"
     },
     {
-        "id": 12,
+        "id": 17,
         "nome": "Cimitarra de Dois Gumes",
         "tipo": [
             "marcial",
@@ -358,7 +358,7 @@
         "url": "https://5e.tools/items.html#double-bladed%20scimitar_erlw"
     },
     {
-        "id": 13,
+        "id": 18,
         "nome": "Chicote",
         "tipo": [
             "marcial",
@@ -378,7 +378,7 @@
         "url": "https://5e.tools/items.html#whip_phb"
     },
     {
-        "id": 14,
+        "id": 19,
         "nome": "Espada Curta",
         "tipo": [
             "marcial",
@@ -398,7 +398,7 @@
         "url": "https://5e.tools/items.html#shortsword_phb"
     },
     {
-        "id": 15,
+        "id": 20,
         "nome": "Espada Grande",
         "tipo": [
             "marcial",
@@ -418,7 +418,7 @@
         "url": "https://5e.tools/items.html#greatsword_phb"
     },
     {
-        "id": 16,
+        "id": 21,
         "nome": "Espada Longa",
         "tipo": [
             "marcial",
@@ -437,7 +437,7 @@
         "url": "https://5e.tools/items.html#longsword_phb"
     },
     {
-        "id": 17,
+        "id": 22,
         "nome": "Glaive",
         "tipo": [
             "marcial",
@@ -458,7 +458,7 @@
         "url": "https://5e.tools/items.html#glaive_phb"
     },
     {
-        "id": 18,
+        "id": 23,
         "nome": "Lança de Gancho",
         "tipo": [
             "marcial",
@@ -478,7 +478,7 @@
         "url": "https://5e.tools/items.html#hooked%20shortspear_oota"
     },
     {
-        "id": 19,
+        "id": 24,
         "nome": "Lança de Montaria",
         "tipo": [
             "marcial",
@@ -498,7 +498,7 @@
         "url": "https://5e.tools/items.html#lance_phb"
     },
     {
-        "id": 20,
+        "id": 25,
         "nome": "Lança Longa",
         "tipo": [
             "marcial",
@@ -519,7 +519,7 @@
         "url": "https://5e.tools/items.html#pike_phb"
     },
     {
-        "id": 21,
+        "id": 26,
         "nome": "Maça Estrela",
         "tipo": [
             "marcial",
@@ -538,7 +538,7 @@
         "url": "https://5e.tools/items.html#morningstar_phb"
     },
     {
-        "id": 22,
+        "id": 27,
         "nome": "Machado Grande",
         "tipo": [
             "marcial",
@@ -558,7 +558,7 @@
         "url": "https://5e.tools/items.html#greataxe_phb"
     },
     {
-        "id": 23,
+        "id": 28,
         "nome": "Machado de Batalha",
         "tipo": [
             "marcial",
@@ -577,7 +577,7 @@
         "url": "https://5e.tools/items.html#battleaxe_phb"
     },
     {
-        "id": 24,
+        "id": 29,
         "nome": "Malho",
         "tipo": [
             "marcial",
@@ -597,7 +597,7 @@
         "url": "https://5e.tools/items.html#maul_phb"
     },
     {
-        "id": 25,
+        "id": 30,
         "nome": "Mangual",
         "tipo": [
             "marcial",
@@ -616,7 +616,7 @@
         "url": "https://5e.tools/items.html#flail_phb"
     },
     {
-        "id": 26,
+        "id": 31,
         "nome": "Martelo de Guerra",
         "tipo": [
             "marcial",
@@ -635,7 +635,7 @@
         "url": "https://5e.tools/items.html#warhammer_phb"
     },
     {
-        "id": 27,
+        "id": 32,
         "nome": "Picareta de Guerra",
         "tipo": [
             "marcial",
@@ -654,7 +654,7 @@
         "url": "https://5e.tools/items.html#war%20pick_phb"
     },
     {
-        "id": 28,
+        "id": 33,
         "nome": "Rapieira",
         "tipo": [
             "marcial",
@@ -673,7 +673,7 @@
         "url": "https://5e.tools/items.html#rapier_phb"
     },
     {
-        "id": 29,
+        "id": 34,
         "nome": "Tridente",
         "tipo": [
             "marcial",
