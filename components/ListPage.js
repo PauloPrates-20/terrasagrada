@@ -36,29 +36,31 @@ const itemTypes = {
   artifice: 'Infusão de Artifice'
 }
 
-export default function ListPage({ data, title, type }) {
+export default function ListPage({ data, title, type, propNome }) {
   let tabelaDeRequisitos = tierNecessario
-  if(type == 'artifice') {
+
+  if (type == 'artifice') {
     tabelaDeRequisitos = nivelNecessario
   }
-  const fstItem = data[0].docData[0]
+
+  const primeiroItem = data[0].docData[0]
 
   const [details, setDetails] = useState({
-    item: fstItem.item,
-    value: fstItem.value,
+    item: primeiroItem.nome,
+    value: primeiroItem.value,
     tipo: itemTypes[type],
-    reforja: fstItem.reforge,
-    sintoniza: fstItem.sint,
-    link: fstItem.url,
-    raridade: tierList[fstItem.tier],
-    requisito: tabelaDeRequisitos[fstItem.tier],
-    obs: fstItem.obs
+    reforja: primeiroItem.reforge,
+    sintoniza: primeiroItem.sint,
+    link: primeiroItem.url,
+    raridade: tierList[primeiroItem.tier],
+    requisito: tabelaDeRequisitos[primeiroItem.tier],
+    obs: primeiroItem.obs
   })
 
   const changeItemDetails = (object) => {
     setDetails({
-      item: object.item,
-      value: object.value,
+      item: object.nome,
+      value: object.valor,
       tipo: itemTypes[type],
       reforja: object.reforge,
       sintoniza: object.sint,
