@@ -1,0 +1,317 @@
+[
+    {
+        "id": 0,
+        "nome": "Pergaminho de Magia (Truque)",
+        "url": "https://5e.tools/items.html#spell%20scroll%20(cantrip)_dmg",
+        "valor": 50,
+        "raridade": "Comum"
+    },
+    {
+        "id": 1,
+        "nome": "Insígnia de Pena",
+        "url": "https://5e.tools/items.html#feather%20token_erlw",
+        "valor": 100,
+        "raridade": "Comum"
+    },
+    {
+        "id": 2,
+        "nome": "Fogo Alquímico",
+        "url": "https://5e.tools/items.html#alchemist's%20fire%20(flask)_phb",
+        "valor": 50,
+        "raridade": "Comum"
+    },
+    {
+        "id": 3,
+        "nome": "Poção de Escalar",
+        "url": "https://5e.tools/items.html#potion%20of%20climbing_dmg",
+        "valor": 30,
+        "raridade": "Comum"
+    },
+    {
+        "id": 4,
+        "nome": "Poção de Cura",
+        "url": "https://5e.tools/items.html#potion%20of%20healing_dmg",
+        "valor": 50,
+        "raridade": "Comum"
+    },
+    {
+        "id": 5,
+        "nome": "Munição Colossal (Cada)",
+        "url": "https://5e.tools/items.html#walloping%20ammunition_xge",
+        "valor": 3,
+        "raridade": "Comum"
+    },
+    {
+        "id": 6,
+        "nome": "Pergaminho de Magia (Nível 1)",
+        "url": "https://5e.tools/items.html#spell%20scroll%20(1st%20level)_dmg",
+        "valor": 100,
+        "raridade": "Comum"
+    },
+    {
+        "id": 7,
+        "nome": "Perfume do Encantamento",
+        "url": "https://5e.tools/items.html#perfume%20of%20bewitching_xge",
+        "valor": 100,
+        "raridade": "Comum"
+    },
+    {
+        "id": 8,
+        "nome": "Concha do Descanso",
+        "url": "https://5e.tools/items.html#conch%20of%20safe%20rest_ttp",
+        "valor": 300,
+        "raridade": "Incomum"
+    },
+    {
+        "id": 9,
+        "nome": "Poção de Amizade Animal",
+        "url": "https://5e.tools/items.html#potion%20of%20animal%20friendship_dmg",
+        "valor": 75,
+        "raridade": "Incomum"
+    },
+    {
+        "id": 10,
+        "nome": "Poção de Envenenamento",
+        "url": "https://5e.tools/items.html#potion%20of%20poison_dmg",
+        "valor": 100,
+        "raridade": "Incomum"
+    },
+    {
+        "id": 11,
+        "nome": "Poção de Resistência",
+        "url": "https://5e.tools/items.html#potion%20of%20resistance_dmg",
+        "valor": 100,
+        "raridade": "Incomum"
+    },
+    {
+        "id": 12,
+        "nome": "Poção do Sopro de Fogo",
+        "url": "https://5e.tools/items.html#potion%20of%20fire%20breath_dmg",
+        "valor": 100,
+        "raridade": "Incomum"
+    },
+    {
+        "id": 13,
+        "nome": "Pergaminho de Magia (Nível 2)",
+        "url": "https://5e.tools/items.html#spell%20scroll%20(2nd%20level)_dmg",
+        "valor": 250,
+        "raridade": "Incomum"
+    },
+    {
+        "id": 14,
+        "nome": "Poção de Aumentar",
+        "url": "https://5e.tools/items.html#potion%20of%20growth_dmg",
+        "valor": 200,
+        "raridade": "Incomum"
+    },
+    {
+        "id": 15,
+        "nome": "Poção de Cura Maior",
+        "url": "https://5e.tools/items.html#potion%20of%20greater%20healing_dmg",
+        "valor": 150,
+        "raridade": "Incomum"
+    },
+    {
+        "id": 16,
+        "nome": "Pergaminho de Magia (Nível 3)",
+        "url": "https://5e.tools/items.html#spell%20scroll%20(3rd%20level)_dmg",
+        "valor": 350,
+        "raridade": "Incomum"
+    },
+    {
+        "id": 17,
+        "nome": "Óleo Escorregadio",
+        "url": "https://5e.tools/items.html#oil%20of%20slipperiness_dmg",
+        "valor": 300,
+        "raridade": "Incomum"
+    },
+    {
+        "id": 18,
+        "nome": "Munição +1 (Cada)",
+        "url": "https://5e.tools/items.html#%2b1%20ammunition_dmg",
+        "valor": 10,
+        "raridade": "Incomum"
+    },
+    {
+        "id": 19,
+        "nome": "Poção de Respirar na Água",
+        "url": "https://5e.tools/items.html#potion%20of%20water%20breathing_dmg",
+        "valor": 50,
+        "raridade": "Incomum"
+    },
+    {
+        "id": 20,
+        "nome": "Filtro do Amor",
+        "url": "https://5e.tools/items.html#philter%20of%20love_dmg",
+        "valor": 100,
+        "raridade": "Incomum"
+    },
+    {
+        "id": 21,
+        "nome": "Gema Elemental",
+        "url": "https://5e.tools/items.html#elemental%20gem_dmg",
+        "valor": 900,
+        "raridade": "Incomum"
+    },
+    {
+        "id": 22,
+        "nome": "Munição +2 (Cada)",
+        "url": "https://5e.tools/items.html#%2b2%20ammunition_dmg",
+        "valor": 25,
+        "raridade": "Raro"
+    },
+    {
+        "id": 23,
+        "nome": "Elixir da Saúde",
+        "url": "https://5e.tools/items.html#elixir%20of%20health_dmg",
+        "valor": 300,
+        "raridade": "Raro"
+    },
+    {
+        "id": 24,
+        "nome": "Poção de Encolher",
+        "url": "https://5e.tools/items.html#potion%20of%20diminution_dmg",
+        "valor": 100,
+        "raridade": "Raro"
+    },
+    {
+        "id": 25,
+        "nome": "Poção de Ler Mentes",
+        "url": "https://5e.tools/items.html#potion%20of%20mind%20reading_dmg",
+        "valor": 150,
+        "raridade": "Raro"
+    },
+    {
+        "id": 26,
+        "nome": "Poção de Invulnerabilidade",
+        "url": "https://5e.tools/items.html#potion%20of%20invulnerability_dmg",
+        "valor": 1600,
+        "raridade": "Raro"
+    },
+    {
+        "id": 27,
+        "nome": "Pergaminho de Proteção",
+        "url": "https://5e.tools/items.html#scroll%20of%20protection_dmg",
+        "valor": 300,
+        "raridade": "Raro"
+    },
+    {
+        "id": 28,
+        "nome": "Poção de Vitalidade",
+        "url": "https://5e.tools/items.html#potion%20of%20vitality_dmg",
+        "valor": 300,
+        "raridade": "Raro"
+    },
+    {
+        "id": 29,
+        "nome": "Poção de Forma Gasosa",
+        "url": "https://5e.tools/items.html#potion%20of%20gaseous%20form_dmg",
+        "valor": 400,
+        "raridade": "Raro"
+    },
+    {
+        "id": 30,
+        "nome": "Pergaminho de Magia (Nível 4)",
+        "url": "https://5e.tools/items.html#spell%20scroll%20(4th%20level)_dmg",
+        "valor": 450,
+        "raridade": "Raro"
+    },
+    {
+        "id": 31,
+        "nome": "Poção de Clarividência",
+        "url": "https://5e.tools/items.html#potion%20of%20clairvoyance_dmg",
+        "valor": 400,
+        "raridade": "Raro"
+    },
+    {
+        "id": 32,
+        "nome": "Pergaminho de Magia (Nível 5)",
+        "url": "https://5e.tools/items.html#spell%20scroll%20(5th%20level)_dmg",
+        "valor": 800,
+        "raridade": "Raro"
+    },
+    {
+        "id": 33,
+        "nome": "Poção do Heroísmo",
+        "url": "https://5e.tools/items.html#potion%20of%20heroism_dmg",
+        "valor": 400,
+        "raridade": "Raro"
+    },
+    {
+        "id": 34,
+        "nome": "Poção de Cura Superior",
+        "url": "https://5e.tools/items.html#potion%20of%20superior%20healing_dmg",
+        "valor": 500,
+        "raridade": "Raro"
+    },
+    {
+        "id": 35,
+        "nome": "Pergaminho de Magia (Nível 6)",
+        "url": "https://5e.tools/items.html#spell%20scroll%20(6th%20level)_dmg",
+        "valor": 1200,
+        "raridade": "Muito Raro"
+    },
+    {
+        "id": 36,
+        "nome": "Poção de Cura Suprema",
+        "url": "https://5e.tools/items.html#potion%20of%20supreme%20healing_dmg",
+        "valor": 1500,
+        "raridade": "Muito Raro"
+    },
+    {
+        "id": 37,
+        "nome": "Poção de Invisibilidade",
+        "url": "https://5e.tools/items.html#potion%20of%20invisibility_dmg",
+        "valor": 300,
+        "raridade": "Muito Raro"
+    },
+    {
+        "id": 38,
+        "nome": "Munição +3 (Cada)",
+        "url": "https://5e.tools/items.html#%2b3%20ammunition_dmg",
+        "valor": 40,
+        "raridade": "Muito Raro"
+    },
+    {
+        "id": 39,
+        "nome": "Pergaminho de Magia (Nível 7)",
+        "url": "https://5e.tools/items.html#spell%20scroll%20(7th%20level)_dmg",
+        "valor": 1800,
+        "raridade": "Muito Raro"
+    },
+    {
+        "id": 40,
+        "nome": "Poção de Velocidade",
+        "url": "https://5e.tools/items.html#potion%20of%20speed_dmg",
+        "valor": 1000,
+        "raridade": "Muito Raro"
+    },
+    {
+        "id": 41,
+        "nome": "Poção de Vôo",
+        "url": "https://5e.tools/items.html#potion%20of%20flying_dmg",
+        "valor": 1000,
+        "raridade": "Muito Raro"
+    },
+    {
+        "id": 42,
+        "nome": "Flecha Assassina (Cada)",
+        "url": "https://5e.tools/items.html#arrow%20of%20slaying%20(*)_dmg",
+        "valor": 600,
+        "raridade": "Muito Raro"
+    },
+    {
+        "id": 43,
+        "nome": "Pergaminho de Magia (Nível 8)",
+        "url": "https://5e.tools/items.html#spell%20scroll%20(8th%20level)_dmg",
+        "valor": 5000,
+        "raridade": "Lendário"
+    },
+    {
+        "id": 44,
+        "nome": "Pergaminho de Magia (Nível 9)",
+        "url": "https://5e.tools/items.html#spell%20scroll%20(9th%20level)_dmg",
+        "valor": 10000,
+        "raridade": "Lendário"
+    }
+]
