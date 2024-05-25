@@ -10,9 +10,6 @@ export default function Listas({ clickHandler }) {
       <a href='/listas/itensmagicos'>
         <ListCard icon={<GiGems />} text='Itens Mágicos' clickHandler={clickHandler} />
       </a>
-      <a href='/listas/montarias'>
-        <ListCard icon={<GiHorseHead />} text='Montarias' clickHandler={clickHandler} />
-      </a>
       <a href='/listas/mundanos'>
         <ListCard icon={<GiCrossedSwords />} text='Itens Mundanos' clickHandler={clickHandler} />
       </a>
