@@ -3,7 +3,8 @@
         "id": 0,
         "nome": "Adaga",
         "tipo": [
-            "simples, corpo-a-corpo",
+            "simples",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 2,
@@ -23,7 +24,8 @@
         "id": 1,
         "nome": "Azagaia",
         "tipo": [
-            "simples, corpo-a-corpo",
+            "simples",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 5,
@@ -41,7 +43,8 @@
         "id": 2,
         "nome": "Bordão",
         "tipo": [
-            "simples, corpo-a-corpo",
+            "simples",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 2,
@@ -59,7 +62,8 @@
         "id": 3,
         "nome": "Clava Grande",
         "tipo": [
-            "simples, corpo-a-corpo",
+            "simples",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 2,
@@ -78,7 +82,8 @@
         "id": 4,
         "nome": "Foice Curta",
         "tipo": [
-            "simples, corpo-a-corpo",
+            "simples",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 1,
@@ -96,7 +101,8 @@
         "id": 5,
         "nome": "Lança",
         "tipo": [
-            "simples, corpo-a-corpo",
+            "simples",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 1,
@@ -115,7 +121,8 @@
         "id": 6,
         "nome": "Maça",
         "tipo": [
-            "simples, corpo-a-corpo",
+            "simples",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 5,
@@ -133,7 +140,8 @@
         "id": 7,
         "nome": "Machadinha",
         "tipo": [
-            "simples, corpo-a-corpo",
+            "simples",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 5,
@@ -152,7 +160,8 @@
         "id": 8,
         "nome": "Martelo Leve",
         "tipo": [
-            "simples, corpo-a-corpo",
+            "simples",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 2,
@@ -171,7 +180,8 @@
         "id": 9,
         "nome": "Porrete",
         "tipo": [
-            "simples, corpo-a-corpo",
+            "simples",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 1,
@@ -189,7 +199,8 @@
         "id": 30,
         "nome": "Arco Curto",
         "tipo": [
-            "simples, distância",
+            "simples",
+            "distância",
             "arma"
         ],
         "valor": 25,
@@ -208,7 +219,8 @@
         "id": 31,
         "nome": "Besta Leve",
         "tipo": [
-            "simples, distância",
+            "simples",
+            "distância",
             "arma"
         ],
         "valor": 25,
@@ -228,7 +240,8 @@
         "id": 32,
         "nome": "Besta Leve Repetidora",
         "tipo": [
-            "simples, distância",
+            "simples",
+            "distância",
             "arma"
         ],
         "valor": 50,
@@ -248,7 +261,8 @@
         "id": 33,
         "nome": "Dardo",
         "tipo": [
-            "simples, distância",
+            "simples",
+            "distância",
             "arma"
         ],
         "valor": 5,
@@ -267,7 +281,8 @@
         "id": 34,
         "nome": "Funda",
         "tipo": [
-            "simples, distância",
+            "simples",
+            "distância",
             "arma"
         ],
         "valor": 1,
@@ -285,7 +300,8 @@
         "id": 10,
         "nome": "Alabarda",
         "tipo": [
-            "marcial, corpo-a-corpo",
+            "marcial",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 20,
@@ -305,7 +321,8 @@
         "id": 11,
         "nome": "Cimitarra",
         "tipo": [
-            "marcial, corpo-a-corpo",
+            "marcial",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 25,
@@ -324,7 +341,8 @@
         "id": 12,
         "nome": "Cimitarra de Dois Gumes",
         "tipo": [
-            "marcial, corpo-a-corpo",
+            "marcial",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 100,
@@ -343,7 +361,8 @@
         "id": 13,
         "nome": "Chicote",
         "tipo": [
-            "marcial, corpo-a-corpo",
+            "marcial",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 2,
@@ -362,7 +381,8 @@
         "id": 14,
         "nome": "Espada Curta",
         "tipo": [
-            "marcial, corpo-a-corpo",
+            "marcial",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 10,
@@ -381,7 +401,8 @@
         "id": 15,
         "nome": "Espada Grande",
         "tipo": [
-            "marcial, corpo-a-corpo",
+            "marcial",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 50,
@@ -400,7 +421,8 @@
         "id": 16,
         "nome": "Espada Longa",
         "tipo": [
-            "marcial, corpo-a-corpo",
+            "marcial",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 15,
@@ -418,7 +440,8 @@
         "id": 17,
         "nome": "Glaive",
         "tipo": [
-            "marcial, corpo-a-corpo",
+            "marcial",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 20,
@@ -438,7 +461,8 @@
         "id": 18,
         "nome": "Lança de Gancho",
         "tipo": [
-            "marcial, corpo-a-corpo",
+            "marcial",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 100,
@@ -457,7 +481,8 @@
         "id": 19,
         "nome": "Lança de Montaria",
         "tipo": [
-            "marcial, corpo-a-corpo",
+            "marcial",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 10,
@@ -476,7 +501,8 @@
         "id": 20,
         "nome": "Lança Longa",
         "tipo": [
-            "marcial, corpo-a-corpo",
+            "marcial",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 5,
@@ -496,7 +522,8 @@
         "id": 21,
         "nome": "Maça Estrela",
         "tipo": [
-            "marcial, corpo-a-corpo",
+            "marcial",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 15,
@@ -514,7 +541,8 @@
         "id": 22,
         "nome": "Machado Grande",
         "tipo": [
-            "marcial, corpo-a-corpo",
+            "marcial",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 30,
@@ -533,7 +561,8 @@
         "id": 23,
         "nome": "Machado de Batalha",
         "tipo": [
-            "marcial, corpo-a-corpo",
+            "marcial",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 10,
@@ -551,7 +580,8 @@
         "id": 24,
         "nome": "Malho",
         "tipo": [
-            "marcial, corpo-a-corpo",
+            "marcial",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 10,
@@ -570,7 +600,8 @@
         "id": 25,
         "nome": "Mangual",
         "tipo": [
-            "marcial, corpo-a-corpo",
+            "marcial",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 10,
@@ -588,7 +619,8 @@
         "id": 26,
         "nome": "Martelo de Guerra",
         "tipo": [
-            "marcial, corpo-a-corpo",
+            "marcial",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 15,
@@ -606,7 +638,8 @@
         "id": 27,
         "nome": "Picareta de Guerra",
         "tipo": [
-            "marcial, corpo-a-corpo",
+            "marcial",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 5,
@@ -624,7 +657,8 @@
         "id": 28,
         "nome": "Rapieira",
         "tipo": [
-            "marcial, corpo-a-corpo",
+            "marcial",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 25,
@@ -642,7 +676,8 @@
         "id": 29,
         "nome": "Tridente",
         "tipo": [
-            "marcial, corpo-a-corpo",
+            "marcial",
+            "corpo-a-corpo",
             "arma"
         ],
         "valor": 5,
@@ -661,7 +696,8 @@
         "id": 35,
         "nome": "Arco Longo",
         "tipo": [
-            "marcial, distância",
+            "marcial",
+            "distância",
             "arma"
         ],
         "valor": 50,
@@ -681,7 +717,8 @@
         "id": 36,
         "nome": "Arco Longo Superdimensionado",
         "tipo": [
-            "marcial, distância",
+            "marcial",
+            "distância",
             "arma"
         ],
         "valor": 600,
@@ -702,7 +739,8 @@
         "id": 37,
         "nome": "Besta de Mão",
         "tipo": [
-            "marcial, distância",
+            "marcial",
+            "distância",
             "arma"
         ],
         "valor": 75,
@@ -722,7 +760,8 @@
         "id": 38,
         "nome": "Besta Pesada",
         "tipo": [
-            "marcial, distância",
+            "marcial",
+            "distância",
             "arma"
         ],
         "valor": 50,
@@ -743,7 +782,8 @@
         "id": 39,
         "nome": "Mosquete",
         "tipo": [
-            "marcial, distância",
+            "marcial",
+            "distância",
             "arma"
         ],
         "valor": 500,
@@ -764,7 +804,8 @@
         "id": 40,
         "nome": "Pistola",
         "tipo": [
-            "marcial, distância",
+            "marcial",
+            "distância",
             "arma"
         ],
         "valor": 250,
@@ -784,12 +825,13 @@
         "id": 41,
         "nome": "Rede",
         "tipo": [
-            "marcial, distância",
+            "marcial",
+            "distância",
             "arma"
         ],
         "valor": 1,
         "dano": {
-            "dado": "-x-"
+            "dado": ""
         },
         "peso": "1,5kg",
         "propriedades": [
@@ -802,7 +844,8 @@
         "id": 42,
         "nome": "Zarabatana",
         "tipo": [
-            "marcial, distância",
+            "marcial",
+            "distância",
             "arma"
         ],
         "valor": 10,
