@@ -103,8 +103,8 @@ export default function ListPage({ data, title, type }) {
     propriedades: primeiroItem.propriedades,
     peso: primeiroItem.peso,
     forca: primeiroItem.forca,
-    ca: primeiroItem.ca
-  })
+    ca: primeiroItem.ca,
+    furtividade: primeiroItem.furtividade
 
   const changeItemDetails = (item) => {
     nome = item.nome;
@@ -135,7 +135,8 @@ export default function ListPage({ data, title, type }) {
       propriedades: item.propriedades,
       peso: item.peso,
       forca: item.forca,
-      ca: item.ca
+      ca: item.ca,
+      furtividade: item.furtividade
     })
   }
 
@@ -186,6 +187,9 @@ export default function ListPage({ data, title, type }) {
               )}
               {details.ca && (
                 <p>CA: {details.ca}</p>
+              )}
+              {details.furtividade && (
+                <p>Furtividade: Desvantagem</p>
               )}
               {details.propriedades && (
                 <>
