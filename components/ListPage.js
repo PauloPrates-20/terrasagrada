@@ -105,7 +105,6 @@ export default function ListPage({ data, title, type }) {
     forca: primeiroItem.forca,
     ca: primeiroItem.ca,
     furtividade: primeiroItem.furtividade
-  })
 
   const changeItemDetails = (item) => {
     nome = item.nome;
