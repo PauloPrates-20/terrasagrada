@@ -1,7 +1,8 @@
 .search_bar {
-    width: 100%;
+    width: 80%;
     height: 2.5em;
     border: solid 1px var(--title-color);
     border-radius: 5px;
     color: #333;
+    margin: 1em auto;
 }

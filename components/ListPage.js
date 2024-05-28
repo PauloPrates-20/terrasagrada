@@ -172,11 +172,10 @@ export default function ListPage({ data, title, type }) {
   }
 
   return (
-    <div className={styles.global_container}>
-      <SearchBar eventHandler={filtrarItens} />
       <div className={styles.main_container}>
       <div className={styles.half_screen}>
         <h1>{title}</h1>
+        <SearchBar eventHandler={filtrarItens} />
         <div className={styles.list_container}>
           {infoLista.map((content) => (
             <ContentList key={content.id} content={content.docData} raridade={normalizarTexto(content.raridade)} type={type} tipoItem={content.tipo} clickHandler={changeItemDetails} />
@@ -264,7 +263,6 @@ export default function ListPage({ data, title, type }) {
         </div>
         <a target='_blank' href={details.url}>Detalhes</a>
       </div>
-    </div>
     </div>
   );
 }
