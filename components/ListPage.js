@@ -1,6 +1,7 @@
 import { useState } from 'react'
 
 import ContentList from './ContentList'
+import SearchBar from './SearchBar';
 
 import styles from '@/styles/ListPage.module.css'
 
@@ -67,6 +68,7 @@ const itemTypes = {
 export default function ListPage({ data, title, type }) {
   const primeiroItem = data[0].docData[0]
 
+  const [infoLista, setInfoLista] = useState(data);
 
   let tier = '';
   if (primeiroItem.raridade) {
@@ -141,12 +143,42 @@ export default function ListPage({ data, title, type }) {
     })
   }
 
+  const filtrarItens = (pesquisa) => {
+    let itensFiltrados = []
+
+    if (primeiroItem.nome.portugues) {
+      itensFiltrados = data.map(dataSet => {
+        return {
+          ...dataSet,
+          docData: dataSet.docData.filter(item => 
+            item.nome.portugues.toLowerCase().includes(pesquisa.toLowerCase()) ||
+            item.nome.original.toLowerCase().includes(pesquisa.toLowerCase()) ||
+            item.valor.toString().includes(pesquisa)
+          )
+        }
+      });
+    } else {
+      itensFiltrados = data.map(dataSet => {
+        return {
+          ...dataSet,
+          docData: dataSet.docData.filter(item => 
+            item.nome.toLowerCase().includes(pesquisa.toLowerCase()) ||
+            item.valor.toString().includes(pesquisa)
+        )}
+      });
+    }
+
+    setInfoLista(itensFiltrados);
+  }
+
   return (
-    <div className={styles.main_container}>
+    <div className={styles.global_container}>
+      <SearchBar eventHandler={filtrarItens} />
+      <div className={styles.main_container}>
       <div className={styles.half_screen}>
         <h1>{title}</h1>
         <div className={styles.list_container}>
-          {data.map((content) => (
+          {infoLista.map((content) => (
             <ContentList key={content.id} content={content.docData} raridade={normalizarTexto(content.raridade)} type={type} tipoItem={content.tipo} clickHandler={changeItemDetails} />
           ))}
         </div>
@@ -233,5 +265,6 @@ export default function ListPage({ data, title, type }) {
         <a target='_blank' href={details.url}>Detalhes</a>
       </div>
     </div>
-  )
+    </div>
+  );
 }
