@@ -1,5 +1,4 @@
 import Image from 'next/image';
-import Link from 'next/link'
 import Dropdown from './Dropdown';
 
 export default function Navbar() {
@@ -11,18 +10,18 @@ export default function Navbar() {
 			<div
 				className='absolute right-0'
 			>
-				<Link
+				<a
 					href='/'
-					className='flex justify-center items-center py-0 px-3 no-underline text-textColor'
+					className='flex justify-center items-center py-0 px-3 no-underline text-textColor select-none'
 				>
-					<p className='mr-2 select-none'>Terra Sagrada</p>
+					<p className='mr-2'>Terra Sagrada</p>
 					<Image 
 						src={'/images/d20.png'}
 						alt=''
 						width={30}
 						height={30}
 					/>
-				</Link>
+				</a>
 			</div>
 		</header>
 	);
