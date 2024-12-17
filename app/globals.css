@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+	.isChecked {
+		max-height: 36rem;
+		visibility: visible;
+		transition: all ease-out 0.2s;
+		opacity: 1;
+	}
+
+	.notChecked {
+		display: none;
+	}
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url('/images/bg.jpg');
+}
+
+svg {
+	display: inline-block;
+}

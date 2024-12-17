@@ -1,0 +1,542 @@
+[
+    {
+        "id": 0,
+        "description": "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.\nIf the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 10. On a failed check, the spell disappears from the scroll with no other effect.\nOnce the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.\nA spell cast from this scroll has a save DC of 13 and an attack bonus of +5.",
+        "name": "Spell Scroll (Cantrip)",
+        "rarity": "Common",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p199"
+        },
+        "url": "https://2014.5e.tools/items.html#spell%20scroll%20(cantrip)_dmg",
+        "value": 50
+    },
+    {
+        "id": 1,
+        "description": "This small metal disk is inscribed with the image of a feather. When you fall at least 20 feet while the token is on your person, you descend 60 feet per round and take no damage from falling. The token's magic is expended after you land, whereupon the disk becomes nonmagical.",
+        "name": "Feather Token",
+        "rarity": "Common",
+        "source": {
+            "initials": "ERLW",
+            "name": "Eberron: Rising from the Last War, p277"
+        },
+        "url": "https://2014.5e.tools/items.html#feather%20token_erlw",
+        "value": 100
+    },
+    {
+        "id": 2,
+        "description": "This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.",
+        "name": "Alchemist's Fire (Flask)",
+        "rarity": "Common",
+        "source": {
+            "initials": "PHB",
+            "name": "Player's Handbook, p148"
+        },
+        "url": "https://2014.5e.tools/items.html#alchemist's%20fire%20(flask)_phb",
+        "value": 50
+    },
+    {
+        "id": 3,
+        "description": "When you drink this potion, you gain a climbing speed equal to your walking speed for 1 hour. During this time, you have advantage on Strength (Athletics) checks you make to climb. The potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.",
+        "name": "Potion of Climbing",
+        "rarity": "Common",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p187"
+        },
+        "url": "https://2014.5e.tools/items.html#potion%20of%20climbing_dmg",
+        "value": 30
+    },
+    {
+        "id": 4,
+        "description": "You regain 2d4 + 2 hit points when you drink this potion. The potion's red liquid glimmers when agitated.",
+        "name": "Potion of Healing",
+        "rarity": "Common",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p187"
+        },
+        "url": "https://2014.5e.tools/items.html#potion%20of%20healing_dmg",
+        "value": 50
+    },
+    {
+        "id": 5,
+        "description": "This ammunition packs a wallop. A creature hit by the ammunition must succeed on a DC 10 Strength saving throw or be knocked prone.",
+        "name": "Walloping Ammunition (Each)",
+        "rarity": "Common",
+        "source": {
+            "initials": "XGE",
+            "name": "Xanathar's Guide to Everything, p139"
+        },
+        "url": "https://2014.5e.tools/items.html#walloping%20ammunition_xge",
+        "value": 3
+    },
+    {
+        "id": 6,
+        "description": "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.\nIf the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 11. On a failed check, the spell disappears from the scroll with no other effect.\nOnce the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.\nA spell cast from this scroll has a save DC of 13 and an attack bonus of +5.\nA wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on a DC 11 Intelligence (Arcana) check. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.",
+        "name": "Spell Scroll (1st Level)",
+        "rarity": "Common",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p200"
+        },
+        "url": "https://2014.5e.tools/items.html#spell%20scroll%20(1st%20level)_dmg",
+        "value": 100
+    },
+    {
+        "id": 7,
+        "description": "This tiny vial contains magic perfume, enough for one use. You can use an action to apply the perfume to yourself, and its effect lasts 1 hour. For the duration, you have advantage on all Charisma checks directed at humanoids of challenge rating 1 or lower. Those subjected to the perfume's effect are not aware that they've been influenced by magic.",
+        "name": "Perfume of Bewitching",
+        "rarity": "Common",
+        "source": {
+            "initials": "XGE",
+            "name": "Xanathar's Guide to Everything, p138"
+        },
+        "url": "https://2014.5e.tools/items.html#perfume%20of%20bewitching_xge",
+        "value": 100
+    },
+    {
+        "id": 8,
+        "description": "You can use an action to blow this pearlescent conch like a horn, creating an effect identical with that of a Leomund's tiny hut spell. The conch disappears once the spell takes effect. The effect ends if you leave the spell's area.",
+        "name": "Conch of Safe Rest",
+        "rarity": "Uncommon",
+        "source": {
+            "initials": "TTP",
+            "name": "The Tortle Package, p17"
+        },
+        "url": "https://2014.5e.tools/items.html#conch%20of%20safe%20rest_ttp",
+        "value": 300
+    },
+    {
+        "id": 9,
+        "description": "When you drink this potion, you can cast the animal friendship spell (save DC 13) for 1 hour at will. Agitating this muddy liquid brings little bits into view: a fish scale, a hummingbird tongue, a cat claw, or a squirrel hair.",
+        "name": "Potion of Animal Friendship",
+        "rarity": "Uncommon",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p187"
+        },
+        "url": "https://2014.5e.tools/items.html#potion%20of%20animal%20friendship_dmg",
+        "value": 75
+    },
+    {
+        "id": 10,
+        "description": "This concoction looks, smells, and tastes like a potion of healing or other beneficial potion. However, it is actually poison masked by illusion magic. An identify spell reveals its true nature.\nIf you drink it, you take 3d6 poison damage, and you must succeed on a DC 13 Constitution saving throw or be poisoned. At the start of each of your turns while you are poisoned in this way, you take 3d6 poison damage. At the end of each of your turns, you can repeat the saving throw. On a successful save, the poison damage you take on your subsequent turns decreases by 1d6. The poison ends when the damage decreases to 0.",
+        "name": "Potion of Poison",
+        "rarity": "Uncommon",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p188"
+        },
+        "url": "https://2014.5e.tools/items.html#potion%20of%20poison_dmg",
+        "value": 100
+    },
+    {
+        "id": 11,
+        "description": "When you drink this potion, you gain resistance to one damage type for 1 hour.",
+        "name": "Potion of Resistance",
+        "rarity": "Uncommon",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p188"
+        },
+        "url": "https://2014.5e.tools/items.html#potion%20of%20resistance_dmg",
+        "value": 100
+    },
+    {
+        "id": 12,
+        "description": "After drinking this potion, you can use a bonus action to exhale fire at a target within 30 feet of you. The target must make a DC 13 Dexterity saving throw, taking 4d6 fire damage on a failed save, or half as much damage on a successful one. The effect ends after you exhale the fire three times or when 1 hour has passed. This potion's orange liquid flickers, and smoke fills the top of the container and wafts out whenever it is opened.",
+        "name": "Potion of Fire Breath",
+        "rarity": "Uncommon",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p187"
+        },
+        "url": "https://2014.5e.tools/items.html#potion%20of%20fire%20breath_dmg",
+        "value": 100
+    },
+    {
+        "id": 13,
+        "description": "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.\nIf the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 12. On a failed check, the spell disappears from the scroll with no other effect.\nOnce the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.\nA spell cast from this scroll has a save DC of 13 and an attack bonus of +5.\nA wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on a DC 12 Intelligence (Arcana) check. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.",
+        "name": "Spell Scroll (2nd Level)",
+        "rarity": "Uncommon",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p201"
+        },
+        "url": "https://2014.5e.tools/items.html#spell%20scroll%20(2nd%20level)_dmg",
+        "value": 250
+    },
+    {
+        "id": 14,
+        "description": "When you drink this potion, you gain the \"enlarge\" effect of the enlarge/reduce spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process.",
+        "name": "Potion of Growth",
+        "rarity": "Uncommon",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p187"
+        },
+        "url": "https://2014.5e.tools/items.html#potion%20of%20growth_dmg",
+        "value": 200
+    },
+    {
+        "id": 15,
+        "description": "You regain 4d4 + 4 hit points when you drink this potion. The potion's red liquid glimmers when agitated.",
+        "name": "Potion of Greater Healing",
+        "rarity": "Uncommon",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p187"
+        },
+        "url": "https://2014.5e.tools/items.html#potion%20of%20greater%20healing_dmg",
+        "value": 150
+    },
+    {
+        "id": 16,
+        "description": "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.\nIf the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 13. On a failed check, the spell disappears from the scroll with no other effect.\nOnce the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.\nA spell cast from this scroll has a save DC of 15 and an attack bonus of +7.\nA wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on a DC 13 Intelligence (Arcana) check. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.",
+        "name": "Spell Scroll (3rd Level)",
+        "rarity": "Uncommon",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p202"
+        },
+        "url": "https://2014.5e.tools/items.html#spell%20scroll%20(3rd%20level)_dmg",
+        "value": 350
+    },
+    {
+        "id": 17,
+        "description": "This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of a freedom of movement spell for 8 hours.\nAlternatively, the oil can be poured on the ground as an action, where it covers a 10-foot square, duplicating the effect of the grease spell in that area for 8 hours.",
+        "name": "Oil of Slipperiness",
+        "rarity": "Uncommon",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p184"
+        },
+        "url": "https://2014.5e.tools/items.html#oil%20of%20slipperiness_dmg",
+        "value": 300
+    },
+    {
+        "id": 18,
+        "description": "You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.",
+        "name": "+1 Ammunition (Each)",
+        "rarity": "Uncommon",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p150"
+        },
+        "url": "https://2014.5e.tools/items.html#%2b1%20ammunition_dmg",
+        "value": 10
+    },
+    {
+        "id": 19,
+        "description": "You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.",
+        "name": "Potion of Water Breathing",
+        "rarity": "Uncommon",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p188"
+        },
+        "url": "https://2014.5e.tools/items.html#potion%20of%20water%20breathing_dmg",
+        "value": 50
+    },
+    {
+        "id": 20,
+        "description": "The next time you see a creature within 10 minutes after drinking this philter, you become charmed by that creature for 1 hour. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed. This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart.",
+        "name": "Philter of Lover",
+        "rarity": "Uncommon",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p184"
+        },
+        "url": "https://2014.5e.tools/items.html#philter%20of%20love_dmg",
+        "value": 100
+    },
+    {
+        "id": 21,
+        "description": "This gem contains a mote of elemental energy. When you use an action to break the gem, an elemental is summoned as if you had cast the conjure elemental spell, and the gem's magic is lost.",
+        "name": "Elemental Gem",
+        "rarity": "Uncommon",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p167"
+        },
+        "url": "https://2014.5e.tools/items.html#elemental%20gem_dmg",
+        "value": 900
+    },
+    {
+        "id": 22,
+        "description": "You have a +2 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.",
+        "name": "+2 Ammunition (Each)",
+        "rarity": "Rare",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p150"
+        },
+        "url": "https://2014.5e.tools/items.html#%2b2%20ammunition_dmg",
+        "value": 25
+    },
+    {
+        "id": 23,
+        "description": "When you drink this potion, it cures any disease afflicting you, and it removes the blinded, deafened, paralyzed, and poisoned conditions. The clear red liquid has tiny bubbles of light in it.",
+        "name": "Elixir of Health",
+        "rarity": "Rare",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p168"
+        },
+        "url": "https://2014.5e.tools/items.html#elixir%20of%20health_dmg",
+        "value": 300
+    },
+    {
+        "id": 24,
+        "description": "When you drink this potion, you gain the \"reduce\" effect of the enlarge/reduce spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it. Shaking the bottle fails to interrupt this process.",
+        "name": "Potion of Diminution",
+        "rarity": "Rare",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p187"
+        },
+        "url": "https://2014.5e.tools/items.html#potion%20of%20diminution_dmg",
+        "value": 100
+    },
+    {
+        "id": 25,
+        "description": "When you drink this potion, you gain the effect of the detect thoughts spell (save DC 13). The potion's dense, purple liquid has an ovoid cloud of pink floating in it.",
+        "name": "Potion of Mind Reading",
+        "rarity": "Rare",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p188"
+        },
+        "url": "https://2014.5e.tools/items.html#potion%20of%20mind%20reading_dmg",
+        "value": 150
+    },
+    {
+        "id": 26,
+        "description": "For 1 minute after you drink this potion, you have resistance to all damage. The potion's syrupy liquid looks like liquefied iron.",
+        "name": "Potion of Invulnerability",
+        "rarity": "Rare",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p188"
+        },
+        "url": "https://2014.5e.tools/items.html#potion%20of%20invulnerability_dmg",
+        "value": 1600
+    },
+    {
+        "id": 27,
+        "description": "Using an action to read the scroll encloses you in an invisible barrier that extends from you to form a 5-foot-radius, 10-foot-high cylinder. For 5 minutes, this barrier prevents a creature type from entering or affecting anything within the cylinder. The cylinder moves with you and remains centered on you. However, if you move in such a way that the creature would be inside the cylinder, the effect ends. A creature can attempt to overcome the barrier by using an action to make a DC 15 Charisma check. On a success, the creature ceases to be affected by the barrier.",
+        "name": "Scroll of Protection",
+        "rarity": "Rare",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p199"
+        },
+        "url": "https://2014.5e.tools/items.html#scroll%20of%20protection_dmg",
+        "value": 300
+    },
+    {
+        "id": 28,
+        "description": "When you drink this potion, it removes any exhaustion you are suffering and cures any disease or poison affecting you. For the next 24 hours, you regain the maximum number of hit points for any Hit Die you spend. The potion's crimson liquid regularly pulses with dull light, calling to mind a heartbeat.",
+        "name": "Potion of Vitality",
+        "rarity": "Rare",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p188"
+        },
+        "url": "https://2014.5e.tools/items.html#potion%20of%20vitality_dmg",
+        "value": 300
+    },
+    {
+        "id": 29,
+        "description": "When you drink this potion, you gain the effect of the gaseous form spell for 1 hour (no concentration required) or until you end the effect as a bonus action. This potion's container seems to hold fog that moves and pours like water.",
+        "name": "Potion of Gaseous Form",
+        "rarity": "Rare",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p187"
+        },
+        "url": "https://2014.5e.tools/items.html#potion%20of%20gaseous%20form_dmg",
+        "value": 400
+    },
+    {
+        "id": 30,
+        "description": "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.\nIf the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 14. On a failed check, the spell disappears from the scroll with no other effect.\nOnce the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.\nA spell cast from this scroll has a save DC of 15 and an attack bonus of +7.\nA wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on a DC 14 Intelligence (Arcana) check. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.",
+        "name": "Spell Scroll (4th Level)",
+        "rarity": "Rare",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p203"
+        },
+        "url": "https://2014.5e.tools/items.html#spell%20scroll%20(4th%20level)_dmg",
+        "value": 450
+    },
+    {
+        "id": 31,
+        "description": "When you drink this potion, you gain the effect of the clairvoyance spell. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened.",
+        "name": "Potion of Clairvoyance",
+        "rarity": "Rare",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p187"
+        },
+        "url": "https://2014.5e.tools/items.html#potion%20of%20clairvoyance_dmg",
+        "value": 400
+    },
+    {
+        "id": 32,
+        "description": "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.\nIf the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 15. On a failed check, the spell disappears from the scroll with no other effect.\nOnce the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.\nA spell cast from this scroll has a save DC of 17 and an attack bonus of +9.\nA wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on a DC 15 Intelligence (Arcana) check. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.",
+        "name": "Spell Scroll (5th Level)",
+        "rarity": "Rare",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p204"
+        },
+        "url": "https://2014.5e.tools/items.html#spell%20scroll%20(5th%20level)_dmg",
+        "value": 800
+    },
+    {
+        "id": 33,
+        "description": "For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the bless spell (no concentration required). This blue potion bubbles and steams as if boiling.",
+        "name": "Potion of Heroism",
+        "rarity": "Rare",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p188"
+        },
+        "url": "https://2014.5e.tools/items.html#potion%20of%20heroism_dmg",
+        "value": 400
+    },
+    {
+        "id": 34,
+        "description": "You regain 8d4 + 8 hit points when you drink this potion. The potion's red liquid glimmers when agitated.",
+        "name": "Potion of Superior Healing",
+        "rarity": "Rare",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p187"
+        },
+        "url": "https://2014.5e.tools/items.html#potion%20of%20superior%20healing_dmg",
+        "value": 500
+    },
+    {
+        "id": 35,
+        "description": "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.\nIf the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 16. On a failed check, the spell disappears from the scroll with no other effect.\nOnce the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.\nA spell cast from this scroll has a save DC of 17 and an attack bonus of +9.\nA wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on a DC 16 Intelligence (Arcana) check. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.",
+        "name": "Spell Scroll (6th Level)",
+        "rarity": "Very Rare",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p205"
+        },
+        "url": "https://2014.5e.tools/items.html#spell%20scroll%20(6th%20level)_dmg",
+        "value": 1200
+    },
+    {
+        "id": 36,
+        "description": "You regain 10d4 + 20 hit points when you drink this potion. The potion's red liquid glimmers when agitated.",
+        "name": "Potion of Supreme Healing",
+        "rarity": "Very Rare",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p187"
+        },
+        "url": "https://2014.5e.tools/items.html#potion%20of%20supreme%20healing_dmg",
+        "value": 1500
+    },
+    {
+        "id": 37,
+        "description": "This potion's container looks empty but feels as though it holds liquid. When you drink it, you become invisible for 1 hour. Anything you wear or carry is invisible with you. The effect ends early if you attack or cast a spell.",
+        "name": "Potion of Invisibility",
+        "rarity": "Very Rare",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p188"
+        },
+        "url": "https://2014.5e.tools/items.html#potion%20of%20invisibility_dmg",
+        "value": 300
+    },
+    {
+        "id": 38,
+        "description": "You have a +3 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.",
+        "name": "+3 Ammunition (Each)",
+        "rarity": "Very Rare",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p150"
+        },
+        "url": "https://2014.5e.tools/items.html#%2b3%20ammunition_dmg",
+        "value": 40
+    },
+    {
+        "id": 39,
+        "description": "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.\nIf the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 17. On a failed check, the spell disappears from the scroll with no other effect.\nOnce the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.\nA spell cast from this scroll has a save DC of 18 and an attack bonus of +10.\nA wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on a DC 17 Intelligence (Arcana) check. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.",
+        "name": "Spell Scroll (7th Level)",
+        "rarity": "Very Rare",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p206"
+        },
+        "url": "https://2014.5e.tools/items.html#spell%20scroll%20(7th%20level)_dmg",
+        "value": 1800
+    },
+    {
+        "id": 40,
+        "description": "When you drink this potion, you gain the effect of the haste spell for 1 minute (no concentration required). The potion's yellow fluid is streaked with black and swirls on its own.",
+        "name": "Potion of Speed",
+        "rarity": "Very Rare",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p188"
+        },
+        "url": "https://2014.5e.tools/items.html#potion%20of%20speed_dmg",
+        "value": 1000
+    },
+    {
+        "id": 41,
+        "description": "When you drink this potion, you gain a flying speed equal to your walking speed for 1 hour and can hover. If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft. This potion's clear liquid floats at the top of its container and has cloudy white impurities drifting in it.",
+        "name": "Potion of Flying",
+        "rarity": "Very Rare",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p187"
+        },
+        "url": "https://2014.5e.tools/items.html#potion%20of%20flying_dmg",
+        "value": 1000
+    },
+    {
+        "id": 42,
+        "description": "An arrow of slaying is a magic weapon meant to slay a particular kind of creature. Some are more focused than others; for example, there are both arrows of dragon slaying and arrows of blue dragon slaying. If a creature belonging to the type, race, or group associated with an arrow of slaying takes damage from the arrow, the creature must make a DC 17 Constitution saving throw, taking an extra 6d10 piercing damage on a failed save, or half as much extra damage on a successful one.\nOnce an arrow of slaying deals its extra damage to a creature, it becomes a nonmagical arrow.\nOther types of magic ammunition of this kind exist, such as bolts of slaying meant for a crossbow, though arrows are most common.",
+        "name": "Arrow of Slaying",
+        "rarity": "Very Rare",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p152"
+        },
+        "url": "https://2014.5e.tools/items.html#arrow%20of%20slaying%20(*)_dmg",
+        "value": 600
+    },
+    {
+        "id": 43,
+        "description": "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.\nIf the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 18. On a failed check, the spell disappears from the scroll with no other effect.\nOnce the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.\nA spell cast from this scroll has a save DC of 18 and an attack bonus of +10.\nA wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on a DC 18 Intelligence (Arcana) check. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.",
+        "name": "Spell Scroll (8th Level)",
+        "rarity": "Lengedary",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p207"
+        },
+        "url": "https://2014.5e.tools/items.html#spell%20scroll%20(8th%20level)_dmg",
+        "value": 5000
+    },
+    {
+        "id": 44,
+        "description": "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.\nIf the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 19. On a failed check, the spell disappears from the scroll with no other effect.\nOnce the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.\nA spell cast from this scroll has a save DC of 19 and an attack bonus of +11.\nA wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on a DC 19 Intelligence (Arcana) check. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.",
+        "name": "Spell Scroll (9th Level)",
+        "rarity": "Lengedary",
+        "source": {
+            "initials": "DMG",
+            "name": "Dungeon Master's Guide, p208"
+        },
+        "url": "https://2014.5e.tools/items.html#spell%20scroll%20(9th%20level)_dmg",
+        "value": 10000
+    }
+]

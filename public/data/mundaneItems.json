@@ -1,0 +1,1293 @@
+[
+    {
+        "id": 0,
+        "name": "Dagger",
+        "type": [
+            "simple",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#dagger_phb",
+        "value": 2,
+        "weight": "1 lb",
+        "damage": {
+            "dice": "1d4",
+            "type": "piercing"
+        },
+        "properties": [
+            {
+                "description": "When making an attack with a Finesse weapon, use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
+                "name": "Finesse"
+            },
+            {
+                "description": "A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.",
+                "name": "Light"
+            },
+            {
+                "description": "If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.",
+                "name": "Thrown"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Javelin",
+        "type": [
+            "simple",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#javelin_phb",
+        "value": 5,
+        "weight": "2 lb",
+        "damage": {
+            "dice": "1d6",
+            "type": "piercing"
+        },
+        "properties": [
+            {
+                "description": "If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.",
+                "name": "Thrown"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Quarterstaff",
+        "type": [
+            "simple",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#quarterstaff_phb",
+        "value": 2,
+        "weight": "4 lb",
+        "damage": {
+            "dice": "1d6",
+            "type": "bludgeoning"
+        },
+        "properties": [
+            {
+                "description": "This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack.",
+                "name": "Versatile"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Greatclub",
+        "type": [
+            "simple",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#greatclub_phb",
+        "value": 2,
+        "weight": "10 lb",
+        "damage": {
+            "dice": "1d8",
+            "type": "bludgeoning"
+        },
+        "properties": [
+            {
+                "description": "Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively.",
+                "name": "Heavy"
+            },
+            {
+                "description": "A Two-Handed weapon requires two hands when you attack with it.",
+                "name": "Two-Handed"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Sickle",
+        "type": [
+            "simple",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#sickle_phb",
+        "value": 1,
+        "weight": "2 lb",
+        "damage": {
+            "dice": "1d4",
+            "type": "slashing"
+        },
+        "properties": [
+            {
+                "description": "A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.",
+                "name": "Light"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Spear",
+        "type": [
+            "simple",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#spear_phb",
+        "value": 1,
+        "weight": "3 lb",
+        "damage": {
+            "dice": "1d6",
+            "type": "piercing"
+        },
+        "properties": [
+            {
+                "description": "If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.",
+                "name": "Thrown"
+            },
+            {
+                "description": "This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack.",
+                "name": "Versatile"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Mace",
+        "type": [
+            "simple",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#mace_phb",
+        "value": 5,
+        "weight": "4 lb",
+        "damage": {
+            "dice": "1d6",
+            "type": "bludgeoning"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Handaxe",
+        "type": [
+            "simple",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#handaxe_phb",
+        "value": 5,
+        "weight": "2 lb",
+        "damage": {
+            "dice": "1d6",
+            "type": "slashing"
+        },
+        "properties": [
+            {
+                "description": "A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.",
+                "name": "Light"
+            },
+            {
+                "description": "If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.",
+                "name": "Thrown"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Light Hammer",
+        "type": [
+            "simple",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#light%20hammer_phb",
+        "value": 2,
+        "weight": "2 lb",
+        "damage": {
+            "dice": "1d4",
+            "type": "bludgeoning"
+        },
+        "properties": [
+            {
+                "description": "A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.",
+                "name": "Light"
+            },
+            {
+                "description": "If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.",
+                "name": "Thrown"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Club",
+        "type": [
+            "simple",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#club_phb",
+        "value": 1,
+        "weight": "2 lb",
+        "damage": {
+            "dice": "1d4",
+            "type": "bludgeoning"
+        },
+        "properties": [
+            {
+                "description": "A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.",
+                "name": "Light"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Yklwa",
+        "type": [
+            "simple",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#yklwa_toa",
+        "value": 1,
+        "weight": "3 lb",
+        "damage": {
+            "dice": "1d8",
+            "type": "piercing"
+        },
+        "properties": [
+            {
+                "description": "If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.",
+                "name": "Thrown"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Shortbow",
+        "type": [
+            "simple",
+            "ranged",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#shortbow_phb",
+        "value": 25,
+        "weight": "2 lb",
+        "damage": {
+            "dice": "1d6",
+            "type": "piercing"
+        },
+        "properties": [
+            {
+                "description": "You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
+                "name": "Ammunition"
+            },
+            {
+                "description": "A Two-Handed weapon requires two hands when you attack with it.",
+                "name": "Two-Handed"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Light Crossbow",
+        "type": [
+            "simple",
+            "ranged",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#light%20crossbow_phb",
+        "value": 25,
+        "weight": "5 lb",
+        "damage": {
+            "dice": "1d8",
+            "type": "piercing"
+        },
+        "properties": [
+            {
+                "description": "You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
+                "name": "Ammunition"
+            },
+            {
+                "description": "A Two-Handed weapon requires two hands when you attack with it.",
+                "name": "Two-Handed"
+            },
+            {
+                "description": "Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.",
+                "name": "Loading"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Light Repeating Crossbow",
+        "type": [
+            "simple",
+            "ranged",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#light%20repeating%20crossbow_oota",
+        "value": 50,
+        "weight": "5 lb",
+        "damage": {
+            "dice": "1d8",
+            "type": "piercing"
+        },
+        "properties": [
+            {
+                "description": "You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
+                "name": "Ammunition"
+            },
+            {
+                "description": "A Two-Handed weapon requires two hands when you attack with it.",
+                "name": "Two-Handed"
+            },
+            {
+                "description": "",
+                "name": "Special"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Dart",
+        "type": [
+            "simple",
+            "ranged",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#dart_phb",
+        "value": 5,
+        "weight": "0,25 lb",
+        "damage": {
+            "dice": "1d4",
+            "type": "piercing"
+        },
+        "properties": [
+            {
+                "description": "When making an attack with a Finesse weapon, use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
+                "name": "Finesse"
+            },
+            {
+                "description": "If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.",
+                "name": "Thrown"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Sling",
+        "type": [
+            "simple",
+            "ranged",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#sling_phb",
+        "value": 1,
+        "weight": "",
+        "damage": {
+            "dice": "1d4",
+            "type": "bludgeoning"
+        },
+        "properties": [
+            {
+                "description": "You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
+                "name": "Ammunition"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Halberd",
+        "type": [
+            "martial",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#halberd_phb",
+        "value": 20,
+        "weight": "6 lb",
+        "damage": {
+            "dice": "1d10",
+            "type": "slashing"
+        },
+        "properties": [
+            {
+                "description": "Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively.",
+                "name": "Heavy"
+            },
+            {
+                "description": "A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for Opportunity Attacks with it.",
+                "name": "Reach"
+            },
+            {
+                "description": "A Two-Handed weapon requires two hands when you attack with it.",
+                "name": "Two-Handed"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Scimitar",
+        "type": [
+            "martial",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#scimitar_phb",
+        "value": 25,
+        "weight": "3 lb",
+        "damage": {
+            "dice": "1d6",
+            "type": "slashing"
+        },
+        "properties": [
+            {
+                "description": "When making an attack with a Finesse weapon, use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
+                "name": "Finesse"
+            },
+            {
+                "description": "A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.",
+                "name": "Light"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Double-Bladed Scimitar",
+        "type": [
+            "martial",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#double-bladed%20scimitar_erlw",
+        "value": 100,
+        "weight": "6 lb",
+        "damage": {
+            "dice": "2d4",
+            "type": "slashing"
+        },
+        "properties": [
+            {
+                "description": "A Two-Handed weapon requires two hands when you attack with it.",
+                "name": "Two-Handed"
+            },
+            {
+                "description": "",
+                "name": "Special"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Whip",
+        "type": [
+            "martial",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#whip_phb",
+        "value": 2,
+        "weight": "3 lb",
+        "damage": {
+            "dice": "1d4",
+            "type": "slashing"
+        },
+        "properties": [
+            {
+                "description": "When making an attack with a Finesse weapon, use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
+                "name": "Finesse"
+            },
+            {
+                "description": "A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for Opportunity Attacks with it.",
+                "name": "Reach"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Shortsword",
+        "type": [
+            "martial",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#shortsword_phb",
+        "value": 10,
+        "weight": "2 lb",
+        "damage": {
+            "dice": "1d6",
+            "type": "piercing"
+        },
+        "properties": [
+            {
+                "description": "When making an attack with a Finesse weapon, use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
+                "name": "Finesse"
+            },
+            {
+                "description": "A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.",
+                "name": "Light"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Greatsword",
+        "type": [
+            "martial",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#greatsword_phb",
+        "value": 50,
+        "weight": "6 lb",
+        "damage": {
+            "dice": "2d6",
+            "type": "slashing"
+        },
+        "properties": [
+            {
+                "description": "Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively.",
+                "name": "Heavy"
+            },
+            {
+                "description": "A Two-Handed weapon requires two hands when you attack with it.",
+                "name": "Two-Handed"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Longsword",
+        "type": [
+            "martial",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#longsword_phb",
+        "value": 15,
+        "weight": "3 lb",
+        "damage": {
+            "dice": "1d8",
+            "type": "slashing"
+        },
+        "properties": [
+            {
+                "description": "This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack.",
+                "name": "Versatile"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Glaive",
+        "type": [
+            "martial",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#glaive_phb",
+        "value": 20,
+        "weight": "6 lb",
+        "damage": {
+            "dice": "1d10",
+            "type": "slashing"
+        },
+        "properties": [
+            {
+                "description": "Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively.",
+                "name": "Heavy"
+            },
+            {
+                "description": "A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for Opportunity Attacks with it.",
+                "name": "Reach"
+            },
+            {
+                "description": "A Two-Handed weapon requires two hands when you attack with it.",
+                "name": "Two-Handed"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Hooked Shortspear",
+        "type": [
+            "martial",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#hooked%20shortspear_oota",
+        "value": 100,
+        "weight": "2 lb",
+        "damage": {
+            "dice": "1d4",
+            "type": "piercing"
+        },
+        "properties": [
+            {
+                "description": "A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.",
+                "name": "Light"
+            },
+            {
+                "description": "On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.",
+                "name": "Special"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Lance",
+        "type": [
+            "martial",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#lance_phb",
+        "value": 10,
+        "weight": "6 lb",
+        "damage": {
+            "dice": "1d12",
+            "type": "piercing"
+        },
+        "properties": [
+            {
+                "description": "A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for Opportunity Attacks with it.",
+                "name": "Reach"
+            },
+            {
+                "description": "You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.",
+                "name": "Special"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Pike",
+        "type": [
+            "martial",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#pike_phb",
+        "value": 5,
+        "weight": "18 lb",
+        "damage": {
+            "dice": "1d10",
+            "type": "piercing"
+        },
+        "properties": [
+            {
+                "description": "Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively.",
+                "name": "Heavy"
+            },
+            {
+                "description": "A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for Opportunity Attacks with it.",
+                "name": "Reach"
+            },
+            {
+                "description": "A Two-Handed weapon requires two hands when you attack with it.",
+                "name": "Two-Handed"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Morningstar",
+        "type": [
+            "martial",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#morningstar_phb",
+        "value": 15,
+        "weight": "4 lb",
+        "damage": {
+            "dice": "1d8",
+            "type": "piercing"
+        }
+    },
+    {
+        "id": 28,
+        "name": "Greataxe",
+        "type": [
+            "martial",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#greataxe_phb",
+        "value": 30,
+        "weight": "7 lb",
+        "damage": {
+            "dice": "1d12",
+            "type": "slashing"
+        },
+        "properties": [
+            {
+                "description": "Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively.",
+                "name": "Heavy"
+            },
+            {
+                "description": "A Two-Handed weapon requires two hands when you attack with it.",
+                "name": "Two-Handed"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Battleaxe",
+        "type": [
+            "martial",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#battleaxe_phb",
+        "value": 10,
+        "weight": "4 lb",
+        "damage": {
+            "dice": "1d8",
+            "type": "slashing"
+        },
+        "properties": [
+            {
+                "description": "This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack.",
+                "name": "Versatile"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Maul",
+        "type": [
+            "martial",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#maul_phb",
+        "value": 10,
+        "weight": "10 lb",
+        "damage": {
+            "dice": "2d6",
+            "type": "bludgeoning"
+        },
+        "properties": [
+            {
+                "description": "Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively.",
+                "name": "Heavy"
+            },
+            {
+                "description": "A Two-Handed weapon requires two hands when you attack with it.",
+                "name": "Two-Handed"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Mangual",
+        "type": [
+            "martial",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#flail_phb",
+        "value": 10,
+        "weight": "2 lb",
+        "damage": {
+            "dice": "1d8",
+            "type": "bludgeoning"
+        }
+    },
+    {
+        "id": 32,
+        "name": "Warhammer",
+        "type": [
+            "martial",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#warhammer_phb",
+        "value": 15,
+        "weight": "2 lb",
+        "damage": {
+            "dice": "1d8",
+            "type": "bludgeoning"
+        },
+        "properties": [
+            {
+                "description": "This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack.",
+                "name": "Versatile"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "War Pick",
+        "type": [
+            "martial",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#war%20pick_phb",
+        "value": 5,
+        "weight": "2 lb",
+        "damage": {
+            "dice": "1d8",
+            "type": "piercing"
+        }
+    },
+    {
+        "id": 34,
+        "name": "Rapier",
+        "type": [
+            "martial",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#rapier_phb",
+        "value": 25,
+        "weight": "2 lb",
+        "damage": {
+            "dice": "1d8",
+            "type": "piercing"
+        },
+        "properties": [
+            {
+                "description": "When making an attack with a Finesse weapon, use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
+                "name": "Finesse"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Trident",
+        "type": [
+            "martial",
+            "melee",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#trident_phb",
+        "value": 5,
+        "weight": "4 lb",
+        "damage": {
+            "dice": "1d6",
+            "type": "piercing"
+        },
+        "properties": [
+            {
+                "description": "If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.",
+                "name": "Thrown"
+            },
+            {
+                "description": "This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack.",
+                "name": "Versatile"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Longbow",
+        "type": [
+            "martial",
+            "ranged",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#longbow_phb",
+        "value": 50,
+        "weight": "2 lb",
+        "damage": {
+            "dice": "1d8",
+            "type": "piercing"
+        },
+        "properties": [
+            {
+                "description": "You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
+                "name": "Ammunition"
+            },
+            {
+                "description": "Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively.",
+                "name": "Heavy"
+            },
+            {
+                "description": "A Two-Handed weapon requires two hands when you attack with it.",
+                "name": "Two-Handed"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Oversized Longbow",
+        "type": [
+            "martial",
+            "ranged",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#oversized%20longbow_wdh",
+        "value": 600,
+        "weight": "2 lb",
+        "damage": {
+            "dice": "2d6",
+            "type": "piercing"
+        },
+        "properties": [
+            {
+                "description": "You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
+                "name": "Ammunition"
+            },
+            {
+                "description": "Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively.",
+                "name": "Heavy"
+            },
+            {
+                "description": "A Two-Handed weapon requires two hands when you attack with it.",
+                "name": "Two-Handed"
+            },
+            {
+                "description": "",
+                "name": "Special"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Hand Crossbow",
+        "type": [
+            "martial",
+            "ranged",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#hand%20crossbow_phb",
+        "value": 75,
+        "weight": "3 lb",
+        "damage": {
+            "dice": "1d6",
+            "type": "piercing"
+        },
+        "properties": [
+            {
+                "description": "You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
+                "name": "Ammunition"
+            },
+            {
+                "description": "A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.",
+                "name": "Light"
+            },
+            {
+                "description": "Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.",
+                "name": "Loading"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Heavy Crossbow",
+        "type": [
+            "martial",
+            "ranged",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#heavy%20crossbow_phb",
+        "value": 50,
+        "weight": "18 lb",
+        "damage": {
+            "dice": "1d10",
+            "type": "piercing"
+        },
+        "properties": [
+            {
+                "description": "You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
+                "name": "Ammunition"
+            },
+            {
+                "description": "Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively.",
+                "name": "Heavy"
+            },
+            {
+                "description": "Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.",
+                "name": "Loading"
+            },
+            {
+                "description": "A Two-Handed weapon requires two hands when you attack with it.",
+                "name": "Two-Handed"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Musket",
+        "type": [
+            "martial",
+            "ranged",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#musket_dmg",
+        "value": 500,
+        "weight": "10 lb",
+        "damage": {
+            "dice": "1d12",
+            "type": "piercing"
+        },
+        "properties": [
+            {
+                "description": "You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
+                "name": "Ammunition"
+            },
+            {
+                "description": "Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.",
+                "name": "Loading"
+            },
+            {
+                "description": "A Two-Handed weapon requires two hands when you attack with it.",
+                "name": "Two-Handed"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Pistol",
+        "type": [
+            "martial",
+            "ranged",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#pistol_dmg",
+        "value": 250,
+        "weight": "3 lb",
+        "damage": {
+            "dice": "1d10",
+            "type": "piercing"
+        },
+        "properties": [
+            {
+                "description": "You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
+                "name": "Ammunition"
+            },
+            {
+                "description": "Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.",
+                "name": "Loading"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Net",
+        "type": [
+            "martial",
+            "ranged",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#net_phb",
+        "value": 1,
+        "weight": "3 lb",
+        "properties": [
+            {
+                "description": "A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.",
+                "name": "Special"
+            },
+            {
+                "description": "If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.",
+                "name": "Thrown"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Blowgun",
+        "type": [
+            "martial",
+            "ranged",
+            "weapon"
+        ],
+        "url": "https://2014.5e.tools/items.html#blowgun_phb",
+        "value": 10,
+        "weight": "1 lb",
+        "damage": {
+            "dice": "1",
+            "type": "piercing"
+        },
+        "properties": [
+            {
+                "description": "You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
+                "name": "Ammunition"
+            },
+            {
+                "description": "Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.",
+                "name": "Loading"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Padded Armor",
+        "type": [
+            "armor",
+            "light"
+        ],
+        "url": "https://2014.5e.tools/items.html#padded%20armor_phb",
+        "value": 5,
+        "weight": "8 lb",
+        "stealth": "DESV.",
+        "ac": "11 + Dex"
+    },
+    {
+        "id": 45,
+        "name": "Leather Armor",
+        "type": [
+            "armor",
+            "light"
+        ],
+        "url": "https://2014.5e.tools/items.html#leather%20armor_phb",
+        "value": 10,
+        "weight": "10 lb",
+        "ac": "11 + Dex"
+    },
+    {
+        "id": 46,
+        "name": "Studded Leather Armor",
+        "type": [
+            "armor",
+            "light"
+        ],
+        "url": "https://2014.5e.tools/items.html#studded%20leather%20armor_phb",
+        "value": 45,
+        "weight": "",
+        "ac": "12 + Dex"
+    },
+    {
+        "id": 47,
+        "name": "Hide Armor",
+        "type": [
+            "armor",
+            "medium"
+        ],
+        "url": "https://2014.5e.tools/items.html#hide%20armor_phb",
+        "value": 10,
+        "weight": "12 lb",
+        "ac": "12 + Dex (Max +2)"
+    },
+    {
+        "id": 48,
+        "name": "Chain Shirt",
+        "type": [
+            "armor",
+            "medium"
+        ],
+        "url": "https://2014.5e.tools/items.html#chain%20shirt_phb",
+        "value": 50,
+        "weight": "20 lb",
+        "ac": "13 + Dex (Max +2)"
+    },
+    {
+        "id": 49,
+        "name": "Scale Mail",
+        "type": [
+            "armor",
+            "medium"
+        ],
+        "url": "https://2014.5e.tools/items.html#scale%20mail_phb",
+        "value": 50,
+        "weight": "45 lb",
+        "stealth": "DESV.",
+        "ac": "14,+,modificador,de,Des,(máx.,+2) + Dex"
+    },
+    {
+        "id": 50,
+        "name": "Spiked Armor",
+        "type": [
+            "armor",
+            "medium"
+        ],
+        "url": "https://2014.5e.tools/items.html#spiked%20armor_scag",
+        "value": 75,
+        "weight": "",
+        "stealth": "DESV.",
+        "ac": "14 + Dex (Max +2)"
+    },
+    {
+        "id": 51,
+        "name": "Breastplate",
+        "type": [
+            "armor",
+            "medium"
+        ],
+        "url": "https://2014.5e.tools/items.html#breastplate_phb",
+        "value": 400,
+        "weight": "20 lb",
+        "ac": "14 + Dex (Max +2)"
+    },
+    {
+        "id": 52,
+        "name": "Half Plate Armor",
+        "type": [
+            "armor",
+            "medium"
+        ],
+        "url": "https://2014.5e.tools/items.html#half%20plate%20armor_phb",
+        "value": 750,
+        "weight": "40 lb",
+        "stealth": "DESV.",
+        "ac": "15 + Dex (Max +2)"
+    },
+    {
+        "id": 53,
+        "name": "Ring Mail",
+        "type": [
+            "armor",
+            "heavy"
+        ],
+        "url": "https://2014.5e.tools/items.html#ring%20mail_phb",
+        "value": 30,
+        "weight": "40 lb",
+        "stealth": "DESV.",
+        "ac": "14"
+    },
+    {
+        "id": 54,
+        "name": "Chain Mail",
+        "type": [
+            "armor",
+            "heavy"
+        ],
+        "url": "https://2014.5e.tools/items.html#chain%20mail_phb",
+        "value": 75,
+        "weight": "55 lb",
+        "stealth": "DESV.",
+        "ac": "16",
+        "strength": "For 13"
+    },
+    {
+        "id": 55,
+        "name": "Splint Armor",
+        "type": [
+            "armor",
+            "heavy"
+        ],
+        "url": "https://2014.5e.tools/items.html#splint%20armor_phb",
+        "value": 200,
+        "weight": "60 lb",
+        "stealth": "DESV.",
+        "ac": "17",
+        "strength": "For 15"
+    },
+    {
+        "id": 56,
+        "name": "Plate Armor",
+        "type": [
+            "armor",
+            "heavy"
+        ],
+        "url": "https://2014.5e.tools/items.html#plate%20armor_phb",
+        "value": 1500,
+        "weight": "65 lb",
+        "stealth": "DESV.",
+        "ac": "18",
+        "strength": "For 15"
+    },
+    {
+        "id": 57,
+        "name": "Shield",
+        "type": [
+            "armor",
+            "shield"
+        ],
+        "url": "https://2014.5e.tools/items.html#shield_phb",
+        "value": 10,
+        "weight": "6 lb",
+        "ac": "+2"
+    }
+]
