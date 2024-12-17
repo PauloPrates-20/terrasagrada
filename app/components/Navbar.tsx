@@ -13,9 +13,9 @@ export default function Navbar() {
 			>
 				<Link
 					href='/'
-					className='flex justify-center content-center py-0 px-3 no-underline text-textColor'
+					className='flex justify-center items-center py-0 px-3 no-underline text-textColor'
 				>
-					<p className='mr-2'>Terra Sagrada</p>
+					<p className='mr-2 select-none'>Terra Sagrada</p>
 					<Image 
 						src={'/images/d20.png'}
 						alt=''

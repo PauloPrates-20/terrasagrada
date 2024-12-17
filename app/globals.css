@@ -26,5 +26,5 @@ body {
 }
 
 svg {
-	display: inline-block;
+	display: inline-flex;
 }

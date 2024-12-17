@@ -21,9 +21,9 @@ export default function NavList({ label, options }: ListProps) {
 		<>
 			<div 
 				onClick={() => setDisplay(!display)}
-				className='relative flex cursor-pointer justify-start content-center hover:shadow-[0_0_24px_8px_inset_#4406067f] px-3'
+				className='relative flex cursor-pointer justify-start items-center hover:shadow-[0_0_24px_8px_inset_#4406067f] px-3'
 			>
-				<span className='mt-2'>{display ? <FaMinusSquare /> : <FaPlusSquare />}</span>
+				{display ? <FaMinusSquare /> : <FaPlusSquare />}
 				<span className='relative no-underline py-3 px-2 text-xl select-none'>{label}</span>
 			</div>
 			<div
