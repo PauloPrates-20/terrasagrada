@@ -55,3 +55,10 @@ export type MundaneItem = Item & {
 	stealth?: string;
 	strength?: string;
 };
+
+export interface InputClasses {
+	name: string;
+	value: string;
+}
+
+export type ClassesStrings = 'artifice' | 'barbaro' | 'bardo' | 'bruxo' | 'clerigo' | 'druida' | 'feiticeiro' | 'guerreiro' | 'ladino' | 'mago' | 'monge' | 'paladino' | 'patrulheiro';
