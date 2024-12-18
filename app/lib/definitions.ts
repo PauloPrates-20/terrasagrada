@@ -60,5 +60,3 @@ export interface InputClasses {
 	name: string;
 	value: string;
 }
-
-export type ClassesStrings = 'artifice' | 'barbaro' | 'bardo' | 'bruxo' | 'clerigo' | 'druida' | 'feiticeiro' | 'guerreiro' | 'ladino' | 'mago' | 'monge' | 'paladino' | 'patrulheiro';

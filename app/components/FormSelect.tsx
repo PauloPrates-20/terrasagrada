@@ -1,5 +1,3 @@
-import { ClassesStrings } from "../lib/definitions";
-
 export default function FormSelect({
     inputId,
     text,

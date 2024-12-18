@@ -1,7 +1,6 @@
 'use client'
 
 import { useState } from 'react';
-import { ClassesStrings } from '@/app/lib/definitions';
 import FormSelect from '@/app/components/FormSelect';
 
 export default function CalculadoraHP() {
@@ -55,10 +54,17 @@ export default function CalculadoraHP() {
 
 	let results = [];
 
-	function changeClass(value: string | ClassesStrings) {
-		setPlayerClass(value);
-		setHitDice(hitDices[value]);
+	function changeClass(value: string) {
+		if (value in hitDices) {
+			setPlayerClass(value);
+			setHitDice(hitDices[value as keyof typeof hitDices]);
+		} else {
+			console.warn(`Invalid class string: ${value}. Setting default class.`);
+			setPlayerClass('artifice');
+			setHitDice(hitDices['artifice']);
+		}
 	}
+	
 	return (
 		<div>
 			<h1>Calculadora de HP</h1>
