@@ -16,7 +16,7 @@ export default function FormSelect({
     return (
         <div>
             <label htmlFor={inputId}>{text}</label>
-            <select name={inputId} id={inputId} onChange={handleChange}>
+            <select className='text-black' name={inputId} id={inputId} onChange={handleChange}>
                 {content.map((info, index) => (
                     <option key={index} value={info.value}>{info.name}</option>
                 ))}
