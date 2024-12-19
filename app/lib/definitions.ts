@@ -59,9 +59,16 @@ export type MundaneItem = Item & {
 export interface InputClasses {
 	name: string;
 	value: string;
-}
+};
 
 export interface SpellSlot {
 	level: string;
 	quantity: number;
 }
+;
+export interface SpellInterface {
+  school: string;
+  price: number;
+  level: number;
+  time: number;
+};
