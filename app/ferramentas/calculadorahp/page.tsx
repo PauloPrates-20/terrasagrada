@@ -246,7 +246,7 @@ export default function CalculadoraHP() {
 							</div>
 						</div>
 					</div>
-					<div className='mt-4 mb-8'>
+					<div className='mt-4 md:mb-8'>
 						<h3 className='mb-2 pb-4 font-bold text-titleColor'>Características</h3>
 						<FormInput type='checkbox' text='Anão da colina? ' inputId='dwarf' eventHandler={toggleHillDwarf} defVal={1} />
 						<FormInput type='checkbox' text='Talento Robusto? ' inputId='feat' eventHandler={toggleTough} defVal={2} />
