@@ -60,3 +60,8 @@ export interface InputClasses {
 	name: string;
 	value: string;
 }
+
+export interface SpellSlot {
+	level: string;
+	quantity: number;
+}
