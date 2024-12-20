@@ -61,7 +61,7 @@ export default function ItensMagicos() {
         <div>
           <div className='flex justify-between items-center cursor-default'>
             <p title={selectedItem.source.name}>{selectedItem.source.initials}</p>
-            <p className='text-gold'>{selectedItem.value} PO</p>
+            <p className='text-gold'>{selectedItem.value} PO {selectedItem.reforge && (`+ ${selectedItem.reforge.type}`)}</p>
           </div>
           <div className='flex justify-between items-center cursor-default mb-4 pb-2 border-b border-titleColor'>
             <p>{selectedItem.rarity} Wondrous Item</p>
