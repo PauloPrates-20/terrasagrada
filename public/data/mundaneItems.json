@@ -1282,7 +1282,6 @@
         "id": 57,
         "name": "Shield",
         "type": [
-            "armor",
             "shield"
         ],
         "url": "https://2014.5e.tools/items.html#shield_phb",

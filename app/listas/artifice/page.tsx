@@ -71,7 +71,7 @@ export default function Artifice() {
           ))}
         </div>
       </div>
-      <div className='p-4 h-96 w-full relative mb-4 border border-titleColor rounded-3xl flex flex-col md:my-0 md:mx-auto md:w-1/2 md:h-fit md:text-base overflow-scroll scroll'>
+      <div className='p-4 h-96 w-full relative mb-4 border border-titleColor rounded-xl flex flex-col md:my-0 md:mx-auto md:w-1/2 md:h-fit md:text-base overflow-scroll scroll'>
         <a className='font-bold text-3xl text-titleColor my-4' href={selectedItem.url} target='_blank' title='Open in 5e.tools'>
           {selectedItem.name}
         </a>
