@@ -72,3 +72,11 @@ export interface SpellInterface {
   level: number;
   time: number;
 };
+
+export type RarityStrings = 'common' | 'uncommon' | 'rare'| 'veryrare' | 'legendary';
+
+export interface ConsumableSet {
+  rarity: RarityStrings;
+  items: ConsumableItem[];
+  label: string;
+}

@@ -252,7 +252,7 @@ export default function Crafting() {
             <p>Data de término: {finalDate && (<span>{`${finalDate.getDate()}/${finalDate.getMonth() + 1}/${finalDate.getFullYear()}`}</span>)} {hour && (<span>{hour}</span>)}</p>
             <p>Teste de arcanismo: </p>
             <p>Teste com ferramentas: </p>
-            <button onClick={copyMessage} className='self-center text-textColor py-2 px-3 text-xl bg-zinc-700 w-fit border border-titleColor rounded-lg my-3 hover:cursor-pointer hover:shadow-[0_0_24px_8px_#4406067f_inset]'>Copiar</button>
+            <button onClick={copyMessage} className='self-center text-textColor py-2 px-3 text-xl bg-neutral-800 w-fit border border-titleColor rounded-lg my-3 hover:cursor-pointer hover:shadow-[0_0_24px_8px_#4406067f_inset]'>Copiar</button>
           </div>
       </div>
     </div>

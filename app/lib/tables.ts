@@ -20,7 +20,7 @@ export const subTable = [
   { first: 4, second: 3, third: 3, fourth: 0, fifth: 0, sixth: 0, seventh: 0, eighth: 0, nineth: 0 },
   { first: 4, second: 3, third: 3, fourth: 1, fifth: 0, sixth: 0, seventh: 0, eighth: 0, nineth: 0 },
   { first: 4, second: 3, third: 3, fourth: 1, fifth: 0, sixth: 0, seventh: 0, eighth: 0, nineth: 0 }
-]
+];
 
 export const halfTable = [
   { first: 0, second: 0, third: 0, fourth: 0, fifth: 0, sixth: 0, seventh: 0, eighth: 0, nineth: 0 },
@@ -44,7 +44,7 @@ export const halfTable = [
   { first: 4, second: 3, third: 3, fourth: 3, fifth: 1, sixth: 0, seventh: 0, eighth: 0, nineth: 0 },
   { first: 4, second: 3, third: 3, fourth: 3, fifth: 2, sixth: 0, seventh: 0, eighth: 0, nineth: 0 },
   { first: 4, second: 3, third: 3, fourth: 3, fifth: 2, sixth: 0, seventh: 0, eighth: 0, nineth: 0 }
-]
+];
 
 export const artificeTable = [
   { first: 0, second: 0, third: 0, fourth: 0, fifth: 0, sixth: 0, seventh: 0, eighth: 0, nineth: 0 },
@@ -68,7 +68,7 @@ export const artificeTable = [
   { first: 4, second: 3, third: 3, fourth: 3, fifth: 1, sixth: 0, seventh: 0, eighth: 0, nineth: 0 },
   { first: 4, second: 3, third: 3, fourth: 3, fifth: 2, sixth: 0, seventh: 0, eighth: 0, nineth: 0 },
   { first: 4, second: 3, third: 3, fourth: 3, fifth: 2, sixth: 0, seventh: 0, eighth: 0, nineth: 0 }
-]
+];
 
 export const warlockTable = [
   { first: 0, second: 0, third: 0, fourth: 0, fifth: 0 },
@@ -92,7 +92,7 @@ export const warlockTable = [
   { first: 0, second: 0, third: 0, fourth: 0, fifth: 4 },
   { first: 0, second: 0, third: 0, fourth: 0, fifth: 4 },
   { first: 0, second: 0, third: 0, fourth: 0, fifth: 4 }
-]
+];
 
 export const fullTable = [
   { first: 0, second: 0, third: 0, fourth: 0, fifth: 0, sixth: 0, seventh: 0, eighth: 0, nineth: 0 },
@@ -116,4 +116,12 @@ export const fullTable = [
   { first: 4, second: 3, third: 3, fourth: 3, fifth: 3, sixth: 1, seventh: 1, eighth: 1, nineth: 1 },
   { first: 4, second: 3, third: 3, fourth: 3, fifth: 3, sixth: 2, seventh: 1, eighth: 1, nineth: 1 },
   { first: 4, second: 3, third: 3, fourth: 3, fifth: 3, sixth: 2, seventh: 2, eighth: 1, nineth: 1 }
-]
+];
+
+export const tiers = {
+  common: { name: 'Iniciante', color: '#fff' },
+  uncommon: { name: 'Cobre', color: '#b87333' },
+  rare: { name: 'Prata', color: '#c4c4c4' },
+  veryrare: { name: 'Ouro', color: '#ffbb33' },
+  legendary: { name: 'Platina', color: '#e5e4e2' },
+};

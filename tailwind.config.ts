@@ -17,7 +17,7 @@ export default {
 				common: '#fff',
 				uncommon: '#16cf05',
 				rare: '#4494fd',
-				veryRare: '#a555db',
+				veryrare: '#a555db',
 				legendary: '#ff7b00',
 				gold: '#ffbb33',
       },

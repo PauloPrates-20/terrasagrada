@@ -28,3 +28,27 @@ body {
 svg {
 	display: inline-flex;
 }
+
+.scroll {
+  scrollbar-width: none;
+}
+
+.common {
+  color: #fff;
+}
+
+.uncommon {
+  color: #16cf05;
+}
+
+.rare {
+  color: #4494fd;
+}
+
+.veryrare {
+  color: #a555db;
+}
+
+.legendary {
+  color: #ff7b00;
+}
