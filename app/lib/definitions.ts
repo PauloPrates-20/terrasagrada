@@ -79,4 +79,22 @@ export interface ConsumableSet {
   rarity: RarityStrings;
   items: ConsumableItem[];
   label: string;
-}
+};
+
+export interface WondrousSet {
+  rarity: RarityStrings
+  items: MagicItem[];
+  label: string;
+};
+
+export interface InfusionSet {
+  rarity: RarityStrings
+  items: ArtificerInfusion[];
+  label: string;
+};
+
+export interface MundaneSet {
+  rarity: RarityStrings
+  items: MundaneItem[];
+  label: string;
+};

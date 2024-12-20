@@ -43,7 +43,7 @@ export default function Consumiveis() {
   }, [selectedItem])
 
 	return (
-		<div className='flex flex-col-reverse w-full justify-center items-center h-[120dv] md:my-12 md:mx-auto md:flex-row md:items-start md:justify-start md:h-dvh md:gap-2'>
+		<div className='flex flex-col-reverse w-full justify-center items-center h-[120dv] md:my-12 md:mx-auto md:flex-row md:items-start md:justify-start md:min-h-fit md:h-dvh md:gap-2'>
       <div className='h:1/2 w-full border border-titleColor rounded-xl md:w-1/2 md:h-full'>
         <h1 className='font-bold text-3xl text-titleColor my-4'>Consumíveis</h1>
         <SearchBar eventHandler={filterItems}/>

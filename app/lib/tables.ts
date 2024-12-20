@@ -123,5 +123,5 @@ export const tiers = {
   uncommon: { name: 'Cobre', color: '#b87333' },
   rare: { name: 'Prata', color: '#c4c4c4' },
   veryrare: { name: 'Ouro', color: '#ffbb33' },
-  legendary: { name: 'Platina', color: '#e5e4e2' },
+  legendary: { name: 'Platina', color: '#367588' },
 };

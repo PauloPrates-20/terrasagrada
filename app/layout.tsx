@@ -27,7 +27,7 @@ export default function RootLayout({
         className={`${quantico.className} antialiased bg-fixed bg-cover text-textColor min-h-dvh w-full`}
       >
 				<Navbar />
-				<main className='min-h-[120dvh] sm:min-h-[700px] mt-60 mb-40 bg-bgColor text-center p-4 shadow-[0_0_30px_50px_#0b0a13]'>
+				<main className='min-h-fit h-fit sm:min-h-[700px] mt-60 mb-40 bg-bgColor text-center p-4 shadow-[0_0_30px_50px_#0b0a13]'>
         	{children}
 				</main>
 				<Footer />
