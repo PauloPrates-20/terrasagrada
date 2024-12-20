@@ -6,7 +6,7 @@ import { useEffect, useState } from 'react';
 import { ArtificerInfusion, InfusionSet } from '@/app/lib/definitions';
 import InfusionContent from '@/app/components/InfusionContent';
 
-export default function Consumiveis() {
+export default function Artifice() {
   const [filtered, setFiltered] = useState<ArtificerInfusion[]>(infusions);
   const [lists, setLists] = useState<InfusionSet[]>([]);
   const [selectedItem, setSelectedItem] = useState<ArtificerInfusion>(infusions[0]);
