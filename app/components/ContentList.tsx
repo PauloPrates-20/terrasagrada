@@ -1,7 +1,10 @@
 import { ItemTypes, SetTypes } from '../lib/definitions';
 import { FaPlusSquare, FaMinusSquare } from 'react-icons/fa';
-import { ReactNode, useState } from 'react';
+import { ReactNode, useEffect, useState } from 'react';
 import ListItem from './ListItem';
+import OrderTab from './OrderTab';
+
+export interface OrderingOptions  { attribute: 'name' | 'price'; order: boolean; };
 
 export default function ContentList({
   dataSet,
@@ -13,6 +16,23 @@ export default function ContentList({
   clickHandler: (item: ItemTypes) => void;
 }) {
   const [expanded, setExpanded] = useState(false);
+  const [data, setData] = useState<ItemTypes[]>(dataSet.items);
+
+  function orderItems(options: OrderingOptions) {
+    let filteredData = [...data];
+    filteredData.sort((a, b) => {
+      console.log(options.attribute, options.order)
+      if (options.attribute === 'name') {
+        if (options.order) return a.name.localeCompare(b.name);
+        return b.name.localeCompare(a.name);
+      } else {
+        if (options.order) return a.value - b.value;
+        return b.value - a.value;
+      }
+    });
+
+    setData(filteredData as ItemTypes[]);
+  }
 
   return (
     <div className='flex flex-col justify-center items-center w-4/5 h-auto'>
@@ -24,11 +44,8 @@ export default function ContentList({
       </button>
       <div className={`w-full overflow-hidden ${expanded ? 'max-h-fit' : 'max-h-0'}`}>
         <ul>
-          <li className='flex text-titleColor font-bold justify-between items-center w-full'>
-            <p className='border border-titleColor px-2 w-11/12 text-left'>ITEM</p>
-            <p className='border border-titleColor px-2'>PRICE</p>
-          </li>
-          {dataSet.items.map((item, index) => (
+          <OrderTab changeOrder={orderItems} />
+          {data.map((item, index) => (
             <ListItem icon={icon} item={item} rarity={dataSet.rarity} key={index} clickHandler={clickHandler} />
           ))}
         </ul>
