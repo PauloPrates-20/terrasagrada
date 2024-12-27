@@ -1,9 +1,17 @@
-import { MagicItem, WondrousSet } from '../lib/definitions';
+import { ItemTypes, SetTypes } from '../lib/definitions';
 import { FaPlusSquare, FaMinusSquare } from 'react-icons/fa';
-import { useState } from 'react';
-import Wondrous from './Wondrous';
+import { ReactNode, useState } from 'react';
+import ListItem from './ListItem';
 
-export default function WondrousContent({ dataSet, clickHandler }: { dataSet: WondrousSet; clickHandler: (item: MagicItem) => void }) {
+export default function ContentList({
+  dataSet,
+  icon,
+  clickHandler,
+}: {
+  dataSet: SetTypes;
+  icon: ReactNode;
+  clickHandler: (item: ItemTypes) => void;
+}) {
   const [expanded, setExpanded] = useState(false);
   return (
     <div className='flex flex-col justify-center items-center w-4/5 h-auto'>
@@ -16,7 +24,7 @@ export default function WondrousContent({ dataSet, clickHandler }: { dataSet: Wo
       <div className={`w-full overflow-hidden ${expanded ? 'max-h-fit' : 'max-h-0'}`}>
         <ul>
           {dataSet.items.map((item, index) => (
-            <Wondrous item={item} rarity={dataSet.rarity} key={index} clickHandler={clickHandler} />
+            <ListItem icon={icon} item={item} rarity={dataSet.rarity} key={index} clickHandler={clickHandler} />
           ))}
         </ul>
       </div>

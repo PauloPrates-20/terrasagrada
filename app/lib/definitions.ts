@@ -98,3 +98,6 @@ export interface MundaneSet {
   items: MundaneItem[];
   label: string;
 };
+
+export type ItemTypes = MagicItem | ConsumableItem | ArtificerInfusion | MundaneItem;
+export type SetTypes = MundaneSet | WondrousSet  | ConsumableSet | InfusionSet;

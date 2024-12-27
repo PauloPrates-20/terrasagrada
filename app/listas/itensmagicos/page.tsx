@@ -3,9 +3,10 @@
 import SearchBar from '@/app/components/SearchBar';
 import magicItems from '@/public/data/magicItems.json';
 import { useEffect, useState } from 'react';
-import { MagicItem, WondrousSet } from '@/app/lib/definitions';
+import { MagicItem, WondrousSet, ItemTypes } from '@/app/lib/definitions';
 import { tiers } from '@/app/lib/tables';
-import WondrousContent from '@/app/components/WondrousContent';
+import ContentList from '@/app/components/ContentList';
+import { GiRuneStone } from 'react-icons/gi';
 
 export default function ItensMagicos() {
   const [filtered, setFiltered] = useState<MagicItem[]>(magicItems);
@@ -50,7 +51,7 @@ export default function ItensMagicos() {
         <SearchBar eventHandler={filterItems}/>
         <div className='w-full h-2/3 flex justify-start items-center flex-col overflow-scroll overscroll-none scroll'>
           {lists.map((list, index) => (
-            <WondrousContent dataSet={list} key={index} clickHandler={(item: MagicItem) => setSelectedItem(item)} />
+            <ContentList icon={<GiRuneStone size='1.5rem' />} dataSet={list} key={index} clickHandler={(item: ItemTypes) => setSelectedItem(item as MagicItem)} />
           ))}
         </div>
       </div>

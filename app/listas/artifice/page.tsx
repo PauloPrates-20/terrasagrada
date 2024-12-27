@@ -3,8 +3,9 @@
 import SearchBar from '@/app/components/SearchBar';
 import infusions from '@/public/data/artificerInfusions.json';
 import { useEffect, useState } from 'react';
-import { ArtificerInfusion, InfusionSet } from '@/app/lib/definitions';
-import InfusionContent from '@/app/components/InfusionContent';
+import { ArtificerInfusion, InfusionSet, ItemTypes } from '@/app/lib/definitions';
+import ContentList from '@/app/components/ContentList';
+import { GiMagicAxe } from 'react-icons/gi';
 
 export default function Artifice() {
   const [filtered, setFiltered] = useState<ArtificerInfusion[]>(infusions);
@@ -67,7 +68,7 @@ export default function Artifice() {
         <SearchBar eventHandler={filterItems}/>
         <div className='w-full h-2/3 flex justify-start items-center flex-col overflow-scroll overscroll-none scroll'>
           {lists.map((list, index) => (
-            <InfusionContent dataSet={list} key={index} clickHandler={(item: ArtificerInfusion) => setSelectedItem(item)} />
+            <ContentList icon={<GiMagicAxe size='1.5rem' />} dataSet={list} key={index} clickHandler={(item: ItemTypes) => setSelectedItem(item as ArtificerInfusion)} />
           ))}
         </div>
       </div>

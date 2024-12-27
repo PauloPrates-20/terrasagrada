@@ -3,9 +3,10 @@
 import SearchBar from '@/app/components/SearchBar';
 import consumables from '@/public/data/consumableItems.json';
 import { useEffect, useState } from 'react';
-import { ConsumableItem, ConsumableSet } from '@/app/lib/definitions';
+import { ConsumableItem, ConsumableSet, ItemTypes } from '@/app/lib/definitions';
 import { tiers } from '@/app/lib/tables';
-import ConsumableContent from '@/app/components/ConsumableContent';
+import ContentList from '@/app/components/ContentList';
+import { GiPotionBall } from 'react-icons/gi';
 
 export default function Consumiveis() {
   const [filtered, setFiltered] = useState<ConsumableItem[]>(consumables);
@@ -49,7 +50,7 @@ export default function Consumiveis() {
         <SearchBar eventHandler={filterItems}/>
         <div className='w-full h-2/3 flex justify-start items-center flex-col overflow-scroll overscroll-none scroll'>
           {lists.map((list, index) => (
-            <ConsumableContent dataSet={list} key={index} clickHandler={(item: ConsumableItem) => setSelectedItem(item)} />
+            <ContentList icon={<GiPotionBall size='1.5rem' />} dataSet={list} key={index} clickHandler={(item: ItemTypes) => setSelectedItem(item as ConsumableItem)} />
           ))}
         </div>
       </div>

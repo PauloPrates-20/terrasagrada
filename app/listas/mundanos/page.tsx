@@ -3,8 +3,9 @@
 import SearchBar from '@/app/components/SearchBar';
 import mundane from '@/public/data/mundaneItems.json';
 import { useEffect, useState } from 'react';
-import { MundaneItem, MundaneSet } from '@/app/lib/definitions';
-import MundaneContent from '@/app/components/MundaneContent';
+import { ItemTypes, MundaneItem, MundaneSet } from '@/app/lib/definitions';
+import ContentList from '@/app/components/ContentList';
+import { GiTwoHandedSword } from 'react-icons/gi';
 
 export default function Mundanos() {
   const [filtered, setFiltered] = useState<MundaneItem[]>(mundane);
@@ -78,7 +79,7 @@ export default function Mundanos() {
         <SearchBar eventHandler={filterItems}/>
         <div className='w-full h-2/3 flex justify-start items-center flex-col overflow-scroll overscroll-none scroll'>
           {lists.map((list, index) => (
-            <MundaneContent dataSet={list} key={index} clickHandler={(item: MundaneItem) => setSelectedItem(item)} />
+            <ContentList icon={<GiTwoHandedSword size='1.5rem' />} dataSet={list} key={index} clickHandler={(item: ItemTypes) => setSelectedItem(item as MundaneItem)} />
           ))}
         </div>
       </div>
