@@ -1,3 +1,5 @@
+import mundaneItems from '@/public/data/mundaneItems.json';
+
 export const subTable = [
   { first: 0, second: 0, third: 0, fourth: 0, fifth: 0, sixth: 0, seventh: 0, eighth: 0, nineth: 0 },
   { first: 0, second: 0, third: 0, fourth: 0, fifth: 0, sixth: 0, seventh: 0, eighth: 0, nineth: 0 },

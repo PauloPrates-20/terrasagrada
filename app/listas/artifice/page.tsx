@@ -88,7 +88,6 @@ export default function Artifice() {
   }, [selectedItem]);
 
   useEffect(() => {
-    console.log(filterOptions);
     filterItems();
   }, [filterOptions]);
 

@@ -1,5 +1,5 @@
 import { CgSortAz } from 'react-icons/cg';
-import { FilteringOptions, PageFilter } from '../lib/definitions';
+import { FilteringOptions } from '../lib/definitions';
 import { useState } from 'react';
 
 export default function Filter({ options, changePageFilter }: { options: FilteringOptions; changePageFilter: (option: string, value?: number | boolean) => void }) {
