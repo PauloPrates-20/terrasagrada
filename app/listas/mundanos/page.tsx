@@ -22,8 +22,12 @@ export default function Mundanos() {
   }
 
   function searchItems() {
-    setSearchedItems(filtered.filter(item => {
-      if (item.name.toLowerCase().includes(searchText)) return true;
+    setSearchedItems(mundane.filter(item => {
+      if (
+        item.name.toLowerCase().includes(searchText) ||
+        item.type.some(prop => prop.toLowerCase().includes(searchText)) ||
+        item?.properties?.some(prop => prop.name.toLocaleLowerCase().includes(searchText))
+      ) return true;
       return false;
     }));
   }
