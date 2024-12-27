@@ -24,10 +24,7 @@ export default function Artifice() {
 
   function searchItems() {
     setSearchedItems(filtered.filter(item => {
-      if (
-        item.name.toLowerCase().includes(searchText) ||
-        item.attunement?.toLocaleLowerCase()?.includes(searchText)
-      ) return true;
+      if (item.name.toLowerCase().includes(searchText)) return true;
       return false;
     }));
   }
