@@ -49,7 +49,7 @@ export default function ItensMagicos() {
       <div className='h:1/2 w-full border border-titleColor rounded-xl md:w-1/2 md:h-full'>
         <h1 className='font-bold text-3xl text-titleColor my-4'>Itens Mágicos</h1>
         <SearchBar eventHandler={filterItems}/>
-        <div className='w-full h-2/3 flex justify-start items-center flex-col overflow-scroll overscroll-none scroll'>
+        <div className='w-full h-2/3 flex justify-start items-center flex-col overflow-scroll overscroll-none scroll mb-4'>
           {lists.map((list, index) => (
             <ContentList icon={<GiRuneStone size='1.5rem' />} dataSet={list} key={index} clickHandler={(item: ItemTypes) => setSelectedItem(item as MagicItem)} />
           ))}
