@@ -17,6 +17,8 @@ export default function ContentList({
 }) {
   const [expanded, setExpanded] = useState(false);
   const [data, setData] = useState<ItemTypes[]>(dataSet.items);
+  const [orderedData, setOrderedData] = useState<ItemTypes[]>(dataSet.items)
+  const [itemOrder, setItemOrder] = useState<OrderingOptions>({ attribute: 'name', order: true });
 
   function orderItems(options: OrderingOptions) {
     let filteredData = [...data];
@@ -31,8 +33,16 @@ export default function ContentList({
       }
     });
 
-    setData(filteredData as ItemTypes[]);
+    setOrderedData(filteredData as ItemTypes[]);
   }
+
+  useEffect(() => {
+    setData(dataSet.items);
+  }, [dataSet]);
+
+  useEffect(() => {
+    orderItems(itemOrder)
+  }, [data, itemOrder]);
 
   return (
     <div className='flex flex-col justify-center items-center w-4/5 h-auto'>
@@ -44,8 +54,8 @@ export default function ContentList({
       </button>
       <div className={`w-full overflow-hidden ${expanded ? 'max-h-fit' : 'max-h-0'}`}>
         <ul>
-          <OrderTab changeOrder={orderItems} />
-          {data.map((item, index) => (
+          <OrderTab changeOrder={(options: OrderingOptions) => setItemOrder(options)} />
+          {orderedData.map((item, index) => (
             <ListItem icon={icon} item={item} rarity={dataSet.rarity} key={index} clickHandler={clickHandler} />
           ))}
         </ul>
