@@ -1,14 +1,16 @@
-import { GiTwoHandedSword } from 'react-icons/gi';
-import { MundaneItem, RarityStrings } from '../lib/definitions';
+import { ReactNode } from 'react';
+import { ItemTypes, RarityStrings } from '../lib/definitions';
 
-export default function Mundane({ 
+export default function Wondrous({ 
   item, 
   rarity,
+  icon,
   clickHandler 
 }: { 
-  item: MundaneItem; 
+  item: ItemTypes;
   rarity: RarityStrings;
-  clickHandler: (item: MundaneItem) => void
+  icon: ReactNode;
+  clickHandler: (item: ItemTypes) => void;
 }) {
   return (
     <li 
@@ -16,7 +18,7 @@ export default function Mundane({
       onClick={() => clickHandler(item)}
     >
       <p className={`w-3/5 text-start ${rarity}`}>
-        <span className='text-titleColor align-middle pr-1'><GiTwoHandedSword size='1.5rem'/></span>
+        <span className='text-titleColor align-middle pr-1'>{icon}</span>
         {item.name}
       </p>
       <p className='text-gold text-end'>

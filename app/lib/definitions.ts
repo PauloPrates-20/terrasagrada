@@ -98,3 +98,19 @@ export interface MundaneSet {
   items: MundaneItem[];
   label: string;
 };
+
+export type ItemTypes = MagicItem | ConsumableItem | ArtificerInfusion | MundaneItem;
+export type SetTypes = MundaneSet | WondrousSet  | ConsumableSet | InfusionSet;
+
+export interface FilteringOptions {
+  value: boolean;
+  attunement?: boolean;
+  reforge?: boolean;
+}
+
+export interface PageFilter {
+  minValue: number;
+  maxValue: number;
+  attunement?: number;
+  reforge?: number;
+}
