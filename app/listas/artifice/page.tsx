@@ -16,12 +16,7 @@ export default function Artifice() {
 
   function filterItems(searchText: string) {
     setFiltered(infusions.filter(item => {
-      if (
-        item.name.toLowerCase().includes(searchText) ||
-        item.value.toString().toLowerCase().includes(searchText) ||
-        item.level.toString().toLowerCase().includes(searchText) ||
-        item?.attunement?.toLocaleLowerCase()?.includes(searchText)
-      ) return true;
+      if (item.name.toLowerCase().includes(searchText)) return true;
       return false;
     }));
   }
@@ -64,7 +59,7 @@ export default function Artifice() {
 	return (
 		<div className='flex flex-col-reverse w-full justify-center items-center h-[120dv] md:my-12 md:mx-auto md:flex-row md:items-start md:justify-start md:min-h-fit md:h-dvh md:gap-2'>
       <div className='h:1/2 w-full border border-titleColor rounded-xl md:w-1/2 md:h-full'>
-        <h1 className='font-bold text-3xl text-titleColor my-4'>Consumíveis</h1>
+        <h1 className='font-bold text-3xl text-titleColor my-4'>Infusões de Artífice</h1>
         <SearchBar eventHandler={filterItems}/>
         <div className='w-full h-2/3 flex justify-start items-center flex-col overflow-scroll overscroll-none scroll mb-4'>
           {lists.map((list, index) => (

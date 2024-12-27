@@ -7,6 +7,7 @@ import { ConsumableItem, ConsumableSet, ItemTypes } from '@/app/lib/definitions'
 import { tiers } from '@/app/lib/tables';
 import ContentList from '@/app/components/ContentList';
 import { GiPotionBall } from 'react-icons/gi';
+import { CgSortAz } from 'react-icons/cg';
 
 export default function Consumiveis() {
   const [filtered, setFiltered] = useState<ConsumableItem[]>(consumables);
@@ -16,11 +17,7 @@ export default function Consumiveis() {
 
   function filterItems(searchText: string) {
     setFiltered(consumables.filter(item => {
-      if (
-        item.name.toLowerCase().includes(searchText) ||
-        item.value.toString().toLowerCase().includes(searchText) ||
-        item.rarity.toLowerCase().includes(searchText)
-      ) return true;
+      if (item.name.toLowerCase().includes(searchText)) return true;
       return false;
     }));
   }
@@ -46,7 +43,10 @@ export default function Consumiveis() {
 	return (
 		<div className='flex flex-col-reverse w-full justify-center items-center h-[120dv] md:my-12 md:mx-auto md:flex-row md:items-start md:justify-start md:min-h-fit md:h-dvh md:gap-2'>
       <div className='h:1/2 w-full border border-titleColor rounded-xl md:w-1/2 md:h-full'>
-        <h1 className='font-bold text-3xl text-titleColor my-4'>Consumíveis</h1>
+      <div className='my-4 flex justify-center items-center gap-2 text-titleColor font-bold select-none'>
+        <h1 className='text-3xl'>Consumíveis</h1>
+        <CgSortAz size='2.4rem' className='hover:cursor-pointer' />
+      </div>
         <SearchBar eventHandler={filterItems}/>
         <div className='w-full h-2/3 flex justify-start items-center flex-col overflow-scroll overscroll-none scroll mb-4'>
           {lists.map((list, index) => (

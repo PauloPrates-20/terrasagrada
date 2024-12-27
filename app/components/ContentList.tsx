@@ -23,7 +23,6 @@ export default function ContentList({
   function orderItems(options: OrderingOptions) {
     let filteredData = [...data];
     filteredData.sort((a, b) => {
-      console.log(options.attribute, options.order)
       if (options.attribute === 'name') {
         if (options.order) return a.name.localeCompare(b.name);
         return b.name.localeCompare(a.name);

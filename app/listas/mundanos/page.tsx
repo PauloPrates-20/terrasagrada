@@ -6,35 +6,31 @@ import { useEffect, useState } from 'react';
 import { ItemTypes, MundaneItem, MundaneSet } from '@/app/lib/definitions';
 import ContentList from '@/app/components/ContentList';
 import { GiTwoHandedSword } from 'react-icons/gi';
+import { CgSortAz } from 'react-icons/cg';
 
 export default function Mundanos() {
-  const [filtered, setFiltered] = useState<MundaneItem[]>(mundane);
+  const [searchedItems, setSearchedItems] = useState<MundaneItem[]>(mundane);
   const [lists, setLists] = useState<MundaneSet[]>([]);
   const [selectedItem, setSelectedItem] = useState<MundaneItem>(mundane[0]);
   const [types, setTypes] = useState<string[]>([]);
 
-  function filterItems(searchText: string) {
-    setFiltered(mundane.filter(item => {
-      if (
-        item.name.toLowerCase().includes(searchText) ||
-        item.value.toString().toLowerCase().includes(searchText) ||
-        item.type.some(prop => prop.toLowerCase().includes(searchText)) ||
-        item?.properties?.some(prop => prop.name.toLocaleLowerCase().includes(searchText))
-      ) return true;
+  function searchItems(searchText: string) {
+    setSearchedItems(mundane.filter(item => {
+      if (item.name.toLowerCase().includes(searchText)) return true;
       return false;
     }));
   }
 
   function getList(): MundaneSet[] {
     return [
-      {items: filtered.filter(item => item.type.includes('simple') && item.type.includes('melee')), label: 'Simple Melee Weapons', rarity: 'common'},
-      {items: filtered.filter(item => item.type.includes('simple') && item.type.includes('ranged')), label: 'Simple Ranged Weapons', rarity: 'common'},
-      {items: filtered.filter(item => item.type.includes('martial') && item.type.includes('melee')), label: 'Martial Melee Weapons', rarity: 'common'},
-      {items: filtered.filter(item => item.type.includes('martial') && item.type.includes('ranged')), label: 'Martial Ranged Weapons', rarity: 'common'},
-      {items: filtered.filter(item => item.type.includes('light')), label: 'Light Armors', rarity: 'common'},
-      {items: filtered.filter(item => item.type.includes('medium')), label: 'Medium Armors', rarity: 'common'},
-      {items: filtered.filter(item => item.type.includes('heavy')), label: 'Heavy Armors', rarity: 'common'},
-      {items: filtered.filter(item => item.type.includes('shield')), label: 'Shields', rarity: 'common'},
+      {items: searchedItems.filter(item => item.type.includes('simple') && item.type.includes('melee')), label: 'Simple Melee Weapons', rarity: 'common'},
+      {items: searchedItems.filter(item => item.type.includes('simple') && item.type.includes('ranged')), label: 'Simple Ranged Weapons', rarity: 'common'},
+      {items: searchedItems.filter(item => item.type.includes('martial') && item.type.includes('melee')), label: 'Martial Melee Weapons', rarity: 'common'},
+      {items: searchedItems.filter(item => item.type.includes('martial') && item.type.includes('ranged')), label: 'Martial Ranged Weapons', rarity: 'common'},
+      {items: searchedItems.filter(item => item.type.includes('light')), label: 'Light Armors', rarity: 'common'},
+      {items: searchedItems.filter(item => item.type.includes('medium')), label: 'Medium Armors', rarity: 'common'},
+      {items: searchedItems.filter(item => item.type.includes('heavy')), label: 'Heavy Armors', rarity: 'common'},
+      {items: searchedItems.filter(item => item.type.includes('shield')), label: 'Shields', rarity: 'common'},
     ];
   }
 
@@ -66,7 +62,7 @@ export default function Mundanos() {
 
   useEffect(() => {
     setLists(getList());
-  }, [filtered]);
+  }, [searchedItems]);
 
   useEffect(() => {
     setTypes(arrangeAndCapitalizeTypes());
@@ -75,8 +71,8 @@ export default function Mundanos() {
 	return (
 		<div className='flex flex-col-reverse w-full justify-center items-center h-[120dv] md:my-12 md:mx-auto md:flex-row md:items-start md:justify-start md:min-h-fit md:h-dvh md:gap-2'>
       <div className='h:1/2 w-full border border-titleColor rounded-xl md:w-1/2 md:h-full'>
-        <h1 className='font-bold text-3xl text-titleColor my-4'>Consumíveis</h1>
-        <SearchBar eventHandler={filterItems}/>
+        <h1 className='font-bold text-3xl text-titleColor my-4'>Mundanos</h1>
+        <SearchBar eventHandler={searchItems}/>
         <div className='w-full h-2/3 flex justify-start items-center flex-col overflow-scroll overscroll-none scroll mb-4'>
           {lists.map((list, index) => (
             <ContentList icon={<GiTwoHandedSword size='1.5rem' />} dataSet={list} key={index} clickHandler={(item: ItemTypes) => setSelectedItem(item as MundaneItem)} />
