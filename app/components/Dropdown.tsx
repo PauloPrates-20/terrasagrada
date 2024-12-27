@@ -26,7 +26,7 @@ export default function Dropdown() {
 	return (
 		<>
 			<nav
-				className='absolute left-0 flex flex-row flex-wrap justify-start'
+				className='absolute left-0 flex flex-row flex-wrap justify-start w-full'
 			>
 				<FaBars 
 					onClick={() => setDisplay(!display)}
