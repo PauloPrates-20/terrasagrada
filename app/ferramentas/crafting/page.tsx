@@ -65,7 +65,7 @@ export default function Crafting() {
   const [copy, setCopy] = useState(false);
   const [character, setCharacter] = useState('');
   const [item, setItem] = useState('');
-  const [tool, setTool] = useState('');
+  const [tool, setTool] = useState('Ferramentas de Carpinteiro');
 
   function toggleConsumable(value: string | boolean) {
     if (typeof value === 'string') setConsumable(parseInt(value));
@@ -87,7 +87,12 @@ export default function Crafting() {
   }
 
   async function copyText(message: string) {
-    await navigator.clipboard.writeText(message);
+    let tempText = document.createElement('textarea');
+    tempText.value = message;
+    document.body.appendChild(tempText);
+    tempText.select();
+    document.execCommand('copy');
+    document.body.removeChild(tempText);
   }
 
   function addDays(date: Date, days: number): Date {
@@ -139,7 +144,7 @@ export default function Crafting() {
         'Cria: ' + item + '\n' +
         'Raridade: ' + rarity + '\n' +
         'Ferramentas Utilizada: ' + tool + '\n' +
-        'Custo de Fabricação: ' + total + '\n' +
+        'Custo de Fabricação: ' + total + ' PO' + '\n' +
         'Data de Início: ' + day + '/' + month + '/' + year + ' ' + hour + '\n' +
         'Data de Término: ' + finalDate.getDate() + '/' + (finalDate.getMonth() + 1) + '/' + finalDate.getFullYear() + ' ' + hour + '\n' +
         'Teste de Arcanismo: ' + '\n' +
@@ -195,7 +200,7 @@ export default function Crafting() {
                 eventHandler={(value: string) => setTool(value)} 
               />
               {upgrade ? (
-                <div>
+                <div className='flex flex-col gap-2'>
                   <FormInput
                     inputId='previousPrice'
                     text='Valor do item base: '
