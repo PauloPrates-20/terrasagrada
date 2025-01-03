@@ -19,7 +19,7 @@ export default function FormInput({
 }) {
 	function handleChange(e: React.ChangeEvent<HTMLInputElement>) {
 		if (e.target.type === 'number') eventHandler(e.target.value, e.target.id);
-		else if (e.target.type === 'checkbox') e.target.checked ? eventHandler(e.target.value) : eventHandler(false);
+		else if (e.target.type === 'checkbox') e.target.checked ? eventHandler(!!e.target.value) : eventHandler(false);
 		else eventHandler(e.target.value);
 	}
 

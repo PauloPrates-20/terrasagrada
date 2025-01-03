@@ -73,10 +73,12 @@ export default function Crafting() {
   }
 
   function toggleUpgrade(value: string | boolean) {
+    console.log(value);
     if (typeof value === 'boolean') setUpgrade(value);
   }
 
   function toggleArtificer(value: string | boolean) {
+    console.log(value);
     if (typeof value === 'boolean') setArtificer(value);
   }
 
