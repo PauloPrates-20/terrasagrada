@@ -228,7 +228,7 @@ export default function Crafting() {
                   min={0}
                   max={100000}
                   defVal={0}
-                  eventHandler={(value: string | boolean) => setPrice(parseInt(value as string))}
+                  eventHandler={(value: string | boolean) => setPrice(parseInt(value as string) * 0.8)}
                 />
               )}
               <FormInput inputId='consumable' text='Consumível? ' type='checkbox' defVal={2} eventHandler={toggleConsumable} />
