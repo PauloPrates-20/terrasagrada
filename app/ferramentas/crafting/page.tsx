@@ -195,7 +195,7 @@ export default function Crafting() {
                 eventHandler={(value: string) => setTool(value)} 
               />
               {upgrade ? (
-                <div>
+                <div className='flex flex-col gap-2'>
                   <FormInput
                     inputId='previousPrice'
                     text='Valor do item base: '
