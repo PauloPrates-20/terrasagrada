@@ -179,18 +179,15 @@ export default function CalculadoraHP() {
 	}
 
 	function toggleDraconicSorcerer(value: string | boolean) {
-		if (typeof value === 'string') setDraconicSorcerer(parseInt(value));
-		else setDraconicSorcerer(value);
+		if (typeof value === 'boolean') setDraconicSorcerer(value ? 1 : value);
 	}
 
 	function toggleHillDwarf(value: string | boolean) {
-		if (typeof value === 'string') setHillDwarf(parseInt(value));
-		else setHillDwarf(value);
+		if (typeof value === 'boolean') setHillDwarf(value ? 1 : value);
 	}
 
 	function toggleTough(value: string | boolean) {
-		if (typeof value === 'string') setTough(parseInt(value));
-		else setTough(value);
+		if (typeof value === 'boolean') setTough(value ? 2 : value);
 	}
 
 	useEffect(() => {
