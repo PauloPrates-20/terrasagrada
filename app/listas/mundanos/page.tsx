@@ -7,6 +7,8 @@ import { ItemTypes, MundaneItem, MundaneSet, PageFilter } from '@/app/lib/defini
 import ContentList from '@/app/components/ContentList';
 import { GiTwoHandedSword } from 'react-icons/gi';
 import Filter from '@/app/components/Filter';
+import ListFrame from '@/app/components/ListFrame';
+import ItemFrame from '@/app/components/ItemFrame';
 
 export default function Mundanos() {
   const [filtered, setFiltered] = useState<MundaneItem[]>(mundane);
@@ -105,7 +107,7 @@ export default function Mundanos() {
 
   return (
     <div className='flex flex-col-reverse w-full justify-center items-center h-[120dv] md:my-12 md:mx-auto md:flex-row md:items-start md:justify-start md:min-h-fit md:h-dvh md:gap-2'>
-      <div className='h:1/2 w-full border border-titleColor rounded-xl md:w-1/2 md:h-full'>
+      <ListFrame>
         <div className='flex text-titleColor font-bold justify-center items-center my-4 select-none'>
           <h1 className='text-3xl'>Itens Mundanos</h1>
           <Filter options={{ value: true }} changePageFilter={changeFilterOptions} />
@@ -116,8 +118,8 @@ export default function Mundanos() {
             <ContentList icon={<GiTwoHandedSword size='1.5rem' />} dataSet={list} key={index} clickHandler={(item: ItemTypes) => setSelectedItem(item as MundaneItem)} />
           ))}
         </div>
-      </div>
-      <div className='p-4 h-96 w-full relative mb-4 border border-titleColor rounded-xl flex flex-col md:my-0 md:mx-auto md:w-1/2 md:h-fit md:text-base overflow-scroll scroll'>
+      </ListFrame>
+      <ItemFrame>
         <a className='font-bold text-3xl text-titleColor my-4' href={selectedItem.url} target='_blank' title='Open in 5e.tools'>
           {selectedItem.name}
         </a>
@@ -153,7 +155,7 @@ export default function Mundanos() {
             </div>
           )}
         </div>
-      </div>
+      </ItemFrame>
     </div>
   );
 }
