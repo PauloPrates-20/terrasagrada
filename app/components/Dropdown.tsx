@@ -35,12 +35,18 @@ export default function Dropdown() {
 				<div
 					className={`flex flex-col absolute left-0 mt-10 pb-4 bg-barColor w-full sm:w-72 max-h-0 opacity-0 invisible rounded-[0_0_6px_0] transition-all ease-out duration-200 ${display ? 'isChecked' : 'notChecked'}`}
 				>
-					<Link 
+					<a 
 						href='/'
 						className='select-none relative no-underline text-xl text-textColor py-3 px-4 mx-0 w-full hover:shadow-[0_0_24px_8px_inset_#4406067f]'
 					>
 						Home
-					</Link>
+					</a>
+          <a
+            href='http://vtt.terrasagrada.net.br'
+						className='select-none relative no-underline text-xl text-textColor py-3 px-4 mx-0 w-full hover:shadow-[0_0_24px_8px_inset_#4406067f]'
+          >
+            Foundry
+          </a>
 					<NavList label='Listas' options={navLists} />
 					<NavList label='Ferramentas' options={navTools} />
 				</div>

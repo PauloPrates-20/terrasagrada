@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { GiHamburgerMenu, GiGearHammer } from 'react-icons/gi';
+import { GiHamburgerMenu, GiGearHammer, GiDiceTwentyFacesTwenty } from 'react-icons/gi';
 import ListCard from './components/ListCard';
 import Lists from './components/Lists';
 import Tools from './components/Tools';
@@ -48,6 +48,11 @@ export default function Home() {
 					text='Ferramentas'
 					clickHandler={toggleContents}
 				/>
+        <ListCard 
+          icon={<GiDiceTwentyFacesTwenty size={'2rem'} />}
+          text='Foundry'
+          clickHandler={() => window.location.href = 'http://vtt.terrasagrada.net.br'}
+        />
 			</div>
 			<div
 				className={`flex justify-center items-center transition-all ease-in-out duration-700 ${content === 'none' ? 'h-40 sm:h-24 opacity-0 invisible' : 'h-52 visible'}`}
