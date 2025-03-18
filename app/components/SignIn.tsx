@@ -11,7 +11,7 @@ export default function SingIn() {
         }}
         className='absolute right-4'
       >
-        <button type='submit' className='flex justify-center items-center gap-4'>
+        <button type='submit' className='flex justify-center items-center gap-4 px-1 py-2 border border-titleColor rounded-md'>
           <p>Login</p> <FaDiscord size='2rem' />
         </button>
       </form>
