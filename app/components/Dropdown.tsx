@@ -2,9 +2,7 @@
 
 import { useState } from 'react';
 import { FaBars } from 'react-icons/fa';
-import Link from 'next/link'
 import NavList, { Options } from './NavList';
-
 
 export default function Dropdown() {
 	const [display, setDisplay] = useState(false);
