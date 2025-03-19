@@ -1,6 +1,6 @@
 {
-  "name": "terrasagrada-revamp",
-  "version": "4.3.0",
+  "name": "terrasagrada",
+  "version": "4.4.0",
   "private": true,
   "scripts": {
     "preinstall": "npx only-allow pnpm",
