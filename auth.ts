@@ -20,8 +20,12 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
     },
     session({ session, token }) {
       // console.log('[AUTH][USER]: Logging session user info\n' + JSON.stringify(token, null, 2));
+      // console.log('[AUTH][SESSION] Logging session information\n', JSON.stringify(session, null, 2));
       session.user.id = String(token.id);
       return session;
     }
-  }
+  },
+  session: {
+    maxAge: 60 * 60 * 24
+  },
 });
