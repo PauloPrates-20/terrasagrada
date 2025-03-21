@@ -10,6 +10,7 @@ import { GiPotionBall } from 'react-icons/gi';
 import Filter from '@/app/components/Filter';
 import ListFrame from '@/app/components/ListFrame';
 import ItemFrame from '@/app/components/ItemFrame';
+import BuyButton from '@/app/components/BuyButton';
 
 export default function Consumiveis() {
   const [filtered, setFiltered] = useState<ConsumableItem[]>(consumables);
@@ -18,7 +19,7 @@ export default function Consumiveis() {
   const [selectedItem, setSelectedItem] = useState<ConsumableItem>(consumables[0]);
   const [description, setDescription] = useState<string[]>(selectedItem.description.split('\n'));
   const [searchText, setSearchText] = useState('');
-  const [filterOptions, setFilterOptions] = useState<PageFilter>({ minValue: 1, maxValue: 100000, attunement: undefined, reforge: undefined});
+  const [filterOptions, setFilterOptions] = useState<PageFilter>({ minValue: 1, maxValue: 100000, attunement: undefined, reforge: undefined });
 
   function getSearchString(searchString: string) {
     setSearchText(searchString)
@@ -35,7 +36,7 @@ export default function Consumiveis() {
     setFiltered(consumables.filter(item => {
       let ok = false;
       if (
-        item.value >= filterOptions.minValue && 
+        item.value >= filterOptions.minValue &&
         item.value <= filterOptions.maxValue
       ) ok = true;
 
@@ -105,6 +106,9 @@ export default function Consumiveis() {
           {description.map((text, index) => (
             <p className='mb-2 text-justify' key={index}>{text}</p>
           ))}
+        </div>
+        <div className='flex justify-center items-center'>
+          <BuyButton id={selectedItem.id} name={selectedItem.name} value={selectedItem.value} />
         </div>
       </ItemFrame>
     </div>

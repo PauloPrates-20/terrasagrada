@@ -10,6 +10,7 @@ import { GiRuneStone } from 'react-icons/gi';
 import Filter from '@/app/components/Filter';
 import ListFrame from '@/app/components/ListFrame';
 import ItemFrame from '@/app/components/ItemFrame';
+import BuyButton from '@/app/components/BuyButton';
 
 export default function ItensMagicos() {
   const [filtered, setFiltered] = useState<MagicItem[]>(magicItems);
@@ -133,6 +134,9 @@ export default function ItensMagicos() {
             )}
           </div>
         )}
+        <div className='flex justify-center items-center'>
+          <BuyButton id={selectedItem.id} name={selectedItem.name} value={selectedItem.value} />
+        </div>
       </ItemFrame>
     </div>
   );

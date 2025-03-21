@@ -9,6 +9,7 @@ import { GiTwoHandedSword } from 'react-icons/gi';
 import Filter from '@/app/components/Filter';
 import ListFrame from '@/app/components/ListFrame';
 import ItemFrame from '@/app/components/ItemFrame';
+import BuyButton from '@/app/components/BuyButton';
 
 export default function Mundanos() {
   const [filtered, setFiltered] = useState<MundaneItem[]>(mundane);
@@ -38,7 +39,7 @@ export default function Mundanos() {
     setFiltered(mundane.filter(item => {
       let ok = false;
       if (
-        item.value >= filterOptions.minValue && 
+        item.value >= filterOptions.minValue &&
         item.value <= filterOptions.maxValue
       ) ok = true;
 
@@ -154,6 +155,9 @@ export default function Mundanos() {
               ))}
             </div>
           )}
+        </div>
+        <div className='flex justify-center items-center'>
+          <BuyButton id={selectedItem.id} name={selectedItem.name} value={selectedItem.value} />
         </div>
       </ItemFrame>
     </div>
