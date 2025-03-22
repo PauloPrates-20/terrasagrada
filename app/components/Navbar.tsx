@@ -9,7 +9,7 @@ export default async function Navbar() {
   
   return (
     <header
-      className='relative top-0 bg-barColor w-full h-16 text-2xl py-2 px-3 flex justify-between items-center'
+      className='relative top-0 bg-barColor w-full h-16 text-2xl py-2 px-3 flex justify-between items-center select-none'
     >
       <Dropdown />
       <div
