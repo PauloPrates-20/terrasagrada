@@ -9,7 +9,6 @@ export async function buyItem(item: Item): Promise<string> {
     return 'Faça login para comprar!';
   }
   const accessToken = session.user.accessToken;
-  console.log(accessToken, item);
 
   fetch('http://localhost:5000/api/buy', {
     method: 'POST',
