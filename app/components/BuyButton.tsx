@@ -16,7 +16,7 @@ export default function BuyButton({ id, name, value } : Props){
   };
 
   function handleClick() {
-    buyItem(item).then((res) => window.alert(res));
+    buyItem(item).then((res) => window.alert(res.message || res.error));
   }
 
   return (
