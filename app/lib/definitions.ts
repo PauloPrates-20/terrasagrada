@@ -114,3 +114,14 @@ export interface PageFilter {
   attunement?: number;
   reforge?: number;
 }
+
+export interface PlayerCharacter {
+  name: string;
+  level: number;
+  tier: string;
+  xp: number;
+}
+
+export interface CharacterList {
+  [key: string]: PlayerCharacter;
+}
