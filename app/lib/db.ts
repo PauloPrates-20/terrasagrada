@@ -1,3 +1,5 @@
+'use server'
+
 import { initializeApp } from 'firebase/app';
 import { getFirestore, doc, getDoc } from 'firebase/firestore';
 import { CharacterList } from './definitions';
@@ -13,9 +15,10 @@ const firebaseConfig = {
 
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
+const userCollection = process.env.COLLECTIONS_USERS!;
 
 export async function getCharacters(playerId: string):  Promise<CharacterList> {
-  const playerDoc = doc(db, process.env.COLLECTIONS_USERS!, playerId);
+  const playerDoc = doc(db, userCollection, playerId);
 
   try {
     const querySnapshot = await getDoc(playerDoc);
