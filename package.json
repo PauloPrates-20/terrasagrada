@@ -12,12 +12,13 @@
     "dependencies": {
         "dotenv": "^16.4.7",
         "firebase": "^11.6.0",
-        "next": "15.2.8",
-        "next-auth": "5.0.0-beta.25",
+        "next": "15.5.10",
+        "next-auth": ">=5.0.0-beta.30",
         "react": "^19.0.0",
         "react-dom": "^19.0.0",
         "react-icons": "^5.4.0",
-        "sweetalert2": "^11.17.2"
+        "sweetalert2": ">=11.22.4",
+        "glob": ">=10.5.0"
     },
     "devDependencies": {
         "@types/node": "^20",
