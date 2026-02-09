@@ -8,7 +8,7 @@ export default function Lists({ clickHandler }: { clickHandler: () => void }) {
 		{ icon: <GiCauldron size={iconSize} />, text: 'Consumíveis', url: 'consumiveis' },
 		{ icon: <GiGems size={iconSize} />, text: 'Itens Mágicos', url: 'itensmagicos' },
 		{ icon: <GiCrossedSwords size={iconSize} />, text: 'Itens Mundanos', url: 'mundanos' },
-		{ icon: <GiMightySpanner size={iconSize} />, text: 'Infusões de Artífice', url: 'artifice' },
+		{ icon: <GiMightySpanner size={iconSize} />, text: 'Variantes Mágicas', url: 'variante' },
 	];
 
 	return (
