@@ -1,24 +1,24 @@
 'use client';
 
 import SearchBar from '@/app/components/SearchBar';
-import items from '@/public/data/magicItems.json';
+import items from '@/public/data/magicVariants.json';
 import { useEffect, useState } from 'react';
-import { MagicItem, WondrousSet, ItemTypes, PageFilter, Entries } from '@/app/lib/definitions';
+import { ItemTypes, PageFilter, Entries, MagicVariant, MagicVariantSet } from '@/app/lib/definitions';
 import { tiers } from '@/app/lib/tables';
 import ContentList from '@/app/components/ContentList';
-import { GiRuneStone } from 'react-icons/gi';
+import { GiMagicAxe } from 'react-icons/gi';
 import Filter from '@/app/components/Filter';
 import ListFrame from '@/app/components/ListFrame';
 import ItemFrame from '@/app/components/ItemFrame';
 import BuyButton from '@/app/components/BuyButton';
 import Entry from '@/app/components/Entry';
 
-export default function ItensMagicos() {
-    const magicItems = items as MagicItem[];
-    const [filtered, setFiltered] = useState<MagicItem[]>(magicItems);
-    const [searchedItems, setSearchedItems] = useState<MagicItem[]>(magicItems);
-    const [lists, setLists] = useState<WondrousSet[]>([]);
-    const [selectedItem, setSelectedItem] = useState<MagicItem>(magicItems[0]);
+export default function VariantesMagicos() {
+    const variants = items as MagicVariant[];
+    const [filtered, setFiltered] = useState<MagicVariant[]>(variants);
+    const [searchedItems, setSearchedItems] = useState<MagicVariant[]>(variants);
+    const [lists, setLists] = useState<MagicVariantSet[]>([]);
+    const [selectedItem, setSelectedItem] = useState<MagicVariant>(variants[0]);
     const [description, setDescription] = useState<Entries>(selectedItem.entries);
     const [filterOptions, setFilterOptions] = useState<PageFilter>({ minValue: 1, maxValue: 100000, attunement: undefined });
     const [searchText, setSearchText] = useState('');
@@ -38,7 +38,7 @@ export default function ItensMagicos() {
     }
 
     function filterItems() {
-        setFiltered(magicItems.filter(item => {
+        setFiltered(variants.filter(item => {
             let ok = false;
             if (
                 item.value >= filterOptions.minValue &&
@@ -56,7 +56,7 @@ export default function ItensMagicos() {
         }))
     }
 
-    function getList(): WondrousSet[] {
+    function getList(): MagicVariantSet[] {
         return [
             { items: searchedItems.filter(item => item.rarity === 'common'), label: 'Common', rarity: 'common' },
             { items: searchedItems.filter(item => item.rarity === 'uncommon'), label: 'Uncommon', rarity: 'uncommon' },
@@ -90,13 +90,13 @@ export default function ItensMagicos() {
         <div className='flex flex-col-reverse w-full justify-center items-center h-[120dv] md:my-12 md:mx-auto md:flex-row md:items-start md:justify-start md:min-h-fit md:h-dvh md:gap-2'>
             <ListFrame>
                 <div className='flex text-titleColor font-bold justify-center items-center my-4 select-none'>
-                    <h1 className='text-3xl'>Itens Mágicos</h1>
+                    <h1 className='text-3xl'>Variantes Mágicos</h1>
                     <Filter options={{ value: true, attunement: true }} changePageFilter={changeFilterOptions} />
                 </div>
                 <SearchBar eventHandler={getSearchString} />
                 <div className='w-full h-2/3 flex justify-start items-center flex-col overflow-scroll overscroll-none scroll mb-4'>
                     {lists.map((list, index) => (
-                        <ContentList icon={<GiRuneStone size='1.5rem' />} dataSet={list} key={index} clickHandler={(item: ItemTypes) => setSelectedItem(item as MagicItem)} />
+                        <ContentList icon={<GiMagicAxe size='1.5rem' />} dataSet={list} key={index} clickHandler={(item: ItemTypes) => setSelectedItem(item as MagicVariant)} />
                     ))}
                 </div>
             </ListFrame>
@@ -107,7 +107,7 @@ export default function ItensMagicos() {
                 <div>
                     <div className='flex justify-between items-center cursor-default'>
                         <p className='text-gold' title={selectedItem.source}>{selectedItem.source}</p>
-                        <p className='text-gold'>{selectedItem.value} PO</p>
+                        <p className='text-gold'>{selectedItem.value} PO + item</p>
                     </div>
                     <div className='flex justify-between items-center cursor-default mb-4 pb-2 border-b border-titleColor'>
                         <p>{selectedItem.rarity}</p>

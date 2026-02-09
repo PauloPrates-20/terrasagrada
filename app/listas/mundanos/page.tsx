@@ -17,7 +17,7 @@ export default function Mundanos() {
   const [lists, setLists] = useState<MundaneSet[]>([]);
   const [selectedItem, setSelectedItem] = useState<MundaneItem>(mundane[0]);
   const [types, setTypes] = useState<string[]>([]);
-  const [filterOptions, setFilterOptions] = useState<PageFilter>({ minValue: 1, maxValue: 100000, attunement: undefined, reforge: undefined });
+  const [filterOptions, setFilterOptions] = useState<PageFilter>({ minValue: 1, maxValue: 100000, attunement: undefined });
   const [searchText, setSearchText] = useState('');
 
   function getSearchString(searchString: string) {

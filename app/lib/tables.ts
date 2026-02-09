@@ -1,5 +1,3 @@
-import mundaneItems from '@/public/data/mundaneItems.json';
-
 export const subTable = [
   { first: 0, second: 0, third: 0, fourth: 0, fifth: 0, sixth: 0, seventh: 0, eighth: 0, nineth: 0 },
   { first: 0, second: 0, third: 0, fourth: 0, fifth: 0, sixth: 0, seventh: 0, eighth: 0, nineth: 0 },
@@ -124,6 +122,6 @@ export const tiers = {
   common: { name: 'Iniciante', color: '#fff' },
   uncommon: { name: 'Cobre', color: '#b87333' },
   rare: { name: 'Prata', color: '#c4c4c4' },
-  veryrare: { name: 'Ouro', color: '#ffbb33' },
+  'very rare': { name: 'Ouro', color: '#ffbb33' },
   legendary: { name: 'Platina', color: '#367588' },
 };
