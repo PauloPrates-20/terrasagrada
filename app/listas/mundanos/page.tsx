@@ -113,53 +113,5 @@ export default function Mundanos() {
           <h1 className='text-3xl'>Itens Mundanos</h1>
           <Filter options={{ value: true }} changePageFilter={changeFilterOptions} />
         </div>
-        <SearchBar eventHandler={getSearchString} />
-        <div className='w-full h-2/3 flex justify-start items-center flex-col overflow-scroll overscroll-none scroll mb-4'>
-          {lists.map((list, index) => (
-            <ContentList icon={<GiTwoHandedSword size='1.5rem' />} dataSet={list} key={index} clickHandler={(item: ItemTypes) => setSelectedItem(item as MundaneItem)} />
-          ))}
-        </div>
-      </ListFrame>
-      <ItemFrame>
-        <a className='font-bold text-3xl text-titleColor my-4' href={selectedItem.url} target='_blank' title='Open in 5e.tools'>
-          {selectedItem.name}
-        </a>
-        <div>
-          <div className='flex justify-between items-center cursor-default mb-4 pb-2 border-b border-titleColor'>
-            <p>{types.map((type, index) => <span key={index}>{type} </span>)}</p>
-            <p className='text-gold'>{selectedItem.value} PO</p>
-          </div>
-        </div>
-        <div>
-          <div className='text-justify'>
-            <h3 className='font-bold text-xl text-titleColor my-2'>Detalhes</h3>
-            <p className='text-titleColor'>Weight: <span className='text-textColor'>{selectedItem.weight}</span></p>
-            {selectedItem.damage && (
-              <p className='text-titleColor'>Damage: <span className='text-textColor'>{selectedItem.damage.dice} {selectedItem.damage.type}</span></p>
-            )}
-            {selectedItem.ac && (
-              <p className='text-titleColor'>AC: <span className='text-textColor'>{selectedItem.ac}</span></p>
-            )}
-            {selectedItem.strength && (
-              <p className='text-titleColor'>Required strenght: <span className='text-textColor'>{selectedItem.strength.replace('For', '')}</span></p>
-            )}
-            {selectedItem.stealth && (
-              <p className='text-titleColor'>Stealth: <span className='text-textColor'>disadvantage</span></p>
-            )}
-          </div>
-          {selectedItem.properties && (
-            <div className='text-justify my-2 border-t border-titleColor'>
-              <h3 className='font-bold text-xl text-titleColor my-2'>Properties</h3>
-              {selectedItem.properties.map((prop, index) => (
-                <p key={index} className='text-titleColor mb-2'>{prop.name} <span className='text-textColor'>{prop.description}</span></p>
-              ))}
-            </div>
-          )}
-        </div>
-        <div className='flex justify-center items-center'>
-          <BuyButton id={selectedItem.id} name={selectedItem.name} value={selectedItem.value} />
-        </div>
-      </ItemFrame>
-    </div>
-  );
+    );
 }
