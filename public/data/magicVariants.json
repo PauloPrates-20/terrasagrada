@@ -20,8 +20,7 @@
             "An armblade is a magic weapon that attaches to your arm, becoming inseparable from you as long as you're attuned to it. To attune to this item, you must hold it against your forearm for the entire attunement period.",
             "As a bonus action, you can retract the armblade into your forearm or extend it from there. While it is extended, you can use the weapon as if you were holding it, and you can't use that hand for other purposes."
         ],
-        "type": "GV|DMG",
-        "reqAttune": "by a warforged"
+        "type": "GV|DMG"
     },
     {
         "name": "Armor of Gleaming",
@@ -52,8 +51,7 @@
             "An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
             "When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one fire damage roll of the spell."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Imbued Wood (Irian Rosewood)",
@@ -64,8 +62,7 @@
             "An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
             "When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one radiant damage roll of the spell."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Imbued Wood (Kythrian Manchineel)",
@@ -76,8 +73,7 @@
             "An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
             "When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one acid or poison damage roll of the spell."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Imbued Wood (Lamannian Oak)",
@@ -88,8 +84,7 @@
             "An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
             "When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one lightning or thunder damage roll of the spell."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Imbued Wood (Mabaran Ebony)",
@@ -100,8 +95,7 @@
             "An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
             "When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one necrotic damage roll of the spell."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Imbued Wood (Risian Pine)",
@@ -112,8 +106,7 @@
             "An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
             "When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one cold damage roll of the spell."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Imbued Wood (Shavarran Birch)",
@@ -124,8 +117,7 @@
             "An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
             "When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one force damage roll of the spell."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Imbued Wood (Xorian Wenge)",
@@ -136,8 +128,7 @@
             "An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
             "When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one psychic damage roll of the spell."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Moon-Touched Sword",
@@ -158,8 +149,7 @@
             "An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
             "If you're holding the orb when you take fire damage, you can use your reaction to reduce the damage by 1d4 (to a minimum of 0)."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Orb of Shielding (Irian Quartz)",
@@ -170,8 +160,7 @@
             "An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
             "If you're holding the orb when you take radiant damage, you can use your reaction to reduce the damage by 1d4 (to a minimum of 0)."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Orb of Shielding (Kythrian Skarn)",
@@ -182,8 +171,7 @@
             "An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
             "If you're holding the orb when you take acid or poison damage, you can use your reaction to reduce the damage by 1d4 (to a minimum of 0)."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Orb of Shielding (Lamannian Flint)",
@@ -194,8 +182,7 @@
             "An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
             "If you're holding the orb when you take lightning or thunder damage, you can use your reaction to reduce the damage by 1d4 (to a minimum of 0)."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Orb of Shielding (Mabaran Obsidian)",
@@ -206,8 +193,7 @@
             "An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
             "If you're holding the orb when you take necrotic damage, you can use your reaction to reduce the damage by 1d4 (to a minimum of 0)."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Orb of Shielding (Risian Shale)",
@@ -218,8 +204,7 @@
             "An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
             "If you're holding the orb when you take cold damage, you can use your reaction to reduce the damage by 1d4 (to a minimum of 0)."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Orb of Shielding (Shavarran Chert)",
@@ -230,8 +215,7 @@
             "An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
             "If you're holding the orb when you take force damage, you can use your reaction to reduce the damage by 1d4 (to a minimum of 0)."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Orb of Shielding (Xorian Marble)",
@@ -242,8 +226,7 @@
             "An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
             "If you're holding the orb when you take psychic damage, you can use your reaction to reduce the damage by 1d4 (to a minimum of 0)."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Silvered Ammunition",
@@ -368,8 +351,7 @@
             "While wearing this armor, you can use it to cast either Speak with Dead or Animate Dead. Once the armor has cast a spell in this way, it can't cast either spell until the next dawn.",
             "Your soul keeps this armor together. If you die while you are attuned to the armor, the armor is destroyed."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Armor of Weightlessness",
@@ -380,8 +362,7 @@
             "This armor has 5 charges. While you wear it, you can use a bonus action to expend 1 or more charges to cast one of the following spells from the armor, targeting yourself: Jump (1 charge) or Levitate (2 charges).",
             "This armor regains 1d4 + 1 expended charges daily at dawn."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Dried Leech",
@@ -432,8 +413,7 @@
         "entries": [
             "Any nonmagical suit of heavy armor can be turned by mind flayers into mind carapace armor. Only one creature can attune to it: either a specific mind flayer or one of its thralls. While worn by any other creature, the mind carapace armor functions as normal armor of its kind. To its intended wearer, the armor grants advantage on Intelligence, Wisdom, and Charisma saving throws and makes its wearer immune to the frightened condition."
         ],
-        "type": "GV|DMG",
-        "reqAttune": "by a specific individual"
+        "type": "GV|DMG"
     },
     {
         "name": "Mithral Armor",
@@ -454,8 +434,7 @@
             "This weapon is decorated with dragon heads, claws, wings, scales, or Draconic letters. When it steeps in a dragon's hoard, it absorbs the energy of the dragon's breath weapon and deals damage of that type with its special properties.",
             "Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon's breath weapon."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Sword of Vengeance",
@@ -474,8 +453,7 @@
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Weapon of Warning",
@@ -485,8 +463,7 @@
         "entries": [
             "This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when incapacitated by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Winged Ammunition",
@@ -494,7 +471,7 @@
         "rarity": "uncommon",
         "value": 2500,
         "entries": [
-            "Ranged weapon attack rolls made with this ammunition ignore half and Cover. In addition, attacking at long range doesn't impose disadvantage on ranged weapon attack rolls made with this ammunition."
+            "Ranged weapon attack rolls made with this ammunition ignore half and three-quarters cover. In addition, attacking at long range doesn't impose disadvantage on ranged weapon attack rolls made with this ammunition."
         ],
         "type": "GV|DMG"
     },
@@ -572,8 +549,7 @@
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Armor of Acid Resistance",
@@ -583,8 +559,7 @@
         "entries": [
             "You have resistance to acid damage while you wear this armor."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Armor of Cold Resistance",
@@ -594,8 +569,7 @@
         "entries": [
             "You have resistance to cold damage while you wear this armor."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Armor of Fire Resistance",
@@ -605,8 +579,7 @@
         "entries": [
             "You have resistance to fire damage while you wear this armor."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Armor of Force Resistance",
@@ -616,8 +589,7 @@
         "entries": [
             "You have resistance to force damage while you wear this armor."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Armor of Lightning Resistance",
@@ -627,8 +599,7 @@
         "entries": [
             "You have resistance to lightning damage while you wear this armor."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Armor of Necrotic Resistance",
@@ -638,8 +609,7 @@
         "entries": [
             "You have resistance to necrotic damage while you wear this armor."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Armor of Poison Resistance",
@@ -649,8 +619,7 @@
         "entries": [
             "You have resistance to poison damage while you wear this armor."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Armor of Psychic Resistance",
@@ -660,8 +629,7 @@
         "entries": [
             "You have resistance to psychic damage while you wear this armor."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Armor of Radiant Resistance",
@@ -671,8 +639,7 @@
         "entries": [
             "You have resistance to radiant damage while you wear this armor."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Armor of Thunder Resistance",
@@ -682,8 +649,7 @@
         "entries": [
             "You have resistance to thunder damage while you wear this armor."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Berserker Axe",
@@ -701,8 +667,7 @@
             },
             "Whenever a hostile creature damages you while the axe is in your possession, you must succeed on a DC 15 Wisdom saving throw or go berserk. While berserk, you must use your action each round to attack the creature nearest to you with the axe. If you can make extra attacks as part of the Attack action, you use those extra attacks, moving to attack the next nearest creature after you fell your current target. If you have multiple possible targets, you attack one at random. You are berserk until you start your turn with no creatures within 60 feet of you that you can see or hear."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Bow of Conflagration",
@@ -712,8 +677,7 @@
         "entries": [
             "Ammunition fired from this bow blazes brightly. When you hit with an attack roll using this bow, the target takes an extra 1d6 fire damage. If the target is a flammable, nonmagical object, it catches fire, taking 1d6 fire damage at the start of each of your turns until a creature uses an action to extinguish the flames."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Corpse Slayer",
@@ -724,8 +688,7 @@
             "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
             "When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Crystal Blade",
@@ -737,8 +700,7 @@
             "The sword has 3 charges and regains 1d3 expended charges daily at dawn. When you hit a creature with an attack roll using the sword, you can expend 1 charge to regain a number of hit points equal to the extra radiant damage the sword dealt.",
             "While you're holding the sword, you can use a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet, to cause it to shed dim light in a 10-foot radius, or to douse the light."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Demon Skin",
@@ -749,8 +711,7 @@
             "This magic armor appears as a pot of bubbling black ichor. When you attune to it, the ichor adheres to and contours to your skin, and the pot disappears. The armor can be worn under normal clothes, and it doesn't impede bodily functions. Once you put it on, it can't be removed unless you choose to do so or you die, at which point the pot reappears and the ichor flows back into it.",
             "While wearing the armor, you have resistance to poison damage. The armor also doesn't impose disadvantage on Dexterity (Stealth) checks."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Dragon Slayer",
@@ -772,8 +733,7 @@
             "The limb tips of this magic bow are shaped like a dragon's wings, and the weapon is infused with the essence of a chromatic, gem, or metallic dragon's breath. When you hit with an attack roll using this magic bow, the target takes an extra 1d6 damage of the same type as the breath infused in the bow—acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.",
             "If you load no ammunition in the weapon, it produces its own, automatically creating one piece of magic ammunition when you pull back the string. The ammunition created by the bow vanishes the instant after it hits or misses a target."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Drow +1 Armor",
@@ -805,8 +765,7 @@
             "While wearing this armor, you have advantage on saving throws you make to avoid or end the charmed condition on yourself.",
             "This armor has 3 charges. You can use an action to expend a charge to cast the Compulsion spell (save DC 15) from this armor. The armor regains 1d3 expended charges daily at dawn."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Flame Tongue",
@@ -816,8 +775,7 @@
         "entries": [
             "You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Giant Slayer",
@@ -840,8 +798,7 @@
             "When you hit with a ranged attack roll using this magic bow, the target takes an extra 1d6 radiant damage. If you load no ammunition in the weapon, it produces its own, automatically creating one piece of magic ammunition when you make a ranged attack with it. The ammunition created by the bow vanishes the instant after it hits or misses a target.",
             "While wielding this magic bow, you can use a bonus action to enter a semi-incorporeal state until the start of your next turn. While semi-incorporeal, you have resistance to bludgeoning, piercing, and slashing damage. Once this bonus action is used, it can't be used again until the next dawn."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Gloomwrought Armor",
@@ -853,8 +810,7 @@
             "While you're wearing this armor, you have advantage on saving throws you make to avoid or end the frightened condition on yourself.",
             "This armor has 3 charges. You can expend a charge to cast the Calm Emotions spell (save DC 15) from the armor. This armor regains 1d3 expended charges daily at dawn."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Mind Blade",
@@ -864,8 +820,7 @@
         "entries": [
             "Mind flayers can turn any nonmagical sword into a mind blade. Only one creature can attune to it: either a specific mind flayer or one of its thralls. In the hands of any other creature, the mind blade functions as a normal sword of its kind. In the hands of its intended wielder, the mind blade is a magic weapon that deals an extra 2d6 psychic damage to any target it hits."
         ],
-        "type": "GV|DMG",
-        "reqAttune": "by a specific individual"
+        "type": "GV|DMG"
     },
     {
         "name": "Mithral +1 Armor",
@@ -897,8 +852,7 @@
             "This magical armor appears as a jug of molten bronze. When you attune to it, the bronze adheres and contours to your skin. The armor can be worn under normal clothes, but it doesn't impede bodily functions. Once you put it on, it can't be removed unless you choose to do so.",
             "While wearing the armor, you have resistance to fire damage. The armor also doesn't impose disadvantage on Dexterity (Stealth) checks."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Starshot Crossbow",
@@ -942,8 +896,7 @@
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Stirring Dragon's Wrath Weapon",
@@ -955,8 +908,7 @@
             "Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon's breath weapon.",
             "You gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, the weapon deals an extra 1d6 damage of the type dealt by the dragon's breath weapon."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Sword of Life Stealing",
@@ -967,8 +919,7 @@
             "When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary hit points.",
             "Note: According to the SRD, it is an extra 3d6 necrotic damage, although this is incorrect:."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Sword of Wounding",
@@ -979,8 +930,7 @@
             "Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.",
             "Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Vicious +1 Weapon",
@@ -1035,8 +985,7 @@
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "+2 Armor",
@@ -1099,8 +1048,7 @@
             "While wearing this armor, you can use your reaction to give yourself advantage on a saving throw you make against a spell. Once this property is used, it can't be used again until the next dawn.",
             "In addition, while you wear this armor, you can use it to cast Antimagic Field, requiring no spell components. Once this property is used, it can't be used again until the next dawn."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Armor of Safeguarding",
@@ -1118,8 +1066,7 @@
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Arrow of Slaying (*)",
@@ -1164,8 +1111,7 @@
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Bow of Melodies",
@@ -1190,8 +1136,7 @@
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Clockwork Armor",
@@ -1202,8 +1147,7 @@
             "The outside surface and internal joints of this armor whir with interlocking gears, drawing on the orderly magic of the plane of Mechanus.",
             "The armor has 4 charges. If you make a d20 roll while wearing this armor, you can expend 1 charge to change the number rolled to a 10. The armor regains 1d4 expended charges daily at dawn."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Dancing Sword",
@@ -1215,8 +1159,7 @@
             "While the sword hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 feet of it.",
             "After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Demonbone Polearm",
@@ -1238,12 +1181,11 @@
                 "type": "entries",
                 "name": "Corrupting",
                 "entries": [
-                    "This item corrupts. See the \"Infernal Item Corruption\" section."
+                    "This item corrupts. See the \"Infernal Item Corruption:\" section."
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Drow +3 Weapon",
@@ -1283,8 +1225,7 @@
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Forcebreaker Weapon",
@@ -1307,8 +1248,7 @@
             "In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.",
             "When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Last Stand Armor",
@@ -1338,8 +1278,7 @@
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Nine Lives Stealer",
@@ -1350,8 +1289,7 @@
             "You gain a +2 bonus to attack and damage rolls made with this magic weapon.",
             "The sword has 1d8 + 1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Ruidium Armor",
@@ -1383,8 +1321,7 @@
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Ruidium Weapon",
@@ -1422,8 +1359,7 @@
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Stygian Spear",
@@ -1445,12 +1381,11 @@
                 "type": "entries",
                 "name": "Corrupting",
                 "entries": [
-                    "This item corrupts. See the \"Infernal Item Corruption\" section."
+                    "This item corrupts. See the \"Infernal Item Corruption:\" section."
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Sword of Retribution",
@@ -1471,12 +1406,11 @@
                 "type": "entries",
                 "name": "Corrupting",
                 "entries": [
-                    "This item corrupts. See the \"Infernal Item Corruption\" section."
+                    "This item corrupts. See the \"Infernal Item Corruption:\" section."
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Sword of Sharpness",
@@ -1489,8 +1423,7 @@
             "Note: According to the SRD, it is an extra 4d6 slashing damage, although this is incorrect:.",
             "In addition, you can speak the sword's command to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Wakened Dragon's Wrath Weapon",
@@ -1503,8 +1436,7 @@
             "You gain a +2 bonus to attack and damage rolls made using the weapon. On a hit, the weapon deals an extra 2d6 damage of the type dealt by the dragon's breath weapon.",
             "As an action, you can unleash a 30-foot cone of destructive energy from the weapon. Each creature in that area must make a DC 16 Dexterity saving throw, taking 8d6 damage of the type dealt by the dragon's breath weapon on a failed save, or half as much damage on a successful one. Once this action is used, it can't be used again until the next dawn."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Weapon of Agonizing Paralysis",
@@ -1514,8 +1446,7 @@
         "entries": [
             "You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Weapon of Throne's Command",
@@ -1533,8 +1464,7 @@
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "+3 Armor",
@@ -1557,8 +1487,7 @@
             "You gain a +3 bonus to attack and damage rolls made using the weapon. On a hit, the weapon deals an extra 3d6 damage of the type dealt by the dragon's breath weapon.",
             "As an action, you can unleash a 60-foot cone of destructive energy from the weapon. Each creature in that area must make a DC 18 Dexterity saving throw, taking 12d6 damage of the type dealt by the dragon's breath weapon on a failed save, or half as much damage on a successful one. Once this action is used, it can't be used again until the next dawn."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Barding",
@@ -1576,7 +1505,7 @@
         "value": 120,
         "entries": [
             "As an action, you can fire this piece of magic ammunition into the air above you, causing it to disappear into a dusting of feathers and be destroyed. The ammunition creates an invisible sensor in an unoccupied space that you can see up to 120 feet directly above you. The sensor remains for 1 minute or until you move more than 120 feet away from where you first fired the ammunition. For the duration, you can use an action to see and hear through the sensor as if you were in its space until the start of your next turn. If the ammunition hits a target, it's no longer magical.",
-            "A creature that can see the sensor (such as a creature benefiting from see invisibility|PHB or truesight|PHB) sees a luminous, intangible bird about the size of a fist fluttering in the air."
+            "A creature that can see the sensor (such as a creature benefiting from see invisibility or truesight|PHB) sees a luminous, intangible bird about the size of a fist fluttering in the air."
         ],
         "type": "GV|DMG"
     },
@@ -1610,8 +1539,7 @@
             "This magic weapon has 7 charges. While holding it, you can use a bonus action and expend 1 charge to conjure a thick patch of shrubs, grasses, aboveground roots, and even small saplings in a 10-foot radius. The area becomes difficult terrain, and the foliage is thick enough to provide cover against ranged attacks. The growth is permanent unless you speak the command word again.",
             "The weapon regains all expended charges after a short or long rest."
         ],
-        "type": "GV|DMG",
-        "reqAttune": "by a druid or cleric"
+        "type": "GV|DMG"
     },
     {
         "name": "Candleflame Bow",
@@ -1622,8 +1550,7 @@
             "Wrought from metal in the likeness of a brazier, this ranged weapon's grip has been covered in wax and has a simple candle positioned in front of where the arrow or bolt is fired from. The candle is magic and never runs out of wax, nor can it be removed from the weapon. You can use a bonus action to speak the weapon's command word to cause the candle to light itself, shedding light like a normal candle while ablaze. While the candle is lit, this magic weapon deals an extra 2 fire damage to any target it hits with a ranged attack. The candle's flame lasts until you use a bonus action to speak the command word again or until you drop or stow the weapon.",
             "If you roll the same number on both d20s when you make a ranged attack roll with advantage or disadvantage using this weapon while its candle is lit, the ammunition becomes wreathed in a conflagration of uncontrollable flames. The arrow or bolt flies toward the target and explodes, destroying the ammunition and dealing 4d6 fire damage to the target (instead of the attack's normal damage), or half as much damage if the total of the attack roll was less than the target's AC. This fire ignites flammable objects within 5 feet of the target that aren't being worn or carried. This property can't be used again until the next dawn."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Fey Blade",
@@ -1697,8 +1624,7 @@
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": "by a creature of neutral alignment"
+        "type": "GV|DMG"
     },
     {
         "name": "Lunar Lance",
@@ -1718,8 +1644,7 @@
         "entries": [
             "This weapon is crafted with strands of moonlight. At night, attacks with it deal an extra 1d8 radiant damage on a hit."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Pollinator Carapace",
@@ -1744,8 +1669,7 @@
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": "by a druid or ranger"
+        "type": "GV|DMG"
     },
     {
         "name": "Quickstep Weapon",
@@ -1755,8 +1679,7 @@
         "entries": [
             "When you wield this weapon and a creature you can see targets you with an attack, you can use your reaction to move to an unoccupied space within 5 feet of your position without provoking opportunity attacks. If this movement would put you out of reach of the attacker, the attack is at disadvantage."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Sagittarian Vestments",
@@ -1775,8 +1698,7 @@
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": "by a cleric or paladin"
+        "type": "GV|DMG"
     },
     {
         "name": "Scorpio Armor",
@@ -1788,8 +1710,7 @@
             "While wearing this armor, it doesn't impose disadvantage on your Dexterity (Stealth) checks while you're in dim light or darkness. However, your speed is reduced by 5 feet while you're in sunlight, as the armored husk recoils and constricts from it.",
             "While attuned to this armor and wearing it, you have advantage on saving throws against poison. In addition, you can use a bonus action to close your eyes and speak the armor's command word. When you do, you create an instantaneous pulse of awareness around you, immediately alerting you to the presence and location of any creature within 30 feet of you that's on the ground as if you had tremorsense|MM out to a range of 30 feet. Once the armor's command word has been used, it can't be used again until the next dusk."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Splinter Bow",
@@ -1799,8 +1720,7 @@
         "entries": [
             "This magical bow can split arrows as you fire it, allowing you to target two creatures within 10 feet of each other. When you use the bow in this way, you make only one attack roll, which applies to both targets. If the attack hits at least one of the targets, roll damage normally; each target takes half the amount of damage rolled (rounded down)."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Weapon of Verdict",
@@ -1824,8 +1744,7 @@
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": "by a creature of good alignment"
+        "type": "GV|DMG"
     },
     {
         "name": "Armor of the Black River",
@@ -1836,8 +1755,7 @@
             "While wearing this armor, you gain a +1 bonus to AC, and you are immune to shadow corruption (see Chapter 5 of Book of Ebon Tides) and void taint (see Midgard Worldbook) while you wear this armor. Additionally, you can use an action to assume a ghostly form for 10 minutes (together with up to ten creatures you touch), or until you are no longer wearing the armor, gaining a flying speed of 200 feet. You cannot take actions other than movement while in this form. Once this special action is used, it can't be used again until the next dawn.",
             "When combined with the Styx boots, the armor of the Black River permits you to use any branch of the River Styx or other planar waterways as a shadow road. Once per week, you can walk on such a planar waterway for 8 hours and arrive at any other plane of your choosing."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Bow of the Cobra",
@@ -1848,8 +1766,7 @@
             "This metallic bow resembles the shape of a mighty cobra and is covered in spots of patina. When you fire an arrow from the bow, you can choose to coat the arrow in a thin layer of acid. A target hit with the acid-coated arrow takes an extra 1d4 acid damage. Hit or miss, a nonmagical coated arrow is destroyed after the attack.",
             "In addition, the bow has 4 charges and regains 1d4 expended charges daily at dawn. When you take the Attack action using this bow, you can expend 1 of its charges to replace one of your weapon attacks with a special attack. This special attack duplicates the effect of the Melf's acid arrow spell and uses the same attack bonus as your normal weapon attacks with the bow."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Bow of the Twilight Valkyrie",
@@ -1880,8 +1797,7 @@
             },
             "This form lasts as long as you concentrate (as if concentrating on a spell), to a maximum of 1 minute. Once this property of the armor has been used, it can't be used again until the next dawn."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Delerium-Forged Blade",
@@ -1892,7 +1808,7 @@
             "This sword has a small delerium sliver encased in glass and set in the hilt like a gemstone. The blade is made of meteoric iron infused with delerium dust, which causes it to softly glow with octarine light.",
             "You gain a +2 bonus to attack and damage rolls made with this weapon.",
             "When you make an attack with this weapon, you can use your spellcasting ability modifier, instead of Strength or Dexterity, for the attack and damage rolls. In addition, you can use this weapon as a spellcasting focus.",
-            "When you roll a 20 on an attack roll made with this weapon against a humanoid, the humanoid must succeed on a DC 15 Constitution saving throw or take an extra (3d6) necrotic damage and gain one level of contamination."
+            "When you roll a 20 on an attack roll made with this weapon against a humanoid, the humanoid must succeed on a DC 15 Constitution saving throw or take an extra (3d6) necrotic damage and gain one level of contamination:."
         ],
         "type": "GV|DMG"
     },
@@ -1912,7 +1828,7 @@
         "rarity": "rare",
         "value": 5000,
         "entries": [
-            "This glossy black armor is made from enchanted carrion beetle chitin by the darakhul) checks or has a Strength requirement, the ebony beetle version of the armor doesn't. While wearing the armor, you are immune to slashing damage. It is half the weight of comparable metal armor."
+            "This glossy black armor is made from enchanted carrion beetle chitin by the darakhul. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the ebony beetle version of the armor doesn't. While wearing the armor, you are immune to slashing damage. It is half the weight of comparable metal armor."
         ],
         "type": "GV|DMG"
     },
@@ -1924,8 +1840,7 @@
         "entries": [
             "These mithral weapons are commonly found among gnomes and quicksteps, who prize their power to shed a chilling blue light on command. You can use a bonus action to speak this weapon's command word, and all creatures within 30 feet must succeed on a DC 15 Constitution saving throw, becoming paralyzed for 1 round on a failed saving throw and having their speed reduced to zero for 1 round on a successful one. The effect ends at the beginning of your next turn. This action cannot be used again until the next dawn."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Gentleman's Saber",
@@ -1936,8 +1851,7 @@
             "This elegant blade has a gently curved handle and a guard in the shape of a shield. Even if you aren't attuned to the sword, you gain a +1 bonus to attack and damage rolls made with this magic weapon, and if you make an opportunity attack with the weapon and hit, the target takes an extra 1d6 slashing damage from the attack.",
             "If you're attuned to the weapon, the weapon's shieldlike guard changes its design to match your family crest. In addition, the sword has 3 charges, which you can use only if you're attuned to it. When you're hit by a ranged attack while holding the sword, you can use your reaction to expend 1 of its charges to hold the blade in front of you. Roll a d6. A domed, spectral barrier appears from the blade's tip, granting you a bonus to AC against ranged attacks equal to the number rolled on the d6 until the start of your next turn, including against the triggering attack. The sword regains 1d3 expended charges daily at dawn."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Ghost Armor",
@@ -1947,8 +1861,7 @@
         "entries": [
             "While wearing this armor, you can speak its command word as a bonus action to move incorporeally for 1 round. You can move through other creatures and objects as if they were difficult terrain. You take 5 (1d10) force damage if you end your turn inside an object. You can use this ability a number of rounds per day equal to your level."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Hardened Delerium-tipped Arrows",
@@ -1956,7 +1869,7 @@
         "rarity": "rare",
         "value": 5000,
         "entries": [
-            "This piece of ammunition has a refined delerium arrowtip. A creature hit by a ranged attack using one of these arrows takes an extra (3d6) necrotic damage and must succeed on a DC 15 Constitution saving throw or gain one level of contamination. Once it hits a target, the delerium tip crumbles to dust and the arrow becomes nonmagical."
+            "This piece of ammunition has a refined delerium arrowtip. A creature hit by a ranged attack using one of these arrows takes an extra (3d6) necrotic damage and must succeed on a DC 15 Constitution saving throw or gain one level of contamination:. Once it hits a target, the delerium tip crumbles to dust and the arrow becomes nonmagical."
         ],
         "type": "GV|DMG"
     },
@@ -1969,8 +1882,7 @@
             "This wooden weapon is sprouted from a roughly fistsized seed that's still attached to its base. A large, red thorn creates the weapon's pointed tip. Dense, thorny vines coil around the top and bottom of the haft, with small, glowing splits appearing in the wood beneath them. You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
             "In addition, this weapon has 5 charges and regains all expended charges daily at dawn. When you make a ranged attack with the weapon, you can choose to expend 1 of its charges. Hit or miss, the weapon explodes into thorny shrapnel after it reaches the target. The target and each creature within 10 feet of it must make a DC 15 Dexterity saving throw. A creatures takes 1d8 piercing damage on a failed save, or half as much damage on a successful one. If the target was hit by the attack, it automatically fails the saving throw. Immediately after the weapon explodes, the seed reappears at your location and regrows the weapon into your hand."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Lycan Weapon",
@@ -1994,8 +1906,7 @@
             "As an action while holding the sword, you can speak its command phrase to release the stored creature. It reappears in an unoccupied space that you can see within 10 feet of you. The creature is friendly to you and your companions. Roll initiative for the creature, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don't issue any commands to it, it defends itself from hostile creatures, but otherwise takes no actions. The GM has the creature's statistics. The creature returns to the sword after 1 minute if you're within 100 feet of it, or earlier if you touch the creature with the sword as an action. The creature ceases to be friendly to you and your companions if it's unable to return to the sword, or if you release control of it using a bonus action, or if it takes damage from you or an ally.",
             "While you're holding the sword and the creature is stored within it or within 30 feet of you, you can use a bonus action to speak the weapon's command word and expend 1 or more of its charges to restore 10 hit points to that creature for each charge spent. A captured creature can only regain hit points in this way."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Moonsteel Weapon",
@@ -2015,8 +1926,7 @@
         "entries": [
             "This armor is made of woven moonlight by the shadow goblins. It weighs half as much as comparable armor and always glows with a gentle radiance. While wearing this armor, you have advantage on saving throws against spells and effects involving radiant, cold, or necrotic damage."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Myceliaweave Armor",
@@ -2033,8 +1943,7 @@
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Oceanic Weapon",
@@ -2045,8 +1954,7 @@
             "This elegant weapon is adorned with engravings depicting leaping dolphins and drifting jellyfish. You gain a +1 bonus to attack and damage rolls made with this magic weapon, and you ignore Underwater Combat. While holding the weapon in front of you with both hands, you have a swimming speed of 30 feet.",
             "Additionally, while you hold the weapon, you can use an action to cast the water breathing spell. Once this property is used, it can't be used again until the next dawn."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Poison Armor of Amphibios",
@@ -2056,8 +1964,7 @@
         "entries": [
             "This armor is enriched by poisonous frog toxins. While wearing this armor, you have advantage on saving throws against poison, and you have resistance to poison damage. In addition, the armor has 3 charges and regains all expended charges daily at dawn. When a creature within 5 feet of you hits you with a melee attack, you can use your reaction to expend 1 of the armor's charges to release a spray of poison from the armor at the attacker. The attacker must make a DC 15 Constitution saving throw. On a failed save, the target takes 2d6 poison damage and is poisoned until the end of its next turn. On a successful save, the target takes half as much poison damage and isn't poisoned."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Scepter Weapon",
@@ -2066,10 +1973,9 @@
         "value": 5000,
         "entries": [
             "By speaking this weapon's command word as a bonus action, you activate a harsh purple light. While this light shines, you have advantage on Charisma (Intimidation) checks made to interact with beasts, dragons, fey, giants, humanoids, and monstrosities.",
-            "In addition, any foe or object you strike with a scepter weapon glows, shedding Vision and Light in a 10-foot radius. Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible."
+            "In addition, any foe or object you strike with a scepter weapon glows, shedding dim light in a 10-foot radius. Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Starcrossed Bow",
@@ -2080,8 +1986,7 @@
             "This magical bow or crossbow has an intricate arrangement of delerium shards and focusing lenses along the stock where a bolt would normally be loaded, and instead magically conjures its own projectiles. You gain a +2 bonus to attack and damage rolls made with this weapon, which deals radiant damage instead of piercing damage and ignores the ammunition and loading properties.",
             "The weapon has 3 charges, which are regained each day at dawn. When you hit with a ranged attack using it, you can cause the bolt to explode in a brilliant flash of light. The target you hit and any creatures within 10 feet of it must succeed on a DC 15 Constitution saving throw or become blinded until the end of your next turn."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Umbral Armor",
@@ -2089,7 +1994,7 @@
         "rarity": "rare",
         "value": 5000,
         "entries": [
-            "This armor is a dull gray, marked with flecks of gold or silver and sometimes filigreed in luminous purple swirls. While wearing this armor, you emit a trail of shadows that obscures your passage, wiping away tracks and hiding your movement. All attempts to track you are made with disadvantage, and all ranged attacks against you are also made with disadvantage. However, Vision and Light spell) negates both effects and makes this armor easy to see. In these conditions, all attacks made against you gain a +2 to the attack roll."
+            "This armor is a dull gray, marked with flecks of gold or silver and sometimes filigreed in luminous purple swirls. While wearing this armor, you emit a trail of shadows that obscures your passage, wiping away tracks and hiding your movement. All attempts to track you are made with disadvantage, and all ranged attacks against you are also made with disadvantage. However, bright light (such as from sunlight or the daylight spell) negates both effects and makes this armor easy to see. In these conditions, all attacks made against you gain a +2 to the attack roll."
         ],
         "type": "GV|DMG"
     },
@@ -2120,11 +2025,10 @@
         "rarity": "rare",
         "value": 5000,
         "entries": [
-            "A creature in possession of both the Lunar Weapon can perform a 1-hour ritual (as if attuning to a magic item) to combine those items, forming the Weapon of the Sun and Moon.",
-            "In addition to having the properties of both the Lunar Weapon spell. Once the daytime Eclipse Power is used, it can't be used again until the next dawn; once the nighttime Eclipse Power is used, it can't be used again until the next dusk."
+            "A creature in possession of both the Lunar Weapon and the Solar Amulet can perform a 1-hour ritual (as if attuning to a magic item) to combine those items, forming the Weapon of the Sun and Moon.",
+            "In addition to having the properties of both the Lunar Weapon and the Solar Amulet, this weapon is considered a +1 Weapon and gains two Eclipse Powers. During the day, the Weapon of the Sun and Moon can use its Eclipse Power to cast the Darkness spell; this version of the spell creates a 60-foot-radius sphere of darkness, instead of its normal size. During the night, it can use its Eclipse Power to cast the Daylight spell. Once the daytime Eclipse Power is used, it can't be used again until the next dawn; once the nighttime Eclipse Power is used, it can't be used again until the next dusk."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Webgrip Bow",
@@ -2137,12 +2041,11 @@
                 "type": "entries",
                 "name": "Summon Spiders",
                 "entries": [
-                    "While holding the weapon, you can use an action to speak its command word to summon 2 swarm of insects, which appear in unoccupied spaces that you can see within 10 feet of you. The GM has the creatures' statistics. The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions. A summoned creature disappears when it drops to 0 hit points, after 1 hour, or when you end the effect early as a bonus action. Once this property of the bow has been used, it can't be used again until the next dawn."
+                    "While holding the weapon, you can use an action to speak its command word to summon 2 swarm of insects (spiders) or 1 giant spider, which appear in unoccupied spaces that you can see within 10 feet of you. The GM has the creatures' statistics. The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions. A summoned creature disappears when it drops to 0 hit points, after 1 hour, or when you end the effect early as a bonus action. Once this property of the bow has been used, it can't be used again until the next dawn."
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Whirling Weapons",
@@ -2176,8 +2079,7 @@
         "entries": [
             "You are immune to necrotic and cold damage and vulnerable to fire and radiant damage while you wear this armor. Additionally, you are imbued with soul-devouring energy. When you hit with a melee attack, the target takes an extra 3d6 necrotic damage, and you regain 3d6 hit points. If you gain hit points above your maximum, you immediately gain a level of exhaustion, and the soul-devouring power of the armor ends until the next dawn."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Bow of the Spelldrinker",
@@ -2188,8 +2090,7 @@
             "This gilded bow creates hazy illusions of the cosmos when drawn. Attacks made with this magic bow deal an extra 1d4 force damage to any target hit by it.",
             "When you see a creature casting a spell within 60 feet of you while holding this bow, you can use your reaction to draw from your own life force and attempt to counter it. When you do, you take 30 force damage, which can't be reduced or prevented in any way, and fire a magical arrow of pure force from the bow toward the creature. If the creature is casting a spell of 5th level or lower, its spell fails and has no effect. In addition, the target must make a DC 16 saving throw, using its spellcasting ability. On a failed save, the creature takes 30 force damage as the magic is ripped from it. On a successful save, the creature takes half as much force damage. Once this property has been used, it can't be used again until you finish a short or long rest."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Comet Smasher",
@@ -2200,8 +2101,7 @@
             "The head of this bludgeoning weapon is made from a massive delerium crystal that crackles with arcane energies. When you hit with an attack using this weapon, the target takes an extra (3d6) necrotic damage.",
             "When you roll a 20 on an attack roll made with this weapon, it unleashes an arcane anomaly (see Dungeons of Drakkenheim). You can roll twice on the table and choose either result."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Dragon Turtle Barding",
@@ -2240,8 +2140,7 @@
             "This weapon's haft is engraved with sigils of divination. You have a +1 bonus to attack and damage rolls made with this magic weapon. In combat, the weapon imparts subtle hints of the future to you, letting you predict a foe's defensive movements when you initially engage them. The first time you attack each creature during an encounter with this weapon, you have advantage on the attack roll. If that attack hits, maximize your weapon damage dice against the target.",
             "Additionally, when you miss with an attack using this weapon, you can use your reaction to shift the flow of causality and turn the miss into a hit. Once you use this reaction, you can't do so again until the next dawn."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Midnight Armor",
@@ -2251,8 +2150,7 @@
         "entries": [
             "Spun of pure shadow and invisible in sunlight, armor of this type is typically of shadow goblin or derro construction. While wearing it, you gain a +1 bonus to AC and resistance to radiant damage. In addition, you have advantage on Dexterity (Stealth) checks."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Novanite Armor",
@@ -2270,8 +2168,7 @@
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Phasing Bow",
@@ -2283,8 +2180,7 @@
             "The bow has 5 charges and regains all expended charges daily at dawn. When you make a ranged attack with this bow, you can expend 1 of its charges to cause the arrow to slip partially into the Ethereal Plane. When you do, the target of the attack gains no benefit from cover, including total cover, as long as the cover isn't made of lead or more than 1 foot thick. If you hit, the target takes an extra 3d4 force damage. Any effect that blocks travel through the Ethereal Plane also blocks the arrow.",
             "Alternatively, you can speak the bow's command word as a bonus action to expend 3 of its charges and fire an arrow at a point you can see within the weapon's normal range. When the arrow hits a solid surface, you vanish from your location and reappear in an unoccupied space nearest to that point."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Yellow Harbinger's Path",
@@ -2299,7 +2195,7 @@
                 "type": "entries",
                 "name": "\"At Arrow's Length!\"",
                 "entries": [
-                    "When a creature that you can see within 60 feet of you uses its reaction to make an opportunity attack, you can use your reaction to expend 1 of the armor's charges to summon a spectral arrow from the air above it. The arrow flies harmlessly in front of the attacking creature and disappears, distracting them from the attack and causing the roll to be made with disadvantage. If the attacking creature has blindsight, this property has no effect. If you're concentrating on the hunter's mark|PHB spell, you can choose to move your mark to this creature as part of your reaction.",
+                    "When a creature that you can see within 60 feet of you uses its reaction to make an opportunity attack, you can use your reaction to expend 1 of the armor's charges to summon a spectral arrow from the air above it. The arrow flies harmlessly in front of the attacking creature and disappears, distracting them from the attack and causing the roll to be made with disadvantage. If the attacking creature has blindsight, this property has no effect. If you're concentrating on the hunter's mark spell, you can choose to move your mark to this creature as part of your reaction.",
                     "Alternatively, if a hostile creature ends its turn within 5 feet of you, you can use your reaction to expend 2 charges to immediately move up to half your speed, without provoking opportunity attacks."
                 ]
             },
@@ -2321,12 +2217,11 @@
                 "type": "entries",
                 "name": "Flaw",
                 "entries": [
-                    "The Yellow Harbinger's path compels its wearer to be cautious and overprepared. While attuned to the armor, you gain the following flaw: \"I am duty-bound to lay out the perfect plan for every situation. Uncertainty is unacceptable.\" In addition, if you are attuned to the armor for 24 consecutive hours, your commitment to duty extends to the person you trust most. You or your GM determine who this person is. You consider this person your field commander and put their plans ahead of your own and trust them implicitly. You can't attune to the Red Queen's burden spell, but not while you are attuned to the armor."
+                    "The Yellow Harbinger's path compels its wearer to be cautious and overprepared. While attuned to the armor, you gain the following flaw: \"I am duty-bound to lay out the perfect plan for every situation. Uncertainty is unacceptable.\" In addition, if you are attuned to the armor for 24 consecutive hours, your commitment to duty extends to the person you trust most. You or your GM determine who this person is. You consider this person your field commander and put their plans ahead of your own and trust them implicitly. You can't attune to the Red Queen's burden or the Violet King's promise. If you're already attuned to either of them, your attunement to it immediately ends once this effect is extended to you. The first creature you meet who is attuned to either of these weapons becomes your field commander, regardless of who you previously considered it to be. You become charmed by them and obey their commands to the best of your ability. If you find the Red Queen's burden or Violet King's promise without an owner, you are compelled to protect it with your life until a rightful owner is found. These effects can be removed with a greater restoration spell, but not while you are attuned to the armor."
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": "by a creature with a Dexterity score of 17 or higher"
+        "type": "GV|DMG"
     },
     {
         "name": "Defender",
@@ -2337,8 +2232,7 @@
             "You gain a +3 bonus to attack and damage rolls made with this magic weapon.",
             "The first time you attack with the sword on each of your turns, you can transfer some or all of the sword's bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Dragonlance",
@@ -2350,8 +2244,7 @@
             "You gain a +3 bonus to attack and damage rolls made with this magic weapon.",
             "When you hit a Dragon with this weapon, the Dragon takes an extra 3d6 force damage, and any Dragon of your choice that you can see within 30 feet of you can immediately use its reaction to make a melee attack."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Drow +3 Armor",
@@ -2372,8 +2265,7 @@
             "This fiery blade was fashioned from the remains of a cursed iron golem and burns with a relentless thirst for vengeance. While holding this sword, flames billow forth and lick up the edge the blade, casting bright light in a 20-foot radius and dim light for an additional 20 feet. While you're in combat, the light's range is doubled.",
             "You gain a +2 bonus to attack and damage rolls made with this magic weapon. When you make an attack with this sword, the toothed chain stretching along its lower edge begins to whir and spin, spewing flame and ripping apart any target it hits. Any target hit by this sword takes an extra 1d6 fire damage and 1d6 slashing damage. If the target is an aberration or fiend, this extra damage is doubled. This fire damage ignores resistance and immunity. A wooden creature, object, or structure hit by this weapon takes the maximum amount of damage from the attack."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Godsteel Worldcarver",
@@ -2385,8 +2277,7 @@
             "While holding the weapon, you can use a bonus action to magically store it in a special extradimensional space. While the weapon is stored in this space, you can use a bonus action to magically retrieve it again, causing the weapon to reappear in your hand. If the sword is ever more than 30 feet away from you, it magically vanishes into the space on its own.",
             "When you roll a 20 on an attack roll made with this weapon, you can force the target to make a DC 17 Charisma saving throw. On a failed save, the target takes an extra 3d8 radiant damage, and if the target is a creature, it is incapacitated and banished to a special demiplane until the start of your next turn, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. On a successful save, the target takes half as much radiant damage and isn't incapacitated or transported. If you are a cleric or paladin, you and each creature of your choice within 30 feet of you regains a number of hit points equal to half the radiant damage dealt in this way."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Holy Avenger",
@@ -2397,8 +2288,7 @@
             "You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.",
             "While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet."
         ],
-        "type": "GV|DMG",
-        "reqAttune": "by a paladin"
+        "type": "GV|DMG"
     },
     {
         "name": "Luck Blade",
@@ -2437,8 +2327,7 @@
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Starmetal Nova Armor",
@@ -2458,12 +2347,11 @@
                 "type": "entries",
                 "name": "Supernova Burst",
                 "entries": [
-                    "While wearing both the chain shirt and half plate parts of the armor, you can use an action to speak the armor's other command word to doff the half plate and cause it to explode from you, releasing a 30-foot-radius burst of bright light. When you do, you end any grappled|PHB|grapple condition on yourself and force all creatures other than you within the bright light that are not behind total cover to make a DC 17 Constitution saving throw. On a failed save, a creature takes 3d8 radiant damage, or half as much damage on a successful one. The half plate falls to the ground at your feet when doffed in this way."
+                    "While wearing both the chain shirt and half plate parts of the armor, you can use an action to speak the armor's other command word to doff the half plate and cause it to explode from you, releasing a 30-foot-radius burst of bright light. When you do, you end any grapple condition on yourself and force all creatures other than you within the bright light that are not behind total cover to make a DC 17 Constitution saving throw. On a failed save, a creature takes 3d8 radiant damage, or half as much damage on a successful one. The half plate falls to the ground at your feet when doffed in this way."
                 ]
             }
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Sword of the Planes",
@@ -2476,8 +2364,7 @@
             "You can specify a target destination, such as the City of Brass on the Elemental Plane of Fire or the palace of Dispater on the second layer of the Nine Hells, and the rift opens in or near that destination (DM's discretion). If you are trying to reach the City of Brass, for example, the rift might appear on the Street of Steel, before the Gate of Ashes, or facing the city from across the Sea of Fire, at the DM's discretion.",
             "Anything that enters the rift is instantly transported to the other plane, appearing in the unoccupied space nearest to the rift."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     },
     {
         "name": "Vorpal Sword",
@@ -2488,7 +2375,6 @@
             "You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.",
             "When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn't have or need a head, has legendary actions, or the DM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra 6d8 slashing damage from the hit."
         ],
-        "type": "GV|DMG",
-        "reqAttune": true
+        "type": "GV|DMG"
     }
 ]

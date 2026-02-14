@@ -6,7 +6,10 @@ type Props = {
 };
 
 function renderEntry(entry: Entries[number], key: React.Key): React.ReactNode {
+    // 1. Ignorar string vazia
     if (typeof entry === 'string') {
+        if (!entry.trim()) return null;
+
         return (
             <p key={key} className="mb-2 text-justify">
                 {entry}
@@ -15,18 +18,23 @@ function renderEntry(entry: Entries[number], key: React.Key): React.ReactNode {
     }
 
     if (entry.type === 'entries') {
+        if (!entry.entries || entry.entries.length === 0) return null;
+
         const [first, ...rest] = entry.entries;
+
+        // Se não há conteúdo renderizável
+        if (!first && rest.length === 0) return null;
 
         return (
             <div key={key} className="mb-3">
-                {typeof first === 'string' ? (
+                {typeof first === 'string' && first.trim() ? (
                     <p className="mb-2 text-justify">
                         <span className="text-gold">
                             {entry.name}.{' '}
                         </span>
                         {first}
                     </p>
-                ) : (
+                ) : first ? (
                     <>
                         <p className="mb-2 text-justify">
                             <span className="font-semibold">
@@ -35,7 +43,7 @@ function renderEntry(entry: Entries[number], key: React.Key): React.ReactNode {
                         </p>
                         {renderEntry(first, `${key}-first`)}
                     </>
-                )}
+                ) : null}
 
                 {rest.length > 0 && (
                     <Entry entries={rest} />
@@ -45,9 +53,20 @@ function renderEntry(entry: Entries[number], key: React.Key): React.ReactNode {
     }
 
     if (entry.type === 'list') {
+        const items = entry.items.filter(item => {
+            if (typeof item === 'string') return item.trim().length > 0;
+
+            const hasEntry = item.entry?.trim();
+            const hasEntries = item.entries?.some(e => typeof e !== 'string' || e.trim());
+
+            return hasEntry || hasEntries;
+        });
+
+        if (items.length === 0) return null;
+
         return (
             <ul key={key} className="list-disc pl-5 mb-3">
-                {entry.items.map((item, index) => {
+                {items.map((item, index) => {
                     if (typeof item === 'string') {
                         return (
                             <li key={index} className="text-justify">
@@ -60,10 +79,9 @@ function renderEntry(entry: Entries[number], key: React.Key): React.ReactNode {
                     const hasEntries = entries.length > 0;
                     const [first, ...rest] = entries;
 
-
                     return (
                         <li key={index} className="mb-1 text-justify">
-                            {item.entry && (
+                            {item.entry?.trim() && (
                                 <>
                                     <span className="text-gold">
                                         {item.name}.{' '}
@@ -72,7 +90,7 @@ function renderEntry(entry: Entries[number], key: React.Key): React.ReactNode {
                                 </>
                             )}
 
-                            {!item.entry && hasEntries && typeof first === 'string' && (
+                            {!item.entry && hasEntries && typeof first === 'string' && first.trim() && (
                                 <p className="mb-2">
                                     <span className="text-gold">
                                         {item.name}.{' '}
