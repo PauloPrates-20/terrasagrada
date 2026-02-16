@@ -1821,7 +1821,7 @@
         "name": "A New Look",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When consumed, this unassuming elixir magically transforms your head into a random anthropomorphic animal, such as a horse, panda, pig, or raccoon. This effect lasts until removed, as if it were a curse. This doesn't count against the number of potions you can have affecting your body at once.",
             {
@@ -1839,7 +1839,7 @@
         "name": "Arcane Solvent",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When this potion is applied to a magic item, any creature that was attuned to it is no longer attuned. If the item is being worn or carried by the attuned creature, it can resist the effects of this potion with a successful DC 13 Wisdom saving throw.",
             {
@@ -1857,7 +1857,7 @@
         "name": "Blood of the Lycanthrope Antidote",
         "source": "IMR",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This clear potion has dark red flecks within, resembling clotted blood. When you drink this potion, it removes the curse of lycanthropy from you if that curse was imposed by a lycanthrope's bite or similar effect."
         ],
@@ -1869,7 +1869,7 @@
         "name": "Bottled Bind",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When thrown at a creature you can see within 30 feet of you, this thick mudlike potion breaks, covering the creature in tacky glue. The target must succeed on a DC 15 Strength saving throw or become restrained for 1 minute. The restrained target can use its action to make a DC 15 Strength check. On a success, the target is no longer restrained.",
             {
@@ -1887,7 +1887,7 @@
         "name": "Bottled Breath",
         "source": "PotA",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This bottle contains a breath of elemental air. When you inhale it, you either exhale it or hold it.",
             "If you exhale the breath, you gain the effect of the gust of wind spell. If you hold the breath, you don't need to breathe for 1 hour, though you can end this benefit early (for example, to speak). Ending it early doesn't give you the benefit of exhaling the breath."
@@ -1900,7 +1900,7 @@
         "name": "Breakfast in a Bottle",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "The brewer of this potion rolls a d4 to determine the number of servings it creates. When poured out, this liquid quickly forms into an appetizing breakfast, such as some bread or pancakes. A creature that consumes a serving of it feels satiated for the day, and its exhaustion level is reduced by 1. It takes 1 minute to consume one serving, and once a creature benefits from this effect, it can't do so again until it finishes a long rest. The food spoils after 24 hours, losing its magic.",
             {
@@ -1918,7 +1918,7 @@
         "name": "Catspeed",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, you are overwhelmed by a warm lethargic feeling that rests like a blanket over an intense burst of energy you feel swirling inside of you. Once within the next 24 hours when you take the Attack action, you can make two additional attacks as part of that action. Once you do so, the effects of this potion end. While the potion is active, you gain the ability to purr like a cat.",
             {
@@ -1936,7 +1936,7 @@
         "name": "Celestial Sunrise (Uncommon)",
         "source": "GriffonsSaddlebag2",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "The following celestial sunrise is an uncommon variant with additional properties. It also tastes better.",
             "When you drink this potion, you can see normally in darkness, both magical and nonmagical, for the next 8 hours. In addition, the light cast from your mouth due to the potion's common effects increases, casting bright light out to 40 feet and dim light for an additional 40 feet instead."
@@ -1946,7 +1946,7 @@
         "name": "Demonskin",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "Uncorking this potion, you are immediately assaulted with a powerfully pungent, acrid odor. Once you drink it, your skin takes on a glowing burgundy hue and your eyes turn a sickly crimson. For 1 minute, you gain a +2 bonus to AC and resistance to cold, fire, and lightning damage, as well as bludgeoning, piercing, and slashing damage from nonmagical attacks. Until the potion's effects end, your creature type changes to Demon (Fiend).",
             {
@@ -1964,7 +1964,7 @@
         "name": "Don't Eat Dirt",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When consumed, this viscous brew tastes like wet soil. For the duration, you become immune to the prone condition. Whenever you would fall prone, you instead stand up as if an invisible force kept you that way. Even by choice, you cannot go prone. The effects of this potion last 10 days.",
             {
@@ -1982,7 +1982,7 @@
         "name": "Don't Hit Me Juice",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When thrown at a creature you can see within 30 feet of you, this bright pink elixir breaks, covering the creature in juice. The target must succeed on a DC 16 Wisdom saving throw or be ObojimaTallGrass creature can't attack, cast a spell that affects an enemy, or deal damage to another creature. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
             {
@@ -2000,7 +2000,7 @@
         "name": "Durability",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, your skin becomes as tough as thick leather that, for a short time, repairs itself. For 1 minute, you gain 10 temporary hit points at the start of each of your turns.",
             {
@@ -2018,7 +2018,7 @@
         "name": "Dust of Disappearance",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "Found in a small packet, this powder resembles very fine sand. There is enough of it for one use. When you use an action to throw the dust into the air, you and each creature and object within 10 feet of you become invisible for 2d4 minutes. The duration is the same for all subjects, and the dust is consumed when its magic takes effect. If a creature affected by the dust attacks or casts a spell, the invisibility ends for that creature."
         ],
@@ -2030,7 +2030,7 @@
         "name": "Elixir of Jipampa",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, you can feel your nervous system gain a boost of furtive energy from the rabbit spirit, Jipampa. Your pupils dilate and your reflexes become enhanced. For the next 24 hours, you gain a +5 bonus to initiative rolls. Additionally, if a trigger would allow you to take a reaction, but you have already used your reaction this round, you can choose to take a second reaction; using this ability causes the effects of this potion to end early.",
             {
@@ -2048,7 +2048,7 @@
         "name": "Enhanced Bottled Bomb",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When thrown at a point that you can see within 60 feet of you, this volatile liquid explodes. Each creature within 5 feet of the explosion must make a DC 16 Dexterity saving throw, taking 3d8 force damage on a failed save, or half as much damage on a successful one.",
             {
@@ -2066,7 +2066,7 @@
         "name": "Enhanced Lightning Breath",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "For 24 hours after drinking this shimmering gold liquid, your voice gains a crackling quality to it and your breath sparks and sputters. For the duration, you can use a bonus action to exhale an arc of lightning at a creature you can see within 30 feet of you. The target must make a DC 16 Dexterity saving throw, taking 3d10 lightning damage on a failed save, or half as much damage on a successful one. Once you exhale this lightning, the effects of this potion end.",
             {
@@ -2084,7 +2084,7 @@
         "name": "Enhanced Static Shock",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This potion makes you feel tingly as it charges you up with static electricity. Immediately after a creature touches you or hits you with a melee attack made with a metal weapon in the next 24 hours, you can use your reaction to send a charge of static electricity back at that creature, dealing 3d10 lightning damage to it. Once you do so, the effects of this potion end.",
             {
@@ -2102,7 +2102,7 @@
         "name": "Essence of the River Spirit",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This small, stoppered vial contains a clear liquid that shimmers with a faint blue light. When the vial is opened, you can pour the liquid into a small pool of water, such as a bath or hot spring, transforming it into a healing pool. A creature that soaks in the pool for at least 10 minutes regains 4d4 + 4 hit points. The pool loses its magic after 1 hour or once six creatures have benefited from this effect.",
             {
@@ -2120,7 +2120,7 @@
         "name": "Fire Shield",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This potion burns like a hot tamale when you drink it and fills you with fiery strength. The next time you would take fire damage, you take no damage and instead regain a number of hit points equal to half the damage you would have taken. The effects of this potion last for 24 hours or until you regain hit points in this way.",
             {
@@ -2138,7 +2138,7 @@
         "name": "Flammable Tincture",
         "source": "GrimHollowPlayerPack",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This swirling mixture of red and white liquid is formed from the remains of a coldfire ooze. As an action, the vial of flammable tincture can be hurled up to 30 feet at a target, which must succeed on a DC 10 Dexterity saving throw or be covered with the liquid. For 1 minute, the creature is vulnerable to fire damage. This overrides any previous immunity or resistance."
         ],
@@ -2150,7 +2150,7 @@
         "name": "Gardener's Solution",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When this oily, greenish potion is rubbed on a plant, the plant instantly grows to full maturity. If the plant is too big for the space—such as a redwood tree—it will stop growing once it has reasonably filled the space. If the potion is imbibed, it does nothing, but it tastes like maple syrup.",
             {
@@ -2168,7 +2168,7 @@
         "name": "Gargoyle Hooch",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This gray liquid tastes like mud and makes your tongue numb. Within seconds of swallowing the potion, your skin turns to living stone. For the next hour, you gain a +2 bonus to AC, and your walking speed is reduced by 5 feet.",
             {
@@ -2186,7 +2186,7 @@
         "name": "Gobble Gunk",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This unappealing potion allows the imbiber to eat whatever they can fit in their mouth with no ill effect—metal, poison, seawater: you name it, you eat it. The effects of this potion last 1 hour. Any magical objects consumed in this way are hurled back up after the end of the hour.",
             {
@@ -2204,7 +2204,7 @@
         "name": "Grand Friendship",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This potion can be divided into as many as eight parts. When two or more creatures consume this golden elixir, they gain a conditional ability to fly. For the next 24 hours, creatures that consumed the elixir gain a flying speed of 60 feet, but only while holding hands with all other creatures that partook of the potion.",
             {
@@ -2222,7 +2222,7 @@
         "name": "Illusion in a Bottle",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When this potion is poured out, an illusion of your choice appears in its space, as if by the Major Image spell. A creature that uses its action to examine the image can determine that it is an illusion with a successful DC 18 Intelligence (Investigation) check. The illusion lasts for 1 hour.",
             {
@@ -2240,7 +2240,7 @@
         "name": "Incredible Luck",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "After drinking this wonderful liquid, your spirits lift and optimistic feelings pour over you. You gain advantage on the next 1d4 ability checks, attack rolls, or saving throws you make.",
             {
@@ -2258,7 +2258,7 @@
         "name": "Invisible Tonic",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When poured over an object that is Small or smaller, the object becomes invisible. The effects of this potion last until removed, as if it were a curse.",
             {
@@ -2276,7 +2276,7 @@
         "name": "Invulnerability",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you open this potion, it bursts forth with a symphonic fanfare. Until the start of your next turn, you are immune to all damage. On your next turn, you can't move or take actions, as a wave of lethargy sweeps over you.",
             {
@@ -2294,7 +2294,7 @@
         "name": "Life-Steal",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This dangerous and disliked potion transforms when used. As an action, you can uncork the potion and point it toward a creature within 10 feet of you. The target takes 3d6 necrotic damage, and the potion transforms into a healing elixir. A creature that consumes this elixir regains a number of hit points equal to the necrotic damage dealt.",
             {
@@ -2312,7 +2312,7 @@
         "name": "Lifetime Supply",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When consumed, this potion causes your hair to grow at an accelerated rate. Roll 1d4 + 2 and multiply it by 100 to find out how many feet of hair you grow. After 1 minute, the potion wears off and all your hair falls out.",
             {
@@ -2330,7 +2330,7 @@
         "name": "Liquid Arcana",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "The brewer of this potion rolls a d4 to determine the maximum level of the spell slot it can restore. When you drink it, you immediately regain an expended spell slot of that level or lower.",
             {
@@ -2348,7 +2348,7 @@
         "name": "Liquid Disguise",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When brewed, this potion takes on the essence of a random humanoid within 1 mile. A creature that consumes the potion takes on the visage of that creature for the next 24 hours.",
             {
@@ -2366,7 +2366,7 @@
         "name": "Liquid Dispel",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When thrown at a creature, object, or magical effect within 30 feet of you, this potion breaks, releasing its contents on the target. Any spell of 3rd level or lower on the target immediately ends.",
             {
@@ -2384,7 +2384,7 @@
         "name": "Lunar Elixir",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When poured out, this silvery liquid rapidly expands and coats the surrounding area, creating a chalky white sheen across everything it touches. For the next 8 hours, gravity in a 20-foot-radius, 300-foot-high cylinder centered on the potion is like the moon's gravity. The jump distance for all creatures inside the cylinder is tripled, and falling damage taken inside the cylinder is halved.",
             {
@@ -2402,7 +2402,7 @@
         "name": "Meditative Trance",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This violet-colored potion smells like lavender and citrus. The next time you take a short rest after ingesting it, you enjoy a deep, dreamless sleep, granting you the benefits of a long rest, even if you already benefited from a long rest in the past 24 hours.",
             {
@@ -2420,7 +2420,7 @@
         "name": "Mind Over Might",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When consumed, this chalky elixir turns an intellectual scholar into an athlete. For the next 24 hours, you can use your Intelligence or Wisdom modifier (your choice), in place of your Strength or Dexterity modifier, when making Strength (Athletics) and Dexterity (Acrobatics) checks. You also gain proficiency in those skills for the duration, if you don't already have it.",
             {
@@ -2438,7 +2438,7 @@
         "name": "Mosspot",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "After drinking this earthy mixture, your form quickly shifts and shrinks. You immediately polymorph into a mosslings, as if by the spell. This effect doesn't require your concentration and ends after 1 hour.",
             {
@@ -2456,7 +2456,7 @@
         "name": "Move a Thing",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When poured over an object that weighs 500 pounds or less, it begins to weigh lighter and lighter. The object weighs up to 1d100 pounds less at the start of every hour until it weighs exactly 10 pounds. It remains weighing 10 pounds for 1 week, after which the effects of this potion fade.",
             {
@@ -2474,7 +2474,7 @@
         "name": "Mummy Rot Antidote",
         "source": "IMR",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "White dust swirls constantly within this pale gray potion. When you drink the potion, it cures you of mummy rot."
         ],
@@ -2486,7 +2486,7 @@
         "name": "Object Embodiment",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this metallic potion, your body twists and alters into an object of your choice, as if by the true polymorph spell. This effect doesn't require your concentration and ends after 1 hour.",
             {
@@ -2504,7 +2504,7 @@
         "name": "Oil of Slipperiness",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of a freedom of movement spell for 8 hours.",
             "Alternatively, the oil can be poured on the ground as an action, where it covers a 10-foot square, duplicating the effect of the grease spell in that area for 8 hours."
@@ -2517,7 +2517,7 @@
         "name": "Philter of Boundless Joy",
         "source": "BookOfEbonTides",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "As you imbibe this potion, you remember a time of pure happiness and joy, usually related to love, parenthood, or some other enormous, life-altering event—the specific memories depend on the philter's creator. You have advantage on Charisma ability checks for 1 hour and immediately gain the effects of a short rest.",
             "The effects of this philter cancel the effects of a philter of deep despair.",
@@ -2538,7 +2538,7 @@
         "name": "Philter of Love",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "The next time you see a creature within 10 minutes after drinking this philter, you become charmed by that creature for 1 hour. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed. This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart."
         ],
@@ -2550,7 +2550,7 @@
         "name": "Philter of Lust",
         "source": "BookOfEbonTides",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "As you imbibe this potion, you are overtaken with memories and feelings from a time of physical desire—the specific memories depend on the philter's creator. You must succeed on a DC 13 Wisdom saving throw or be overcome by a fit of lust for 1 minute. While in a fit of lust, you seek out either a person whose affection you desire or, more rarely, an object of consuming passion (usually a token, trophy, or fetish of some kind) to claim for yourself. On a successful saving throw, only the memories are passed to you. You can repeat the saving throw at the end of each of your turns, ending the effect on a success.",
             {
@@ -2570,7 +2570,7 @@
         "name": "Philter of Righteous Anger",
         "source": "BookOfEbonTides",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "As you imbibe this potion, you are overtaken with feelings of anger and memories of justice denied, betrayals, or blasphemy—the specific memories depend on the philter's creator. You must succeed on a DC 13 Wisdom saving throw or be overcome by a fit of rage for 1 minute. While in a fit of rage, you have advantage on melee attack rolls, and your melee weapon attacks deal an extra 3 (1d6) damage. You cannot distinguish friend from foe and must attack the nearest creature. If no creatures are nearby, you must dash in the direction of the nearest living creature. If no other creature is near enough to move to and attack, you stalk off in a random direction, seeking a target for your anger. On a successful saving throw, only the memories are passed to you. You can repeat the saving throw at the end of each of your turns, ending the effect on a success.",
             "The effects of this philter cancel the effects of a philter of mercy.",
@@ -2591,7 +2591,7 @@
         "name": "Philter of Waking Dreams",
         "source": "BookOfEbonTides",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "As you imbibe this potion, you remember a particular scene of importance, such as a duel, kiss, theft, betrayal, murder, or funeral—the specific memories depend on the philter's creator. You can take no action for 1 round while caught up in these memories and thereafter cannot forget these events: any creature seen in such a memory will be remembered, as well as their name, by you as someone you have seen before. With a successful DC 13 Wisdom (Insight) check, you may note details of importance within the waking dream, including the relationships of people within the dream, their status, and the location of the dream.",
             "False memories cannot be created via a philter of waking dreams, though what the imbiber remembers may be colored by time or strong emotion.",
@@ -2612,7 +2612,7 @@
         "name": "Phoenix Elixir",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When imbibed, this elixir burns your throat and ignites an ember within you. For 24 hours, you are immune to fire damage. When the potion's magic finally fades, the fire inside of you burns intensely from within, consuming you in flames and turning your body to ash. 1 hour later you appear in the nearest bonfire, reborn anew. All objects and clothing that were on your person when you were turned to ash are left by your original body.",
             {
@@ -2630,7 +2630,7 @@
         "name": "Pocket Portal",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When buried and left to sit for 24 hours, this potion will sprout and form a temporary portal to the Spirit Realm from knotted roots and mud. The portal stays open for 24 hours before closing.",
             {
@@ -2648,7 +2648,7 @@
         "name": "Pocket Stomach",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When imbibed, your stomach temporarily functions as a bag of holding, allowing you to store any object you can fit in your mouth inside its extradimensional space. The effects of this potion last for 1 hour, after which you throw up anything consumed.",
             {
@@ -2666,7 +2666,7 @@
         "name": "Potion of Acid Resistance",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, you gain resistance to acid damage for 1 hour."
         ],
@@ -2678,7 +2678,7 @@
         "name": "Potion of Advantage",
         "source": "WBtW",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, you gain advantage on one ability check, attack roll, or saving throw of your choice that you make within the next hour.",
             "This potion takes the form of a sparkling, golden mist that moves and pours like water."
@@ -2691,7 +2691,7 @@
         "name": "Potion of Animal Friendship",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, you can cast the animal friendship spell (save DC 13) for 1 hour at will. Agitating this muddy liquid brings little bits into view: a fish scale, a hummingbird tongue, a cat claw, or a squirrel hair."
         ],
@@ -2703,7 +2703,7 @@
         "name": "Potion of Attunement",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "As an action, you can pour a drop of this potion onto a magic item that requires attunement and drink the rest. Once you do so, you instantly become attuned to that item.",
             {
@@ -2721,7 +2721,7 @@
         "name": "Potion of Cold Resistance",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, you gain resistance to cold damage for 1 hour."
         ],
@@ -2733,7 +2733,7 @@
         "name": "Potion of Exertion",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, you gain a surge of manic energy allowing you to take another action this round at initiative count 1.",
             {
@@ -2751,7 +2751,7 @@
         "name": "Potion of Fire Breath",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "After drinking this potion, you can use a bonus action to exhale fire at a target within 30 feet of you. The target must make a DC 13 Dexterity saving throw, taking 4d6 fire damage on a failed save, or half as much damage on a successful one. The effect ends after you exhale the fire three times or when 1 hour has passed. This potion's orange liquid flickers, and smoke fills the top of the container and wafts out whenever it is opened."
         ],
@@ -2763,7 +2763,7 @@
         "name": "Potion of Fire Resistance",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, you gain resistance to fire damage for 1 hour."
         ],
@@ -2775,7 +2775,7 @@
         "name": "Potion of Force Resistance",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, you gain resistance to force damage for 1 hour."
         ],
@@ -2787,7 +2787,7 @@
         "name": "Potion of Freezing",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "Pouring this grayish-blue potion into any liquid will cause that liquid to freeze solid for 1 hour, after which it begins to thaw as normal. This effect can freeze no more than a 20-foot cube of liquid.",
             {
@@ -2805,7 +2805,7 @@
         "name": "Potion of Greater Healing",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "You regain 4d4 + 4 hit points when you drink this potion. The potion's red liquid glimmers when agitated."
         ],
@@ -2817,7 +2817,7 @@
         "name": "Potion of Growth",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, you gain the \"enlarge\" effect of the enlarge/reduce spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process."
         ],
@@ -2829,7 +2829,7 @@
         "name": "Potion of Hill Giant Strength",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, your Strength score changes to 21 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.",
             "This potion's transparent liquid has floating in it a sliver of fingernail from a hill giant."
@@ -2842,7 +2842,7 @@
         "name": "Potion of Holistic Wellness",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you uncork this potion of scintillating liquid, your senses are calmed with the smell of vanilla and honey along with a warm spring breeze. When imbibed, you feel like your whole soul is embraced in a loving hug, causing you to regain 4d8 + 4 hit points, and removing any conditions affecting you, excluding the grappled, prone, or restrained condition.",
             {
@@ -2860,7 +2860,7 @@
         "name": "Potion of Lightning Resistance",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, you gain resistance to lightning damage for 1 hour."
         ],
@@ -2872,7 +2872,7 @@
         "name": "Potion of Necrotic Resistance",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, you gain resistance to necrotic damage for 1 hour."
         ],
@@ -2884,7 +2884,7 @@
         "name": "Potion of Poison",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This concoction looks, smells, and tastes like a potion of healing or other beneficial potion. However, it is actually poison masked by illusion magic. An identify spell reveals its true nature.",
             "If you drink it, you take 3d6 poison damage, and you must succeed on a DC 13 Constitution saving throw or be poisoned. At the start of each of your turns while you are poisoned in this way, you take 3d6 poison damage. At the end of each of your turns, you can repeat the saving throw. On a successful save, the poison damage you take on your subsequent turns decreases by 1d6. The poison ends when the damage decreases to 0."
@@ -2897,7 +2897,7 @@
         "name": "Potion of Poison Resistance",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, you gain resistance to poison damage for 1 hour."
         ],
@@ -2909,7 +2909,7 @@
         "name": "Potion of Polychromy",
         "source": "DitLCoT",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, you and everything you are wearing or carrying take on a rainbow-hued appearance for 1 hour. During that time, you can use a bonus action to turn any color or combination of colors you choose. If you mimic the colors of your surroundings, your hues continually shift to match your surroundings, and you have advantage on Dexterity (Stealth) checks until you change your colors again or the potion wears off.",
             "The potion is separated into seven brightly colored bands of immiscible liquids and has a syrupy taste."
@@ -2922,7 +2922,7 @@
         "name": "Potion of Psionic Fortitude",
         "source": "PaBTSO",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, you have advantage for 1 hour on saving throws you make to avoid or end the charmed or stunned condition on yourself.",
             "This black potion swirls with shimmering flecks of pink and purple."
@@ -2935,7 +2935,7 @@
         "name": "Potion of Psychic Resistance",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, you gain resistance to psychic damage for 1 hour."
         ],
@@ -2947,7 +2947,7 @@
         "name": "Potion of Radiant Resistance",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, you gain resistance to radiant damage for 1 hour."
         ],
@@ -2959,7 +2959,7 @@
         "name": "Potion of Reprieve",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When imbibed, this potion offers temporary relief from an ill effect. For the next hour, you gain the benefit of an effect of your choice from the Greater Restoration spell. When this potion's effects end, you lose the chosen benefit, causing the ill effect to return.",
             {
@@ -2977,7 +2977,7 @@
         "name": "Potion of Thunder Resistance",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, you gain resistance to thunder damage for 1 hour."
         ],
@@ -2989,7 +2989,7 @@
         "name": "Potion of Water Breathing",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it."
         ],
@@ -3001,7 +3001,7 @@
         "name": "Pumpkin Patch Guard",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When consumed, this warming harvest beverage transforms your head into a Jack-O'-Lantern. From your newly formed eyes, you cast a cone of glowing light, which causes creatures in a 15-foot cone to be under the effects of the Faerie Fire spell. At the start of each of your turns while the effects last, you decide which way the cone faces and whether the cone is active. The effect of the potion lasts for 1 minute.",
             {
@@ -3019,7 +3019,7 @@
         "name": "Rapid Withdrawal",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, motes of pink light erupt from your body and orbit around you. For 1 minute, whenever you take damage from a hostile creature, you can use your reaction to teleport up to 15 feet to an unoccupied space you can see.",
             {
@@ -3037,7 +3037,7 @@
         "name": "Ratatam's Glowskin Elixir",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, your skin begins to shed dim light for an additional 10 feet—or diminish the intensity again. Additionally, you can take an action to produce a flare of blinding light around you. Each creature within 30 feet of you that can see must succeed on a DC 16 Constitution saving throw or become blinded for 1 minute. An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. The effects of this potion last for 8 hours or until you use the flare.",
             {
@@ -3055,7 +3055,7 @@
         "name": "Rejuvenating Draft (Uncommon)",
         "source": "GriffonsSaddlebag2",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, you regain 1d3 + 1 spent Hit Dice."
         ]
@@ -3064,7 +3064,7 @@
         "name": "Respiratory Distress",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This potion reacts instantly with air, rapidly expanding into a 15-foot-radius cloud of irritating gas when exposed. You can throw it at a point you can see within 60 feet of you, causing it to break open and release the cloud there. Each creature within the cloud when it appears must make a DC 15 Constitution saving throw. On a failed save, a creature spends its reaction coughing and snorting and its concentrating.",
             {
@@ -3082,7 +3082,7 @@
         "name": "Shadow Puppet",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "Once consumed, this potion gives sentience to your shadow. The shadow starts to act independently of you but is still bound to your body. It has its own emotions and personality but can't interact with the world in any way beyond what a normal shadow could. The effects of this potion last until removed, as if it were a curse. This doesn't count against the number of potions you can have affecting your body at once.",
             {
@@ -3100,7 +3100,7 @@
         "name": "Sharp Mind",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When you drink this potion, your mind becomes charged with magical energy. For the next 8 hours, you gain a +2 bonus to Intelligence saving throws, and you gain resistance to psychic damage. In addition, you can devour whole tomes of text, reading 10 times faster than normal.",
             {
@@ -3118,7 +3118,7 @@
         "name": "Sheep Dragon Brew",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "One swig of this hearty potion will see you growing a thick coat of sheep dragon wool all around your body. Besides keeping you warm, it aids your survival and protects you from the cold. For the duration, your AC increases by 1, and you gain resistance to cold damage. The effects of the potion last for 1 hour.",
             {
@@ -3136,7 +3136,7 @@
         "name": "Shifter's Shine (Uncommon)",
         "source": "GriffonsSaddlebag2",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "The typical shifter's shine, a common potion, is a specialty alcoholic beverage that causes your face to appear more glamorous. For 1 hour after drinking this potion, your skin's complexion clears, appears healthier, and grows more taut. Your face, while largely unchanged, is distinctly more attractive and exudes a weak aura of enchantment magic. When you make a Charisma check while under the effects of this potion, you can choose to forgo rolling the d20 to get a 10 on the die. Once you use this property, you can't use it again for the remainder of the potion's duration. The potion is a rich honey color and swirls lazily around, regardless of how it's handled. It can be found in any sort of vessel, though it is usually found in glass jars. The eye of a shapeshifter drifts along the potion's bottom, making it a daunting beverage for the average taverngoer to order. It has an extremely strong alcoholic taste with a hint of caramel. Due to its magical nature, the alcohol within this potion affects a creature twice as much as the alcohol within a nonmagical beverage.",
             "The following shifter's shine is an uncommon variant with additional properties. It also tastes better.",
@@ -3147,7 +3147,7 @@
         "name": "Spell Scroll (2nd Level)",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
             "If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 12. On a failed check, the spell disappears from the scroll with no other effect.",
@@ -3163,7 +3163,7 @@
         "name": "Spell Scroll (3rd Level)",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
             "If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 13. On a failed check, the spell disappears from the scroll with no other effect.",
@@ -3179,7 +3179,7 @@
         "name": "Spellwrought Tattoo (2nd Level)",
         "source": "TCE",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "Produced by a special needle, this magic tattoo contains a single 2nd level spell, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin and speak the command word. The needle turns into ink that becomes the tattoo, which appears on the skin in whatever design you like. Once the tattoo is there, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.",
             "The Ability modifier for this spell is +3; the Save DC is 13 and the attack bonus is +5."
@@ -3192,7 +3192,7 @@
         "name": "Spellwrought Tattoo (3rd Level)",
         "source": "TCE",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "Produced by a special needle, this magic tattoo contains a single 3rd level spell, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin and speak the command word. The needle turns into ink that becomes the tattoo, which appears on the skin in whatever design you like. Once the tattoo is there, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.",
             "The Ability modifier for this spell is +4; the Save DC is 15 and the attack bonus is +7."
@@ -3205,7 +3205,7 @@
         "name": "Spirit Appendage",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This bitter, unappealing elixir turns your stomach and is often a fight to keep down your gullet. Once consumed, you grow a 6-foot-long prehensile tail, which takes a form decided by the GM. The tail can be used as if it were a third arm and can easily support your own weight. The tail lasts for 1d12 days before falling off.",
             {
@@ -3223,7 +3223,7 @@
         "name": "Spirit Repellent",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This potion can either be imbibed or poured on a 1-foot square, causing the nearby area to become repulsive to spirits. Any spirit that has a challenge rating of 5 or lower within 30 feet of you or the square must make a DC 15 Charisma saving throw. On a failed save, the spirit is teleported to a random unoccupied space that is 35 feet away from you or the square and can't willingly move to a space within range for 1 minute. A spirit that hasn't made this save must immediately do so if it moves within range, becoming affected by the repellant for the duration on a failed save.",
             {
@@ -3241,7 +3241,7 @@
         "name": "Spirit Sweets",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This bitter concoction tastes and smells horrible to physical beings, yet couldn't taste more delicious to spirits, many of which would trade quite a bit for a sip of the brew. A spirit with a challenge rating of 8 or lower that consumes this potion becomes drunk and happy for 1d4 days. Alternatively, the potion can be poured out, attracting spirits with a challenge rating of 2 or lower that are within 1 mile. When poured out, the potion attracts spirits for 8 hours or until it is consumed.",
             {
@@ -3259,7 +3259,7 @@
         "name": "Suude (Blue)",
         "source": "TalDoreiCampaignSettingReborn",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "Exandria's most infamous drug, suude is a glittering powder made from residuum. It was first developed by power-hungry archmages in the Age of Arcanum as an incense burned to enhance focus during ritual spellcasting. The secret to its refinement has been lost and rediscovered a variety of times since the Calamity, and many different types of suude have been developed by arcanists in search of ever-greater power. It has terrible addictive and mentally degenerative properties, even when used sparingly.",
             "After burning suude within a vessel and inhaling its fumes as an action, you take 22 (4d10) psychic damage and must make a DC 10 Constitution saving throws. On a failure, you become saving throw is increased by 5 per additional dose. If you fail this save by 10 or more, you instantly drop to 0 hit points.",
@@ -3274,7 +3274,7 @@
         "name": "Suude (Brown)",
         "source": "TalDoreiCampaignSettingReborn",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "Exandria's most infamous drug, suude is a glittering powder made from residuum. It was first developed by power-hungry archmages in the Age of Arcanum as an incense burned to enhance focus during ritual spellcasting. The secret to its refinement has been lost and rediscovered a variety of times since the Calamity, and many different types of suude have been developed by arcanists in search of ever-greater power. It has terrible addictive and mentally degenerative properties, even when used sparingly.",
             "After burning suude within a vessel and inhaling its fumes as an action, you take 22 (4d10) psychic damage and must make a DC 10 Constitution saving throws. On a failure, you become saving throw is increased by 5 per additional dose. If you fail this save by 10 or more, you instantly drop to 0 hit points.",
@@ -3289,7 +3289,7 @@
         "name": "Suude (Red)",
         "source": "TalDoreiCampaignSettingReborn",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "Exandria's most infamous drug, suude is a glittering powder made from residuum. It was first developed by power-hungry archmages in the Age of Arcanum as an incense burned to enhance focus during ritual spellcasting. The secret to its refinement has been lost and rediscovered a variety of times since the Calamity, and many different types of suude have been developed by arcanists in search of ever-greater power. It has terrible addictive and mentally degenerative properties, even when used sparingly.",
             "After burning suude within a vessel and inhaling its fumes as an action, you take 22 (4d10) psychic damage and must make a DC 10 Constitution saving throws. On a failure, you become saving throw is increased by 5 per additional dose. If you fail this save by 10 or more, you instantly drop to 0 hit points.",
@@ -3304,7 +3304,7 @@
         "name": "Thessaltoxin Antidote",
         "source": "IMR",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This potion appears to change color and texture each time you look at it. When you drink the potion, it ends the polymorph effect imposed by thessaltoxin."
         ],
@@ -3316,7 +3316,7 @@
         "name": "Tunnel Vision",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "Drinking this potion causes you to hyperfixate on your strikes but potentially opens you to counterattacks. The effects of this potion last for 1 minute. For the duration, the first time you hit a target with a weapon attack on each of your turns, it deals an extra 1d12 damage of the same type. Until the potion's effects end, you also take a -2 penalty to AC.",
             {
@@ -3334,7 +3334,7 @@
         "name": "Twin Telepathy",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This potion must be shared with another creature, each of them ingesting half of the potion. When consumed, the potion allows the imbibers to communicate telepathically across any distance. The effects of this potion last for 24 hours.",
             {
@@ -3352,7 +3352,7 @@
         "name": "Twin Vision",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This potion must be shared with another creature, each of them ingesting half of the potion. When the second half of the potion is consumed, the first creature gains the ability to see through the eyes of the second creature, gaining the benefits of any special senses that creature has. While seeing in this way, the first creature is blind with regard to its own senses. Either creature can use its action to stop shared vision or reactivate it. This ability lasts for 8 hours, and it can't be used if the creatures are more than 1 mile apart.",
             {
@@ -3370,7 +3370,7 @@
         "name": "Uncanny Focus",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "For 1 minute after imbibing this purplish liquid, you have advantage on Constitution saving throws made to maintain concentration on spells. In addition, becoming incapacitated doesn't cause you to lose concentration on a spell.",
             {
@@ -3388,7 +3388,7 @@
         "name": "Unknown Elixir",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This bizarre blend of flavors reminds you of freshly cut grass, petroleum jelly, and honey. When consumed, it sits in your stomach like a rock and slowly swells in power. You gain the ability to cast one random spell of 6th level or lower, without expending a spell slot. This spell uses a save DC of 17 and a spell attack bonus of +9. The effects of this potion last until the spell is cast. This doesn't count against the number of potions you can have affecting your body at once.",
             {
@@ -3406,7 +3406,7 @@
         "name": "Water Breathing",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This tropical fruity elixir tastes just as delicious as your favorite juice. For the duration, you can breathe underwater. The effects of the potion last for 1 hour.",
             {
@@ -3424,7 +3424,7 @@
         "name": "Wine of the Winter Court",
         "source": "BookOfEbonTides",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "This wine, so dark red in color it is nearly black, pours from its bottle in a syrupy flow. When you drink it, you taste notes of sour apple, bitter ash, and jealousy, and your thoughts are occupied with vivid memories of heartbreak and loss.",
             "When you drink this wine, you have disadvantage on Charisma ability checks for 1 hour, but you are immune to being charmed and can add your proficiency bonus to Wisdom saving throws for the duration. If you already add your proficiency bonus to Wisdom saving throws, your bonus is instead doubled for the duration."
@@ -3437,7 +3437,7 @@
         "name": "Wispy Sour (Uncommon)",
         "source": "GriffonsSaddlebag2",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "The typical wispy sour, a common potion, is a specialty alcoholic beverage that causes you to float harmlessly off the floor. When you drink this potion, you gain a flying speed of 10 feet for 1 minute, but can only hover 1 foot above the ground when doing so. The drink is smooth, sweet, and has a slight aftertaste of ash. A tiny, single light from the dancing lights spell is often cast within the drink when served. Due to its magical nature, the alcohol within this potion affects a creature twice as much as the alcohol within a nonmagical beverage.",
             "The following wispy sour is an uncommon variant with additional properties. It also tastes better.",
@@ -3448,7 +3448,7 @@
         "name": "Witch's Lament",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "Once consumed, this potion calls forth a rain cloud that weeps for you. Then, in a flash of lightning, your head takes on the form of an anthropomorphic animal chosen by the GM. This effect is permanent:",
             {
@@ -3466,7 +3466,7 @@
         "name": "Wrathful Spirit",
         "source": "ObojimaTallGrass",
         "rarity": "uncommon",
-        "value": 200,
+        "value": 120,
         "entries": [
             "When consumed, you feel the essence of a long-dead spirit overwhelm you. You feel on edge and have an undertone of rage that boils below the surface. Roll 2d8. For the duration, whenever you cast a spell, you can cause one target that took damage from it to take extra force damage equal to the number rolled. The effects of this potion last for 1 minute.",
             {
@@ -3484,7 +3484,7 @@
         "name": "Aged Goodberry Wine",
         "source": "GriffonsSaddlebag2",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "This bottle of thick red wine is miraculously made from magical goodberries and peonies using a closely kept family recipe. It tastes fruity and floral, with notes of honey and the feeling of a fresh breeze, and is deeply rejuvenating. The bottle comes with 8 servings of the syrupy potion, which each take 1 minute to drink.",
             "When you drink this wine, you can regain hit points by spending any number of Hit Dice, as if you'd finished a short rest. You regain 1 extra hit point for each Hit Die you spend in this way. The wine provides enough nourishment to sustain a creature for one day. In addition, for the next hour, whenever you roll a Wisdom or Charisma ability check or saving throw, you add 1d4 to the total of the roll."
@@ -3494,7 +3494,7 @@
         "name": "Aqua Delerium",
         "source": "DungeonsDrakkenheim",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "This purple potion glows dimly with octarine light. It swirls and sparkles in its small stoppered bottle.",
             "When you drink this potion, you regain expended spell slots. Roll 1d6 - you choose spell slots to regain that have a combined level that is equal to or less than the result. None of the slots can be higher than 5th level.",
@@ -3510,7 +3510,7 @@
         "name": "Aqua Expurgo",
         "source": "DungeonsDrakkenheim",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "This bright orange fluid is stored in a syringe and charged with arcane magic. You can use an action to administer the shot directly to the heart of yourself or another willing creature.",
             "You are protected against contamination: for six hours after receiving a dose of aqua expurgo. During this time, whenever you fail a saving throw against an effect that would cause you to gain one or more contamination levels:, you can choose to succeed instead. You can use this ability three times, after which the effects of aqua expurgo expire.",
@@ -3524,7 +3524,7 @@
         "name": "Arcane Oil",
         "source": "GrimHollowLairsEtharis",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "This substance is created by distilling the jelly that encases the brain of a xakalonus. As an action, you can coat one weapon or 20 pieces of ammunition with the substance.",
             "If the coated objects are not magical, for the next minute, your attacks with the coated weapon or ammunition gain a +2 bonus to attack and damage rolls.",
@@ -3538,7 +3538,7 @@
         "name": "Astounding Vigor",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When you drink this hearty potion, you feel the strongest and healthiest you've ever felt. For the duration, you gain a number of temporary hit points equal to your hit point maximum. The effects of this potion last for 24 hours or until these temporary hit points are lost.",
             {
@@ -3556,7 +3556,7 @@
         "name": "Azuremite",
         "source": "TalDoreiCampaignSettingReborn",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "The ruins of this sprawling city are now known as the Crystalfen Caverns. These caves are home to scattered veins of azuremite, a gorgeous blue crystal that formed from millennia of psychic energies existing near element deposits. Curious explorers who discovered the veins found that, when mined and refined into a fine dust, the azuremite powder is a strong mind-altering agent and induces temporary visions and other psychic phenomena.",
             "While a number of small, isolated entrances to this labyrinth of tunnels have been discovered and adventuring parties have attempted to chart the mines, the caverns are so vast and deep that either they gave up for fear of becoming lost, or they were assailed by the terrible denizens of the caverns, never to return. Most who now brave the caverns are foolish treasure hunters or criminals seeking to mine more azuremite to sell on the black market."
@@ -3569,7 +3569,7 @@
         "name": "Bead of Force",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "This small black sphere measures ¾ of an inch in diameter and weighs an ounce. Typically, 1d4 + 4 beads of force: are found together.",
             "You can use an action to throw the bead up to 60 feet. The bead explodes on impact and is destroyed. Each creature within a 10-foot radius of where the bead landed must succeed on a DC 15 Dexterity saving throw or take 5d4 force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save, or are partially within the area, are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere's wall. No attack or other effect can.",
@@ -3583,7 +3583,7 @@
         "name": "Blessing of the Moon Spirit",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "After drinking this potion, which glows like a full moon, you gain a strange and wondrous affinity for the moon's light. This potion's effects are permanent:",
             "While moonlight touches you, you can use a bonus action to expend three hit dice. You can use this ability once per long rest.",
@@ -3603,7 +3603,7 @@
         "name": "Bowark's Bombastic Beer",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "This potion was discovered by accident by the great brewmaster, Bowark. Unsealing it fills the room with a strong scent of hops and yeasty goodness. When consumed, this beer gives you a warm, euphoric calm that makes you feel like everything will be alright. Until this potion's effects end, you can choose to reroll any ability check, attack roll, or saving throw you make. You can reroll in this way a total of 7 times before the potion wears off.",
             {
@@ -3621,7 +3621,7 @@
         "name": "Carla Cackletooth's Corruption Cocktail",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "This potion was invented by none other than the legendary Carla Cackletooth, a witch of considerable potion-making prowess. When poured out, it summons 10 corrupted muk, which are at your beck and call and under your control until destroyed.",
             {
@@ -3639,7 +3639,7 @@
         "name": "Chi-Balancing Tea",
         "source": "GriffonsSaddlebag2",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "This potion is specially brewed by the monks of Durheim using a unique leaf found only in their gardens. The tea remains magically warm while inside its traditional porcelain bottle. The potion's flavor is deep and smoky, and leaves a sour aftertaste like the air after a storm.",
             "When you drink this potion, it cures any short-term madness afflicting you, and if you are charmed or frightened, it ends those conditions. In addition, if you have 2 or more levels in the monk class, you regain 1d4 + 1 expended ki points."
@@ -3649,7 +3649,7 @@
         "name": "Chicken Chaser",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When you drink this potion, your hair turns dark red (if you have any), and you gain the ability to speak with chickens permanently, as if by the Speak with Animals spell. Additionally, you can crow a sacred and thunderous cackle that summons 100 chickens in a 20-foot radius centered on you. These chickens appear running from a distance, digging out from the ground below, and falling from the sky in a veritable tsunami of flapping, clucking poultry. Each creature in the area (excluding you) must make a DC 19 Dexterity saving throw, taking 30d6 slashing damage on a failed save, or half as much damage on a successful one. Once you've summoned the chickens in this way, you can't do so again. This doesn't count against the number of potions you can have affecting your body at once.",
             {
@@ -3667,7 +3667,7 @@
         "name": "Crafter's Brew",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "The crafter's brew can be added to any larger container of water or a small body of water to create an enchanting bath. The first nonmagical object submerged in the water for at least 1 minute gains a permanent magical effect. This effect is random and powerful enough that the item's rarity should be considered uncommon or higher.",
             {
@@ -3685,7 +3685,7 @@
         "name": "Dancing Feet",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "After drinking this potion, you no longer walk or run—now you dance. Going from one place to another is no longer a mundane trudge, a shuffling expression of ennui. How you get from point A to point B is now a dazzling dance performance. From smooth, elven waltzes, to Nakudama hops and gyrations, to the interpretive dance forms of the dara, you explore them all. Your stylish moves increase your walking speed by 10 feet, give you a +5 bonus to Charisma (Performance) checks that involve dancing, and grant you proficiency in Dexterity saving throws if you don't already have it. This lasts until you dismiss the potion's effects as an action.",
             {
@@ -3703,7 +3703,7 @@
         "name": "Disappearing Act",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When consumed, your body vanishes along with all the items you were wearing or carrying, and your sentience is transferred into a random object within 100 miles of you.",
             {
@@ -3721,7 +3721,7 @@
         "name": "Djinn and Tonic (Rare)",
         "source": "GriffonsSaddlebag2",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "The following djinn and tonic is a rare variant with additional properties. It also tastes better. When you drink this potion, you gain the effect of the gaseous form spell for 10 minutes (no concentration required) or until you end it early using an action. When the effect ends, your form rematerializes in a rush of air, forcing all Large and smaller creatures within 30 feet of you to make a DC 15 Strength saving throw. On a failed save, a creature is pushed 10 feet away from you and knocked prone."
         ]
@@ -3730,7 +3730,7 @@
         "name": "Dragon Frog Transmutation",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "After guzzling down this froggy potion, you turn into an Elder Dragon Frog, as if by the true polymorph spell. This transformation lasts for 1 minute, or 10 minutes if a Dragon Fang of Yutro was used when brewing this potion.",
             {
@@ -3748,7 +3748,7 @@
         "name": "Elixir of Echoes",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When you drink this potion, you gain the ability to cast a spell that was cast by another creature within the last minute. The spell has to have been cast within 100 feet of you, and you must be aware that the spell was cast. Once imbibed, you can cast the copied spell once within the next minute, without expending a spell slot or material components. If the spell requires a saving throw or spell attack roll, you use the DC and attack bonus of the creature that originally cast the spell.",
             {
@@ -3766,7 +3766,7 @@
         "name": "Elixir of Health",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When you drink this potion, it cures any disease afflicting you, and it removes the blinded, deafened, paralyzed, and poisoned conditions. The clear red liquid has tiny bubbles of light in it."
         ],
@@ -3778,7 +3778,7 @@
         "name": "Elixir of Omnimind",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "This pale blue potion smells like ozone. When you drink it, your mind expands, and you gain a brief but exceptional capacity to comprehend the vast complexities of the arcane. For the next minute, you can concentrate on two spells at the same time. If you are forced to make a Constitution saving throw to maintain your concentration, you must make a separate saving throw for each spell.",
             {
@@ -3796,7 +3796,7 @@
         "name": "Epic Bottled Bomb",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When thrown at a point that you can see within 60 feet of you, this volatile liquid explodes. Each creature within 30 feet of the explosion must make a DC 19 Dexterity saving throw, taking 20d6 force damage on a failed save, or half as much damage on a successful one.",
             {
@@ -3814,7 +3814,7 @@
         "name": "Essence of Great Rivers",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "This crystal-clear potion captures the essence of the four great river spirits Mu, Go, Yon, and Din. For the next 24 hours, you can call on their strength to aid you. If you fail a saving throw, you can choose to succeed instead. You can do so three times before the magic of the potion fades.",
             {
@@ -3832,7 +3832,7 @@
         "name": "Hero's Blade",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When poured over a weapon, this heroic elixir stains it blue and causes it to shimmer as if it were a gemstone reflecting light. For the next minute, the weapon gains a +3 bonus to attack and damage rolls. Until this effect ends, creatures hit by this weapon don't benefit from any damage immunities or resistances they have, if any, for 1 minute.",
             {
@@ -3850,7 +3850,7 @@
         "name": "Hidden Hand",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When consumed, this grainy potion heightens your senses and gives you a sunken feeling of untapped strength. For the next 24 hours, you gain telekinetic powers as if you were under the effects of the Telekinesis spell.",
             {
@@ -3868,7 +3868,7 @@
         "name": "Homegrown",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When poured over a surface that is at least a 50-foot square area and isn't obstructed by obstacles (such as trees or boulders), this pungent liquid begins to quickly foam and expand. After 1 minute, a newly formed and furnished home of grand size appears in the space.",
             {
@@ -3886,7 +3886,7 @@
         "name": "Hunter's Speed",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When this amber potion is consumed, you gain the attributes of the Hunter, one of the great beasts of Obojima. Roll a d4. For the duration, you gain a flying speed of 90 feet, and whenever you take the Attack action, you can make an additional number of attacks equal to 1 + the number rolled on the d4. The effects of this potion last for 1 minute.",
             {
@@ -3904,7 +3904,7 @@
         "name": "Island Nectar",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "Consuming this sweet potion gives you a calming sensation before reinvigorating your life force and pushing you into action. You regain 100 hit points, and as part of the same bonus action to consume it, you can immediately make a melee weapon attack, cast a spell that targets only one creature or object, or move up to your speed.",
             {
@@ -3922,7 +3922,7 @@
         "name": "Last Resort",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When this potion is downed, a crystalline cocoon begins forming around you. The cocoon becomes fully formed at the start of your next turn, and you can't be contacted or interacted with in any way. The cocoon is immune to all damage, and it can't be moved or destroyed by any means short of a wish spell. While in the cocoon, you are in stasis and don't need to eat or breathe. The cocoon lasts between 1 hour and 4 decades. Roll on the table below to determine the measurement of time for the effect, from hours to decades. Then roll a d4 to determine the exact amount of time the cocoon exists.",
             {
@@ -3940,7 +3940,7 @@
         "name": "Lycanthropy Antidote",
         "source": "GrimHollowLairsEtharis",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "This silvery potion, made with fzeg blood, is dotted with flecks of red. Drinking this liquid removes the curse of werewolf lycanthropy."
         ],
@@ -3952,7 +3952,7 @@
         "name": "Many Hands",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When you drink this potion, you can call upon an ancient and devious spirit known as Many Hands. When you do, a host of long, spindly, spectral arms reach out from your body. Anyone who can see you when the hands first emerge must succeed on a DC 19 Wisdom saving throw or be frightened until the start of your next turn; creatures that are friendly to you have advantage on this save. Additionally, the arms lash out from you, clawing at all other creatures within 20 feet of you. Each creature in that area must make a DC 19 Constitution saving throw. On a failed save, a target takes 10d6 necrotic damage and can't regain hit points until the start of your next turn. On a successful save, the creature takes half as much damage but suffers no other effect.",
             {
@@ -3970,7 +3970,7 @@
         "name": "Mind Transfer",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When imbibed, this acrid elixir loosens your soul from your body and prepares it for transfer. The first time you are touched by a creature after consuming this potion, your mind and soul transfer into that creature's body. While inhabiting the creature's body, you can force it to make a contested Intelligence or Wisdom check (you both choose which ability to use) at the start of each of its turns. If you succeed, you gain total control over the creature until the start of its next turn. While your mind and soul are away, your body is left unconscious. If the creature dies while your mind and soul are still inside it, you also die. You inhabit the creature's body for 1 hour, until you dismiss the effect as an action, or until the creature is targeted by a Dispel Evil and Good spell.",
             {
@@ -3988,7 +3988,7 @@
         "name": "New Life",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "The brewer of this potion chooses the likeness of a humanoid that they are familiar with. When imbibed, you take on the illusionary form of the chosen creature. This illusory disguise is perfect in every way and matches both the creature's visage and its voice. Only creatures with the ability to detect magic or see through illusions (as with truesight) can discern this disguise. The effects of this potion last for 7 years or until removed, as if it were a curse. This doesn't count against the number of potions you can have affecting your body at once.",
             {
@@ -4006,7 +4006,7 @@
         "name": "Newly Found Magic",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When consumed, you feel a rush of magical inspiration flow through you. You instantly learn a random 3rd-level spell. You can cast it without expending a spell slot, and once you do so, you can't cast it in this way again until you finish a long rest. This potion's effect is permanent, and it doesn't count against the number of potions you can have affecting you at once.",
             {
@@ -4024,7 +4024,7 @@
         "name": "Oil of Etherealness",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "Beads of this cloudy gray oil form on the outside of its container and quickly evaporate. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the etherealness spell for 1 hour."
         ],
@@ -4036,7 +4036,7 @@
         "name": "Philter of Deep Despair",
         "source": "BookOfEbonTides",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "As you imbibe this potion, you remember a time of heart-rending sorrow, grief, and despair related to death, loss, or failure—the specific memories depend on the philter's creator. You have advantage on Wisdom saving throws for 1 hour but cannot take bonus actions of any kind during that time.",
             "The effects of this philter cancel the effects of a philter of boundless joy.",
@@ -4057,7 +4057,7 @@
         "name": "Philter of Enchanted Fortune",
         "source": "BookOfEbonTides",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "As you imbibe this potion, you remember a time of staggering good fortune, accomplishment, and success—the specific memories depend on the philter's creator. You have advantage on the next three ability checks, attack rolls, or saving throws you make (including death saving throws).",
             {
@@ -4077,7 +4077,7 @@
         "name": "Philter of Innocence",
         "source": "BookOfEbonTides",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "As you imbibe this potion, you return to a childlike state, remembering your life as it was in your formative years—the specific memories depend on the philter's creator. You have resistance to psychic damage for 1 hour and have advantage on Constitution ability checks during that time.",
             {
@@ -4097,7 +4097,7 @@
         "name": "Philter of Loving Kindness",
         "source": "BookOfEbonTides",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "As you imbibe this potion, you remember a time of love and acceptance—the specific memories depend on the philter's creator. You cannot be affected by spells from the school of enchantment for 1 hour.",
             {
@@ -4117,7 +4117,7 @@
         "name": "Philter of Mercy",
         "source": "BookOfEbonTides",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "As you imbibe this potion, you remember a time of mercy, atonement, and forgiveness—the specific memories depend on the philter's creator. You are immune to being frightened for 1 hour and have advantage on Wisdom ability checks during that time.",
             "The effects of this philter cancel the effects of a philter of righteous anger.",
@@ -4138,7 +4138,7 @@
         "name": "Potion of Aqueous Form",
         "source": "MOT",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When you drink this potion, you transform into a pool of water. You return to your true form after 10 minutes or if you are incapacitated or die.",
             "You're under the following effects while in this form:",
@@ -4171,7 +4171,7 @@
         "name": "Potion of Clairvoyance",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When you drink this potion, you gain the effect of the clairvoyance spell. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened."
         ],
@@ -4183,7 +4183,7 @@
         "name": "Potion of Diminution",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When you drink this potion, you gain the \"reduce\" effect of the enlarge/reduce spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it. Shaking the bottle fails to interrupt this process."
         ],
@@ -4195,7 +4195,7 @@
         "name": "Potion of Fire Giant Strength",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When you drink this potion, your Strength score changes to 25 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.",
             "This potion's transparent liquid has floating in it a sliver of fingernail from a fire giant."
@@ -4208,7 +4208,7 @@
         "name": "Potion of Frost Giant Strength",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When you drink this potion, your Strength score changes to 23 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.",
             "This potion's transparent liquid has floating in it a sliver of fingernail from a frost giant."
@@ -4221,7 +4221,7 @@
         "name": "Potion of Gaseous Form",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When you drink this potion, you gain the effect of the gaseous form spell for 1 hour (no concentration required) or until you end the effect as a bonus action. This potion's container seems to hold fog that moves and pours like water."
         ],
@@ -4233,7 +4233,7 @@
         "name": "Potion of Heroism",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the bless spell (no concentration required). This blue potion bubbles and steams as if boiling."
         ],
@@ -4245,7 +4245,7 @@
         "name": "Potion of Invulnerability",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "For 1 minute after you drink this potion, you have resistance to all damage. The potion's syrupy liquid looks like liquefied iron."
         ],
@@ -4257,7 +4257,7 @@
         "name": "Potion of Maximum Power",
         "source": "EGW",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "The first time you cast a damage-dealing spell of 4th level or lower within 1 minute after drinking the potion, instead of rolling dice to determine the damage dealt, you can instead use the highest number possible for each die.",
             "This glowing purple liquid smells of sugar and plum, but it has a muddy taste."
@@ -4270,7 +4270,7 @@
         "name": "Potion of Mind Control (beast)",
         "source": "TftYP",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When you drink a potion of mind control, you can cast a dominate spell (save DC 15) on a specific creature if you do so before the end of your next turn. If you don't, the potion is wasted.",
             "A potion of mind control produces the effect of a dominate beast spell. If the target's initial saving throw fails, the effect lasts for 1 hour, with no concentration required on your part. The charmed creature has disadvantage on new saving throws to break the effect during this time."
@@ -4283,7 +4283,7 @@
         "name": "Potion of Mind Control (humanoid)",
         "source": "TftYP",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When you drink a potion of mind control, you can cast a dominate spell (save DC 15) on a specific creature if you do so before the end of your next turn. If you don't, the potion is wasted.",
             "A potion of mind control produces the effect of a dominate person spell. If the target's initial saving throw fails, the effect lasts for 1 hour, with no concentration required on your part. The charmed creature has disadvantage on new saving throws to break the effect during this time."
@@ -4296,7 +4296,7 @@
         "name": "Potion of Mind Reading",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When you drink this potion, you gain the effect of the detect thoughts spell (save DC 13). The potion's dense, purple liquid has an ovoid cloud of pink floating in it."
         ],
@@ -4308,7 +4308,7 @@
         "name": "Potion of Stone Giant Strength",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When you drink this potion, your Strength score changes to 23 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.",
             "This potion's transparent liquid has floating in it a sliver of fingernail from a stone giant."
@@ -4321,7 +4321,7 @@
         "name": "Potion of Superior Healing",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "You regain 8d4 + 8 hit points when you drink this potion. The potion's red liquid glimmers when agitated."
         ],
@@ -4333,7 +4333,7 @@
         "name": "Refined Delerium Dust",
         "source": "DungeonsDrakkenheim",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "This pouch contains an ounce of purified and magically charged delerium dust. It may be ingested as an action. When you consume a full pouch, you gain advantage on spell attack rolls and saving throws against spells for one minute.",
             "You gain one level of contamination: when you consume refined delerium dust."
@@ -4346,7 +4346,7 @@
         "name": "Rejuvenating Draft (Rare)",
         "source": "GriffonsSaddlebag2",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When you drink this potion, you regain 1d4 + 3 spent Hit Dice."
         ]
@@ -4355,7 +4355,7 @@
         "name": "Residuum",
         "source": "TalDoreiCampaignSettingReborn",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "The sheer amount of leftover arcane power within the whitestone of the mountains is incredibly receptive to enchantment. Magic items that incorporate at least an ounce of whitestone into their construction require only one-quarter the creation time of other magic items. Some alchemists in Emon have discovered that dissolving whitestone with specific acids can leave behind pure residuum, which can substitute for expensive spell components when such materials are not readily available.",
             "If a spell has a component cost that consumes the component, its caster can substitute the required component for an amount of residuum of an equal value. One pound of pure residuum is worth approximately 500 gp in most markets, though it becomes extremely expensive and difficult to find outside of Emon or the city of Whitestone itself.",
@@ -4369,7 +4369,7 @@
         "name": "Scroll of Protection from Aberrations",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "Using an action to read the scroll encloses you in an invisible barrier that extends from you to form a 5-foot-radius, 10-foot-high cylinder. For 5 minutes, this barrier prevents aberrations from entering or affecting anything within the cylinder. The cylinder moves with you and remains centered on you. However, if you move in such a way that an aberration would be inside the cylinder, the effect ends. A creature can attempt to overcome the barrier by using an action to make a DC 15 Charisma check. On a success, the creature ceases to be affected by the barrier."
         ],
@@ -4381,7 +4381,7 @@
         "name": "Scroll of Protection from Beasts",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "Using an action to read the scroll encloses you in an invisible barrier that extends from you to form a 5-foot-radius, 10-foot-high cylinder. For 5 minutes, this barrier prevents beasts from entering or affecting anything within the cylinder. The cylinder moves with you and remains centered on you. However, if you move in such a way that a beast would be inside the cylinder, the effect ends. A creature can attempt to overcome the barrier by using an action to make a DC 15 Charisma check. On a success, the creature ceases to be affected by the barrier."
         ],
@@ -4393,7 +4393,7 @@
         "name": "Scroll of Protection from Celestials",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "Using an action to read the scroll encloses you in an invisible barrier that extends from you to form a 5-foot-radius, 10-foot-high cylinder. For 5 minutes, this barrier prevents celestials from entering or affecting anything within the cylinder. The cylinder moves with you and remains centered on you. However, if you move in such a way that a celestial would be inside the cylinder, the effect ends. A creature can attempt to overcome the barrier by using an action to make a DC 15 Charisma check. On a success, the creature ceases to be affected by the barrier."
         ],
@@ -4405,7 +4405,7 @@
         "name": "Scroll of Protection from Elementals",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "Using an action to read the scroll encloses you in an invisible barrier that extends from you to form a 5-foot-radius, 10-foot-high cylinder. For 5 minutes, this barrier prevents elementals from entering or affecting anything within the cylinder. The cylinder moves with you and remains centered on you. However, if you move in such a way that an elemental would be inside the cylinder, the effect ends. A creature can attempt to overcome the barrier by using an action to make a DC 15 Charisma check. On a success, the creature ceases to be affected by the barrier."
         ],
@@ -4417,7 +4417,7 @@
         "name": "Scroll of Protection from Fey",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "Using an action to read the scroll encloses you in an invisible barrier that extends from you to form a 5-foot-radius, 10-foot-high cylinder. For 5 minutes, this barrier prevents fey from entering or affecting anything within the cylinder. The cylinder moves with you and remains centered on you. However, if you move in such a way that a fey would be inside the cylinder, the effect ends. A creature can attempt to overcome the barrier by using an action to make a DC 15 Charisma check. On a success, the creature ceases to be affected by the barrier."
         ],
@@ -4429,7 +4429,7 @@
         "name": "Scroll of Protection from Fiends",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "Using an action to read the scroll encloses you in an invisible barrier that extends from you to form a 5-foot-radius, 10-foot-high cylinder. For 5 minutes, this barrier prevents fiends from entering or affecting anything within the cylinder. The cylinder moves with you and remains centered on you. However, if you move in such a way that a fiend would be inside the cylinder, the effect ends. A creature can attempt to overcome the barrier by using an action to make a DC 15 Charisma check. On a success, the creature ceases to be affected by the barrier."
         ],
@@ -4441,7 +4441,7 @@
         "name": "Scroll of Protection from Plants",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "Using an action to read the scroll encloses you in an invisible barrier that extends from you to form a 5-foot-radius, 10-foot-high cylinder. For 5 minutes, this barrier prevents plants from entering or affecting anything within the cylinder. The cylinder moves with you and remains centered on you. However, if you move in such a way that a plant would be inside the cylinder, the effect ends. A creature can attempt to overcome the barrier by using an action to make a DC 15 Charisma check. On a success, the creature ceases to be affected by the barrier."
         ],
@@ -4453,7 +4453,7 @@
         "name": "Scroll of Protection from Undead",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "Using an action to read the scroll encloses you in an invisible barrier that extends from you to form a 5-foot-radius, 10-foot-high cylinder. For 5 minutes, this barrier prevents undead from entering or affecting anything within the cylinder. The cylinder moves with you and remains centered on you. However, if you move in such a way that an undead would be inside the cylinder, the effect ends. A creature can attempt to overcome the barrier by using an action to make a DC 15 Charisma check. On a success, the creature ceases to be affected by the barrier."
         ],
@@ -4465,7 +4465,7 @@
         "name": "Severed Reaction",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "Consuming this foggy brew gives you a headache you can never quite alleviate. While under the effects of this potion, you can take two reactions each round instead of one. Each time you take a second reaction, you lose a number of hit points equal to half your level. This potion's effect is permanent: and it doesn't count against the number of potions you can have affecting you at once.",
             {
@@ -4483,7 +4483,7 @@
         "name": "Shadow Portal Scroll",
         "source": "BookOfEbonTides",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "Written on black leather in letters of glowing white, a shadow portal scroll opens a portal as a form of invitation from a fey enchanter, goblin shaman, or other powerful arcanist of the Shadow Realm. All creatures within 10 feet of you when the scroll is read are transported to the Shadow Realm, usually near the scroll maker's residence."
         ],
@@ -4495,7 +4495,7 @@
         "name": "Simulacrum Elixir",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When consumed, this numbing concoction sends you into a deep sleep. When you awake, your mind has taken over a perfect clone of yourself. The clone appears to be the same as you in every way, but it has half of your hit point maximum and is formed without any equipment other than mundane clothes. Otherwise, the clone uses all of your statistics, except that it is a construct. The clone lacks the ability to learn or become more powerful, so it never increases its level or other abilities, nor can it regain expended spell slots.",
             "While the clone exists, your original body stays in a constant deep sleep, where it requires no nourishment, but it can still suffer damage as normal. The clone lasts until you dismiss it or it drops to 0 hit points, at which point it disappears in a cloud of butterflies. When it disappears, your mind returns to your original body.",
@@ -4514,7 +4514,7 @@
         "name": "Spell Scroll (4th Level)",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
             "If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 14. On a failed check, the spell disappears from the scroll with no other effect.",
@@ -4530,7 +4530,7 @@
         "name": "Spell Scroll (5th Level)",
         "source": "DMG",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
             "If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 15. On a failed check, the spell disappears from the scroll with no other effect.",
@@ -4546,7 +4546,7 @@
         "name": "Spellwrought Tattoo (4th Level)",
         "source": "TCE",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "Produced by a special needle, this magic tattoo contains a single 4th level spell, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin and speak the command word. The needle turns into ink that becomes the tattoo, which appears on the skin in whatever design you like. Once the tattoo is there, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.",
             "The Ability modifier for this spell is +4; the Save DC is 15 and the attack bonus is +7."
@@ -4559,7 +4559,7 @@
         "name": "Spellwrought Tattoo (5th Level)",
         "source": "TCE",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "Produced by a special needle, this magic tattoo contains a single 5th level spell, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin and speak the command word. The needle turns into ink that becomes the tattoo, which appears on the skin in whatever design you like. Once the tattoo is there, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.",
             "The Ability modifier for this spell is +5; the Save DC is 17 and the attack bonus is +9."
@@ -4572,7 +4572,7 @@
         "name": "Spiritual Rebuke",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When poured, this dark elixir stains the earth and creates a 10-foot cube that is void of the island's magic, as if it were under the effects of the Antimagic Field spell. This effect lasts for 1 year.",
             {
@@ -4590,7 +4590,7 @@
         "name": "Sream's Stoppered Oasis",
         "source": "GriffonsSaddlebag2",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "This tall decanter is filled with water from a miraculous oasis in the H'rethi Desert and is stoppered with a small, overgrown planter. You can pour the water out of the bottle on top of the planter as an action to create a magical oasis that fills up to a 100-foot-square space over the course of 10 minutes.",
             "The oasis has a pond filled with clean water and exotic, fruit-bearing trees that can nourish up to fifteen humanoids or five steeds for 24 hours. The area within the oasis is always under the effects of the alarm spell. A swarm of poisonous snakes appears to defend the oasis for each creature that sets off the alarm (maximum of 3), whose rattling tails act as the audible alarm. The swarms are friendly to you and your companions, but don't obey verbal commands. Roll initiative for the summoned swarms as a group, which have their own turns. A swarm disappears when it drops to 0 hit points or when there are no more hostile creatures within the oasis.",
@@ -4602,7 +4602,7 @@
         "name": "Umi's Powerful Undertow",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "This potent elixir allows the drinker to enhance their aquatic spells with the ocean's wrath. For the next hour, when you cast a spell that produces or manipulates water in some capacity, the spell is cast as if using a spell slot of one level higher. Additionally, spells that use water to deal damage to a creature or object deal an extra 2d12 bludgeoning damage.",
             "Alternatively, you can throw the potion into an unoccupied space within 30 feet of you, breaking the glass and summoning three water elementals in the nearest unoccupied spaces. These creatures are under your control until destroyed.",
@@ -4621,7 +4621,7 @@
         "name": "Unified Might",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When consumed, this potion produces a burning sensation that fills your body, leaving you with newfound intellectual and physical strength. For the next hour, two ability scores of your choice increase to 25.",
             {
@@ -4639,7 +4639,7 @@
         "name": "Ups-A-Daisy",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "When poured over a creature or object, this creamy elixir instantly awakens the target, as if by the Awaken spell. The awakened creature remains charmed by you for 1 year, instead of 30 days.",
             {
@@ -4657,7 +4657,7 @@
         "name": "Vial of Greed",
         "source": "CoA",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "This small glass vial can stockpile resources for use in the future. Once stored, resources last for 1 century before vanishing. As an action you make the vial store any number of the following resources, which are magically consumed and converted into a violet-colored liquid:",
             {
@@ -4679,7 +4679,7 @@
         "name": "Wine of the Starry Void",
         "source": "BookOfEbonTides",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "Found largely in the realms of the Court of a Million Stars and in the hands of disciples of the Void, this wine enables you to see the future—for a time. Roll 10d20 and apply each resulting die in any order when ability checks, attack rolls, saving throws, or even death saving throws are required. However, all ten results must be applied before any normal rolls can resume."
         ],
@@ -4691,7 +4691,7 @@
         "name": "Wine of the Summer Court",
         "source": "BookOfEbonTides",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "This white wine is slightly pink from the rose petals added to the grapes prior to the crush. It is light and airy and evaporates within an hour if left exposed to the air. The wine tastes of peach, grapefruit, and your first kiss. Drinking it fills you with giddy thoughts of dancing, romance, and adventure.",
             "When you drink this wine, you have advantage on Charisma ability checks for 1 hour, and you can reroll one failed ability check, attack roll, or saving throw during that time."
@@ -4704,7 +4704,7 @@
         "name": "Withered Will",
         "source": "ObojimaTallGrass",
         "rarity": "rare",
-        "value": 450,
+        "value": 250,
         "entries": [
             "After drinking this light and dewy potion, you gain the ability to breathe a cloud of withering vapor. For the next minute, you can use a bonus action to exhale a cloud in a 60-foot cone. Each creature in that area must make a DC 17 Constitution saving throw. On a failed save, a creature's speed is halved, it can't take reactions, and it has disadvantage on attack rolls until the start of your next turn. At the start of your next turn, roll a d6. You regain the use of this ability on a roll of 4-6.",
             {
@@ -4722,7 +4722,7 @@
         "name": "Bloody Marilith (Very Rare)",
         "source": "GriffonsSaddlebag2",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "The following bloody marilith is a very rare variant with more powerful properties. It uses blood from a fiendish marilith, instead of a magical substitute, and pleasantly burns your tongue when drinking it. It also tastes better.",
             "When you drink this potion, you can take one reaction on every turn in a combat for 1 minute. Unlike its Bloody Marilith (Common) variant, this potion's effect does not end when you use an additional reaction.",
@@ -4733,7 +4733,7 @@
         "name": "Candle of Invocation",
         "source": "DMG",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "This slender taper is dedicated to a deity and shares that deity's alignment. The candle's alignment can be detected with the detect evil and good spell. The DM chooses the god and associated alignment or determines the alignment randomly.",
             "The candle's magic is activated when the candle is lit, which requires an action. After burning for 4 hours, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from the candle's total burn time.",
@@ -4748,7 +4748,7 @@
         "name": "Devastation Orb of Air",
         "source": "PotA",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "A devastation orb is an elemental bomb that can be created at the site of an elemental node by performing a ritual with an elemental weapon. The type of orb created depends on the node used. For example, an air node creates a devastation orb of air. The ritual takes 1 hour to complete and requires 2,000 gp worth of special components, which are consumed.",
             "A devastation orb measures 12 inches in diameter, weighs 10 pounds, and has a solid outer shell. The orb detonates 1d100 hours after its creation, releasing the elemental energy it contains. The orb gives no outward sign of how much time remains before it will detonate. Spells such as identify and divination can be used to ascertain when the orb will explode. An orb has AC 10, 15 hit points, and immunity to poison and psychic damage. Reducing it to 0 hit points causes it to explode instantly.",
@@ -4770,7 +4770,7 @@
         "name": "Devastation Orb of Earth",
         "source": "PotA",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "A devastation orb is an elemental bomb that can be created at the site of an elemental node by performing a ritual with an elemental weapon. The type of orb created depends on the node used. For example, an air node creates a devastation orb of air. The ritual takes 1 hour to complete and requires 2,000 gp worth of special components, which are consumed.",
             "A devastation orb measures 12 inches in diameter, weighs 10 pounds, and has a solid outer shell. The orb detonates 1d100 hours after its creation, releasing the elemental energy it contains. The orb gives no outward sign of how much time remains before it will detonate. Spells such as identify and divination can be used to ascertain when the orb will explode. An orb has AC 10, 15 hit points, and immunity to poison and psychic damage. Reducing it to 0 hit points causes it to explode instantly.",
@@ -4792,7 +4792,7 @@
         "name": "Devastation Orb of Fire",
         "source": "PotA",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "A devastation orb is an elemental bomb that can be created at the site of an elemental node by performing a ritual with an elemental weapon. The type of orb created depends on the node used. For example, an air node creates a devastation orb of air. The ritual takes 1 hour to complete and requires 2,000 gp worth of special components, which are consumed.",
             "A devastation orb measures 12 inches in diameter, weighs 10 pounds, and has a solid outer shell. The orb detonates 1d100 hours after its creation, releasing the elemental energy it contains. The orb gives no outward sign of how much time remains before it will detonate. Spells such as identify and divination can be used to ascertain when the orb will explode. An orb has AC 10, 15 hit points, and immunity to poison and psychic damage. Reducing it to 0 hit points causes it to explode instantly.",
@@ -4814,7 +4814,7 @@
         "name": "Devastation Orb of Water",
         "source": "PotA",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "A devastation orb is an elemental bomb that can be created at the site of an elemental node by performing a ritual with an elemental weapon. The type of orb created depends on the node used. For example, an air node creates a devastation orb of air. The ritual takes 1 hour to complete and requires 2,000 gp worth of special components, which are consumed.",
             "A devastation orb measures 12 inches in diameter, weighs 10 pounds, and has a solid outer shell. The orb detonates 1d100 hours after its creation, releasing the elemental energy it contains. The orb gives no outward sign of how much time remains before it will detonate. Spells such as identify and divination can be used to ascertain when the orb will explode. An orb has AC 10, 15 hit points, and immunity to poison and psychic damage. Reducing it to 0 hit points causes it to explode instantly.",
@@ -4836,7 +4836,7 @@
         "name": "Lindwyrm Venom",
         "source": "GrimHollowLairsEtharis",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "This terrible venom is extracted and distilled from the deadly lindwyrm. It can be delivered via ingestion or a wound. A creature exposed to the venom must succeed on a DC 18 Constitution saving throw or take 36 (8d8) poison damage and be poisoned for 1 minute. While poisoned, the creature has disadvantage on Strength and Dexterity skill checks and saving throws."
         ],
@@ -4848,7 +4848,7 @@
         "name": "Oil of Sharpness",
         "source": "DMG",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "This clear, gelatinous oil sparkles with tiny, ultrathin silver shards. The oil can coat one slashing or piercing weapon or up to 5 pieces of slashing or piercing ammunition. Applying the oil takes 1 minute. For 1 hour, the coated item is magical and has a +3 bonus to attack and damage rolls."
         ],
@@ -4860,7 +4860,7 @@
         "name": "Orostead Iced Tea (Very Rare)",
         "source": "GriffonsSaddlebag2",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "The following Orostead iced tea is a very rare variant with additional properties. It also tastes better. When made, a tea has enough for 6 + 1d4 sips before it's used up, instead of a single use. You can take a sip as an action.",
             "When you take a sip of this potion, roll a d8 and consult the table below instead to determine which one of the following benefits you gain. Once you've gained a benefit from the table, you can't gain that same benefit again until you finish a long rest."
@@ -4870,7 +4870,7 @@
         "name": "Potion of Cloud Giant Strength",
         "source": "DMG",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "When you drink this potion, your Strength score changes to 27 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.",
             "This potion's transparent liquid has floating in it a sliver of fingernail from a cloud giant."
@@ -4883,7 +4883,7 @@
         "name": "Potion of Flying",
         "source": "DMG",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "When you drink this potion, you gain a flying speed equal to your walking speed for 1 hour and can hover. If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft. This potion's clear liquid floats at the top of its container and has cloudy white impurities drifting in it."
         ],
@@ -4895,7 +4895,7 @@
         "name": "Potion of Invisibility",
         "source": "DMG",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "This potion's container looks empty but feels as though it holds liquid. When you drink it, you become invisible for 1 hour. Anything you wear or carry is invisible with you. The effect ends early if you attack or cast a spell."
         ],
@@ -4907,7 +4907,7 @@
         "name": "Potion of Longevity",
         "source": "DMG",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "When you drink this potion, your physical age is reduced by 1d6 + 6 years, to a minimum of 13 years. Each time you subsequently drink a potion of longevity, there is a You become younger cumulative chance that you instead age by 1d6 + 6 years. Suspended in this amber liquid are a scorpion's tail, an adder's fang, a dead spider, and a tiny heart that, against all reason, is still beating. These ingredients vanish when the potion is opened."
         ],
@@ -4919,7 +4919,7 @@
         "name": "Potion of Mind Control (monster)",
         "source": "TftYP",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "When you drink a potion of mind control, you can cast a dominate spell (save DC 15) on a specific creature if you do so before the end of your next turn. If you don't, the potion is wasted.",
             "A potion of mind control produces the effect of a dominate monster spell. If the target's initial saving throw fails, the effect lasts for 1 hour, with no concentration required on your part. The charmed creature has disadvantage on new saving throws to break the effect during this time."
@@ -4932,7 +4932,7 @@
         "name": "Potion of Possibility",
         "source": "EGW",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "When you drink this clear potion, you gain two Fragments of Possibility, each of which looks like a Tiny, grayish bead of energy that follows you around, staying within 1 foot of you at all times. Each fragment lasts for 8 hours or until used.",
             "When you make an attack roll, an ability check, or a saving throw, you can expend your fragment to roll an additional d20 and choose which of the d20s to use. Alternatively, when an attack roll is made against you, you can expend your fragment to roll a d20 and choose which of the d20s to use, the one you rolled or the one the attacker rolled.",
@@ -4947,7 +4947,7 @@
         "name": "Potion of Speed",
         "source": "DMG",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "When you drink this potion, you gain the effect of the haste spell for 1 minute (no concentration required). The potion's yellow fluid is streaked with black and swirls on its own."
         ],
@@ -4959,7 +4959,7 @@
         "name": "Potion of Supreme Healing",
         "source": "DMG",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "You regain 10d4 + 20 hit points when you drink this potion. The potion's red liquid glimmers when agitated."
         ],
@@ -4971,7 +4971,7 @@
         "name": "Potion of Vitality",
         "source": "DMG",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "When you drink this potion, it removes any exhaustion you are suffering and cures any disease or poison affecting you. For the next 24 hours, you regain the maximum number of hit points for any Hit Die you spend. The potion's crimson liquid regularly pulses with dull light, calling to mind a heartbeat."
         ],
@@ -4983,7 +4983,7 @@
         "name": "Reincarnation Dust",
         "source": "EGW",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "When this small pouch of purple dust is sprinkled on a dead humanoid or a piece of a dead humanoid, the dust is absorbed by the remains. If willing, the dead creature returns to life with a new body as if the reincarnate spell had been cast on the remains."
         ],
@@ -4995,7 +4995,7 @@
         "name": "Rejuvenating Draft (Very Rare)",
         "source": "GriffonsSaddlebag2",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "When you drink this potion, you regain 1d6 + 4 spent Hit Dice."
         ]
@@ -5004,7 +5004,7 @@
         "name": "Spell Scroll (6th Level)",
         "source": "DMG",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
             "If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 16. On a failed check, the spell disappears from the scroll with no other effect.",
@@ -5020,7 +5020,7 @@
         "name": "Spell Scroll (7th Level)",
         "source": "DMG",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
             "If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 17. On a failed check, the spell disappears from the scroll with no other effect.",
@@ -5036,7 +5036,7 @@
         "name": "Spell Scroll (8th Level)",
         "source": "DMG",
         "rarity": "very rare",
-        "value": 1000,
+        "value": 500,
         "entries": [
             "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
             "If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 18. On a failed check, the spell disappears from the scroll with no other effect.",
@@ -5052,7 +5052,7 @@
         "name": "Potion of Dragon's Majesty",
         "source": "FTD",
         "rarity": "legendary",
-        "value": 5000,
+        "value": 1000,
         "entries": [
             "This potion looks like liquid gold, with a single scale from a chromatic, gem, or metallic dragon suspended in it. When you drink this potion, you transform into an adult dragon of the same kind as the dragon the scale came from. The transformation lasts for 1 hour. Any equipment you are wearing or carrying melds into your new form or falls to the ground (your choice). For the duration, you use the game statistics of the adult dragon instead of your own, but you retain your languages, personality, and memories. You can't use a dragon's Change Shape or its legendary or lair actions."
         ],
@@ -5064,7 +5064,7 @@
         "name": "Potion of Giant Size",
         "source": "SKT",
         "rarity": "legendary",
-        "value": 5000,
+        "value": 1000,
         "entries": [
             "When you drink this potion, you become Huge for 24 hours if you are Medium or smaller, otherwise the potion does nothing. For that duration, your Strength becomes 25, if it isn't already higher, and your hit point maximum is doubled (your current hit points are doubled when you drink the potion). In addition, the reach of your melee attacks increases by 5 feet.",
             "Everything you are carrying and wearing also increases in size for the duration. When rolling damage for weapons enlarged in this manner, roll three times the normal number of dice; for example, an enlarged longsword would deal 3d8 slashing damage (instead of 1d8), or 3d10 slashing damage (instead of 1d10) when used with two hands.",
@@ -5078,7 +5078,7 @@
         "name": "Potion of Storm Giant Strength",
         "source": "DMG",
         "rarity": "legendary",
-        "value": 5000,
+        "value": 1000,
         "entries": [
             "When you drink this potion, your Strength score changes to 29 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.",
             "This potion's transparent liquid has floating in it a sliver of fingernail from a storm giant."
@@ -5091,7 +5091,7 @@
         "name": "Rejuvenating Draft (Legendary)",
         "source": "GriffonsSaddlebag2",
         "rarity": "legendary",
-        "value": 5000,
+        "value": 1000,
         "entries": [
             "When you drink this potion, you regain all spent Hit Dice. When you drink the legendary variant of a rejuvenating draft, your age is reduced by 1d4 years (to a minimum of 1 year old)."
         ]
@@ -5100,7 +5100,7 @@
         "name": "Scarab of Protection",
         "source": "DMG",
         "rarity": "legendary",
-        "value": 5000,
+        "value": 1000,
         "entries": [
             "If you hold this beetle-shaped medallion in your hand for 1 round, an inscription appears on its surface revealing its magical nature. It provides two benefits while it is on your person:",
             {
@@ -5119,7 +5119,7 @@
         "name": "Scroll of Tarrasque Summoning",
         "source": "IDRotF",
         "rarity": "legendary",
-        "value": 5000,
+        "value": 1000,
         "entries": [
             "Using an action to read the scroll causes the tarrasque (see the creature's entry in the Monster Manual) to appear in an unoccupied space you can see within 1 mile of you. The tarrasque disappears when it drops to 0 hit points and is hostile toward all creatures other than itself."
         ],
@@ -5131,7 +5131,7 @@
         "name": "Scroll of the Comet",
         "source": "IDRotF",
         "rarity": "legendary",
-        "value": 5000,
+        "value": 1000,
         "entries": [
             "By using an action to read the scroll, you cause a comet to fall from the sky and crash to the ground at a point you can see up to 1 mile away from you. You must be outdoors when you use the scroll, or nothing happens and the scroll is wasted.",
             "The comet creates a 50-foot-deep, 500-foot-radius crater on impact. Any creature in that radius must make a DC 20 Dexterity saving throw, taking 30d10 force damage on a failed saving throw, or half as much damage on a successful one. All structures in the crater are destroyed, as are all nonmagical objects that aren't being worn or held."
@@ -5144,7 +5144,7 @@
         "name": "Spell Scroll (9th Level)",
         "source": "DMG",
         "rarity": "legendary",
-        "value": 5000,
+        "value": 1000,
         "entries": [
             "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
             "If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 19. On a failed check, the spell disappears from the scroll with no other effect.",
@@ -5160,7 +5160,7 @@
         "name": "Sphere of Annihilation",
         "source": "DMG",
         "rarity": "legendary",
-        "value": 5000,
+        "value": 1000,
         "entries": [
             "This 2-foot-diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it.",
             "The sphere obliterates all matter it passes through and all matter that passes through it. Artifacts are the exception. Unless an artifact is susceptible to damage from a sphere of annihilation, it passes through the sphere unscathed. Anything else that touches the sphere but isn't wholly engulfed and obliterated by it takes 4d10 force damage.",
@@ -5176,7 +5176,7 @@
         "name": "Tablet of Reawakening",
         "source": "HAT-LMI",
         "rarity": "legendary",
-        "value": 5000,
+        "value": 1000,
         "entries": [
             "Witches of Rashemen created this Tiny stone tablet to counter the necromancy of the Red Wizards. As an action, you can cast true resurrection from the tablet. Once used in this way, the tablet turns to dust and is destroyed."
         ],
@@ -5188,7 +5188,7 @@
         "name": "Talisman of Pure Good",
         "source": "DMG",
         "rarity": "legendary",
-        "value": 5000,
+        "value": 1000,
         "entries": [
             "This talisman is a mighty symbol of goodness. A creature that is neither good nor evil in alignment takes 6d6 radiant damage upon touching the talisman. An evil creature takes 8d6 radiant damage upon touching the talisman. Either sort of creature takes the damage again each time it ends its turn holding or carrying the talisman.",
             "If you are a good cleric or paladin, you can use the talisman as a holy symbol, and you gain a +2 bonus to spell attack rolls while you wear or hold it.",
@@ -5202,7 +5202,7 @@
         "name": "Talisman of Ultimate Evil",
         "source": "DMG",
         "rarity": "legendary",
-        "value": 5000,
+        "value": 1000,
         "entries": [
             "This item symbolizes unrepentant evil. A creature that is neither good nor evil in alignment takes 6d6 necrotic damage upon touching the talisman. A good creature takes 8d6 necrotic damage upon touching the talisman. Either sort of creature takes the damage again each time it ends its turn holding or carrying the talisman.",
             "If you are an evil cleric or paladin, you can use the talisman as a holy symbol, and you gain a +2 bonus to spell attack rolls while you wear or hold it.",

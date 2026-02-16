@@ -15,7 +15,7 @@ export default function Footer() {
 			</h3>
 			<div className='pt-2 text-sm'>
 				<p>
-					V5.0.0 2026
+					V5.0.2 2026
 				</p>
 				<p>
 					Background image <a target='_blank' href={credits.img.bg.url}>{credits.img.bg.author}</a> {credits.img.bg.site}

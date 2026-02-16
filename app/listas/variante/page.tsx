@@ -126,9 +126,6 @@ export default function VariantesMagicos() {
                         )}
                     </div>
                 )}
-                <div className='flex justify-center items-center'>
-                    <BuyButton name={selectedItem.name} value={selectedItem.value} />
-                </div>
             </ItemFrame>
         </div>
     );
