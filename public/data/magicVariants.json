@@ -1637,16 +1637,6 @@
         "type": "GV|DMG"
     },
     {
-        "name": "Lunar Weapon",
-        "source": "ObojimaTallGrass",
-        "rarity": "uncommon",
-        "value": 500,
-        "entries": [
-            "This weapon is crafted with strands of moonlight. At night, attacks with it deal an extra 1d8 radiant damage on a hit."
-        ],
-        "type": "GV|DMG"
-    },
-    {
         "name": "Pollinator Carapace",
         "source": "GriffonsSaddlebag2",
         "rarity": "uncommon",
@@ -1709,16 +1699,6 @@
             "This armor is made from the treated carapace of a giant scorpion. You can benefit from the armor, as described below, even if you aren't attuned to it.",
             "While wearing this armor, it doesn't impose disadvantage on your Dexterity (Stealth) checks while you're in dim light or darkness. However, your speed is reduced by 5 feet while you're in sunlight, as the armored husk recoils and constricts from it.",
             "While attuned to this armor and wearing it, you have advantage on saving throws against poison. In addition, you can use a bonus action to close your eyes and speak the armor's command word. When you do, you create an instantaneous pulse of awareness around you, immediately alerting you to the presence and location of any creature within 30 feet of you that's on the ground as if you had tremorsense|MM out to a range of 30 feet. Once the armor's command word has been used, it can't be used again until the next dusk."
-        ],
-        "type": "GV|DMG"
-    },
-    {
-        "name": "Splinter Bow",
-        "source": "ObojimaTallGrass",
-        "rarity": "uncommon",
-        "value": 500,
-        "entries": [
-            "This magical bow can split arrows as you fire it, allowing you to target two creatures within 10 feet of each other. When you use the bow in this way, you make only one attack roll, which applies to both targets. If the attack hits at least one of the targets, roll damage normally; each target takes half the amount of damage rolled (rounded down)."
         ],
         "type": "GV|DMG"
     },
@@ -2016,17 +1996,6 @@
         "value": 1750,
         "entries": [
             "This axe has a single pearl set at the center of its blade. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you take the Attack action using this axe, you can forgo one of your attacks to swing the axe in front of you and speak its command word. When you do, the axe emits a crashing wave of magical water. The wave is 10 feet tall and extends from you in a 30-foot cone, after which it spreads out across the ground in all directions, extinguishing unprotected flames in the area within 30 feet of it before the water vanishes. Each creature within the cone must make a DC 15 Dexterity saving throw. On a failed save, a creature takes 4d8 bludgeoning damage and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone. This property can't be used again until the next dawn."
-        ],
-        "type": "GV|DMG"
-    },
-    {
-        "name": "Weapon of the Sun And Moon",
-        "source": "ObojimaTallGrass",
-        "rarity": "rare",
-        "value": 1750,
-        "entries": [
-            "A creature in possession of both the Lunar Weapon and the Solar Amulet can perform a 1-hour ritual (as if attuning to a magic item) to combine those items, forming the Weapon of the Sun and Moon.",
-            "In addition to having the properties of both the Lunar Weapon and the Solar Amulet, this weapon is considered a +1 Weapon and gains two Eclipse Powers. During the day, the Weapon of the Sun and Moon can use its Eclipse Power to cast the Darkness spell; this version of the spell creates a 60-foot-radius sphere of darkness, instead of its normal size. During the night, it can use its Eclipse Power to cast the Daylight spell. Once the daytime Eclipse Power is used, it can't be used again until the next dawn; once the nighttime Eclipse Power is used, it can't be used again until the next dusk."
         ],
         "type": "GV|DMG"
     },
