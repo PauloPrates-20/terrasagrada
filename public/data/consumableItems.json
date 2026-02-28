@@ -44,15 +44,6 @@
         ]
     },
     {
-        "name": "Clockwork Dog",
-        "source": "SKT",
-        "rarity": "common",
-        "value": 50,
-        "entries": [
-            "This Tiny clockwork dog made of copper and tin comes with a copper wind-up key. As an action, you can use the key to wind the dog, after which it follows you for 12 hours. At the end of that duration, the clockwork dog stops until wound again. The dog has AC 5, 1 hit point, and a walking speed of 30 feet."
-        ]
-    },
-    {
         "name": "Djinn and Tonic (Common)",
         "source": "GriffonsSaddlebag2",
         "rarity": "common",
@@ -198,15 +189,6 @@
         ]
     },
     {
-        "name": "Tankard of Plenty",
-        "source": "HotDQ",
-        "rarity": "common",
-        "value": 50,
-        "entries": [
-            "This golden stein is decorated with dancing dwarves and grain patterns. Speaking the command word (\"Illefarn\") while grasping the handle fills the tankard with three pints of rich dwarven ale. This power can be used up to three times per day."
-        ]
-    },
-    {
         "name": "Wispy Sour (Common)",
         "source": "GriffonsSaddlebag2",
         "rarity": "common",
@@ -216,20 +198,9 @@
         ]
     },
     {
-        "name": "Arcanaloth's Music Box",
-        "source": "ToA",
-        "rarity": "uncommon",
-        "value": 120,
-        "value": 120,
-        "entries": [
-            "This music box is made of dark wood with gold filigree. Each of its five sides is sculpted with the image of a horned woman playing a different musical instrument: a dulcimer, a flute, a harp, a lyre, and a viol. While touching the box, you can use an action to make it play music featuring one of the instruments shown, which can be heard up to 60 feet away. You can also use an action to stop the music."
-        ]
-    },
-    {
         "name": "Blood of the Lycanthrope Antidote",
         "source": "IMR",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "This clear potion has dark red flecks within, resembling clotted blood. When you drink this potion, it removes the curse of lycanthropy from you if that curse was imposed by a lycanthrope's bite or similar effect."
@@ -242,7 +213,6 @@
         "name": "Bottled Breath",
         "source": "PotA",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "This bottle contains a breath of elemental air. When you inhale it, you either exhale it or hold it.",
@@ -257,20 +227,9 @@
         "source": "GriffonsSaddlebag2",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "The following celestial sunrise is an uncommon variant with additional properties. It also tastes better.",
             "When you drink this potion, you can see normally in darkness, both magical and nonmagical, for the next 8 hours. In addition, the light cast from your mouth due to the potion's common effects increases, casting bright light out to 40 feet and dim light for an additional 40 feet instead."
-        ]
-    },
-    {
-        "name": "Circlet of Human Perfection",
-        "source": "WDMM",
-        "rarity": "uncommon",
-        "value": 120,
-        "value": 120,
-        "entries": [
-            "The Circlet of Human Perfection transforms its attuned wearer into an attractive human of average height and weight. The circlet chooses the physical characteristics of the form, such as age, gender, skin color, hair color, and voice. Except for size, the wearer's statistics and racial traits don't change, nor do items worn or carried by the wearer. Removing the circlet ends the effect."
         ]
     },
     {
@@ -278,27 +237,17 @@
         "source": "TTP",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "You can use an action to blow this pearlescent conch like a horn, creating an effect identical with that of a Leomund's tiny hut spell. The conch disappears once the spell takes effect. The effect ends if you leave the spell's area."
-        ]
-    },
-    {
-        "name": "Dancing Monkey Fruit",
-        "source": "ToA",
-        "rarity": "uncommon",
-        "value": 120,
-        "value": 120,
-        "entries": [
-            "This rare magical fruit produces enough juice to fill a vial. Any humanoid that eats a dancing monkey fruit or drinks its juice must succeed on a DC 14 Constitution saving throw or begin a comic dance that lasts for 1 minute. Humanoids that can't be poisoned are immune to this magical effect.",
-            "The dancer must use all its movement to dance without leaving its space and has disadvantage on attack rolls and Dexterity saving throws, and other creatures have advantage on attack rolls against it. Each time it takes damage, the dancer can repeat the saving throw, ending the effect on itself on a success. When the dancing effect ends, the humanoid suffers the poisoned condition for 1 hour."
+        ],
+        "miscTags": [
+            "CNS"
         ]
     },
     {
         "name": "Dust of Disappearance",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "Found in a small packet, this powder resembles very fine sand. There is enough of it for one use. When you use an action to throw the dust into the air, you and each creature and object within 10 feet of you become invisible for 2d4 minutes. The duration is the same for all subjects, and the dust is consumed when its magic takes effect. If a creature affected by the dust attacks or casts a spell, the invisibility ends for that creature."
@@ -308,20 +257,9 @@
         ]
     },
     {
-        "name": "Falkir's Helm of Pigheadedness",
-        "source": "WDMM",
-        "rarity": "uncommon",
-        "value": 120,
-        "value": 120,
-        "entries": [
-            "This steel helm is shaped like the head of a boar. Once you don the helm, it can't be removed until you die or until a remove curse spell or similar magic is cast on it. If you wear the helm and are a humanoid, you gain the following flaw until the helm is removed: \"I'm exceedingly stubborn and think I'm right all the time.\" (This flaw supersedes any conflicting flaw.)"
-        ]
-    },
-    {
         "name": "Flammable Tincture",
         "source": "GrimHollowPlayerPack",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "This swirling mixture of red and white liquid is formed from the remains of a coldfire ooze. As an action, the vial of flammable tincture can be hurled up to 30 feet at a target, which must succeed on a DC 10 Dexterity saving throw or be covered with the liquid. For 1 minute, the creature is vulnerable to fire damage. This overrides any previous immunity or resistance."
@@ -331,30 +269,9 @@
         ]
     },
     {
-        "name": "Gravenhollow Compass Ring",
-        "source": "OotA",
-        "rarity": "uncommon",
-        "value": 120,
-        "value": 120,
-        "entries": [
-            "This gold ring is fitted with a star ruby worth 1,000 gp. A detect magic spell reveals that the gem radiates a faint aura of divination magic. The gem's star-shaped core is a magical compass that guides the ring's wearer along the safest, shortest route to Gravenhollow."
-        ]
-    },
-    {
-        "name": "Green Copper Ewer",
-        "source": "CoS",
-        "rarity": "uncommon",
-        "value": 120,
-        "value": 120,
-        "entries": [
-            "Any poisonous liquid poured into the ewer is instantly transformed into an equal amount of sweet wine. Furthermore, a creature that grasps the ewer's handle can command the ewer to fill with 1 gallon of wine, and it can't produce more wine until the next dawn."
-        ]
-    },
-    {
         "name": "Mummy Rot Antidote",
         "source": "IMR",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "White dust swirls constantly within this pale gray potion. When you drink the potion, it cures you of mummy rot."
@@ -368,7 +285,6 @@
         "source": "DMG",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of a freedom of movement spell for 8 hours.",
             "Alternatively, the oil can be poured on the ground as an action, where it covers a 10-foot square, duplicating the effect of the grease spell in that area for 8 hours."
@@ -378,20 +294,9 @@
         ]
     },
     {
-        "name": "Pearl of Undead Detection",
-        "source": "WDMM",
-        "rarity": "uncommon",
-        "value": 120,
-        "value": 120,
-        "entries": [
-            "This black pearl glows faintly when undead are within 120 feet of it."
-        ]
-    },
-    {
         "name": "Philter of Boundless Joy",
         "source": "BookOfEbonTides",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "As you imbibe this potion, you remember a time of pure happiness and joy, usually related to love, parenthood, or some other enormous, life-altering event—the specific memories depend on the philter's creator. You have advantage on Charisma ability checks for 1 hour and immediately gain the effects of a short rest.",
@@ -414,7 +319,6 @@
         "source": "DMG",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "The next time you see a creature within 10 minutes after drinking this philter, you become charmed by that creature for 1 hour. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed. This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart."
         ],
@@ -426,7 +330,6 @@
         "name": "Philter of Lust",
         "source": "BookOfEbonTides",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "As you imbibe this potion, you are overtaken with memories and feelings from a time of physical desire—the specific memories depend on the philter's creator. You must succeed on a DC 13 Wisdom saving throw or be overcome by a fit of lust for 1 minute. While in a fit of lust, you seek out either a person whose affection you desire or, more rarely, an object of consuming passion (usually a token, trophy, or fetish of some kind) to claim for yourself. On a successful saving throw, only the memories are passed to you. You can repeat the saving throw at the end of each of your turns, ending the effect on a success.",
@@ -447,7 +350,6 @@
         "name": "Philter of Righteous Anger",
         "source": "BookOfEbonTides",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "As you imbibe this potion, you are overtaken with feelings of anger and memories of justice denied, betrayals, or blasphemy—the specific memories depend on the philter's creator. You must succeed on a DC 13 Wisdom saving throw or be overcome by a fit of rage for 1 minute. While in a fit of rage, you have advantage on melee attack rolls, and your melee weapon attacks deal an extra 3 (1d6) damage. You cannot distinguish friend from foe and must attack the nearest creature. If no creatures are nearby, you must dash in the direction of the nearest living creature. If no other creature is near enough to move to and attack, you stalk off in a random direction, seeking a target for your anger. On a successful saving throw, only the memories are passed to you. You can repeat the saving throw at the end of each of your turns, ending the effect on a success.",
@@ -470,7 +372,6 @@
         "source": "BookOfEbonTides",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "As you imbibe this potion, you remember a particular scene of importance, such as a duel, kiss, theft, betrayal, murder, or funeral—the specific memories depend on the philter's creator. You can take no action for 1 round while caught up in these memories and thereafter cannot forget these events: any creature seen in such a memory will be remembered, as well as their name, by you as someone you have seen before. With a successful DC 13 Wisdom (Insight) check, you may note details of importance within the waking dream, including the relationships of people within the dream, their status, and the location of the dream.",
             "False memories cannot be created via a philter of waking dreams, though what the imbiber remembers may be colored by time or strong emotion.",
@@ -492,7 +393,6 @@
         "source": "DMG",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "When you drink this potion, you gain resistance to acid damage for 1 hour."
         ],
@@ -504,7 +404,6 @@
         "name": "Potion of Advantage",
         "source": "WBtW",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "When you drink this potion, you gain advantage on one ability check, attack roll, or saving throw of your choice that you make within the next hour.",
@@ -519,7 +418,6 @@
         "source": "DMG",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "When you drink this potion, you can cast the animal friendship spell (save DC 13) for 1 hour at will. Agitating this muddy liquid brings little bits into view: a fish scale, a hummingbird tongue, a cat claw, or a squirrel hair."
         ],
@@ -531,7 +429,6 @@
         "name": "Potion of Cold Resistance",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "When you drink this potion, you gain resistance to cold damage for 1 hour."
@@ -545,7 +442,6 @@
         "source": "DMG",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "After drinking this potion, you can use a bonus action to exhale fire at a target within 30 feet of you. The target must make a DC 13 Dexterity saving throw, taking 4d6 fire damage on a failed save, or half as much damage on a successful one. The effect ends after you exhale the fire three times or when 1 hour has passed. This potion's orange liquid flickers, and smoke fills the top of the container and wafts out whenever it is opened."
         ],
@@ -557,7 +453,6 @@
         "name": "Potion of Fire Resistance",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "When you drink this potion, you gain resistance to fire damage for 1 hour."
@@ -571,7 +466,6 @@
         "source": "DMG",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "When you drink this potion, you gain resistance to force damage for 1 hour."
         ],
@@ -583,7 +477,6 @@
         "name": "Potion of Greater Healing",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "You regain 4d4 + 4 hit points when you drink this potion. The potion's red liquid glimmers when agitated."
@@ -597,7 +490,6 @@
         "source": "DMG",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "When you drink this potion, you gain the \"enlarge\" effect of the enlarge/reduce spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process."
         ],
@@ -609,7 +501,6 @@
         "name": "Potion of Hill Giant Strength",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "When you drink this potion, your Strength score changes to 21 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.",
@@ -624,7 +515,6 @@
         "source": "DMG",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "When you drink this potion, you gain resistance to lightning damage for 1 hour."
         ],
@@ -637,7 +527,6 @@
         "source": "DMG",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "When you drink this potion, you gain resistance to necrotic damage for 1 hour."
         ],
@@ -649,7 +538,6 @@
         "name": "Potion of Poison",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "This concoction looks, smells, and tastes like a potion of healing or other beneficial potion. However, it is actually poison masked by illusion magic. An identify spell reveals its true nature.",
@@ -664,7 +552,6 @@
         "source": "DMG",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "When you drink this potion, you gain resistance to poison damage for 1 hour."
         ],
@@ -676,7 +563,6 @@
         "name": "Potion of Polychromy",
         "source": "DitLCoT",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "When you drink this potion, you and everything you are wearing or carrying take on a rainbow-hued appearance for 1 hour. During that time, you can use a bonus action to turn any color or combination of colors you choose. If you mimic the colors of your surroundings, your hues continually shift to match your surroundings, and you have advantage on Dexterity (Stealth) checks until you change your colors again or the potion wears off.",
@@ -691,7 +577,6 @@
         "source": "PaBTSO",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "When you drink this potion, you have advantage for 1 hour on saving throws you make to avoid or end the charmed or stunned condition on yourself.",
             "This black potion swirls with shimmering flecks of pink and purple."
@@ -705,7 +590,6 @@
         "source": "DMG",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "When you drink this potion, you gain resistance to psychic damage for 1 hour."
         ],
@@ -717,7 +601,6 @@
         "name": "Potion of Radiant Resistance",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "When you drink this potion, you gain resistance to radiant damage for 1 hour."
@@ -731,7 +614,6 @@
         "source": "DMG",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "When you drink this potion, you gain resistance to thunder damage for 1 hour."
         ],
@@ -743,7 +625,6 @@
         "name": "Potion of Water Breathing",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it."
@@ -757,7 +638,6 @@
         "source": "GriffonsSaddlebag2",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "When you drink this potion, you regain 1d3 + 1 spent Hit Dice."
         ]
@@ -766,7 +646,6 @@
         "name": "Shifter's Shine (Uncommon)",
         "source": "GriffonsSaddlebag2",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "The typical shifter's shine, a common potion, is a specialty alcoholic beverage that causes your face to appear more glamorous. For 1 hour after drinking this potion, your skin's complexion clears, appears healthier, and grows more taut. Your face, while largely unchanged, is distinctly more attractive and exudes a weak aura of enchantment magic. When you make a Charisma check while under the effects of this potion, you can choose to forgo rolling the d20 to get a 10 on the die. Once you use this property, you can't use it again for the remainder of the potion's duration. The potion is a rich honey color and swirls lazily around, regardless of how it's handled. It can be found in any sort of vessel, though it is usually found in glass jars. The eye of a shapeshifter drifts along the potion's bottom, making it a daunting beverage for the average taverngoer to order. It has an extremely strong alcoholic taste with a hint of caramel. Due to its magical nature, the alcohol within this potion affects a creature twice as much as the alcohol within a nonmagical beverage.",
@@ -778,7 +657,6 @@
         "name": "Spell Scroll (2nd Level)",
         "source": "DMG",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
@@ -796,7 +674,6 @@
         "source": "DMG",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
             "If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 13. On a failed check, the spell disappears from the scroll with no other effect.",
@@ -813,7 +690,6 @@
         "source": "TCE",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "Produced by a special needle, this magic tattoo contains a single 2nd level spell, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin and speak the command word. The needle turns into ink that becomes the tattoo, which appears on the skin in whatever design you like. Once the tattoo is there, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.",
             "The Ability modifier for this spell is +3; the Save DC is 13 and the attack bonus is +5."
@@ -827,7 +703,6 @@
         "source": "TCE",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "Produced by a special needle, this magic tattoo contains a single 3rd level spell, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin and speak the command word. The needle turns into ink that becomes the tattoo, which appears on the skin in whatever design you like. Once the tattoo is there, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.",
             "The Ability modifier for this spell is +4; the Save DC is 15 and the attack bonus is +7."
@@ -837,21 +712,9 @@
         ]
     },
     {
-        "name": "Sunbeam Compass",
-        "source": "TalDoreiCampaignSettingReborn",
-        "rarity": "uncommon",
-        "value": 120,
-        "value": 120,
-        "entries": [
-            "A device that always directs the user to the sun by emitting a small light at the tip of the needle in a glass orb, allowing it to rotate in all directions—a very useful tool when exploring subterranean territory.",
-            "Created by Karaline von Ethro."
-        ]
-    },
-    {
         "name": "Suude (Blue)",
         "source": "TalDoreiCampaignSettingReborn",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "Exandria's most infamous drug, suude is a glittering powder made from residuum. It was first developed by power-hungry archmages in the Age of Arcanum as an incense burned to enhance focus during ritual spellcasting. The secret to its refinement has been lost and rediscovered a variety of times since the Calamity, and many different types of suude have been developed by arcanists in search of ever-greater power. It has terrible addictive and mentally degenerative properties, even when used sparingly.",
@@ -868,7 +731,6 @@
         "source": "TalDoreiCampaignSettingReborn",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "Exandria's most infamous drug, suude is a glittering powder made from residuum. It was first developed by power-hungry archmages in the Age of Arcanum as an incense burned to enhance focus during ritual spellcasting. The secret to its refinement has been lost and rediscovered a variety of times since the Calamity, and many different types of suude have been developed by arcanists in search of ever-greater power. It has terrible addictive and mentally degenerative properties, even when used sparingly.",
             "After burning suude within a vessel and inhaling its fumes as an action, you take 22 (4d10) psychic damage and must make a DC 10 Constitution saving throws. On a failure, you become saving throw is increased by 5 per additional dose. If you fail this save by 10 or more, you instantly drop to 0 hit points.",
@@ -883,7 +745,6 @@
         "name": "Suude (Red)",
         "source": "TalDoreiCampaignSettingReborn",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "Exandria's most infamous drug, suude is a glittering powder made from residuum. It was first developed by power-hungry archmages in the Age of Arcanum as an incense burned to enhance focus during ritual spellcasting. The secret to its refinement has been lost and rediscovered a variety of times since the Calamity, and many different types of suude have been developed by arcanists in search of ever-greater power. It has terrible addictive and mentally degenerative properties, even when used sparingly.",
@@ -900,7 +761,6 @@
         "source": "IMR",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "This potion appears to change color and texture each time you look at it. When you drink the potion, it ends the polymorph effect imposed by thessaltoxin."
         ],
@@ -909,20 +769,9 @@
         ]
     },
     {
-        "name": "White Dragon Cape",
-        "source": "TftYP",
-        "rarity": "uncommon",
-        "value": 120,
-        "value": 120,
-        "entries": [
-            "You have resistance to cold damage while wearing this cape."
-        ]
-    },
-    {
         "name": "Wine of the Winter Court",
         "source": "BookOfEbonTides",
         "rarity": "uncommon",
-        "value": 120,
         "value": 120,
         "entries": [
             "This wine, so dark red in color it is nearly black, pours from its bottle in a syrupy flow. When you drink it, you taste notes of sour apple, bitter ash, and jealousy, and your thoughts are occupied with vivid memories of heartbreak and loss.",
@@ -937,7 +786,6 @@
         "source": "GriffonsSaddlebag2",
         "rarity": "uncommon",
         "value": 120,
-        "value": 120,
         "entries": [
             "The typical wispy sour, a common potion, is a specialty alcoholic beverage that causes you to float harmlessly off the floor. When you drink this potion, you gain a flying speed of 10 feet for 1 minute, but can only hover 1 foot above the ground when doing so. The drink is smooth, sweet, and has a slight aftertaste of ash. A tiny, single light from the dancing lights spell is often cast within the drink when served. Due to its magical nature, the alcohol within this potion affects a creature twice as much as the alcohol within a nonmagical beverage.",
             "The following wispy sour is an uncommon variant with additional properties. It also tastes better.",
@@ -949,7 +797,6 @@
         "source": "GriffonsSaddlebag2",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "This bottle of thick red wine is miraculously made from magical goodberries and peonies using a closely kept family recipe. It tastes fruity and floral, with notes of honey and the feeling of a fresh breeze, and is deeply rejuvenating. The bottle comes with 8 servings of the syrupy potion, which each take 1 minute to drink.",
             "When you drink this wine, you can regain hit points by spending any number of Hit Dice, as if you'd finished a short rest. You regain 1 extra hit point for each Hit Die you spend in this way. The wine provides enough nourishment to sustain a creature for one day. In addition, for the next hour, whenever you roll a Wisdom or Charisma ability check or saving throw, you add 1d4 to the total of the roll."
@@ -959,7 +806,6 @@
         "name": "Aqua Delerium",
         "source": "DungeonsDrakkenheim",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "This purple potion glows dimly with octarine light. It swirls and sparkles in its small stoppered bottle.",
@@ -977,7 +823,6 @@
         "source": "DungeonsDrakkenheim",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "This bright orange fluid is stored in a syringe and charged with arcane magic. You can use an action to administer the shot directly to the heart of yourself or another willing creature.",
             "You are protected against contamination: for six hours after receiving a dose of aqua expurgo. During this time, whenever you fail a saving throw against an effect that would cause you to gain one or more contamination levels:, you can choose to succeed instead. You can use this ability three times, after which the effects of aqua expurgo expire.",
@@ -991,7 +836,6 @@
         "name": "Arcane Oil",
         "source": "GrimHollowLairsEtharis",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "This substance is created by distilling the jelly that encases the brain of a xakalonus. As an action, you can coat one weapon or 20 pieces of ammunition with the substance.",
@@ -1007,7 +851,6 @@
         "source": "TalDoreiCampaignSettingReborn",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "The ruins of this sprawling city are now known as the Crystalfen Caverns. These caves are home to scattered veins of azuremite, a gorgeous blue crystal that formed from millennia of psychic energies existing near element deposits. Curious explorers who discovered the veins found that, when mined and refined into a fine dust, the azuremite powder is a strong mind-altering agent and induces temporary visions and other psychic phenomena.",
             "While a number of small, isolated entrances to this labyrinth of tunnels have been discovered and adventuring parties have attempted to chart the mines, the caverns are so vast and deep that either they gave up for fear of becoming lost, or they were assailed by the terrible denizens of the caverns, never to return. Most who now brave the caverns are foolish treasure hunters or criminals seeking to mine more azuremite to sell on the black market."
@@ -1020,7 +863,6 @@
         "name": "Bead of Force",
         "source": "DMG",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "This small black sphere measures ¾ of an inch in diameter and weighs an ounce. Typically, 1d4 + 4 beads of force: are found together.",
@@ -1036,7 +878,6 @@
         "source": "GriffonsSaddlebag2",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "This potion is specially brewed by the monks of Durheim using a unique leaf found only in their gardens. The tea remains magically warm while inside its traditional porcelain bottle. The potion's flavor is deep and smoky, and leaves a sour aftertaste like the air after a storm.",
             "When you drink this potion, it cures any short-term madness afflicting you, and if you are charmed or frightened, it ends those conditions. In addition, if you have 2 or more levels in the monk class, you regain 1d4 + 1 expended ki points."
@@ -1047,7 +888,6 @@
         "source": "GriffonsSaddlebag2",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "The following djinn and tonic is a rare variant with additional properties. It also tastes better. When you drink this potion, you gain the effect of the gaseous form spell for 10 minutes (no concentration required) or until you end it early using an action. When the effect ends, your form rematerializes in a rush of air, forcing all Large and smaller creatures within 30 feet of you to make a DC 15 Strength saving throw. On a failed save, a creature is pushed 10 feet away from you and knocked prone."
         ]
@@ -1057,7 +897,6 @@
         "source": "DMG",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "When you drink this potion, it cures any disease afflicting you, and it removes the blinded, deafened, paralyzed, and poisoned conditions. The clear red liquid has tiny bubbles of light in it."
         ],
@@ -1066,49 +905,9 @@
         ]
     },
     {
-        "name": "Faerie Dust",
-        "source": "SKT",
-        "rarity": "rare",
-        "value": 250,
-        "value": 250,
-        "entries": [
-            "A pinch of this dust can substitute for the material components of any enchantment spell of 3rd level or lower. If a pinch of faerie dust is sprinkled on a creature, roll percentile dice and consult the Faerie Dust table to determine the effect."
-        ]
-    },
-    {
-        "name": "Hag Eye",
-        "source": "MM",
-        "rarity": "rare",
-        "value": 250,
-        "value": 250,
-        "entries": [
-            "A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours.",
-            "A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over."
-        ]
-    },
-    {
-        "name": "Jade Serpent Staff",
-        "source": "WDMM",
-        "rarity": "rare",
-        "value": 250,
-        "value": 250,
-        "entries": [
-            "This staff is broken into five pieces, each worth 100 gp for the jade alone. The entire staff can be restored with mending cantrips; each casting of the spell repairs one break in the staff. If the staff is made whole, it transforms from an object into an animated jade serpent that has the statistics of a giant poisonous snake, with these changes:",
-            {
-                "type": "list",
-                "items": [
-                    "The serpent is a construct that understands and obeys whoever was holding the staff when it transformed.",
-                    "It has immunity to poison damage and the poisoned condition. It doesn't require air, food, drink, or sleep.",
-                    "When it drops to 0 hit points, roll a d6. On a roll of 1, the snake turns to dust and is destroyed. On any other roll, it changes back into a staff and breaks into 1d4 + 1 pieces that must be magically mended before the staff can be used again."
-                ]
-            }
-        ]
-    },
-    {
         "name": "Lycanthropy Antidote",
         "source": "GrimHollowLairsEtharis",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "This silvery potion, made with fzeg blood, is dotted with flecks of red. Drinking this liquid removes the curse of werewolf lycanthropy."
@@ -1118,22 +917,9 @@
         ]
     },
     {
-        "name": "Master's Amulet",
-        "source": "MM",
-        "rarity": "rare",
-        "value": 250,
-        "value": 250,
-        "entries": [
-            "Every shield guardian has an amulet magically linked to it. A shield guardian can have only one corresponding amulet, and if that amulet is destroyed, the shield guardian is incapacitated until a replacement amulet is created. A shield guardian's amulet is subject to direct attack if it isn't being worn or carried. It has AC 10, 10 hit points, and immunity to poison and psychic damage. Crafting an amulet requires 1 week and costs 1,000 gp in components.",
-            "A shield guardian's solitary focus is to protect the amulet's wearer. The amulet's wearer can command the guardian to attack its enemies or to guard the wielder against attack. If an attack threatens to injure the wearer, the construct can magically absorb the blow into its own body, even at a distance.",
-            "A spellcaster can store a single spell within a shield guardian, which can then cast the spell on command or under specific conditions. Many a wizard has been rendered helpless by enemies, only to surprise those foes when its shield guardian unleashes potent magical power."
-        ]
-    },
-    {
         "name": "Oil of Etherealness",
         "source": "DMG",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "Beads of this cloudy gray oil form on the outside of its container and quickly evaporate. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the etherealness spell for 1 hour."
@@ -1143,22 +929,9 @@
         ]
     },
     {
-        "name": "Petrified Grung Egg",
-        "source": "ToA",
-        "rarity": "rare",
-        "value": 250,
-        "value": 250,
-        "entries": [
-            "While this egg is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you have used the egg, it can't be used again until the next dawn.",
-            "Additionally, while you are attuned to the egg, you gain resistance to poison damage.",
-            "The egg turns to dust and is destroyed if it leaves the Tomb of the Nine Gods."
-        ]
-    },
-    {
         "name": "Philter of Deep Despair",
         "source": "BookOfEbonTides",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "As you imbibe this potion, you remember a time of heart-rending sorrow, grief, and despair related to death, loss, or failure—the specific memories depend on the philter's creator. You have advantage on Wisdom saving throws for 1 hour but cannot take bonus actions of any kind during that time.",
@@ -1181,7 +954,6 @@
         "source": "BookOfEbonTides",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "As you imbibe this potion, you remember a time of staggering good fortune, accomplishment, and success—the specific memories depend on the philter's creator. You have advantage on the next three ability checks, attack rolls, or saving throws you make (including death saving throws).",
             {
@@ -1201,7 +973,6 @@
         "name": "Philter of Innocence",
         "source": "BookOfEbonTides",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "As you imbibe this potion, you return to a childlike state, remembering your life as it was in your formative years—the specific memories depend on the philter's creator. You have resistance to psychic damage for 1 hour and have advantage on Constitution ability checks during that time.",
@@ -1223,7 +994,6 @@
         "source": "BookOfEbonTides",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "As you imbibe this potion, you remember a time of love and acceptance—the specific memories depend on the philter's creator. You cannot be affected by spells from the school of enchantment for 1 hour.",
             {
@@ -1243,7 +1013,6 @@
         "name": "Philter of Mercy",
         "source": "BookOfEbonTides",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "As you imbibe this potion, you remember a time of mercy, atonement, and forgiveness—the specific memories depend on the philter's creator. You are immune to being frightened for 1 hour and have advantage on Wisdom ability checks during that time.",
@@ -1265,7 +1034,6 @@
         "name": "Potion of Aqueous Form",
         "source": "MOT",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "When you drink this potion, you transform into a pool of water. You return to your true form after 10 minutes or if you are incapacitated or die.",
@@ -1300,7 +1068,6 @@
         "source": "DMG",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "When you drink this potion, you gain the effect of the clairvoyance spell. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened."
         ],
@@ -1313,7 +1080,6 @@
         "source": "DMG",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "When you drink this potion, you gain the \"reduce\" effect of the enlarge/reduce spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it. Shaking the bottle fails to interrupt this process."
         ],
@@ -1325,7 +1091,6 @@
         "name": "Potion of Fire Giant Strength",
         "source": "DMG",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "When you drink this potion, your Strength score changes to 25 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.",
@@ -1340,7 +1105,6 @@
         "source": "DMG",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "When you drink this potion, your Strength score changes to 23 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.",
             "This potion's transparent liquid has floating in it a sliver of fingernail from a frost giant."
@@ -1354,7 +1118,6 @@
         "source": "DMG",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "When you drink this potion, you gain the effect of the gaseous form spell for 1 hour (no concentration required) or until you end the effect as a bonus action. This potion's container seems to hold fog that moves and pours like water."
         ],
@@ -1366,7 +1129,6 @@
         "name": "Potion of Heroism",
         "source": "DMG",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the bless spell (no concentration required). This blue potion bubbles and steams as if boiling."
@@ -1380,7 +1142,6 @@
         "source": "DMG",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "For 1 minute after you drink this potion, you have resistance to all damage. The potion's syrupy liquid looks like liquefied iron."
         ],
@@ -1392,7 +1153,6 @@
         "name": "Potion of Maximum Power",
         "source": "EGW",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "The first time you cast a damage-dealing spell of 4th level or lower within 1 minute after drinking the potion, instead of rolling dice to determine the damage dealt, you can instead use the highest number possible for each die.",
@@ -1407,7 +1167,6 @@
         "source": "TftYP",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "When you drink a potion of mind control, you can cast a dominate spell (save DC 15) on a specific creature if you do so before the end of your next turn. If you don't, the potion is wasted.",
             "A potion of mind control produces the effect of a dominate beast spell. If the target's initial saving throw fails, the effect lasts for 1 hour, with no concentration required on your part. The charmed creature has disadvantage on new saving throws to break the effect during this time."
@@ -1420,7 +1179,6 @@
         "name": "Potion of Mind Control (humanoid)",
         "source": "TftYP",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "When you drink a potion of mind control, you can cast a dominate spell (save DC 15) on a specific creature if you do so before the end of your next turn. If you don't, the potion is wasted.",
@@ -1435,7 +1193,6 @@
         "source": "DMG",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "When you drink this potion, you gain the effect of the detect thoughts spell (save DC 13). The potion's dense, purple liquid has an ovoid cloud of pink floating in it."
         ],
@@ -1447,7 +1204,6 @@
         "name": "Potion of Stone Giant Strength",
         "source": "DMG",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "When you drink this potion, your Strength score changes to 23 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.",
@@ -1462,7 +1218,6 @@
         "source": "DMG",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "You regain 8d4 + 8 hit points when you drink this potion. The potion's red liquid glimmers when agitated."
         ],
@@ -1474,7 +1229,6 @@
         "name": "Refined Delerium Dust",
         "source": "DungeonsDrakkenheim",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "This pouch contains an ounce of purified and magically charged delerium dust. It may be ingested as an action. When you consume a full pouch, you gain advantage on spell attack rolls and saving throws against spells for one minute.",
@@ -1489,7 +1243,6 @@
         "source": "GriffonsSaddlebag2",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "When you drink this potion, you regain 1d4 + 3 spent Hit Dice."
         ]
@@ -1498,7 +1251,6 @@
         "name": "Residuum",
         "source": "TalDoreiCampaignSettingReborn",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "The sheer amount of leftover arcane power within the whitestone of the mountains is incredibly receptive to enchantment. Magic items that incorporate at least an ounce of whitestone into their construction require only one-quarter the creation time of other magic items. Some alchemists in Emon have discovered that dissolving whitestone with specific acids can leave behind pure residuum, which can substitute for expensive spell components when such materials are not readily available.",
@@ -1514,7 +1266,6 @@
         "source": "DMG",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "Using an action to read the scroll encloses you in an invisible barrier that extends from you to form a 5-foot-radius, 10-foot-high cylinder. For 5 minutes, this barrier prevents aberrations from entering or affecting anything within the cylinder. The cylinder moves with you and remains centered on you. However, if you move in such a way that an aberration would be inside the cylinder, the effect ends. A creature can attempt to overcome the barrier by using an action to make a DC 15 Charisma check. On a success, the creature ceases to be affected by the barrier."
         ],
@@ -1526,7 +1277,6 @@
         "name": "Scroll of Protection from Beasts",
         "source": "DMG",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "Using an action to read the scroll encloses you in an invisible barrier that extends from you to form a 5-foot-radius, 10-foot-high cylinder. For 5 minutes, this barrier prevents beasts from entering or affecting anything within the cylinder. The cylinder moves with you and remains centered on you. However, if you move in such a way that a beast would be inside the cylinder, the effect ends. A creature can attempt to overcome the barrier by using an action to make a DC 15 Charisma check. On a success, the creature ceases to be affected by the barrier."
@@ -1540,7 +1290,6 @@
         "source": "DMG",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "Using an action to read the scroll encloses you in an invisible barrier that extends from you to form a 5-foot-radius, 10-foot-high cylinder. For 5 minutes, this barrier prevents celestials from entering or affecting anything within the cylinder. The cylinder moves with you and remains centered on you. However, if you move in such a way that a celestial would be inside the cylinder, the effect ends. A creature can attempt to overcome the barrier by using an action to make a DC 15 Charisma check. On a success, the creature ceases to be affected by the barrier."
         ],
@@ -1552,7 +1301,6 @@
         "name": "Scroll of Protection from Elementals",
         "source": "DMG",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "Using an action to read the scroll encloses you in an invisible barrier that extends from you to form a 5-foot-radius, 10-foot-high cylinder. For 5 minutes, this barrier prevents elementals from entering or affecting anything within the cylinder. The cylinder moves with you and remains centered on you. However, if you move in such a way that an elemental would be inside the cylinder, the effect ends. A creature can attempt to overcome the barrier by using an action to make a DC 15 Charisma check. On a success, the creature ceases to be affected by the barrier."
@@ -1566,7 +1314,6 @@
         "source": "DMG",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "Using an action to read the scroll encloses you in an invisible barrier that extends from you to form a 5-foot-radius, 10-foot-high cylinder. For 5 minutes, this barrier prevents fey from entering or affecting anything within the cylinder. The cylinder moves with you and remains centered on you. However, if you move in such a way that a fey would be inside the cylinder, the effect ends. A creature can attempt to overcome the barrier by using an action to make a DC 15 Charisma check. On a success, the creature ceases to be affected by the barrier."
         ],
@@ -1578,7 +1325,6 @@
         "name": "Scroll of Protection from Fiends",
         "source": "DMG",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "Using an action to read the scroll encloses you in an invisible barrier that extends from you to form a 5-foot-radius, 10-foot-high cylinder. For 5 minutes, this barrier prevents fiends from entering or affecting anything within the cylinder. The cylinder moves with you and remains centered on you. However, if you move in such a way that a fiend would be inside the cylinder, the effect ends. A creature can attempt to overcome the barrier by using an action to make a DC 15 Charisma check. On a success, the creature ceases to be affected by the barrier."
@@ -1592,7 +1338,6 @@
         "source": "DMG",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "Using an action to read the scroll encloses you in an invisible barrier that extends from you to form a 5-foot-radius, 10-foot-high cylinder. For 5 minutes, this barrier prevents plants from entering or affecting anything within the cylinder. The cylinder moves with you and remains centered on you. However, if you move in such a way that a plant would be inside the cylinder, the effect ends. A creature can attempt to overcome the barrier by using an action to make a DC 15 Charisma check. On a success, the creature ceases to be affected by the barrier."
         ],
@@ -1604,7 +1349,6 @@
         "name": "Scroll of Protection from Undead",
         "source": "DMG",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "Using an action to read the scroll encloses you in an invisible barrier that extends from you to form a 5-foot-radius, 10-foot-high cylinder. For 5 minutes, this barrier prevents undead from entering or affecting anything within the cylinder. The cylinder moves with you and remains centered on you. However, if you move in such a way that an undead would be inside the cylinder, the effect ends. A creature can attempt to overcome the barrier by using an action to make a DC 15 Charisma check. On a success, the creature ceases to be affected by the barrier."
@@ -1618,7 +1362,6 @@
         "source": "BookOfEbonTides",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "Written on black leather in letters of glowing white, a shadow portal scroll opens a portal as a form of invitation from a fey enchanter, goblin shaman, or other powerful arcanist of the Shadow Realm. All creatures within 10 feet of you when the scroll is read are transported to the Shadow Realm, usually near the scroll maker's residence."
         ],
@@ -1630,7 +1373,6 @@
         "name": "Spell Scroll (4th Level)",
         "source": "DMG",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
@@ -1648,7 +1390,6 @@
         "source": "DMG",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
             "If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 15. On a failed check, the spell disappears from the scroll with no other effect.",
@@ -1665,7 +1406,6 @@
         "source": "TCE",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "Produced by a special needle, this magic tattoo contains a single 4th level spell, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin and speak the command word. The needle turns into ink that becomes the tattoo, which appears on the skin in whatever design you like. Once the tattoo is there, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.",
             "The Ability modifier for this spell is +4; the Save DC is 15 and the attack bonus is +7."
@@ -1678,7 +1418,6 @@
         "name": "Spellwrought Tattoo (5th Level)",
         "source": "TCE",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "Produced by a special needle, this magic tattoo contains a single 5th level spell, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin and speak the command word. The needle turns into ink that becomes the tattoo, which appears on the skin in whatever design you like. Once the tattoo is there, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.",
@@ -1693,7 +1432,6 @@
         "source": "GriffonsSaddlebag2",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "This tall decanter is filled with water from a miraculous oasis in the H'rethi Desert and is stoppered with a small, overgrown planter. You can pour the water out of the bottle on top of the planter as an action to create a magical oasis that fills up to a 100-foot-square space over the course of 10 minutes.",
             "The oasis has a pond filled with clean water and exotic, fruit-bearing trees that can nourish up to fifteen humanoids or five steeds for 24 hours. The area within the oasis is always under the effects of the alarm spell. A swarm of poisonous snakes appears to defend the oasis for each creature that sets off the alarm (maximum of 3), whose rattling tails act as the audible alarm. The swarms are friendly to you and your companions, but don't obey verbal commands. Roll initiative for the summoned swarms as a group, which have their own turns. A swarm disappears when it drops to 0 hit points or when there are no more hostile creatures within the oasis.",
@@ -1702,20 +1440,9 @@
         ]
     },
     {
-        "name": "Statuette of Saint Markovia",
-        "source": "CoS",
-        "rarity": "rare",
-        "value": 250,
-        "value": 250,
-        "entries": [
-            "This golden statuette grants any good-aligned creature that carries it a +1 bonus to saving throws."
-        ]
-    },
-    {
         "name": "Vial of Greed",
         "source": "CoA",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "This small glass vial can stockpile resources for use in the future. Once stored, resources last for 1 century before vanishing. As an action you make the vial store any number of the following resources, which are magically consumed and converted into a violet-colored liquid:",
@@ -1739,7 +1466,6 @@
         "source": "BookOfEbonTides",
         "rarity": "rare",
         "value": 250,
-        "value": 250,
         "entries": [
             "Found largely in the realms of the Court of a Million Stars and in the hands of disciples of the Void, this wine enables you to see the future—for a time. Roll 10d20 and apply each resulting die in any order when ability checks, attack rolls, saving throws, or even death saving throws are required. However, all ten results must be applied before any normal rolls can resume."
         ],
@@ -1751,7 +1477,6 @@
         "name": "Wine of the Summer Court",
         "source": "BookOfEbonTides",
         "rarity": "rare",
-        "value": 250,
         "value": 250,
         "entries": [
             "This white wine is slightly pink from the rose petals added to the grapes prior to the crush. It is light and airy and evaporates within an hour if left exposed to the air. The wine tastes of peach, grapefruit, and your first kiss. Drinking it fills you with giddy thoughts of dancing, romance, and adventure.",
@@ -1766,7 +1491,6 @@
         "source": "GriffonsSaddlebag2",
         "rarity": "very rare",
         "value": 500,
-        "value": 500,
         "entries": [
             "The following bloody marilith is a very rare variant with more powerful properties. It uses blood from a fiendish marilith, instead of a magical substitute, and pleasantly burns your tongue when drinking it. It also tastes better.",
             "When you drink this potion, you can take one reaction on every turn in a combat for 1 minute. Unlike its Bloody Marilith (Common) variant, this potion's effect does not end when you use an additional reaction.",
@@ -1777,7 +1501,6 @@
         "name": "Candle of Invocation",
         "source": "DMG",
         "rarity": "very rare",
-        "value": 500,
         "value": 500,
         "entries": [
             "This slender taper is dedicated to a deity and shares that deity's alignment. The candle's alignment can be detected with the detect evil and good spell. The DM chooses the god and associated alignment or determines the alignment randomly.",
@@ -1793,7 +1516,6 @@
         "name": "Devastation Orb of Air",
         "source": "PotA",
         "rarity": "very rare",
-        "value": 500,
         "value": 500,
         "entries": [
             "A devastation orb is an elemental bomb that can be created at the site of an elemental node by performing a ritual with an elemental weapon. The type of orb created depends on the node used. For example, an air node creates a devastation orb of air. The ritual takes 1 hour to complete and requires 2,000 gp worth of special components, which are consumed.",
@@ -1817,7 +1539,6 @@
         "source": "PotA",
         "rarity": "very rare",
         "value": 500,
-        "value": 500,
         "entries": [
             "A devastation orb is an elemental bomb that can be created at the site of an elemental node by performing a ritual with an elemental weapon. The type of orb created depends on the node used. For example, an air node creates a devastation orb of air. The ritual takes 1 hour to complete and requires 2,000 gp worth of special components, which are consumed.",
             "A devastation orb measures 12 inches in diameter, weighs 10 pounds, and has a solid outer shell. The orb detonates 1d100 hours after its creation, releasing the elemental energy it contains. The orb gives no outward sign of how much time remains before it will detonate. Spells such as identify and divination can be used to ascertain when the orb will explode. An orb has AC 10, 15 hit points, and immunity to poison and psychic damage. Reducing it to 0 hit points causes it to explode instantly.",
@@ -1839,7 +1560,6 @@
         "name": "Devastation Orb of Fire",
         "source": "PotA",
         "rarity": "very rare",
-        "value": 500,
         "value": 500,
         "entries": [
             "A devastation orb is an elemental bomb that can be created at the site of an elemental node by performing a ritual with an elemental weapon. The type of orb created depends on the node used. For example, an air node creates a devastation orb of air. The ritual takes 1 hour to complete and requires 2,000 gp worth of special components, which are consumed.",
@@ -1863,7 +1583,6 @@
         "source": "PotA",
         "rarity": "very rare",
         "value": 500,
-        "value": 500,
         "entries": [
             "A devastation orb is an elemental bomb that can be created at the site of an elemental node by performing a ritual with an elemental weapon. The type of orb created depends on the node used. For example, an air node creates a devastation orb of air. The ritual takes 1 hour to complete and requires 2,000 gp worth of special components, which are consumed.",
             "A devastation orb measures 12 inches in diameter, weighs 10 pounds, and has a solid outer shell. The orb detonates 1d100 hours after its creation, releasing the elemental energy it contains. The orb gives no outward sign of how much time remains before it will detonate. Spells such as identify and divination can be used to ascertain when the orb will explode. An orb has AC 10, 15 hit points, and immunity to poison and psychic damage. Reducing it to 0 hit points causes it to explode instantly.",
@@ -1882,19 +1601,9 @@
         ]
     },
     {
-        "name": "Heartstone",
-        "source": "MM",
-        "rarity": "very rare",
-        "value": 500,
-        "entries": [
-            "This lustrous black gem allows a night hag to become ethereal while it is in her possession. The touch of a heartstone also cures any disease. Crafting a heartstone takes 30 days."
-        ]
-    },
-    {
         "name": "Lindwyrm Venom",
         "source": "GrimHollowLairsEtharis",
         "rarity": "very rare",
-        "value": 500,
         "value": 500,
         "entries": [
             "This terrible venom is extracted and distilled from the deadly lindwyrm. It can be delivered via ingestion or a wound. A creature exposed to the venom must succeed on a DC 18 Constitution saving throw or take 36 (8d8) poison damage and be poisoned for 1 minute. While poisoned, the creature has disadvantage on Strength and Dexterity skill checks and saving throws."
@@ -1904,28 +1613,9 @@
         ]
     },
     {
-        "name": "Maddgoth's Helm",
-        "source": "WDMM",
-        "rarity": "very rare",
-        "value": 500,
-        "entries": [
-            "While you wear this helm and are inside Maddgoth's castle, on its roof, or in its courtyard, you have immunity to all damage. If the helm is taken from the castle, it turns to dust and is destroyed."
-        ]
-    },
-    {
-        "name": "Mind Flayer Skull",
-        "source": "WDMM",
-        "rarity": "very rare",
-        "value": 500,
-        "entries": [
-            "While you have the skull in your possession, you are invisible to mind flayers, as is anything you are wearing or carrying."
-        ]
-    },
-    {
         "name": "Oil of Sharpness",
         "source": "DMG",
         "rarity": "very rare",
-        "value": 500,
         "value": 500,
         "entries": [
             "This clear, gelatinous oil sparkles with tiny, ultrathin silver shards. The oil can coat one slashing or piercing weapon or up to 5 pieces of slashing or piercing ammunition. Applying the oil takes 1 minute. For 1 hour, the coated item is magical and has a +3 bonus to attack and damage rolls."
@@ -1939,7 +1629,6 @@
         "source": "GriffonsSaddlebag2",
         "rarity": "very rare",
         "value": 500,
-        "value": 500,
         "entries": [
             "The following Orostead iced tea is a very rare variant with additional properties. It also tastes better. When made, a tea has enough for 6 + 1d4 sips before it's used up, instead of a single use. You can take a sip as an action.",
             "When you take a sip of this potion, roll a d8 and consult the table below instead to determine which one of the following benefits you gain. Once you've gained a benefit from the table, you can't gain that same benefit again until you finish a long rest."
@@ -1949,7 +1638,6 @@
         "name": "Potion of Cloud Giant Strength",
         "source": "DMG",
         "rarity": "very rare",
-        "value": 500,
         "value": 500,
         "entries": [
             "When you drink this potion, your Strength score changes to 27 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.",
@@ -1964,7 +1652,6 @@
         "source": "DMG",
         "rarity": "very rare",
         "value": 500,
-        "value": 500,
         "entries": [
             "When you drink this potion, you gain a flying speed equal to your walking speed for 1 hour and can hover. If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft. This potion's clear liquid floats at the top of its container and has cloudy white impurities drifting in it."
         ],
@@ -1976,7 +1663,6 @@
         "name": "Potion of Invisibility",
         "source": "DMG",
         "rarity": "very rare",
-        "value": 500,
         "value": 500,
         "entries": [
             "This potion's container looks empty but feels as though it holds liquid. When you drink it, you become invisible for 1 hour. Anything you wear or carry is invisible with you. The effect ends early if you attack or cast a spell."
@@ -1990,7 +1676,6 @@
         "source": "DMG",
         "rarity": "very rare",
         "value": 500,
-        "value": 500,
         "entries": [
             "When you drink this potion, your physical age is reduced by 1d6 + 6 years, to a minimum of 13 years. Each time you subsequently drink a potion of longevity, there is a You become younger cumulative chance that you instead age by 1d6 + 6 years. Suspended in this amber liquid are a scorpion's tail, an adder's fang, a dead spider, and a tiny heart that, against all reason, is still beating. These ingredients vanish when the potion is opened."
         ],
@@ -2002,7 +1687,6 @@
         "name": "Potion of Mind Control (monster)",
         "source": "TftYP",
         "rarity": "very rare",
-        "value": 500,
         "value": 500,
         "entries": [
             "When you drink a potion of mind control, you can cast a dominate spell (save DC 15) on a specific creature if you do so before the end of your next turn. If you don't, the potion is wasted.",
@@ -2016,7 +1700,6 @@
         "name": "Potion of Possibility",
         "source": "EGW",
         "rarity": "very rare",
-        "value": 500,
         "value": 500,
         "entries": [
             "When you drink this clear potion, you gain two Fragments of Possibility, each of which looks like a Tiny, grayish bead of energy that follows you around, staying within 1 foot of you at all times. Each fragment lasts for 8 hours or until used.",
@@ -2033,7 +1716,6 @@
         "source": "DMG",
         "rarity": "very rare",
         "value": 500,
-        "value": 500,
         "entries": [
             "When you drink this potion, you gain the effect of the haste spell for 1 minute (no concentration required). The potion's yellow fluid is streaked with black and swirls on its own."
         ],
@@ -2045,7 +1727,6 @@
         "name": "Potion of Supreme Healing",
         "source": "DMG",
         "rarity": "very rare",
-        "value": 500,
         "value": 500,
         "entries": [
             "You regain 10d4 + 20 hit points when you drink this potion. The potion's red liquid glimmers when agitated."
@@ -2059,7 +1740,6 @@
         "source": "DMG",
         "rarity": "very rare",
         "value": 500,
-        "value": 500,
         "entries": [
             "When you drink this potion, it removes any exhaustion you are suffering and cures any disease or poison affecting you. For the next 24 hours, you regain the maximum number of hit points for any Hit Die you spend. The potion's crimson liquid regularly pulses with dull light, calling to mind a heartbeat."
         ],
@@ -2071,7 +1751,6 @@
         "name": "Reincarnation Dust",
         "source": "EGW",
         "rarity": "very rare",
-        "value": 500,
         "value": 500,
         "entries": [
             "When this small pouch of purple dust is sprinkled on a dead humanoid or a piece of a dead humanoid, the dust is absorbed by the remains. If willing, the dead creature returns to life with a new body as if the reincarnate spell had been cast on the remains."
@@ -2085,25 +1764,14 @@
         "source": "GriffonsSaddlebag2",
         "rarity": "very rare",
         "value": 500,
-        "value": 500,
         "entries": [
             "When you drink this potion, you regain 1d6 + 4 spent Hit Dice."
-        ]
-    },
-    {
-        "name": "Soul Bag",
-        "source": "MM",
-        "rarity": "very rare",
-        "value": 500,
-        "entries": [
-            "When an evil humanoid dies as a result of a night hag's Nightmare Haunting, the hag catches the soul in this black sack made of stitched flesh. A soul bag can hold only one evil soul at a time, and only the night hag who crafted the bag can catch a soul with it. Crafting a soul bag takes 7 days and a humanoid sacrifice (whose flesh is used to make the bag)."
         ]
     },
     {
         "name": "Spell Scroll (6th Level)",
         "source": "DMG",
         "rarity": "very rare",
-        "value": 500,
         "value": 500,
         "entries": [
             "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
@@ -2121,7 +1789,6 @@
         "source": "DMG",
         "rarity": "very rare",
         "value": 500,
-        "value": 500,
         "entries": [
             "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
             "If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 17. On a failed check, the spell disappears from the scroll with no other effect.",
@@ -2137,7 +1804,6 @@
         "name": "Spell Scroll (8th Level)",
         "source": "DMG",
         "rarity": "very rare",
-        "value": 500,
         "value": 500,
         "entries": [
             "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
@@ -2155,7 +1821,6 @@
         "source": "FTD",
         "rarity": "legendary",
         "value": 1000,
-        "value": 1000,
         "entries": [
             "This potion looks like liquid gold, with a single scale from a chromatic, gem, or metallic dragon suspended in it. When you drink this potion, you transform into an adult dragon of the same kind as the dragon the scale came from. The transformation lasts for 1 hour. Any equipment you are wearing or carrying melds into your new form or falls to the ground (your choice). For the duration, you use the game statistics of the adult dragon instead of your own, but you retain your languages, personality, and memories. You can't use a dragon's Change Shape or its legendary or lair actions."
         ],
@@ -2167,7 +1832,6 @@
         "name": "Potion of Giant Size",
         "source": "SKT",
         "rarity": "legendary",
-        "value": 1000,
         "value": 1000,
         "entries": [
             "When you drink this potion, you become Huge for 24 hours if you are Medium or smaller, otherwise the potion does nothing. For that duration, your Strength becomes 25, if it isn't already higher, and your hit point maximum is doubled (your current hit points are doubled when you drink the potion). In addition, the reach of your melee attacks increases by 5 feet.",
@@ -2183,7 +1847,6 @@
         "source": "DMG",
         "rarity": "legendary",
         "value": 1000,
-        "value": 1000,
         "entries": [
             "When you drink this potion, your Strength score changes to 29 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.",
             "This potion's transparent liquid has floating in it a sliver of fingernail from a storm giant."
@@ -2197,7 +1860,6 @@
         "source": "GriffonsSaddlebag2",
         "rarity": "legendary",
         "value": 1000,
-        "value": 1000,
         "entries": [
             "When you drink this potion, you regain all spent Hit Dice. When you drink the legendary variant of a rejuvenating draft, your age is reduced by 1d4 years (to a minimum of 1 year old)."
         ]
@@ -2206,7 +1868,6 @@
         "name": "Scarab of Protection",
         "source": "DMG",
         "rarity": "legendary",
-        "value": 1000,
         "value": 1000,
         "entries": [
             "If you hold this beetle-shaped medallion in your hand for 1 round, an inscription appears on its surface revealing its magical nature. It provides two benefits while it is on your person:",
@@ -2227,7 +1888,6 @@
         "source": "IDRotF",
         "rarity": "legendary",
         "value": 1000,
-        "value": 1000,
         "entries": [
             "Using an action to read the scroll causes the tarrasque (see the creature's entry in the Monster Manual) to appear in an unoccupied space you can see within 1 mile of you. The tarrasque disappears when it drops to 0 hit points and is hostile toward all creatures other than itself."
         ],
@@ -2239,7 +1899,6 @@
         "name": "Scroll of the Comet",
         "source": "IDRotF",
         "rarity": "legendary",
-        "value": 1000,
         "value": 1000,
         "entries": [
             "By using an action to read the scroll, you cause a comet to fall from the sky and crash to the ground at a point you can see up to 1 mile away from you. You must be outdoors when you use the scroll, or nothing happens and the scroll is wasted.",
@@ -2253,7 +1912,6 @@
         "name": "Spell Scroll (9th Level)",
         "source": "DMG",
         "rarity": "legendary",
-        "value": 1000,
         "value": 1000,
         "entries": [
             "A spell scroll bears the words of a single spell, written as a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
@@ -2271,7 +1929,6 @@
         "source": "DMG",
         "rarity": "legendary",
         "value": 1000,
-        "value": 1000,
         "entries": [
             "This 2-foot-diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it.",
             "The sphere obliterates all matter it passes through and all matter that passes through it. Artifacts are the exception. Unless an artifact is susceptible to damage from a sphere of annihilation, it passes through the sphere unscathed. Anything else that touches the sphere but isn't wholly engulfed and obliterated by it takes 4d10 force damage.",
@@ -2288,7 +1945,6 @@
         "source": "HAT-LMI",
         "rarity": "legendary",
         "value": 1000,
-        "value": 1000,
         "entries": [
             "Witches of Rashemen created this Tiny stone tablet to counter the necromancy of the Red Wizards. As an action, you can cast true resurrection from the tablet. Once used in this way, the tablet turns to dust and is destroyed."
         ],
@@ -2300,7 +1956,6 @@
         "name": "Talisman of Pure Good",
         "source": "DMG",
         "rarity": "legendary",
-        "value": 1000,
         "value": 1000,
         "entries": [
             "This talisman is a mighty symbol of goodness. A creature that is neither good nor evil in alignment takes 6d6 radiant damage upon touching the talisman. An evil creature takes 8d6 radiant damage upon touching the talisman. Either sort of creature takes the damage again each time it ends its turn holding or carrying the talisman.",
@@ -2315,7 +1970,6 @@
         "name": "Talisman of Ultimate Evil",
         "source": "DMG",
         "rarity": "legendary",
-        "value": 1000,
         "value": 1000,
         "entries": [
             "This item symbolizes unrepentant evil. A creature that is neither good nor evil in alignment takes 6d6 necrotic damage upon touching the talisman. A good creature takes 8d6 necrotic damage upon touching the talisman. Either sort of creature takes the damage again each time it ends its turn holding or carrying the talisman.",
