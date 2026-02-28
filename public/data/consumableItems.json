@@ -233,6 +233,18 @@
         ]
     },
     {
+        "name": "Conch of Safe Rest",
+        "source": "TTP",
+        "rarity": "uncommon",
+        "value": 120,
+        "entries": [
+            "You can use an action to blow this pearlescent conch like a horn, creating an effect identical with that of a Leomund's tiny hut spell. The conch disappears once the spell takes effect. The effect ends if you leave the spell's area."
+        ],
+        "miscTags": [
+            "CNS"
+        ]
+    },
+    {
         "name": "Dust of Disappearance",
         "source": "DMG",
         "rarity": "uncommon",
