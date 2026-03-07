@@ -1,17 +1,17 @@
 export interface Damage {
-	dice: string;
-	type: string;
+    dice: string;
+    type: string;
 };
 
 export interface WeaponProperty {
-	name: string;
-	description: string;
+    name: string;
+    description: string;
 };
 
 export interface Item {
-	name: string;
-	url: string;
-	value: number;
+    name: string;
+    url: string;
+    value: number;
 };
 
 export type MagicItem = {
@@ -45,30 +45,30 @@ export type MagicVariant = {
 };
 
 export type MundaneItem = Item & {
-	weight: string;
-	type: string[];
-	damage?: Damage;
-	properties?: WeaponProperty[];
-	ac?: string;
-	stealth?: string;
-	strength?: string;
+    weight: string;
+    type: string[];
+    damage?: Damage;
+    properties?: WeaponProperty[];
+    ac?: string;
+    stealth?: string;
+    strength?: string;
 };
 
 export interface InputClasses {
-	name: string;
-	value: string;
+    name: string;
+    value: string;
 };
 
 export interface SpellSlot {
-	level: string;
-	quantity: number;
+    level: string;
+    quantity: number;
 }
 ;
 export interface SpellInterface {
-  school: string;
-  price: number;
-  level: number;
-  time: number;
+    school: string;
+    price: number;
+    level: number;
+    time: number;
 };
 
 export type Rarity = 'common' | 'uncommon' | 'rare' | 'very rare' | 'legendary';
@@ -94,51 +94,69 @@ export type EntryItem = {
 export type Entries = Array<string | EntryRecord | EntryList>
 
 export interface ConsumableSet {
-  rarity: Rarity;
-  items: ConsumableItem[];
-  label: string;
+    rarity: Rarity;
+    items: ConsumableItem[];
+    label: string;
 };
 
 export interface WondrousSet {
-  rarity: Rarity
-  items: MagicItem[];
-  label: string;
+    rarity: Rarity
+    items: MagicItem[];
+    label: string;
 };
 
 export interface MagicVariantSet {
-  rarity: Rarity
-  items: MagicVariant[];
-  label: string;
+    rarity: Rarity
+    items: MagicVariant[];
+    label: string;
 };
 
 export interface MundaneSet {
-  rarity: Rarity
-  items: MundaneItem[];
-  label: string;
+    rarity: Rarity
+    items: MundaneItem[];
+    label: string;
 };
 
 export type ItemTypes = MagicItem | ConsumableItem | MagicVariant | MundaneItem;
-export type SetTypes = MundaneSet | WondrousSet  | ConsumableSet | MagicVariantSet;
+export type SetTypes = MundaneSet | WondrousSet | ConsumableSet | MagicVariantSet;
 
 export interface FilteringOptions {
-  value: boolean;
-  attunement?: boolean;
+    value: boolean;
+    attunement?: boolean;
 }
 
 export interface PageFilter {
-  minValue: number;
-  maxValue: number;
-  attunement?: number;
-  reforge?: number;
+    minValue: number;
+    maxValue: number;
+    attunement?: number;
+    reforge?: number;
 }
 
-export interface PlayerCharacter {
-  name: string;
-  level: number;
-  tier: string;
-  xp: number;
-}
+export type PlayerCharacter = {
+    name: string;
+    xp: number;
+    level: number;
+    tier: string;
+    inventory: InventoryItem[];
+    attunements: number;
+};
 
-export interface CharacterList {
-  [key: string]: PlayerCharacter;
-}
+export type InventoryItem = {
+    name: string;
+    price: number;
+    count: number;
+    attuned?: boolean;
+};
+
+export type Gems = {
+    comum: number;
+    transmutacao: number;
+    ressureicao: number;
+};
+
+export type Player = {
+    id: string;
+    gold: number;
+    gems: Gems[];
+    characters: PlayerCharacter[];
+};

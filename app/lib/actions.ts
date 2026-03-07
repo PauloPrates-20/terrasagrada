@@ -11,7 +11,7 @@ export async function getId() {
     return session.user.id as string;
 }
 
-export async function buyItem(item: Item, characterKey: string): Promise<any> {
+export async function buyItem(item: Item, charName: string): Promise<any> {
     const session = await auth();
     if (!session?.user) {
         return { error: 'Faça login para comprar!' };
@@ -22,12 +22,13 @@ export async function buyItem(item: Item, characterKey: string): Promise<any> {
         const response = await fetch(`${process.env.API_URL}/buy`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ accessToken, item, characterKey })
+            body: JSON.stringify({ accessToken, item, charName })
         });
         const data = await response.json();
 
         return data;
     } catch (e: any) {
+        console.error(e);
         return { error: `Erro de servidor: ${e.message}` };
     }
 }

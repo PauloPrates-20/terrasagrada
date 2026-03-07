@@ -11,6 +11,7 @@ interface Props {
 const customSwal = {
     popup: 'bg-bgColor border border-titleColor border-solid',
     title: 'text-titleColor',
+    htmlContainer: 'text-textColor',
     input: 'border border-solid border-titleColor rounded-md !text-textColor',
     confirmButton: 'bg-bgColor text-titleColor border border-solid border-titleColor rounded-md w-20 font-bold',
     cancelButton: 'bg-[#632824] text-titleColor border border-solid border-titleColor rounded-md font-bold'
@@ -36,10 +37,9 @@ export default function BuyButton({ name, value }: Props) {
                     });
                     return;
                 }
-
                 getCharacters(id)
                     .then((characters) => {
-                        if (Object.keys(characters).length === 0) {
+                        if (characters.length === 0) {
                             swal.fire({
                                 title: 'Nenhum personagem encontrado',
                                 icon: 'error',
@@ -50,10 +50,10 @@ export default function BuyButton({ name, value }: Props) {
                             return;
                         }
 
-                        const options: { [key: string]: string } = {}
+                        const options: Record<string, string> = {};
 
-                        for (const key in characters) {
-                            options[key] = characters[key].name;
+                        for (const char of characters) {
+                            options[char.name] = char.name;
                         }
 
                         swal.fire({
@@ -74,38 +74,39 @@ export default function BuyButton({ name, value }: Props) {
                                 });
                             }
                         })
-                            .then((character) => {
-                                if (!character.value || typeof character.value !== 'string') {
-                                    swal.fire({
-                                        title: 'Compra cancelada',
-                                        customClass: {
-                                            ...customSwal
-                                        },
-                                    });
-                                    return;
-                                }
+                        .then((character) => {
+                            if (!character.value || typeof character.value !== 'string') {
+                                swal.fire({
+                                    title: 'Compra cancelada',
+                                    customClass: {
+                                        ...customSwal
+                                    },
+                                });
+                                return;
+                            }
 
-                                buyItem(item, character.value).then((res) => {
-                                    if (res.message) {
-                                        swal.fire({
-                                            title: res.message,
-                                            icon: 'success',
-                                            customClass: {
-                                                ...customSwal
-                                            }
-                                        });
-                                        return;
-                                    }
-
+                            buyItem(item, character.value).then((res) => {
+                                if (res.message) {
                                     swal.fire({
-                                        title: res.error,
-                                        icon: 'error',
+                                        title: res.message,
+                                        icon: 'success',
                                         customClass: {
                                             ...customSwal
                                         }
                                     });
+                                    return;
+                                }
+
+                                swal.fire({
+                                    title: res.error,
+                                    text: typeof res.details === 'string' && res.details,
+                                    icon: 'error',
+                                    customClass: {
+                                        ...customSwal
+                                    }
                                 });
                             });
+                        });
                     });
             });
     }
