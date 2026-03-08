@@ -12,6 +12,7 @@ import ListFrame from '@/app/components/ListFrame';
 import ItemFrame from '@/app/components/ItemFrame';
 import BuyButton from '@/app/components/BuyButton';
 import Entry from '@/app/components/Entry';
+import ReforgeButton from '@/app/components/ReforgeButton';
 
 export default function VariantesMagicos() {
     const variants = items as MagicVariant[];
@@ -126,6 +127,9 @@ export default function VariantesMagicos() {
                         )}
                     </div>
                 )}
+                <div className='flex justify-center items-center'>
+                    <ReforgeButton name={selectedItem.name} value={selectedItem.value} />
+                </div>
             </ItemFrame>
         </div>
     );
