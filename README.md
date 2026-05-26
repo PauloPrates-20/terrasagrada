@@ -8,3 +8,5 @@ Visite [Terra Sagrada](https://terrasagrada.net.br) para conferir.
 - Listas de itens consumíveis, mágicos e mundanos para consulta
 - Ferramentas de auxílio na criação de personagens
 - Ferramentas que auxiliam na utilização das mecânicas internas do servidor
+
+desenvolvido com [Next.js](https://nextjs.org/)
