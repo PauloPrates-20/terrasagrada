@@ -29,7 +29,7 @@ export async function buyItem(item: Item, charName: string): Promise<any> {
         return data;
     } catch (e: any) {
         console.error(e);
-        return { error: `Erro de servidor: ${e.message}` };
+        return { error: 'Erro interno do servidor. Tente novamente' };
     }
 }
 
@@ -51,6 +51,6 @@ export async function reforgeItem(item: Item, baseItem: string,  charName: strin
         return data;
     } catch (e: any) {
         console.error(e);
-        return { error: `Erro de servidor: ${e.message}` };
+        return { error: "Erro interno do servidor. Tente novamente." };
     }
 }
