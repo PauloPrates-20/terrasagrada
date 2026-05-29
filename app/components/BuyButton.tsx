@@ -1,5 +1,5 @@
 import { Item } from "../lib/definitions";
-import { buyItem, getId } from "../lib/actions";
+import { buyItem } from "../lib/actions";
 import { getCharacters } from "../lib/db";
 import swal from 'sweetalert2'
 

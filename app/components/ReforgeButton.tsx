@@ -1,5 +1,5 @@
 import { Item } from "../lib/definitions";
-import { reforgeItem, getId } from "../lib/actions";
+import { reforgeItem } from "../lib/actions";
 import { getCharacters } from "../lib/db";
 import swal from 'sweetalert2'
 
@@ -25,19 +25,6 @@ export default function ReforgeButton({ name, value }: Props) {
     };
 
     const handleClick = async() => {
-        const id = await getId();
-
-        if(typeof id !== 'string') {
-            swal.fire({
-                title: id.error,
-                icon: 'error',
-                customClass: {
-                    ...customSwal
-                }
-            });
-            return;
-        }
-
         const characters = await getCharacters();
 
         if(characters.length === 0) {
