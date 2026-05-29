@@ -25,11 +25,11 @@ export default function BuyButton({ name, value }: Props) {
     };
 
     function handleClick() {
-        getId()
-            .then((id) => {
-                if (typeof id !== 'string') {
+        getCharacters()
+            .then((characters) => {
+                if (characters.length === 0) {
                     swal.fire({
-                        title: id.error,
+                        title: 'Nenhum personagem encontrado',
                         icon: 'error',
                         customClass: {
                             ...customSwal
@@ -37,12 +37,47 @@ export default function BuyButton({ name, value }: Props) {
                     });
                     return;
                 }
-                getCharacters(id)
-                    .then((characters) => {
-                        if (characters.length === 0) {
+
+                const options: Record<string, string> = {};
+
+                for (const char of characters) {
+                    options[char.name] = char.name;
+                }
+
+                swal.fire({
+                    title: 'Escolher personagem',
+                    customClass: {
+                        ...customSwal
+                    },
+                    input: 'select',
+                    inputOptions: {
+                        Personagens: options
+                    },
+                    inputPlaceholder: 'Selecione um personagem',
+                    showCancelButton: true,
+                    inputValidator: (value) => {
+                        return new Promise((resolve) => {
+                            if (value === '') resolve('Selecione um personagem.');
+                            else resolve();
+                        });
+                    }
+                })
+                .then((character) => {
+                    if (!character.value || typeof character.value !== 'string') {
+                        swal.fire({
+                            title: 'Compra cancelada',
+                            customClass: {
+                                ...customSwal
+                            },
+                        });
+                        return;
+                    }
+
+                    buyItem(item, character.value).then((res) => {
+                        if (res.message) {
                             swal.fire({
-                                title: 'Nenhum personagem encontrado',
-                                icon: 'error',
+                                title: res.message,
+                                icon: 'success',
                                 customClass: {
                                     ...customSwal
                                 }
@@ -50,64 +85,16 @@ export default function BuyButton({ name, value }: Props) {
                             return;
                         }
 
-                        const options: Record<string, string> = {};
-
-                        for (const char of characters) {
-                            options[char.name] = char.name;
-                        }
-
                         swal.fire({
-                            title: 'Escolher personagem',
+                            title: res.error,
+                            text: typeof res.details === 'string' && res.details,
+                            icon: 'error',
                             customClass: {
                                 ...customSwal
-                            },
-                            input: 'select',
-                            inputOptions: {
-                                Personagens: options
-                            },
-                            inputPlaceholder: 'Selecione um personagem',
-                            showCancelButton: true,
-                            inputValidator: (value) => {
-                                return new Promise((resolve) => {
-                                    if (value === '') resolve('Selecione um personagem.');
-                                    else resolve();
-                                });
                             }
-                        })
-                        .then((character) => {
-                            if (!character.value || typeof character.value !== 'string') {
-                                swal.fire({
-                                    title: 'Compra cancelada',
-                                    customClass: {
-                                        ...customSwal
-                                    },
-                                });
-                                return;
-                            }
-
-                            buyItem(item, character.value).then((res) => {
-                                if (res.message) {
-                                    swal.fire({
-                                        title: res.message,
-                                        icon: 'success',
-                                        customClass: {
-                                            ...customSwal
-                                        }
-                                    });
-                                    return;
-                                }
-
-                                swal.fire({
-                                    title: res.error,
-                                    text: typeof res.details === 'string' && res.details,
-                                    icon: 'error',
-                                    customClass: {
-                                        ...customSwal
-                                    }
-                                });
-                            });
                         });
                     });
+                });
             });
     }
 
