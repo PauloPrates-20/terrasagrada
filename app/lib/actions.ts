@@ -1,23 +1,20 @@
 'use server'
 
 import { Item } from './definitions'
-import { auth } from '@/auth';
-
-export async function getId() {
-    const session = await auth();
-
-    if (!session?.user) return { error: 'Usuário não autenticado.' };
-
-    return session.user.id as string;
-}
+import { getToken } from 'next-auth/jwt';
+import { headers } from 'next/headers';
 
 export async function buyItem(item: Item, charName: string): Promise<any> {
-    const session = await auth();
-    if (!session?.user) {
+    const token = await getToken({
+        req: { headers: Object.fromEntries(await headers()) } as any,
+        secret: process.env.AUTH_SECRET!
+    })
+
+    if (!token) {
         return { error: 'Faça login para comprar!' };
     }
 
-    const accessToken = session.accessToken;
+    const accessToken = token.accessToken as string;
     try {
         const response = await fetch(`${process.env.API_URL}/buy`, {
             method: 'POST',
@@ -34,12 +31,16 @@ export async function buyItem(item: Item, charName: string): Promise<any> {
 }
 
 export async function reforgeItem(item: Item, baseItem: string,  charName: string, isUpgrade: boolean): Promise<any> {
-    const session = await auth();
-    if (!session?.user) {
+    const token = await getToken({
+        req: { headers: Object.fromEntries(await headers()) } as any,
+        secret: process.env.AUTH_SECRET!
+    })
+
+    if (!token) {
         return { error: 'Faça login para comprar!' };
     }
 
-    const accessToken = session.accessToken;
+    const accessToken = token.accessToken as string;
     try {
         const response = await fetch(`${process.env.API_URL}/reforge`, {
             method: 'POST',

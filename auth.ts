@@ -1,16 +1,6 @@
 import NextAuth, { DefaultSession } from 'next-auth';
 import Discord from 'next-auth/providers/discord';
 
-declare module 'next-auth' {
-  interface Session {
-    accessToken?: string;
-
-    user: {
-      id: string;
-    } & DefaultSession['user']
-  }
-}
-
 export const { handlers, signIn, signOut, auth } = NextAuth({
   providers: [Discord({
     authorization: {
@@ -33,10 +23,6 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
     },
     session({ session, token }) {
       session.user.id = String(token.id);
-
-      if (typeof token.accessToken === 'string') {
-        session.accessToken = token.accessToken;
-      }
 
       return session;
     }
