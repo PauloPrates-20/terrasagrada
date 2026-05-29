@@ -3,6 +3,7 @@
 import { initializeApp } from 'firebase/app';
 import { getFirestore, doc, getDoc } from 'firebase/firestore';
 import { Player, PlayerCharacter } from './definitions';
+import { auth } from '@/auth';
 import admin from 'firebase-admin';
 
 const firebaseConfig = JSON.parse(process.env.FIREBASE_CONFIG!);
@@ -17,7 +18,14 @@ const adminDb = admin.firestore();
 // collections
 const userCollection = process.env.COLLECTIONS_USERS!;
 
-export async function getCharacters(playerId: string): Promise<PlayerCharacter[]> {
+export async function getCharacters(): Promise<PlayerCharacter[]> {
+    const playerId = (await auth())?.user?.id;
+
+    if(!playerId) {
+        console.error('Not authenticated.');
+        return [];
+    }
+
     try {
         const querySnapshot = await adminDb.collection(userCollection).doc(playerId).get();
 

@@ -17,7 +17,7 @@ export async function buyItem(item: Item, charName: string): Promise<any> {
         return { error: 'Faça login para comprar!' };
     }
 
-    const accessToken = session.user.accessToken;
+    const accessToken = session.accessToken;
     try {
         const response = await fetch(`${process.env.API_URL}/buy`, {
             method: 'POST',
@@ -29,7 +29,7 @@ export async function buyItem(item: Item, charName: string): Promise<any> {
         return data;
     } catch (e: any) {
         console.error(e);
-        return { error: `Erro de servidor: ${e.message}` };
+        return { error: 'Erro interno do servidor. Tente novamente' };
     }
 }
 
@@ -39,7 +39,7 @@ export async function reforgeItem(item: Item, baseItem: string,  charName: strin
         return { error: 'Faça login para comprar!' };
     }
 
-    const accessToken = session.user.accessToken;
+    const accessToken = session.accessToken;
     try {
         const response = await fetch(`${process.env.API_URL}/reforge`, {
             method: 'POST',
@@ -51,6 +51,6 @@ export async function reforgeItem(item: Item, baseItem: string,  charName: strin
         return data;
     } catch (e: any) {
         console.error(e);
-        return { error: `Erro de servidor: ${e.message}` };
+        return { error: "Erro interno do servidor. Tente novamente." };
     }
 }

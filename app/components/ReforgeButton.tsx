@@ -38,7 +38,7 @@ export default function ReforgeButton({ name, value }: Props) {
             return;
         }
 
-        const characters = await getCharacters(id);
+        const characters = await getCharacters();
 
         if(characters.length === 0) {
             swal.fire({
